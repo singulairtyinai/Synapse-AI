@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Synapse AI — The Living AI Constellation & Telemetry Radar</title>
+  <meta name="description" content="An interactive graphical intelligence platform tracking developments across 9 AI domains: Overall AI, Agentic AI, Model Releases, Major Companies, AI Security, Fellowships, Military, Governance, and Multilateral Forums.">
+
+  <!-- Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Application Styles -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <div id="app-container">
+
+    <!-- Top Telemetry Bar -->
+    <header class="telemetry-bar">
+      <div class="brand-section">
+        <span class="live-dot"></span>
+        <div>
+          <h1 class="brand-title">SYNAPSE AI <span>v2.5</span></h1>
+          <div class="brand-subtitle">Living AI Constellation · 9 Domains</div>
+        </div>
+      </div>
+
+      <!-- Domain Category Pills -->
+      <nav class="category-filter-bar" id="category-filter-chips" aria-label="Domain Category Filter">
+        <!-- Dynamically populated by app.js -->
+      </nav>
+
+      <!-- Controls & Search -->
+      <div class="telemetry-controls">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" placeholder="Search models, tags..." autocomplete="off">
+        </div>
+
+        <button class="btn-secondary" id="btn-open-compare" title="Open Node Comparison Modal">
+          ⚔️ Compare
+        </button>
+
+        <button class="btn-secondary" id="btn-reset-view" title="Reset Viewport Center">
+          ↻ Reset
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Graph Viewport -->
+    <main class="main-viewport">
+      <div class="node-counter">NODES: <span id="visible-count">--</span></div>
+
+      <div id="canvas-container">
+        <canvas id="constellation-canvas"></canvas>
+
+        <!-- Canvas Controls -->
+        <div class="canvas-hud-controls">
+          <button class="hud-btn" id="btn-zoom-in" title="Zoom In">+</button>
+          <button class="hud-btn" id="btn-zoom-out" title="Zoom Out">−</button>
+        </div>
+      </div>
+
+      <!-- Side Glassmorphic HUD Inspector -->
+      <aside class="hud-inspector" id="hud-inspector" aria-label="Node Inspector">
+        <div class="hud-header">
+          <button class="close-hud-btn" id="close-hud" title="Close Inspector">✕</button>
+          <div class="hud-category-badge" id="hud-cat-badge">🌌 Category</div>
+          <h2 class="hud-title" id="hud-title">Select a Node</h2>
+          <div class="hud-badges-row">
+            <span class="impact-badge" id="hud-impact-badge">IMPACT</span>
+          </div>
+        </div>
+
+        <div class="hud-body">
+          <div class="hud-section">
+            <div class="hud-section-label">Executive Summary (TL;DR)</div>
+            <div class="hud-tldr" id="hud-tldr">Click any node in the constellation graph to inspect real-time specs, benchmarks, and synaptic links.</div>
+          </div>
+
+          <div class="hud-section">
+            <div class="hud-section-label">Overview & Impact Analysis</div>
+            <p class="hud-details-text" id="hud-details">Select a node to inspect deeper domain insights.</p>
+          </div>
+
+          <div class="hud-section">
+            <div class="hud-section-label">Telemetry & Specs</div>
+            <div class="specs-grid" id="hud-specs-grid">
+              <div class="spec-card">
+                <div class="spec-key">Entity / Lab</div>
+                <div class="spec-val" id="hud-company">--</div>
+              </div>
+              <div class="spec-card">
+                <div class="spec-key">Date Logged</div>
+                <div class="spec-val" id="hud-date">--</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="hud-section">
+            <div class="hud-section-label">Entity Tags</div>
+            <div class="tags-wrap" id="hud-tags"></div>
+          </div>
+
+          <div id="hud-related-links"></div>
+        </div>
+
+        <div class="hud-footer">
+          <a class="btn-primary" id="hud-source-btn" href="#" target="_blank" rel="noopener">
+            🌐 Primary Source
+          </a>
+          <button class="btn-secondary" id="hud-compare-btn">
+            ⚔️ Compare Node
+          </button>
+        </div>
+      </aside>
+    </main>
+
+    <!-- Bottom Timeline Bar ("Chronos") -->
+    <footer class="timeline-bar">
+      <button class="play-btn" id="play-timeline-btn" title="Play/Pause Historical Timeline Animation">▶</button>
+      
+      <div class="timeline-slider-container">
+        <div class="timeline-labels">
+          <span>2022</span>
+          <span>2023</span>
+          <span>2024</span>
+          <span>2025</span>
+          <span id="timeline-date-readout" class="timeline-date-readout">DEC 2026</span>
+        </div>
+        <input type="range" class="timeline-slider" id="timeline-slider" min="0" max="100" step="1">
+      </div>
+    </footer>
+
+  </div>
+
+  <!-- Nexus Chamber Comparison Modal -->
+  <div class="modal-overlay" id="compare-modal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 class="modal-title">⚔️ Nexus Chamber — Side-by-Side Node Comparison</h2>
+        <button class="close-hud-btn" id="close-modal-btn">✕</button>
+      </div>
+
+      <div class="modal-body">
+        <!-- Node A Selection -->
+        <div class="compare-card">
+          <label style="font-family:var(--font-mono); font-size:10px; text-transform:uppercase; color:var(--text-muted)">Select Primary Node A</label>
+          <select id="select-node-a" class="compare-select"></select>
+          <div id="compare-card-a"></div>
+        </div>
+
+        <!-- Node B Selection -->
+        <div class="compare-card">
+          <label style="font-family:var(--font-mono); font-size:10px; text-transform:uppercase; color:var(--text-muted)">Select Comparison Node B</label>
+          <select id="select-node-b" class="compare-select"></select>
+          <div id="compare-card-b"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Application Scripts -->
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/constellation.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
