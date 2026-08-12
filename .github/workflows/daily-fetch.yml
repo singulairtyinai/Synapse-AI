@@ -1,0 +1,33 @@
+name: Synapse AI — Automated 4-Hour Feed Refresh
+
+on:
+  schedule:
+    # Runs every 4 hours (at minute 0: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  fetch-latest-ai-developments:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Execute Live AI Feed Aggregator
+        run: |
+          python scripts/fetch_latest_news.py
+
+      - name: Commit and Push Updated Feed Data
+        run: |
+          git config --global user.name 'synapse-ai-bot[bot]'
+          git config --global user.email 'synapse-ai-bot[bot]@users.noreply.github.com'
+          git add scripts/latest_fetch_summary.json assets/js/data.js || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(auto-update): 4-hour automated AI news refresh [skip ci]" && git push)

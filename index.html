@@ -24,8 +24,18 @@
         <span class="live-dot"></span>
         <div>
           <h1 class="brand-title">SYNAPSE AI <span>v2.5</span></h1>
-          <div class="brand-subtitle">Living AI Constellation · 9 Domains</div>
+          <div class="brand-subtitle">Monitoring station · 9 channels</div>
         </div>
+      </div>
+
+      <!-- View Switcher (Constellation vs Monitoring Feed) -->
+      <div class="view-switcher" role="tablist" aria-label="View Mode Switcher">
+        <button id="btn-mode-graph" class="btn-toggle active" role="tab" aria-selected="true">
+          🌌 Constellation
+        </button>
+        <button id="btn-mode-feed" class="btn-toggle" role="tab" aria-selected="false">
+          📰 Monitoring Feed
+        </button>
       </div>
 
       <!-- Domain Category Pills -->
@@ -40,6 +50,10 @@
           <input type="text" id="search-input" placeholder="Search models, tags..." autocomplete="off">
         </div>
 
+        <button class="btn-secondary" id="btn-fetch-live" style="background: rgba(111, 194, 224, 0.15); border-color: var(--c-models); color: #fff;" title="Fetch Live News from arXiv, GitHub & HackerNews APIs">
+          ⚡ Fetch Live News
+        </button>
+
         <button class="btn-secondary" id="btn-open-compare" title="Open Node Comparison Modal">
           ⚔️ Compare
         </button>
@@ -50,10 +64,11 @@
       </div>
     </header>
 
-    <!-- Main Graph Viewport -->
+    <!-- Main Viewport Body -->
     <main class="main-viewport">
-      <div class="node-counter">NODES: <span id="visible-count">--</span></div>
+      <div class="node-counter">ITEMS: <span id="visible-count">--</span></div>
 
+      <!-- 1. Interactive Force-Graph Canvas Container -->
       <div id="canvas-container">
         <canvas id="constellation-canvas"></canvas>
 
@@ -64,12 +79,17 @@
         </div>
       </div>
 
+      <!-- 2. Monitoring Station Multi-Column Grid View (ai-dev-dashboard) -->
+      <div id="feed-container" class="hidden">
+        <!-- Dynamically populated by app.js -->
+      </div>
+
       <!-- Side Glassmorphic HUD Inspector -->
       <aside class="hud-inspector" id="hud-inspector" aria-label="Node Inspector">
         <div class="hud-header">
           <button class="close-hud-btn" id="close-hud" title="Close Inspector">✕</button>
           <div class="hud-category-badge" id="hud-cat-badge">🌌 Category</div>
-          <h2 class="hud-title" id="hud-title">Select a Node</h2>
+          <h2 class="hud-title" id="hud-title">Select an Item</h2>
           <div class="hud-badges-row">
             <span class="impact-badge" id="hud-impact-badge">IMPACT</span>
           </div>
@@ -78,12 +98,12 @@
         <div class="hud-body">
           <div class="hud-section">
             <div class="hud-section-label">Executive Summary (TL;DR)</div>
-            <div class="hud-tldr" id="hud-tldr">Click any node in the constellation graph to inspect real-time specs, benchmarks, and synaptic links.</div>
+            <div class="hud-tldr" id="hud-tldr">Click any item in the constellation or feed to inspect real-time specs, benchmarks, and synaptic links.</div>
           </div>
 
           <div class="hud-section">
             <div class="hud-section-label">Overview & Impact Analysis</div>
-            <p class="hud-details-text" id="hud-details">Select a node to inspect deeper domain insights.</p>
+            <p class="hud-details-text" id="hud-details">Select an item to inspect deeper domain insights.</p>
           </div>
 
           <div class="hud-section">
@@ -113,7 +133,7 @@
             🌐 Primary Source
           </a>
           <button class="btn-secondary" id="hud-compare-btn">
-            ⚔️ Compare Node
+            ⚔️ Compare Item
           </button>
         </div>
       </aside>
@@ -141,21 +161,21 @@
   <div class="modal-overlay" id="compare-modal">
     <div class="modal-card">
       <div class="modal-header">
-        <h2 class="modal-title">⚔️ Nexus Chamber — Side-by-Side Node Comparison</h2>
+        <h2 class="modal-title">⚔️ Nexus Chamber — Side-by-Side Comparison</h2>
         <button class="close-hud-btn" id="close-modal-btn">✕</button>
       </div>
 
       <div class="modal-body">
         <!-- Node A Selection -->
         <div class="compare-card">
-          <label style="font-family:var(--font-mono); font-size:10px; text-transform:uppercase; color:var(--text-muted)">Select Primary Node A</label>
+          <label style="font-family:var(--font-mono); font-size:10px; text-transform:uppercase; color:var(--text-muted)">Select Primary Item A</label>
           <select id="select-node-a" class="compare-select"></select>
           <div id="compare-card-a"></div>
         </div>
 
         <!-- Node B Selection -->
         <div class="compare-card">
-          <label style="font-family:var(--font-mono); font-size:10px; text-transform:uppercase; color:var(--text-muted)">Select Comparison Node B</label>
+          <label style="font-family:var(--font-mono); font-size:10px; text-transform:uppercase; color:var(--text-muted)">Select Comparison Item B</label>
           <select id="select-node-b" class="compare-select"></select>
           <div id="compare-card-b"></div>
         </div>
@@ -166,6 +186,7 @@
   <!-- Application Scripts -->
   <script src="assets/js/data.js"></script>
   <script src="assets/js/constellation.js"></script>
+  <script src="assets/js/fetcher.js"></script>
   <script src="assets/js/app.js"></script>
 </body>
 </html>

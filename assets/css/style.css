@@ -48,7 +48,7 @@ html, body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Background Subtle Canvas Grid Pattern */
+/* Background Canvas Grid Pattern */
 body {
   background-image: 
     linear-gradient(rgba(35, 42, 51, 0.3) 1px, transparent 1px),
@@ -69,10 +69,7 @@ a {
   text-decoration: none;
 }
 
-/* ============================================================
-   Layout Architecture
-   ============================================================ */
-
+/* Layout Architecture */
 #app-container {
   display: flex;
   flex-direction: column;
@@ -86,8 +83,8 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 12px 24px;
-  background: rgba(11, 14, 17, 0.92);
+  padding: 10px 24px;
+  background: rgba(11, 14, 17, 0.95);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--hairline);
   z-index: 50;
@@ -98,7 +95,7 @@ a {
   display: flex;
   align-items: center;
   gap: 12px;
-  min-width: 260px;
+  min-width: 240px;
 }
 
 .live-dot {
@@ -134,6 +131,30 @@ a {
   letter-spacing: 0.08em;
 }
 
+/* View Switcher Segmented Toggle */
+.view-switcher {
+  display: flex;
+  background: var(--bg-panel-raised);
+  border: 1px solid var(--hairline);
+  border-radius: 6px;
+  padding: 2px;
+}
+
+.btn-toggle {
+  padding: 6px 12px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-secondary);
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.btn-toggle.active {
+  background: var(--c-models);
+  color: #0B0E11;
+  font-weight: 600;
+}
+
 /* Category Filter Bar */
 .category-filter-bar {
   display: flex;
@@ -149,7 +170,7 @@ a {
   display: flex;
   align-items: center;
   gap: 6px;
-  padding: 6px 12px;
+  padding: 5px 10px;
   border-radius: 20px;
   font-size: 11px;
   font-family: var(--font-mono);
@@ -184,7 +205,7 @@ a {
 .telemetry-controls {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
 }
 
 .search-box {
@@ -201,14 +222,14 @@ a {
   color: var(--text-primary);
   font-family: var(--font-mono);
   font-size: 11px;
-  width: 180px;
+  width: 160px;
   transition: all 0.2s ease;
 }
 
 .search-box input:focus {
   outline: none;
   border-color: var(--c-models);
-  width: 230px;
+  width: 210px;
   box-shadow: 0 0 10px rgba(111, 194, 224, 0.2);
 }
 
@@ -253,6 +274,8 @@ a {
   cursor: grab;
 }
 
+#canvas-container.hidden { display: none; }
+
 #constellation-canvas {
   display: block;
   width: 100%;
@@ -293,7 +316,7 @@ a {
 
 .node-counter {
   position: absolute;
-  top: 24px;
+  top: 20px;
   left: 24px;
   background: var(--bg-panel);
   backdrop-filter: blur(8px);
@@ -313,9 +336,169 @@ a {
 }
 
 /* ============================================================
-   Side Glassmorphic HUD Inspector
+   📰 Monitoring Station Multi-Channel Grid View (ai-dev-dashboard)
    ============================================================ */
 
+#feed-container {
+  flex: 1;
+  height: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 20px;
+  display: flex;
+  gap: 16px;
+  background: var(--bg-dark);
+}
+
+#feed-container.hidden { display: none; }
+
+.channel-column {
+  min-width: 340px;
+  max-width: 360px;
+  height: 100%;
+  background: var(--bg-panel);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--hairline);
+  border-top: 3px solid var(--channel-color, var(--c-overall));
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.channel-card-head {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--hairline);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(18, 22, 28, 0.9);
+}
+
+.channel-title-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.channel-icon { font-size: 16px; }
+
+.channel-title {
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.channel-item-count {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-muted);
+  background: var(--bg-panel-raised);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* Signal Strength Indicator Bars */
+.signal-bars {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 12px;
+}
+.signal-bars span {
+  width: 3px;
+  border-radius: 1px;
+  background: var(--channel-color, var(--c-overall));
+  transition: opacity 0.2s;
+}
+.signal-bars span:nth-child(1) { height: 4px; }
+.signal-bars span:nth-child(2) { height: 6px; }
+.signal-bars span:nth-child(3) { height: 9px; }
+.signal-bars span:nth-child(4) { height: 12px; }
+
+.channel-sparkline-row {
+  padding: 8px 16px;
+  background: var(--bg-panel-raised);
+  border-bottom: 1px solid var(--hairline);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sparkline-svg {
+  height: 20px;
+  width: 90px;
+}
+
+.channel-item-list {
+  flex: 1;
+  overflow-y: auto;
+  list-style: none;
+  padding: 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.feed-item-card {
+  background: rgba(23, 28, 35, 0.7);
+  border: 1px solid var(--hairline);
+  border-radius: 6px;
+  padding: 10px 12px;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.feed-item-card:hover {
+  background: var(--bg-panel-raised);
+  border-color: var(--hairline-bright);
+}
+
+.feed-item-title-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.feed-item-title {
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.4;
+}
+
+.feed-item-title:hover {
+  color: var(--channel-color, var(--c-models));
+}
+
+.feed-item-meta {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4px;
+}
+
+.feed-item-preview {
+  font-size: 11px;
+  color: var(--text-secondary);
+  margin-top: 6px;
+  line-height: 1.4;
+  display: none;
+  border-top: 1px dashed var(--hairline);
+  padding-top: 6px;
+}
+
+.feed-item-card.is-expanded .feed-item-preview {
+  display: block;
+}
+
+/* Side Glassmorphic HUD Inspector */
 .hud-inspector {
   width: 420px;
   height: 100%;
@@ -502,12 +685,9 @@ a {
 }
 .btn-primary:hover { opacity: 0.9; }
 
-/* ============================================================
-   Bottom Timeline Bar ("Chronos")
-   ============================================================ */
-
+/* Timeline Bar ("Chronos") */
 .timeline-bar {
-  height: 64px;
+  height: 60px;
   background: rgba(11, 14, 17, 0.95);
   backdrop-filter: blur(12px);
   border-top: 1px solid var(--hairline);
@@ -578,10 +758,7 @@ a {
 }
 .timeline-slider::-webkit-slider-thumb:hover { transform: scale(1.2); }
 
-/* ============================================================
-   Comparison Modal ("Nexus Chamber")
-   ============================================================ */
-
+/* Modal ("Nexus Chamber") */
 .modal-overlay {
   position: fixed;
   inset: 0;

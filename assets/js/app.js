@@ -9,9 +9,12 @@ class SynapseApp {
   constructor() {
     this.graph = null;
     this.currentNode = null;
+    this.viewMode = 'graph'; // 'graph' or 'feed'
+
     this.isPlayingTimeline = false;
     this.timelineInterval = null;
-    
+    this.liveFetcher = null;
+
     // Timeline timestamps (Jan 2022 to Dec 2026)
     this.minTime = new Date('2022-01-01').getTime();
     this.maxTime = new Date('2026-12-31').getTime();
@@ -25,11 +28,18 @@ class SynapseApp {
   init() {
     this.initGraph();
     this.renderCategoryChips();
+    this.setupViewSwitcher();
     this.setupEventListeners();
     this.setupTimeline();
     this.setupCompareModal();
+    this.renderMonitoringFeed();
 
-    // Select a default featured node on startup
+    // Initialize live fetcher
+    if (typeof LiveFeedFetcher !== 'undefined') {
+      this.liveFetcher = new LiveFeedFetcher(this);
+    }
+
+    // Select default featured node
     const defaultFeatured = SYNAPSE_DATA.nodes.find(n => n.id === 'claude-3-7-sonnet') || SYNAPSE_DATA.nodes[0];
     if (defaultFeatured) {
       setTimeout(() => {
@@ -48,6 +58,36 @@ class SynapseApp {
     this.updateNodeCounter();
   }
 
+  // --- View Switcher Mode Toggle ---
+  setupViewSwitcher() {
+    const btnGraph = document.getElementById('btn-mode-graph');
+    const btnFeed = document.getElementById('btn-mode-feed');
+    const canvasContainer = document.getElementById('canvas-container');
+    const feedContainer = document.getElementById('feed-container');
+
+    if (!btnGraph || !btnFeed) return;
+
+    const setMode = (mode) => {
+      this.viewMode = mode;
+      if (mode === 'graph') {
+        btnGraph.classList.add('active');
+        btnFeed.classList.remove('active');
+        canvasContainer.classList.remove('hidden');
+        feedContainer.classList.add('hidden');
+        if (this.graph) this.graph.resizeCanvas();
+      } else {
+        btnFeed.classList.add('active');
+        btnGraph.classList.remove('active');
+        feedContainer.classList.remove('hidden');
+        canvasContainer.classList.add('hidden');
+        this.renderMonitoringFeed();
+      }
+    };
+
+    btnGraph.addEventListener('click', () => setMode('graph'));
+    btnFeed.addEventListener('click', () => setMode('feed'));
+  }
+
   // --- Category Chips ---
   renderCategoryChips() {
     const container = document.getElementById('category-filter-chips');
@@ -55,7 +95,7 @@ class SynapseApp {
 
     let html = `
       <button class="chip active" data-cat="all" style="--chip-color: var(--c-models)">
-        <span class="chip-dot"></span> All Domains (9)
+        <span class="chip-dot"></span> All Channels (9)
       </button>
     `;
 
@@ -78,6 +118,10 @@ class SynapseApp {
         const cat = btn.getAttribute('data-cat');
         this.graph.setCategory(cat);
         this.updateNodeCounter();
+
+        if (this.viewMode === 'feed') {
+          this.renderMonitoringFeed();
+        }
       });
     });
   }
@@ -88,8 +132,23 @@ class SynapseApp {
     const searchInput = document.getElementById('search-input');
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
-        this.graph.setSearchQuery(e.target.value);
+        const query = e.target.value;
+        this.graph.setSearchQuery(query);
         this.updateNodeCounter();
+
+        if (this.viewMode === 'feed') {
+          this.renderMonitoringFeed();
+        }
+      });
+    }
+
+    // Live Fetch Button
+    const btnFetchLive = document.getElementById('btn-fetch-live');
+    if (btnFetchLive) {
+      btnFetchLive.addEventListener('click', () => {
+        if (this.liveFetcher) {
+          this.liveFetcher.fetchAllLiveFeeds();
+        }
       });
     }
 
@@ -131,6 +190,133 @@ class SynapseApp {
         this.openCompareModal(this.currentNode);
       });
     }
+  }
+
+  // --- Monitoring Station Multi-Column Grid Renderer (ai-dev-dashboard) ---
+  renderMonitoringFeed() {
+    const container = document.getElementById('feed-container');
+    if (!container) return;
+
+    let columnsHtml = '';
+
+    for (const [catKey, meta] of Object.entries(DOMAIN_CATEGORIES)) {
+      if (this.graph.activeCategory !== 'all' && this.graph.activeCategory !== catKey) {
+        continue;
+      }
+
+      const items = SYNAPSE_DATA.nodes.filter(n => {
+        if (n.category !== catKey) return false;
+        return this.graph.isNodeVisible(n);
+      });
+
+      const signalBarsHtml = this.generateSignalBars(items.length);
+      const sparklineSvg = this.generateSparklineSvg(items.length, meta.color);
+
+      let itemsListHtml = '';
+      if (items.length === 0) {
+        itemsListHtml = `<li style="font-size:11px; color:var(--text-muted); padding:12px; text-align:center;">No items match current filters.</li>`;
+      } else {
+        itemsListHtml = items.map(item => `
+          <li class="feed-item-card" data-node-id="${item.id}" style="--channel-color:${meta.color}">
+            <div class="feed-item-title-row">
+              <div class="feed-item-title">${this.escapeHtml(item.title)}</div>
+              <div class="feed-item-meta">
+                <span>${this.escapeHtml(item.company || '')}</span>
+                <span>${this.timeAgo(item.date)}</span>
+              </div>
+            </div>
+            <div class="feed-item-preview">${this.escapeHtml(item.tldr)}</div>
+          </li>
+        `).join('');
+      }
+
+      columnsHtml += `
+        <div class="channel-column" style="--channel-color:${meta.color}">
+          <div class="channel-card-head">
+            <div class="channel-title-group">
+              <span class="channel-icon">${meta.icon}</span>
+              <span class="channel-title">${meta.label}</span>
+              <span class="channel-item-count">${items.length}</span>
+            </div>
+            ${signalBarsHtml}
+          </div>
+          <div class="channel-sparkline-row">
+            <span style="font-size:10px; font-family:var(--font-mono); color:var(--text-muted); text-transform:uppercase">Activity Signal</span>
+            ${sparklineSvg}
+          </div>
+          <ul class="channel-item-list">
+            ${itemsListHtml}
+          </ul>
+        </div>
+      `;
+    }
+
+    container.innerHTML = columnsHtml;
+
+    // Attach card click handlers for expand & HUD inspect
+    container.querySelectorAll('.feed-item-card').forEach(card => {
+      card.addEventListener('click', (e) => {
+        card.classList.toggle('is-expanded');
+
+        const nodeId = card.getAttribute('data-node-id');
+        const node = SYNAPSE_DATA.nodes.find(n => n.id === nodeId);
+        if (node) {
+          this.onNodeSelected(node);
+        }
+      });
+    });
+  }
+
+  generateSignalBars(count) {
+    const lit = count === 0 ? 0 : count < 3 ? 1 : count < 6 ? 2 : count < 9 ? 3 : 4;
+    let html = '<div class="signal-bars">';
+    for (let i = 0; i < 4; i++) {
+      html += `<span style="opacity:${i < lit ? 1 : 0.2}"></span>`;
+    }
+    return html + '</div>';
+  }
+
+  generateSparklineSvg(count, color) {
+    const points = [
+      Math.max(1, count - 3),
+      Math.max(2, count - 1),
+      Math.max(1, count - 2),
+      count,
+      count + 1
+    ];
+    const max = Math.max(...points, 5);
+    const min = Math.min(...points, 0);
+    const range = Math.max(max - min, 1);
+    const w = 90, h = 20, pad = 2;
+    const step = (w - pad * 2) / (points.length - 1);
+
+    const ptsStr = points.map((c, i) => {
+      const x = pad + i * step;
+      const y = h - pad - ((c - min) / range) * (h - pad * 2);
+      return `${x.toFixed(1)},${y.toFixed(1)}`;
+    }).join(' ');
+
+    return `
+      <svg class="sparkline-svg" viewBox="0 0 90 20">
+        <polyline points="${ptsStr}" fill="none" stroke="${color}" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg>
+    `;
+  }
+
+  timeAgo(dateStr) {
+    if (!dateStr) return '';
+    const diffMs = Date.now() - new Date(dateStr).getTime();
+    const days = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+    if (days < 1) return 'today';
+    if (days < 30) return `${days}d ago`;
+    const months = Math.floor(days / 30);
+    if (months < 12) return `${months}mo ago`;
+    return `${Math.floor(months / 12)}y ago`;
+  }
+
+  escapeHtml(str) {
+    if (!str) return '';
+    return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
   // --- HUD Inspector ---
@@ -188,6 +374,7 @@ class SynapseApp {
           if (searchInput) {
             searchInput.value = chip.textContent.replace('#', '');
             this.graph.setSearchQuery(searchInput.value);
+            if (this.viewMode === 'feed') this.renderMonitoringFeed();
           }
         });
       });
@@ -217,7 +404,14 @@ class SynapseApp {
         relatedContainer.querySelectorAll('li').forEach(li => {
           li.addEventListener('click', () => {
             const targetId = li.getAttribute('data-node-id');
-            this.graph.focusOnNode(targetId);
+            const targetNode = SYNAPSE_DATA.nodes.find(n => n.id === targetId);
+            if (targetNode) {
+              if (this.viewMode === 'graph') {
+                this.graph.focusOnNode(targetId);
+              } else {
+                this.onNodeSelected(targetNode);
+              }
+            }
           });
         });
       } else {
@@ -243,7 +437,7 @@ class SynapseApp {
   }
 
   onNodeHovered(node) {
-    // Optional hover feedback in toolbar readout
+    // Optional hover callback
   }
 
   updateNodeCounter() {
@@ -277,6 +471,10 @@ class SynapseApp {
         readout.textContent = `${monthNames[d.getMonth()]} ${d.getFullYear()}`;
       }
       this.updateNodeCounter();
+
+      if (this.viewMode === 'feed') {
+        this.renderMonitoringFeed();
+      }
     };
 
     slider.addEventListener('input', (e) => updateTimelineView(e.target.value));
