@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-14T20:33:08.999603",
-  "fetched_count": 55,
+  "timestamp": "2026-08-15T01:19:20.064508",
+  "fetched_count": 65,
   "nodes": [
     {
       "id": "live-overall-the-download-flock-s-new-rules-cloning-s",
       "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules ...",
@@ -24,7 +24,7 @@
       "id": "live-overall-this-scientist-is-helping-build-a-missin",
       "title": "This scientist is helping build a missing map of childhood",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambit...",
@@ -42,7 +42,7 @@
       "id": "live-overall-job-titles-of-the-future-space-travel-ag",
       "title": "Job titles of the future: Space travel agent",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from t...",
@@ -60,7 +60,7 @@
       "id": "live-overall-cloning-could-be-used-to-save-species-or",
       "title": "Cloning could be used to save species\u2014or make human \u201corgan sacks\u201d",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They\u2019ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowe...",
@@ -78,7 +78,7 @@
       "id": "live-overall-roundtables-inside-the-censorship-indust",
       "title": "Roundtables: Inside the \u201cCensorship-Industrial Complex\u201d Idea Shaping US Policy",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Listen to the session or watch below The \u201ccensorship-industrial complex\u201d is an idea that a network of government, tech, and research groups is collaborating to suppress conservativ...",
@@ -96,7 +96,7 @@
       "id": "live-overall-google-just-redesigned-the-search-box-fo",
       "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more th",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list...",
@@ -106,10 +106,10 @@
       },
       "tags": [
         "#Google",
-        "#EUAIAct",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "details": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google announced a sweeping redesign of the search box itself \u2014 the literal text field where billions of queries begin every day \u2014 transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs. The company is also merging its AI Overviews and AI Mode features into a single, seamless search flow, eliminating the friction that previously forced users to choose between a traditional results page and an AI-forward experience.Liz Reid, Google&#x27;s vice president and head of Search, called it &quot;the biggest upgrade to our iconic search box since its debut over 25 years ago&quot; during a press briefing on Monday.The announcement arrived alongside a blizzard of other news \u2014 new Gemini models, a personal AI agent called Spark, an intelligent shopping cart, a reimagined developer platform \u2014 but the search box redesign may prove to be the most consequential. It is the clearest signal yet that Google views the future of its flagship product not as a place where users type fragmented keywords, but as an interface where they hold open-ended, multimodal conversations with an AI system backed by the entire web.The new search box expands, accepts files, and coaches you on what to askThe changes show a fundamental shift in how Google expects people to interact with the product that generates the vast majority of Alphabet&#x27;s revenue.The box itself now dynamically expands to accommodate longer, more conversational queries. Where the old interface subtly encouraged brevity \u2014 a narrow field suited to two- or three-word keyword strings \u2014 the new design invites users to fully articulate complex questions in granular detail. It also now supports multimodal inputs directly. Users can upload images, PDFs, files, and videos, or drag in content from Chrome tabs, right from the main search interface. Previously, some of these capabilities existed in AI Mode, but reaching them required extra steps. Now they sit at the primary entry point.Google is also deploying what it describes as an AI-powered query suggestion system that &quot;goes beyond autocomplete.&quot; Rather than simply predicting the next word a user might type based on popular searches, the system helps users formulate complex, nuanced queries \u2014 essentially coaching them toward the kind of detailed questions that AI Mode handles best.The new search box is starting to roll out immediately in all countries and languages where AI Mode is available.Google is merging AI overviews and AI mode into one seamless experiencePerhaps more significant than the box itself is the architectural change happening behind it. Google is unifying AI Overviews \u2014 the AI-generated summary panels that appear atop traditional search results \u2014 with AI Mode, the more immersive conversational search experience the company launched at I/O one year ago.Starting Tuesday, this merged experience will be live across mobile and desktop worldwide. A user can type a question, receive an AI Overview alongside traditional results, and then continue directly into a back-and-forth AI Mode conversation to ask follow-up questions \u2014 all without navigating to a separate interface.Reid explained the logic during the press briefing: the new AI search box is &quot;an upgrade of our traditional search box, and so the results take you directly to main search rather than AI mode.&quot; She noted that while some power users actively sought out AI Mode, &quot;for most users, they don&#x27;t actually want to have to think about, do they want more of a traditional page or an AI-forward search experience.&quot;The goal, she said, was to ensure that &quot;for most users, they don&#x27;t have to think about where to go, they can just go to the search box they&#x27;re familiar with, and it feels like they get the best experience afterwards.&quot;One billion users and doubling queries reveal how fast search behavior is shiftingGoogle&#x27;s decision to redesign the foundational interface of its most important product did not happen in a vacuum. The company shared a set of usage statistics during the briefing that reveal just how rapidly user behavior is already changing.AI Mode, which launched in the United States at I/O 2025, has surpassed one billion monthly users in its first year. AI Mode queries have been doubling every quarter since launch. AI Overviews, the lighter-weight AI summaries, now reach more than 2.5 billion monthly users. And overall search query volume hit an all-time high last quarter \u2014 a data point the company had previously disclosed on its earnings call.Sundar Pichai, Google&#x27;s CEO, framed these figures as evidence that AI features are additive, not cannibalistic, to search usage. &quot;When people use our AI-powered features in search, they use search more,&quot; he said. He added that he loves &quot;how search has become less about individual queries and feels more like an ongoing conversation, giving users deeper insights and connecting you with the vastness of the web.&quot;Reid reinforced the point: &quot;It&#x27;s not just that people are searching more, it&#x27;s that they&#x27;re searching differently. They&#x27;re fully expressing their questions in granular detail, asking those follow-up questions and searching across modalities.&quot;Gemini 3.5 Flash gives Google&#x27;s AI search the speed it needs to work at scaleUnder the hood, the new search experience runs on Gemini 3.5 Flash, Google&#x27;s newest AI model, which the company also introduced at I/O. Google upgraded AI Mode&#x27;s underlying model to 3.5 Flash to deliver what Reid described as &quot;an even more powerful AI search experience.&quot;Gemini 3.5 Flash is the workhorse of this year&#x27;s announcements. Google claims it outperforms its previous frontier model, Gemini 3.1 Pro, on nearly all benchmarks while running four times faster in output tokens per second than comparable frontier models. Pichai described it as being &quot;in a league of its own in the top right quadrant&quot; of the Artificial Analysis index, which plots intelligence against speed \u2014 meaning it delivers near-frontier quality at dramatically lower latency.That speed matters enormously for search. A conversational AI search experience that feels sluggish would be dead on arrival for a product that serves billions of queries daily. By coupling the redesigned interface with a model optimized for both quality and throughput, Google is attempting to make AI-powered search feel as instantaneous as the old keyword experience \u2014 while being dramatically more capable.Search can now build interactive visuals and custom mini apps on the flyThe redesigned search box is also the gateway to a set of new capabilities that push search far beyond text-based answers. Google announced what it calls &quot;generative UI&quot; \u2014 the ability for search to dynamically build custom widgets, interactive visualizations, and even mini applications in real time, tailored to a user&#x27;s specific question.Reid offered a concrete example during the briefing: a user could ask &quot;How do black holes affect space time?&quot; and receive an interactive visual in an AI Overview that brings the concept to life. Follow-up questions would trigger the system to dynamically generate entirely new visuals in real time. This is possible, she explained, because of &quot;a novel real-time code generation system we built in partnership with the Google DeepMind team&quot; that runs on Gemini 3.5 Flash. Generative UI capabilities will roll out to everyone this summer, free of charge.But Google is going further still. For ongoing tasks \u2014 planning a wedding, organizing a move, tracking a fitness routine \u2014 users will be able to build what the company describes as customizable, stateful experiences within search, powered by its Antigravity development platform. These require no coding expertise. Users simply describe what they want in natural language, and search builds it. Those experiences will be available in coming months, starting with Google AI Pro and Ultra subscribers in the United States.AI agents that monitor the web around the clock are coming to search resultsThe redesign also opens the door to what Google calls &quot;information agents&quot; \u2014 AI agents that users can configure directly within search to monitor the web 24/7 for specific conditions and deliver synthesized updates when those conditions are met.A user could, for example, set up an agent to track market movements in a particular sector with specific parameters. The agent would create a monitoring plan, tap into real-time finance data, and proactively notify the user when conditions are met \u2014 complete with links and context for further research. Other use cases include apartment hunting, tracking sneaker drops, or monitoring any topic a user cares about. Information agents will launch first for Google AI Pro and Ultra subscribers this summer.These agents sit within a much larger strategic pivot that Google articulated throughout the briefing: the company is going all-in on AI systems that don&#x27;t just answer questions but proactively take actions on users&#x27; behalf. Beyond search, Google introduced Gemini Spark, a 24/7 personal AI agent that runs on dedicated virtual machines in Google Cloud. It unveiled the Universal Cart, an intelligent cross-merchant shopping cart. It announced the Agent Payments Protocol for agents to make secure purchases. And it expanded its Antigravity developer platform into a full ecosystem for building autonomous AI agents.Publishers, advertisers, and SEO professionals face a new realityThe redesign raises profound questions for the sprawling ecosystem \u2014 publishers, advertisers, SEO professionals \u2014 that has been built around the old model of keyword search and blue links.If users increasingly express their needs as full, conversational sentences rather than fragmented keywords, the entire discipline of search engine optimization will need to evolve. Keyword-density strategies become less relevant when the AI is parsing natural language intent rather than matching strings. Content that answers deep, nuanced questions in authoritative ways becomes more valuable; content engineered to rank for two-word keyword fragments becomes less so.For publishers, the stakes are existential. AI Overviews already synthesize information from across the web and present it directly in search results, reducing the need for users to click through to source material. The new seamless AI Mode integration deepens that dynamic: users can now get an AI-generated answer and ask multiple follow-up questions without ever leaving the search page. Google has consistently maintained that its AI features drive more traffic to publishers, but the redesign puts that claim under renewed scrutiny as the search results page becomes more self-contained.For advertisers \u2014 who fund the vast majority of Google&#x27;s revenue \u2014 the shift from keywords to conversations changes the calculus of ad targeting. Conversational queries contain richer intent signals, which could make ad targeting more precise and valuable. But they also create new ambiguities: when a user is in the middle of a multi-turn conversation with AI Mode, where does an ad naturally fit? Google did not detail changes to its advertising model during the briefing, but the structural shift in the interface will inevitably reshape how ads are surfaced and measured.The search box was always more than a product \u2014 it was a habit for billions of peopleThere is a reason Google chose to redesign the search box rather than simply adding new features behind it. The search box is not just a product element at this point; it is a cultural artifact \u2014 one of the few pieces of digital infrastructure used by essentially the entire internet-connected world. Changing it sends an unmistakable message about where the company believes computing is headed.For 25 years, the search box trained billions of people to think in keywords \u2014 to compress their curiosity into the shortest possible string of words. The new box invites them to do the opposite: to think out loud, to upload what they&#x27;re looking at, to ask follow-up questions, to let an AI system handle the compression.Pichai tied the company&#x27;s broader ambitions to a striking statistic: Google&#x27;s surfaces now process over 3.2 quadrillion tokens per month, up seven-fold from a year ago. The company expects capital expenditures of approximately $180 to $190 billion in 2026 \u2014 roughly six times the $31 billion it spent four years ago \u2014 largely to support the infrastructure required for this AI transformation. When asked about the future of traditional search, he was direct. &quot;Search is the most used AI product in the world,&quot; he said.The blinking cursor in Google&#x27;s search box still invites you to type. But after 25 years of teaching the world to speak in keywords, Google is now asking it to speak in sentences \u2014 and betting roughly $190 billion that it will."
@@ -118,7 +118,7 @@
       "id": "live-overall-railway-secures-100-million-to-challenge",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million...",
@@ -127,13 +127,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
-        "#AgenticAI",
         "#Google",
-        "#AISecurity",
+        "#AgenticAI",
+        "#Governance",
+        "#Microsoft",
         "#UnitedNations",
-        "#EUAIAct",
-        "#Governance"
+        "#AISecurity",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "details": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like Amazon Web Services and Google Cloud.&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a $20 million Series A from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network \u2014 metrics that rival far larger and better-funded competitors.Why three-minute deploy times have become unacceptable in the age of AI coding assistantsRailway&#x27;s pitch rests on a simple observation: the tools developers use to deploy and manage software were designed for a slower era. A standard build-and-deploy cycle using Terraform, the industry-standard infrastructure tool, takes two to three minutes. That delay, once tolerable, has become a critical bottleneck as AI coding assistants like Claude, ChatGPT, and Cursor can generate working code in seconds.&quot;When godly intelligence is on tap and can solve any problem in three seconds, those amalgamations of systems become bottlenecks,&quot; Cooper told VentureBeat. &quot;What was really cool for humans to deploy in 10 seconds or less is now table stakes for agents.&quot;The company claims its platform delivers deployments in under one second \u2014 fast enough to keep pace with AI-generated code. Customers report a tenfold increase in developer velocity and up to 65 percent cost savings compared to traditional cloud providers.These numbers come directly from enterprise clients, not internal benchmarks. Daniel Lobaton, chief technology officer at G2X, a platform serving 100,000 federal contractors, measured deployment speed improvements of seven times faster and an 87 percent cost reduction after migrating to Railway. His infrastructure bill dropped from $15,000 per month to approximately $1,000.&quot;The work that used to take me a week on our previous infrastructure, I can do in Railway in like a day,&quot; Lobaton said. &quot;If I want to spin up a new service and test different architectures, it would take so long on our old setup. In Railway I can launch six services in two minutes.&quot;Inside the controversial decision to abandon Google Cloud and build data centers from scratchWhat distinguishes Railway from competitors like Render and Fly.io is the depth of its vertical integration. In 2024, the company made the unusual decision to abandon Google Cloud entirely and build its own data centers, a move that echoes the famous Alan Kay maxim: &quot;People who are really serious about software should make their own hardware.&quot;&quot;We wanted to design hardware in a way where we could build a differentiated experience,&quot; Cooper said. &quot;Having full control over the network, compute, and storage layers lets us do really fast build and deploy loops, the kind that allows us to move at &#x27;agentic speed&#x27; while staying 100 percent the smoothest ride in town.&quot;The approach paid dividends during recent widespread outages that affected major cloud providers \u2014 Railway remained online throughout.This soup-to-nuts control enables pricing that undercuts the hyperscalers by roughly 50 percent and newer cloud startups by three to four times. Railway charges by the second for actual compute usage: $0.00000386 per gigabyte-second of memory, $0.00000772 per vCPU-second, and $0.00000006 per gigabyte-second of storage. There are no charges for idle virtual machines \u2014 a stark contrast to the traditional cloud model where customers pay for provisioned capacity whether they use it or not.&quot;The conventional wisdom is that the big guys have economies of scale to offer better pricing,&quot; Cooper noted. &quot;But when they&#x27;re charging for VMs that usually sit idle in the cloud, and we&#x27;ve purpose-built everything to fit much more density on these machines, you have a big opportunity.&quot;How 30 employees built a platform generating tens of millions in annual revenueRailway has achieved its scale with a team of just 30 employees generating tens of millions in annual revenue \u2014 a ratio of revenue per employee that would be exceptional even for established software companies. The company grew revenue 3.5 times last year and continues to expand at 15 percent month-over-month.Cooper emphasized that the fundraise was strategic rather than necessary. &quot;We&#x27;re default alive; there&#x27;s no reason for us to raise money,&quot; he said. &quot;We raised because we see a massive opportunity to accelerate, not because we needed to survive.&quot;The company hired its first salesperson only last year and employs just two solutions engineers. Nearly all of Railway&#x27;s two million users discovered the platform through word of mouth \u2014 developers telling other developers about a tool that actually works.&quot;We basically did the standard engineering thing: if you build it, they will come,&quot; Cooper recalled. &quot;And to some degree, they came.&quot;From side projects to Fortune 500 deployments: Railway&#x27;s unlikely corporate expansionDespite its grassroots developer community, Railway has made significant inroads into large organizations. The company claims that 31 percent of Fortune 500 companies now use its platform, though deployments range from company-wide infrastructure to individual team projects.Notable customers include Bilt, the loyalty program company; Intuit&#x27;s GoCo subsidiary; TripAdvisor&#x27;s Cruise Critic; and MGM Resorts. Kernel, a Y Combinator-backed startup providing AI infrastructure to over 1,000 companies, runs its entire customer-facing system on Railway for $444 per month.&quot;At my previous company Clever, which sold for $500 million, I had six full-time engineers just managing AWS,&quot; said Rafael Garcia, Kernel&#x27;s chief technology officer. &quot;Now I have six engineers total, and they all focus on product. Railway is exactly the tool I wish I had in 2012.&quot;For enterprise customers, Railway offers security certifications including SOC 2 Type 2 compliance and HIPAA readiness, with business associate agreements available upon request. The platform provides single sign-on authentication, comprehensive audit logs, and the option to deploy within a customer&#x27;s existing cloud environment through a &quot;bring your own cloud&quot; configuration.Enterprise pricing starts at custom levels, with specific add-ons for extended log retention ($200 monthly), HIPAA BAAs ($1,000), enterprise support with SLOs ($2,000), and dedicated virtual machines ($10,000).The startup&#x27;s bold strategy to take on Amazon, Google, and a new generation of cloud rivalsRailway enters a crowded market that includes not only the hyperscale cloud providers\u2014Amazon Web Services, Microsoft Azure, and Google Cloud Platform\u2014but also a growing cohort of developer-focused platforms like Vercel, Render, Fly.io, and Heroku.Cooper argues that Railway&#x27;s competitors fall into two camps, neither of which has fully committed to the new infrastructure model that AI demands.&quot;The hyperscalers have two competing systems, and they haven&#x27;t gone all-in on the new model because their legacy revenue stream is still printing money,&quot; he observed. &quot;They have this mammoth pool of cash coming from people who provision a VM, use maybe 10 percent of it, and still pay for the whole thing. To what end are they actually interested in going all the way in on a new experience if they don&#x27;t really need to?&quot;Against startup competitors, Railway differentiates by covering the full infrastructure stack. &quot;We&#x27;re not just containers; we&#x27;ve got VM primitives, stateful storage, virtual private networking, automated load balancing,&quot; Cooper said. &quot;And we wrap all of this in an absurdly easy-to-use UI, with agentic primitives so agents can move 1,000 times faster.&quot;The platform supports databases including PostgreSQL, MySQL, MongoDB, and Redis; provides up to 256 terabytes of persistent storage with over 100,000 input/output operations per second; and enables deployment to four global regions spanning the United States, Europe, and Southeast Asia. Enterprise customers can scale to 112 vCPUs and 2 terabytes of RAM per service.Why investors are betting that AI will create a thousand times more software than exists todayRailway&#x27;s fundraise reflects broader investor enthusiasm for companies positioned to benefit from the AI coding revolution. As tools like GitHub Copilot, Cursor, and Claude become standard fixtures in developer workflows, the volume of code being written \u2014 and the infrastructure needed to run it \u2014 is expanding dramatically.&quot;The amount of software that&#x27;s going to come online over the next five years is unfathomable compared to what existed before \u2014 we&#x27;re talking a thousand times more software,&quot; Cooper predicted. &quot;All of that has to run somewhere.&quot;The company has already integrated directly with AI systems, building what Cooper calls &quot;loops where Claude can hook in, call deployments, and analyze infrastructure automatically.&quot; Railway released a Model Context Protocol server in August 2025 that allows AI coding agents to deploy applications and manage infrastructure directly from code editors.&quot;The notion of a developer is melting before our eyes,&quot; Cooper said. &quot;You don&#x27;t have to be an engineer to engineer things anymore \u2014 you just need critical thinking and the ability to analyze things in a systems capacity.&quot;What Railway plans to do with $100 million and zero marketing experienceRailway plans to use the new capital to expand its global data center footprint, grow its team beyond 30 employees, and build what Cooper described as a proper go-to-market operation for the first time in the company&#x27;s five-year history.&quot;One of my mentors said you raise money when you can change the trajectory of the business,&quot; Cooper explained. &quot;We&#x27;ve built all the required substrate to scale indefinitely; what&#x27;s been holding us back is simply talking about it. 2026 is the year we play on the world stage.&quot;The company&#x27;s investor roster reads like a who&#x27;s who of developer infrastructure. Angel investors include Tom Preston-Werner, co-founder of GitHub; Guillermo Rauch, chief executive of Vercel; Spencer Kimball, chief executive of Cockroach Labs; Olivier Pomel, chief executive of Datadog; and Jori Lallo, co-founder of Linear.The timing of Railway&#x27;s expansion coincides with what many in Silicon Valley view as a fundamental shift in how software gets made. Coding assistants are no longer experimental curiosities \u2014 they have become essential tools that millions of developers rely on daily. Each line of AI-generated code needs somewhere to run, and the incumbents, by Cooper&#x27;s telling, are too wedded to their existing business models to fully capitalize on the moment.Whether Railway can translate developer enthusiasm into sustained enterprise adoption remains an open question. The cloud infrastructure market is littered with promising startups that failed to break the grip of Amazon, Microsoft, and Google. But Cooper, who previously worked as a software engineer at Wolfram Alpha, Bloomberg, and Uber before founding Railway in 2020, seems unfazed by the scale of his ambition.&quot;In five years, Railway [will be] the place where software gets created and evolved, period,&quot; he said. &quot;Deploy instantly, scale infinitely, with zero friction. That&#x27;s the prize worth playing for, and there&#x27;s no bigger one on offer.&quot;For a company that built a $100 million business by doing the opposite of what conventional startup wisdom dictates \u2014 no marketing, no sales team, no venture hype\u2014the real test begins now. Railway spent five years proving that developers would find a better mousetrap on their own. The next five will determine whether the rest of the world is ready to get on board."
@@ -142,7 +142,7 @@
       "id": "live-overall-claude-code-costs-up-to-200-a-month-goos",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "CRITICAL",
       "company": "VentureBeat AI",
       "tldr": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code a...",
@@ -151,13 +151,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
+        "#Google",
         "#AgenticAI",
         "#Meta",
-        "#Governance",
-        "#Google",
-        "#OpenAI",
         "#DeepSeek",
+        "#Anthropic",
+        "#OpenAI",
+        "#Governance",
         "#UnitedNations",
         "#NVIDIA",
         "#Reasoning"
@@ -169,7 +169,7 @@
       "id": "live-overall-listen-labs-raises-69m-after-viral-billb",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed im...",
@@ -190,7 +190,7 @@
       "id": "live-overall-salesforce-rolls-out-new-slackbot-ai-age",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives...",
@@ -199,14 +199,14 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
-        "#Microsoft",
         "#Google",
-        "#AISecurity",
-        "#OpenAI",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Governance"
+        "#Anthropic",
+        "#OpenAI",
+        "#Microsoft",
+        "#Governance",
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "details": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce&#x27;s most aggressive move yet to position Slack at the center of the emerging &quot;agentic AI&quot; movement \u2014 where software agents work alongside humans to complete complex tasks. The launch comes as Salesforce attempts to convince investors that artificial intelligence will bolster its products rather than render them obsolete.&quot;Slackbot isn&#x27;t just another copilot or AI assistant,&quot; said Parker Harris, Salesforce co-founder and Slack&#x27;s chief technology officer, in an exclusive interview with Salesforce. &quot;It&#x27;s the front door to the agentic enterprise, powered by Salesforce.&quot;From tricycle to Porsche: Salesforce rebuilt Slackbot from the ground upHarris was blunt about what distinguishes the new Slackbot from its predecessor: &quot;The old Slackbot was, you know, a little tricycle, and the new Slackbot is like, you know, a Porsche.&quot;The original Slackbot, which has existed since Slack&#x27;s early days, performed basic algorithmic tasks \u2014 reminding users to add colleagues to documents, suggesting channel archives, and delivering simple notifications. The new version runs on an entirely different architecture built around a large language model and sophisticated search capabilities that can access Salesforce records, Google Drive files, calendar data, and years of Slack conversations.&quot;It&#x27;s two different things,&quot; Harris explained. &quot;The old Slackbot was algorithmic and fairly simple. The new Slackbot is brand new \u2014 it&#x27;s based around an LLM and a very robust search engine, and connections to third-party search engines, third-party enterprise data.&quot;Salesforce chose to retain the Slackbot brand despite the fundamental technical overhaul. &quot;People know what Slackbot is, and so we wanted to carry that forward,&quot; Harris said.Why Anthropic&#x27;s Claude powers the new Slackbot \u2014 and which AI models could come nextThe new Slackbot runs on Claude, Anthropic&#x27;s large language model, a choice driven partly by compliance requirements. Slack&#x27;s commercial service operates under FedRAMP Moderate certification to serve U.S. federal government customers, and Harris said Anthropic was &quot;the only provider that could give us a compliant LLM&quot; when Slack began building the new system.But that exclusivity won&#x27;t last. &quot;We are, this year, going to support additional providers,&quot; Harris said. &quot;We have a great relationship with Google. Gemini is incredible \u2014 performance is great, cost is great. So we&#x27;re going to use Gemini for some things.&quot; He added that OpenAI remains a possibility as well.Harris echoed Salesforce CEO Marc Benioff&#x27;s view that large language models are becoming commoditized: &quot;You&#x27;ve heard Marc talk about LLMs are commodities, that they&#x27;re democratized. I call them CPUs.&quot;On the sensitive question of training data, Harris was unequivocal: Salesforce does not train any models on customer data. &quot;Models don&#x27;t have any sort of security,&quot; he explained. &quot;If we trained it on some confidential conversation that you and I have, I don&#x27;t want Carolyn to know \u2014 if I train it into the LLM, there is no way for me to say you get to see the answer, but Carolyn doesn&#x27;t.&quot;Inside Salesforce&#x27;s internal experiment: 80,000 employees tested Slackbot with striking resultsSalesforce has been testing the new Slackbot internally for months, rolling it out to all 80,000 employees. According to Ryan Gavin, Slack&#x27;s chief marketing officer, the results have been striking: &quot;It&#x27;s the fastest adopted product in Salesforce history.&quot;Internal data shows that two-thirds of Salesforce employees have tried the new Slackbot, with 80% of those users continuing to use it regularly. Internal satisfaction rates reached 96% \u2014 the highest for any AI feature Slack has shipped. Employees report saving between two and 20 hours per week.The adoption happened largely organically. &quot;I think it was about five days, and a Canvas was developed by our employees called &#x27;The Most Stealable Slackbot Prompts,&#x27;&quot; Gavin said. &quot;People just started adding to it organically. I think it&#x27;s up to 250-plus prompts that are in this Canvas right now.&quot;Kate Crotty, a principal UX researcher at Salesforce, found that 73% of internal adoption was driven by social sharing rather than top-down mandates. &quot;Everybody is there to help each other learn and communicate hacks,&quot; she said.How Slackbot transforms scattered enterprise data into executive-ready insightsDuring a product demonstration, Amy Bauer, Slack&#x27;s product experience designer, showed how Slackbot can synthesize information across multiple sources. In one example, she asked Slackbot to analyze customer feedback from a pilot program, upload an image of a usage dashboard, and have Slackbot correlate the qualitative and quantitative data.&quot;This is where Slackbot really earns its keep for me,&quot; Bauer explained. &quot;What it&#x27;s doing is not just simply reading the image \u2014 it&#x27;s actually looking at the image and comparing it to the insight it just generated for me.&quot;Slackbot can then query Salesforce to find enterprise accounts with open deals that might be good candidates for early access, creating what Bauer called &quot;a really great justification and plan to move forward.&quot; Finally, it can synthesize all that information into a Canvas \u2014 Slack&#x27;s collaborative document format \u2014 and find calendar availability among stakeholders to schedule a review meeting.&quot;Up until this point, we have been working in a one-to-one capacity with Slackbot,&quot; Bauer said. &quot;But one of the benefits that I can do now is take this insight and have it generate this into a Canvas, a shared workspace where I can iterate on it, refine it with Slackbot, or share it out with my team.&quot;Rob Seaman, Slack&#x27;s chief product officer, said the Canvas creation demonstrates where the product is heading: &quot;This is making a tool call internally to Slack Canvas to actually write, effectively, a shared document. But it signals where we&#x27;re going with Slackbot \u2014 we&#x27;re eventually going to be adding in additional third-party tool calls.&quot;MrBeast&#x27;s company became a Slackbot guinea pig\u2014and employees say they&#x27;re saving 90 minutes a dayAmong Salesforce&#x27;s pilot customers is Beast Industries, the parent company of YouTube star MrBeast. Luis Madrigal, the company&#x27;s chief information officer, joined the launch announcement to describe his experience.&quot;As somebody who has rolled out enterprise technologies for over two decades now, this was practically one of the easiest,&quot; Madrigal said. &quot;The plumbing is there. Slack as an implementation, Enterprise Tools \u2014 being able to turn on the Slackbot and the Slack AI functionality was as simple as having my team go in, review, do a quick security review.&quot;Madrigal said his security team signed off &quot;rather quickly&quot; \u2014 unusual for enterprise AI deployments \u2014 because Slackbot accesses only the information each individual user already has permission to view. &quot;Given all the guardrails you guys have put into place for Slackbot to be unique and customized to only the information that each individual user has, only the conversations and the Slack rooms and Slack channels that they&#x27;re part of\u2014that made my security team sign off rather quickly.&quot;One Beast Industries employee, Sinan, the head of Beast Games marketing, reported saving &quot;at bare minimum, 90 minutes a day.&quot; Another employee, Spencer, a creative supervisor, described it as &quot;an assistant who&#x27;s paying attention when I&#x27;m not.&quot;Other pilot customers include Slalom, reMarkable, Xero, Mercari, and Engine. Mollie Bodensteiner, SVP of Operations at Engine, called Slackbot &quot;an absolute &#x27;chaos tamer&#x27; for our team,&quot; estimating it saves her about 30 minutes daily &quot;just by eliminating context switching.&quot;Slackbot vs. Microsoft Copilot vs. Google Gemini: The fight for enterprise AI dominanceThe launch puts Salesforce in direct competition with Microsoft&#x27;s Copilot, which is integrated into Teams and the broader Microsoft 365 suite, as well as Google&#x27;s Gemini integrations across Workspace. When asked what distinguishes Slackbot from these alternatives, Seaman pointed to context and convenience.&quot;The thing that makes it most powerful for our customers and users is the proximity \u2014 it&#x27;s just right there in your Slack,&quot; Seaman said. &quot;There&#x27;s a tremendous convenience affordance that&#x27;s naturally built into it.&quot;The deeper advantage, executives argue, is that Slackbot already understands users&#x27; work without requiring setup or training. &quot;Most AI tools sound the same no matter who is using them,&quot; the company&#x27;s announcement stated. &quot;They lack context, miss nuance, and force you to jump between tools to get anything done.&quot;Harris put it more directly: &quot;If you&#x27;ve ever had that magic experience with AI \u2014 I think ChatGPT is a great example, it&#x27;s a great experience from a consumer perspective \u2014 Slackbot is really what we&#x27;re doing in the enterprise, to be this employee super agent that is loved, just like people love using Slack.&quot;Amy Bauer emphasized the frictionless nature of the experience. &quot;Slackbot is inherently grounded in the context, in the data that you have in Slack,&quot; she said. &quot;So as you continue working in Slack, Slackbot gets better because it&#x27;s grounded in the work that you&#x27;re doing there. There is no setup. There is no configuration for those end users.&quot;Salesforce&#x27;s ambitious plan to make Slackbot the one &#x27;super agent&#x27; that controls all the othersSalesforce positions Slackbot as what Harris calls a &quot;super agent&quot; \u2014 a central hub that can eventually coordinate with other AI agents across an organization.&quot;Every corporation is going to have an employee super agent,&quot; Harris said. &quot;Slackbot is essentially taking the magic of what Slack does. We think that Slackbot, and we&#x27;re really excited about it, is going to be that.&quot;The vision extends to third-party agents already launching in Slack. Last month, Anthropic released a preview of Claude Code for Slack, allowing developers to interact with Claude&#x27;s coding capabilities directly in chat threads. OpenAI, Google, Vercel, and others have also built agents for the platform.&quot;Most of the net-new apps that are being deployed to Slack are agents,&quot; Seaman noted during the press conference. &quot;This is proof of the promise of humans and agents coexisting and working together in Slack to solve problems.&quot;Harris described a future where Slackbot becomes an MCP (Model Context Protocol) client, able to leverage tools from across the software ecosystem \u2014 similar to how the developer tool Cursor works. &quot;Slack can be an MCP client, and Slackbot will be the hub of that, leveraging all these tools out in the world, some of which will be these amazing agents,&quot; he said.But Harris also cautioned against over-promising on multi-agent coordination. &quot;I still think we&#x27;re in the single agent world,&quot; he said. &quot;FY26 is going to be the year where we started to see more coordination. But we&#x27;re going to do it with customer success in mind, and not demonstrate and talk about, like, &#x27;I&#x27;ve got 1,000 agents working together,&#x27; because I think that&#x27;s unrealistic.&quot;Slackbot costs nothing extra, but Salesforce&#x27;s data access fees could squeeze some customersSlackbot is included at no additional cost for customers on Business+ and Enterprise+ plans. &quot;There&#x27;s no additional fees customers have to do,&quot; Gavin confirmed. &quot;If they&#x27;re on one of those plans, they&#x27;re going to get Slackbot.&quot;However, some enterprise customers may face other cost pressures related to Salesforce&#x27;s broader data strategy. CIOs may see price increases for third-party applications that work with Salesforce data, as effects of higher charges for API access ripple through the software supply chain.Fivetran CEO George Fraser has warned that Salesforce&#x27;s shift in pricing policy for API access could have tangible consequences for enterprises relying on Salesforce as a system of record. &quot;They might not be able to use Fivetran to replicate their data to Snowflake and instead have to use Salesforce Data Cloud. Or they might find that they are not able to interact with their data via ChatGPT, and instead have to use Agentforce,&quot; Fraser said in a recent CIO report.Salesforce has framed the pricing change as standard industry practice.What Slackbot can do today, what&#x27;s coming in weeks, and what&#x27;s still on the roadmapThe new Slackbot begins rolling out today and will reach all eligible customers by the end of February. Mobile availability will complete by March 3, Bauer confirmed during her interview with VentureBeat.Some capabilities remain works in progress. Calendar reading and availability checking are available at launch, but the ability to actually book meetings is &quot;coming a few weeks after,&quot; according to Seaman. Image generation is not currently supported, though Bauer said it&#x27;s &quot;something that we are looking at in the future.&quot;When asked about integration with competing CRM systems like HubSpot and Microsoft Dynamics, Salesforce representatives declined to provide specifics during the interview, though they acknowledged the question touched on key competitive differentiators.Salesforce is betting the future of work looks like a chat window\u2014and it&#x27;s not aloneThe Slackbot launch is Salesforce&#x27;s bet that the future of enterprise work is conversational \u2014 that employees will increasingly prefer to interact with AI through natural language rather than navigating traditional software interfaces.Harris described Slack&#x27;s product philosophy using principles like &quot;don&#x27;t make me think&quot; and &quot;be a great host.&quot; The goal, he said, is for Slackbot to surface information proactively rather than requiring users to hunt for it.&quot;One of the revelations for me is LLMs applied to unstructured information are incredible,&quot; Harris said. &quot;And the amount of value you have if you&#x27;re a Slack user, if your corporation uses Slack \u2014 the amount of value in Slack is unbelievable. Because you&#x27;re talking about work, you&#x27;re sharing documents, you&#x27;re making decisions, but you can&#x27;t as a human go through that and really get the same value that an LLM can do.&quot;Looking ahead, Harris expects the interfaces themselves to evolve beyond pure conversation. &quot;We&#x27;re kind of saturating what we can do with purely conversational UIs,&quot; he said. &quot;I think we&#x27;ll start to see agents building an interface that best suits your intent, as opposed to trying to surface something within a conversational interface that matches your intent.&quot;Microsoft, Google, and a growing roster of AI startups are placing similar bets \u2014 that the winning enterprise AI will be the one embedded in the tools workers already use, not another application to learn. The race to become that invisible layer of workplace intelligence is now fully underway.For Salesforce, the stakes extend beyond a single product launch. After a bruising year on Wall Street and persistent questions about whether AI threatens its core business, the company is wagering that Slackbot can prove the opposite \u2014 that the tens of millions of people already chatting in Slack every day is not a vulnerability, but an unassailable advantage.Haley Gault, the Salesforce account executive in Pittsburgh who stumbled upon the new Slackbot on a snowy morning, captured the shift in a single sentence: &quot;I honestly can&#x27;t imagine working for another company not having access to these types of tools. This is just how I work now.&quot;That&#x27;s precisely what Salesforce is counting on."
@@ -215,7 +215,7 @@
       "id": "live-overall-position-reasoning-is-a-learnable-rule-b",
       "title": "Position: Reasoning is a Learnable Rule-Based Process",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of sy...",
@@ -224,9 +224,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Reasoning",
         "#Governance",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.12325",
       "details": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiable automated reasoning. This position contends that definitional ambiguity leaves the construct validity of reasoning evaluation unverifiable, undermining quantifiable progress toward trustworthy autonomous reasoning. We also contend that this ambiguity is addressable. To that end, we provide (1) operational definitions based on a synthesis of the literature, positioning valid and sound reasoning as a learnable rule-based process; and (2) a checklist for best practices in the communication of AI reasoning research."
@@ -235,7 +235,7 @@
       "id": "live-overall-diagnostic-foundation-for-evaluating-llm",
       "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional press...",
@@ -244,9 +244,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Reasoning",
         "#Governance",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.12345",
       "details": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants, we find that under peak pressure, models fail roughly 1 in 3 integrity-critical decisions, and neither scale nor reasoning ability reliably mitigates this. Explicit pressures induce compliance with misconduct, while implicit contextual reframing more often causes over-refusal of legitimate research tasks. Interestingly, models failing to classify research requests accurately perform equally or better on artifact-grounded decision making (85.7 vs. 79.4), suggesting the three facets are structurally dissociated and correct ethical action does not require accurate classification. Frontier models can thus appear helpful while harbouring integrity failures that create two distinct deployment risks: facilitating research misconduct and eroding trust in AI-assisted research."
@@ -255,7 +255,7 @@
       "id": "live-overall-position-the-alignment-community-is-unin",
       "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technolog...",
@@ -264,8 +264,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.12346",
       "details": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user adoption of AI as information provider, economic power asymmetries, and a political landscape that increasingly shifts towards authoritarianism. We conclude by urging the community to consider the intentional misuse of AI alignment mechanisms and propose mitigation strategies to safeguard against this dual-use potential."
@@ -274,7 +274,7 @@
       "id": "live-overall-agreement-is-not-alignment-divergent-mor",
       "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in fina...",
@@ -283,9 +283,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.12368",
       "details": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and supporting rationales. Across frontier and open model families, agreement with human annotator majority labels is often high. However, rationale-level analysis reveals systematic divergence in the moral grounds expressed by human annotators and models. In particular, models redistribute attention across categories such as harm, respect, promise-keeping, justice, desert, and excuse relevance, even when their final labels match the human annotator majority. Our results show that agreement should not be treated as equivalent to alignment. Label-based evaluation can therefore be misleadingly reassuring unless complemented by analysis of the reasons, principles, and moral priorities expressed in model judgments."
@@ -294,7 +294,7 @@
       "id": "live-overall-multi-agent-scheduling-with-llm-assisted",
       "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Ed",
       "category": "overall",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, r...",
@@ -303,9 +303,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.12371",
       "details": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-round proposal revision, negotiation memory, and deterministic validation. Edge-cluster agents refine natural-language offloading proposals from local observations, predicted resource states, and qualitative runtime context, while hard resource and QoS constraints remain deterministic. Experiments derived from the Alibaba ASI Trace evaluate the extension at three levels: single- versus multi-round CNP, rule-based versus LLM-assisted refinement, and fixed-model single- versus multi-round negotiation. Under the evaluated configurations, MAS-DecStream reduces latency violations to 3\\%, eliminates resource overcommitment, reaches a conflict-resolution rate of 0.91 with 20 agents, and improves utility by up to 22\\% over the multi-round rule-based baseline. A separate 25-case evaluation shows model- and prompt-dependent accuracy--cost trade-offs. The results provide initial evidence that multi-round CNP refinement is the principal protocol-level gain, with LLM assistance adding value for qualitative and uncertain runtime context."
@@ -314,7 +314,7 @@
       "id": "live-agentic_ai-state-of-open-models-summer-2026-observa",
       "title": "State of Open Models: Summer 2026 Observations",
       "category": "agentic_ai",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -332,7 +332,7 @@
       "id": "live-agentic_ai-record-train-and-deploy-from-one-place-w",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buck",
       "category": "agentic_ai",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -350,7 +350,7 @@
       "id": "live-agentic_ai-what-we-learned-by-reproducing-2-200-pap",
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
       "category": "agentic_ai",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -368,7 +368,7 @@
       "id": "live-agentic_ai-introducing-olmoearth-embeddings-custom-",
       "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream anal",
       "category": "agentic_ai",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -386,7 +386,7 @@
       "id": "live-agentic_ai-lfm2-5-vl-3b-for-better-and-faster-visio",
       "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
       "category": "agentic_ai",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -401,10 +401,102 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-agentic-ai-drops-digits-this-library-cat",
+      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+      "category": "agentic_ai",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://github.com/insightitsGit/PrismManifest Comments URL: https://news.ycombinator.com/item?id=49301925 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://github.com/insightitsGit/PrismManifest",
+      "details": "Article URL: https://github.com/insightitsGit/PrismManifest Comments URL: https://news.ycombinator.com/item?id=49301925 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-fast-on-device-agentic-ai-with-muse-glim",
+      "title": "Fast, on Device Agentic AI with Muse Glimmer on ExecuTorch",
+      "category": "agentic_ai",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/ Comments URL: https://news.ycombinator.com/item?id=49299165 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/",
+      "details": "Article URL: https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/ Comments URL: https://news.ycombinator.com/item?id=49299165 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-open-source-unit-testing-for-",
+      "title": "Agentic AI Open-Source Unit Testing for orchestrators on CLI",
+      "category": "agentic_ai",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://github.com/insightitsGit/prism-eval Comments URL: https://news.ycombinator.com/item?id=49279593 Points: 2 # Comments: 2",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://github.com/insightitsGit/prism-eval",
+      "details": "Article URL: https://github.com/insightitsGit/prism-eval Comments URL: https://news.ycombinator.com/item?id=49279593 Points: 2 # Comments: 2"
+    },
+    {
+      "id": "live-agentic_ai-retrieval-vs-memory-in-agentic-ai-system",
+      "title": "Retrieval vs. Memory in Agentic AI Systems",
+      "category": "agentic_ai",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=49271447 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
+      "details": "Article URL: https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=49271447 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-amd-catches-the-agentic-ai-wave-and-will",
+      "title": "AMD Catches the Agentic AI Wave and Will Ride It Up Masterfully",
+      "category": "agentic_ai",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.nextplatform.com/compute/2026/08/05/amd-catches-the-agentic-ai-wave-and-will-ride-it-up-masterfully/5283468 Comments URL: https://news.ycombinator.com/item...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.nextplatform.com/compute/2026/08/05/amd-catches-the-agentic-ai-wave-and-will-ride-it-up-masterfully/5283468",
+      "details": "Article URL: https://www.nextplatform.com/compute/2026/08/05/amd-catches-the-agentic-ai-wave-and-will-ride-it-up-masterfully/5283468 Comments URL: https://news.ycombinator.com/item?id=49248243 Points: 2 # Comments: 1"
+    },
+    {
       "id": "live-models-the-builder-s-guide-to-gpt-5-6",
       "title": "The builder\u2019s guide to GPT\u20115.6",
       "category": "models",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
@@ -413,8 +505,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "details": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
@@ -423,7 +515,7 @@
       "id": "live-models-previewing-ultrafast-mode-gpt-5-6-sol-at",
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "category": "models",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
@@ -432,8 +524,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/previewing-ultrafast",
       "details": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
@@ -442,7 +534,7 @@
       "id": "live-models-openai-appoints-dali-rajic-as-chief-reve",
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "category": "models",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
@@ -460,7 +552,7 @@
       "id": "live-models-from-assistance-to-execution-how-enterpr",
       "title": "From assistance to execution: How enterprises put AI to work",
       "category": "models",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
@@ -469,8 +561,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "details": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
@@ -479,7 +571,7 @@
       "id": "live-models-how-ringcentral-builds-ai-native-work-fr",
       "title": "How RingCentral builds AI-native work from engineering to ops",
       "category": "models",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
@@ -497,7 +589,7 @@
       "id": "live-companies-universitas-gadjah-mada-indosat-and-nvid",
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop L",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universi...",
@@ -506,8 +598,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
       "details": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta \u2014 the country\u2019s first university-based AI technology center. Established under Indonesia\u2019s AI Center of [\u2026]"
@@ -516,7 +608,7 @@
       "id": "live-companies-class-is-in-session-geforce-now-levels-u",
       "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is al...",
@@ -534,7 +626,7 @@
       "id": "live-companies-nvidia-ceo-tops-glassdoor-s-2026-list-of",
       "title": "NVIDIA CEO Tops Glassdoor\u2019s 2026 List of Best CEOs",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor\u2019s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know th...",
@@ -543,8 +635,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
       "details": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor\u2019s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best \u2014 employees. Huang topped the list, with 99% of employees approving of the job he does. \u201cAs AI and shifting expectations [\u2026]"
@@ -553,7 +645,7 @@
       "id": "live-companies-nvidia-ai-factory-compute-is-becoming-an",
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion ...",
@@ -562,8 +654,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
@@ -573,7 +665,7 @@
       "id": "live-companies-why-scaling-ai-compute-performance-requi",
       "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Every new generation of accelerated computing demands more from the infrastructure underneath it \u2014 more compute performance, higher rack density and more efficient, scalable power ...",
@@ -582,8 +674,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
       "details": "Every new generation of accelerated computing demands more from the infrastructure underneath it \u2014 more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn\u2019t just wattage. It\u2019s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) [\u2026]"
@@ -592,7 +684,7 @@
       "id": "live-companies-google-just-redesigned-the-search-box-fo",
       "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more th",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list...",
@@ -602,10 +694,10 @@
       },
       "tags": [
         "#Google",
-        "#EUAIAct",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "details": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google announced a sweeping redesign of the search box itself \u2014 the literal text field where billions of queries begin every day \u2014 transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs. The company is also merging its AI Overviews and AI Mode features into a single, seamless search flow, eliminating the friction that previously forced users to choose between a traditional results page and an AI-forward experience.Liz Reid, Google&#x27;s vice president and head of Search, called it &quot;the biggest upgrade to our iconic search box since its debut over 25 years ago&quot; during a press briefing on Monday.The announcement arrived alongside a blizzard of other news \u2014 new Gemini models, a personal AI agent called Spark, an intelligent shopping cart, a reimagined developer platform \u2014 but the search box redesign may prove to be the most consequential. It is the clearest signal yet that Google views the future of its flagship product not as a place where users type fragmented keywords, but as an interface where they hold open-ended, multimodal conversations with an AI system backed by the entire web.The new search box expands, accepts files, and coaches you on what to askThe changes show a fundamental shift in how Google expects people to interact with the product that generates the vast majority of Alphabet&#x27;s revenue.The box itself now dynamically expands to accommodate longer, more conversational queries. Where the old interface subtly encouraged brevity \u2014 a narrow field suited to two- or three-word keyword strings \u2014 the new design invites users to fully articulate complex questions in granular detail. It also now supports multimodal inputs directly. Users can upload images, PDFs, files, and videos, or drag in content from Chrome tabs, right from the main search interface. Previously, some of these capabilities existed in AI Mode, but reaching them required extra steps. Now they sit at the primary entry point.Google is also deploying what it describes as an AI-powered query suggestion system that &quot;goes beyond autocomplete.&quot; Rather than simply predicting the next word a user might type based on popular searches, the system helps users formulate complex, nuanced queries \u2014 essentially coaching them toward the kind of detailed questions that AI Mode handles best.The new search box is starting to roll out immediately in all countries and languages where AI Mode is available.Google is merging AI overviews and AI mode into one seamless experiencePerhaps more significant than the box itself is the architectural change happening behind it. Google is unifying AI Overviews \u2014 the AI-generated summary panels that appear atop traditional search results \u2014 with AI Mode, the more immersive conversational search experience the company launched at I/O one year ago.Starting Tuesday, this merged experience will be live across mobile and desktop worldwide. A user can type a question, receive an AI Overview alongside traditional results, and then continue directly into a back-and-forth AI Mode conversation to ask follow-up questions \u2014 all without navigating to a separate interface.Reid explained the logic during the press briefing: the new AI search box is &quot;an upgrade of our traditional search box, and so the results take you directly to main search rather than AI mode.&quot; She noted that while some power users actively sought out AI Mode, &quot;for most users, they don&#x27;t actually want to have to think about, do they want more of a traditional page or an AI-forward search experience.&quot;The goal, she said, was to ensure that &quot;for most users, they don&#x27;t have to think about where to go, they can just go to the search box they&#x27;re familiar with, and it feels like they get the best experience afterwards.&quot;One billion users and doubling queries reveal how fast search behavior is shiftingGoogle&#x27;s decision to redesign the foundational interface of its most important product did not happen in a vacuum. The company shared a set of usage statistics during the briefing that reveal just how rapidly user behavior is already changing.AI Mode, which launched in the United States at I/O 2025, has surpassed one billion monthly users in its first year. AI Mode queries have been doubling every quarter since launch. AI Overviews, the lighter-weight AI summaries, now reach more than 2.5 billion monthly users. And overall search query volume hit an all-time high last quarter \u2014 a data point the company had previously disclosed on its earnings call.Sundar Pichai, Google&#x27;s CEO, framed these figures as evidence that AI features are additive, not cannibalistic, to search usage. &quot;When people use our AI-powered features in search, they use search more,&quot; he said. He added that he loves &quot;how search has become less about individual queries and feels more like an ongoing conversation, giving users deeper insights and connecting you with the vastness of the web.&quot;Reid reinforced the point: &quot;It&#x27;s not just that people are searching more, it&#x27;s that they&#x27;re searching differently. They&#x27;re fully expressing their questions in granular detail, asking those follow-up questions and searching across modalities.&quot;Gemini 3.5 Flash gives Google&#x27;s AI search the speed it needs to work at scaleUnder the hood, the new search experience runs on Gemini 3.5 Flash, Google&#x27;s newest AI model, which the company also introduced at I/O. Google upgraded AI Mode&#x27;s underlying model to 3.5 Flash to deliver what Reid described as &quot;an even more powerful AI search experience.&quot;Gemini 3.5 Flash is the workhorse of this year&#x27;s announcements. Google claims it outperforms its previous frontier model, Gemini 3.1 Pro, on nearly all benchmarks while running four times faster in output tokens per second than comparable frontier models. Pichai described it as being &quot;in a league of its own in the top right quadrant&quot; of the Artificial Analysis index, which plots intelligence against speed \u2014 meaning it delivers near-frontier quality at dramatically lower latency.That speed matters enormously for search. A conversational AI search experience that feels sluggish would be dead on arrival for a product that serves billions of queries daily. By coupling the redesigned interface with a model optimized for both quality and throughput, Google is attempting to make AI-powered search feel as instantaneous as the old keyword experience \u2014 while being dramatically more capable.Search can now build interactive visuals and custom mini apps on the flyThe redesigned search box is also the gateway to a set of new capabilities that push search far beyond text-based answers. Google announced what it calls &quot;generative UI&quot; \u2014 the ability for search to dynamically build custom widgets, interactive visualizations, and even mini applications in real time, tailored to a user&#x27;s specific question.Reid offered a concrete example during the briefing: a user could ask &quot;How do black holes affect space time?&quot; and receive an interactive visual in an AI Overview that brings the concept to life. Follow-up questions would trigger the system to dynamically generate entirely new visuals in real time. This is possible, she explained, because of &quot;a novel real-time code generation system we built in partnership with the Google DeepMind team&quot; that runs on Gemini 3.5 Flash. Generative UI capabilities will roll out to everyone this summer, free of charge.But Google is going further still. For ongoing tasks \u2014 planning a wedding, organizing a move, tracking a fitness routine \u2014 users will be able to build what the company describes as customizable, stateful experiences within search, powered by its Antigravity development platform. These require no coding expertise. Users simply describe what they want in natural language, and search builds it. Those experiences will be available in coming months, starting with Google AI Pro and Ultra subscribers in the United States.AI agents that monitor the web around the clock are coming to search resultsThe redesign also opens the door to what Google calls &quot;information agents&quot; \u2014 AI agents that users can configure directly within search to monitor the web 24/7 for specific conditions and deliver synthesized updates when those conditions are met.A user could, for example, set up an agent to track market movements in a particular sector with specific parameters. The agent would create a monitoring plan, tap into real-time finance data, and proactively notify the user when conditions are met \u2014 complete with links and context for further research. Other use cases include apartment hunting, tracking sneaker drops, or monitoring any topic a user cares about. Information agents will launch first for Google AI Pro and Ultra subscribers this summer.These agents sit within a much larger strategic pivot that Google articulated throughout the briefing: the company is going all-in on AI systems that don&#x27;t just answer questions but proactively take actions on users&#x27; behalf. Beyond search, Google introduced Gemini Spark, a 24/7 personal AI agent that runs on dedicated virtual machines in Google Cloud. It unveiled the Universal Cart, an intelligent cross-merchant shopping cart. It announced the Agent Payments Protocol for agents to make secure purchases. And it expanded its Antigravity developer platform into a full ecosystem for building autonomous AI agents.Publishers, advertisers, and SEO professionals face a new realityThe redesign raises profound questions for the sprawling ecosystem \u2014 publishers, advertisers, SEO professionals \u2014 that has been built around the old model of keyword search and blue links.If users increasingly express their needs as full, conversational sentences rather than fragmented keywords, the entire discipline of search engine optimization will need to evolve. Keyword-density strategies become less relevant when the AI is parsing natural language intent rather than matching strings. Content that answers deep, nuanced questions in authoritative ways becomes more valuable; content engineered to rank for two-word keyword fragments becomes less so.For publishers, the stakes are existential. AI Overviews already synthesize information from across the web and present it directly in search results, reducing the need for users to click through to source material. The new seamless AI Mode integration deepens that dynamic: users can now get an AI-generated answer and ask multiple follow-up questions without ever leaving the search page. Google has consistently maintained that its AI features drive more traffic to publishers, but the redesign puts that claim under renewed scrutiny as the search results page becomes more self-contained.For advertisers \u2014 who fund the vast majority of Google&#x27;s revenue \u2014 the shift from keywords to conversations changes the calculus of ad targeting. Conversational queries contain richer intent signals, which could make ad targeting more precise and valuable. But they also create new ambiguities: when a user is in the middle of a multi-turn conversation with AI Mode, where does an ad naturally fit? Google did not detail changes to its advertising model during the briefing, but the structural shift in the interface will inevitably reshape how ads are surfaced and measured.The search box was always more than a product \u2014 it was a habit for billions of peopleThere is a reason Google chose to redesign the search box rather than simply adding new features behind it. The search box is not just a product element at this point; it is a cultural artifact \u2014 one of the few pieces of digital infrastructure used by essentially the entire internet-connected world. Changing it sends an unmistakable message about where the company believes computing is headed.For 25 years, the search box trained billions of people to think in keywords \u2014 to compress their curiosity into the shortest possible string of words. The new box invites them to do the opposite: to think out loud, to upload what they&#x27;re looking at, to ask follow-up questions, to let an AI system handle the compression.Pichai tied the company&#x27;s broader ambitions to a striking statistic: Google&#x27;s surfaces now process over 3.2 quadrillion tokens per month, up seven-fold from a year ago. The company expects capital expenditures of approximately $180 to $190 billion in 2026 \u2014 roughly six times the $31 billion it spent four years ago \u2014 largely to support the infrastructure required for this AI transformation. When asked about the future of traditional search, he was direct. &quot;Search is the most used AI product in the world,&quot; he said.The blinking cursor in Google&#x27;s search box still invites you to type. But after 25 years of teaching the world to speak in keywords, Google is now asking it to speak in sentences \u2014 and betting roughly $190 billion that it will."
@@ -614,7 +706,7 @@
       "id": "live-companies-railway-secures-100-million-to-challenge",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million...",
@@ -623,13 +715,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
-        "#AgenticAI",
         "#Google",
-        "#AISecurity",
+        "#AgenticAI",
+        "#Governance",
+        "#Microsoft",
         "#UnitedNations",
-        "#EUAIAct",
-        "#Governance"
+        "#AISecurity",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "details": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like Amazon Web Services and Google Cloud.&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a $20 million Series A from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network \u2014 metrics that rival far larger and better-funded competitors.Why three-minute deploy times have become unacceptable in the age of AI coding assistantsRailway&#x27;s pitch rests on a simple observation: the tools developers use to deploy and manage software were designed for a slower era. A standard build-and-deploy cycle using Terraform, the industry-standard infrastructure tool, takes two to three minutes. That delay, once tolerable, has become a critical bottleneck as AI coding assistants like Claude, ChatGPT, and Cursor can generate working code in seconds.&quot;When godly intelligence is on tap and can solve any problem in three seconds, those amalgamations of systems become bottlenecks,&quot; Cooper told VentureBeat. &quot;What was really cool for humans to deploy in 10 seconds or less is now table stakes for agents.&quot;The company claims its platform delivers deployments in under one second \u2014 fast enough to keep pace with AI-generated code. Customers report a tenfold increase in developer velocity and up to 65 percent cost savings compared to traditional cloud providers.These numbers come directly from enterprise clients, not internal benchmarks. Daniel Lobaton, chief technology officer at G2X, a platform serving 100,000 federal contractors, measured deployment speed improvements of seven times faster and an 87 percent cost reduction after migrating to Railway. His infrastructure bill dropped from $15,000 per month to approximately $1,000.&quot;The work that used to take me a week on our previous infrastructure, I can do in Railway in like a day,&quot; Lobaton said. &quot;If I want to spin up a new service and test different architectures, it would take so long on our old setup. In Railway I can launch six services in two minutes.&quot;Inside the controversial decision to abandon Google Cloud and build data centers from scratchWhat distinguishes Railway from competitors like Render and Fly.io is the depth of its vertical integration. In 2024, the company made the unusual decision to abandon Google Cloud entirely and build its own data centers, a move that echoes the famous Alan Kay maxim: &quot;People who are really serious about software should make their own hardware.&quot;&quot;We wanted to design hardware in a way where we could build a differentiated experience,&quot; Cooper said. &quot;Having full control over the network, compute, and storage layers lets us do really fast build and deploy loops, the kind that allows us to move at &#x27;agentic speed&#x27; while staying 100 percent the smoothest ride in town.&quot;The approach paid dividends during recent widespread outages that affected major cloud providers \u2014 Railway remained online throughout.This soup-to-nuts control enables pricing that undercuts the hyperscalers by roughly 50 percent and newer cloud startups by three to four times. Railway charges by the second for actual compute usage: $0.00000386 per gigabyte-second of memory, $0.00000772 per vCPU-second, and $0.00000006 per gigabyte-second of storage. There are no charges for idle virtual machines \u2014 a stark contrast to the traditional cloud model where customers pay for provisioned capacity whether they use it or not.&quot;The conventional wisdom is that the big guys have economies of scale to offer better pricing,&quot; Cooper noted. &quot;But when they&#x27;re charging for VMs that usually sit idle in the cloud, and we&#x27;ve purpose-built everything to fit much more density on these machines, you have a big opportunity.&quot;How 30 employees built a platform generating tens of millions in annual revenueRailway has achieved its scale with a team of just 30 employees generating tens of millions in annual revenue \u2014 a ratio of revenue per employee that would be exceptional even for established software companies. The company grew revenue 3.5 times last year and continues to expand at 15 percent month-over-month.Cooper emphasized that the fundraise was strategic rather than necessary. &quot;We&#x27;re default alive; there&#x27;s no reason for us to raise money,&quot; he said. &quot;We raised because we see a massive opportunity to accelerate, not because we needed to survive.&quot;The company hired its first salesperson only last year and employs just two solutions engineers. Nearly all of Railway&#x27;s two million users discovered the platform through word of mouth \u2014 developers telling other developers about a tool that actually works.&quot;We basically did the standard engineering thing: if you build it, they will come,&quot; Cooper recalled. &quot;And to some degree, they came.&quot;From side projects to Fortune 500 deployments: Railway&#x27;s unlikely corporate expansionDespite its grassroots developer community, Railway has made significant inroads into large organizations. The company claims that 31 percent of Fortune 500 companies now use its platform, though deployments range from company-wide infrastructure to individual team projects.Notable customers include Bilt, the loyalty program company; Intuit&#x27;s GoCo subsidiary; TripAdvisor&#x27;s Cruise Critic; and MGM Resorts. Kernel, a Y Combinator-backed startup providing AI infrastructure to over 1,000 companies, runs its entire customer-facing system on Railway for $444 per month.&quot;At my previous company Clever, which sold for $500 million, I had six full-time engineers just managing AWS,&quot; said Rafael Garcia, Kernel&#x27;s chief technology officer. &quot;Now I have six engineers total, and they all focus on product. Railway is exactly the tool I wish I had in 2012.&quot;For enterprise customers, Railway offers security certifications including SOC 2 Type 2 compliance and HIPAA readiness, with business associate agreements available upon request. The platform provides single sign-on authentication, comprehensive audit logs, and the option to deploy within a customer&#x27;s existing cloud environment through a &quot;bring your own cloud&quot; configuration.Enterprise pricing starts at custom levels, with specific add-ons for extended log retention ($200 monthly), HIPAA BAAs ($1,000), enterprise support with SLOs ($2,000), and dedicated virtual machines ($10,000).The startup&#x27;s bold strategy to take on Amazon, Google, and a new generation of cloud rivalsRailway enters a crowded market that includes not only the hyperscale cloud providers\u2014Amazon Web Services, Microsoft Azure, and Google Cloud Platform\u2014but also a growing cohort of developer-focused platforms like Vercel, Render, Fly.io, and Heroku.Cooper argues that Railway&#x27;s competitors fall into two camps, neither of which has fully committed to the new infrastructure model that AI demands.&quot;The hyperscalers have two competing systems, and they haven&#x27;t gone all-in on the new model because their legacy revenue stream is still printing money,&quot; he observed. &quot;They have this mammoth pool of cash coming from people who provision a VM, use maybe 10 percent of it, and still pay for the whole thing. To what end are they actually interested in going all the way in on a new experience if they don&#x27;t really need to?&quot;Against startup competitors, Railway differentiates by covering the full infrastructure stack. &quot;We&#x27;re not just containers; we&#x27;ve got VM primitives, stateful storage, virtual private networking, automated load balancing,&quot; Cooper said. &quot;And we wrap all of this in an absurdly easy-to-use UI, with agentic primitives so agents can move 1,000 times faster.&quot;The platform supports databases including PostgreSQL, MySQL, MongoDB, and Redis; provides up to 256 terabytes of persistent storage with over 100,000 input/output operations per second; and enables deployment to four global regions spanning the United States, Europe, and Southeast Asia. Enterprise customers can scale to 112 vCPUs and 2 terabytes of RAM per service.Why investors are betting that AI will create a thousand times more software than exists todayRailway&#x27;s fundraise reflects broader investor enthusiasm for companies positioned to benefit from the AI coding revolution. As tools like GitHub Copilot, Cursor, and Claude become standard fixtures in developer workflows, the volume of code being written \u2014 and the infrastructure needed to run it \u2014 is expanding dramatically.&quot;The amount of software that&#x27;s going to come online over the next five years is unfathomable compared to what existed before \u2014 we&#x27;re talking a thousand times more software,&quot; Cooper predicted. &quot;All of that has to run somewhere.&quot;The company has already integrated directly with AI systems, building what Cooper calls &quot;loops where Claude can hook in, call deployments, and analyze infrastructure automatically.&quot; Railway released a Model Context Protocol server in August 2025 that allows AI coding agents to deploy applications and manage infrastructure directly from code editors.&quot;The notion of a developer is melting before our eyes,&quot; Cooper said. &quot;You don&#x27;t have to be an engineer to engineer things anymore \u2014 you just need critical thinking and the ability to analyze things in a systems capacity.&quot;What Railway plans to do with $100 million and zero marketing experienceRailway plans to use the new capital to expand its global data center footprint, grow its team beyond 30 employees, and build what Cooper described as a proper go-to-market operation for the first time in the company&#x27;s five-year history.&quot;One of my mentors said you raise money when you can change the trajectory of the business,&quot; Cooper explained. &quot;We&#x27;ve built all the required substrate to scale indefinitely; what&#x27;s been holding us back is simply talking about it. 2026 is the year we play on the world stage.&quot;The company&#x27;s investor roster reads like a who&#x27;s who of developer infrastructure. Angel investors include Tom Preston-Werner, co-founder of GitHub; Guillermo Rauch, chief executive of Vercel; Spencer Kimball, chief executive of Cockroach Labs; Olivier Pomel, chief executive of Datadog; and Jori Lallo, co-founder of Linear.The timing of Railway&#x27;s expansion coincides with what many in Silicon Valley view as a fundamental shift in how software gets made. Coding assistants are no longer experimental curiosities \u2014 they have become essential tools that millions of developers rely on daily. Each line of AI-generated code needs somewhere to run, and the incumbents, by Cooper&#x27;s telling, are too wedded to their existing business models to fully capitalize on the moment.Whether Railway can translate developer enthusiasm into sustained enterprise adoption remains an open question. The cloud infrastructure market is littered with promising startups that failed to break the grip of Amazon, Microsoft, and Google. But Cooper, who previously worked as a software engineer at Wolfram Alpha, Bloomberg, and Uber before founding Railway in 2020, seems unfazed by the scale of his ambition.&quot;In five years, Railway [will be] the place where software gets created and evolved, period,&quot; he said. &quot;Deploy instantly, scale infinitely, with zero friction. That&#x27;s the prize worth playing for, and there&#x27;s no bigger one on offer.&quot;For a company that built a $100 million business by doing the opposite of what conventional startup wisdom dictates \u2014 no marketing, no sales team, no venture hype\u2014the real test begins now. Railway spent five years proving that developers would find a better mousetrap on their own. The next five will determine whether the rest of the world is ready to get on board."
@@ -638,7 +730,7 @@
       "id": "live-companies-claude-code-costs-up-to-200-a-month-goos",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "CRITICAL",
       "company": "VentureBeat Business",
       "tldr": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code a...",
@@ -647,13 +739,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
+        "#Google",
         "#AgenticAI",
         "#Meta",
-        "#Governance",
-        "#Google",
-        "#OpenAI",
         "#DeepSeek",
+        "#Anthropic",
+        "#OpenAI",
+        "#Governance",
         "#UnitedNations",
         "#NVIDIA",
         "#Reasoning"
@@ -665,7 +757,7 @@
       "id": "live-companies-listen-labs-raises-69m-after-viral-billb",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed im...",
@@ -686,7 +778,7 @@
       "id": "live-companies-salesforce-rolls-out-new-slackbot-ai-age",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "category": "companies",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives...",
@@ -695,14 +787,14 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
-        "#Microsoft",
         "#Google",
-        "#AISecurity",
-        "#OpenAI",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Governance"
+        "#Anthropic",
+        "#OpenAI",
+        "#Microsoft",
+        "#Governance",
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "details": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce&#x27;s most aggressive move yet to position Slack at the center of the emerging &quot;agentic AI&quot; movement \u2014 where software agents work alongside humans to complete complex tasks. The launch comes as Salesforce attempts to convince investors that artificial intelligence will bolster its products rather than render them obsolete.&quot;Slackbot isn&#x27;t just another copilot or AI assistant,&quot; said Parker Harris, Salesforce co-founder and Slack&#x27;s chief technology officer, in an exclusive interview with Salesforce. &quot;It&#x27;s the front door to the agentic enterprise, powered by Salesforce.&quot;From tricycle to Porsche: Salesforce rebuilt Slackbot from the ground upHarris was blunt about what distinguishes the new Slackbot from its predecessor: &quot;The old Slackbot was, you know, a little tricycle, and the new Slackbot is like, you know, a Porsche.&quot;The original Slackbot, which has existed since Slack&#x27;s early days, performed basic algorithmic tasks \u2014 reminding users to add colleagues to documents, suggesting channel archives, and delivering simple notifications. The new version runs on an entirely different architecture built around a large language model and sophisticated search capabilities that can access Salesforce records, Google Drive files, calendar data, and years of Slack conversations.&quot;It&#x27;s two different things,&quot; Harris explained. &quot;The old Slackbot was algorithmic and fairly simple. The new Slackbot is brand new \u2014 it&#x27;s based around an LLM and a very robust search engine, and connections to third-party search engines, third-party enterprise data.&quot;Salesforce chose to retain the Slackbot brand despite the fundamental technical overhaul. &quot;People know what Slackbot is, and so we wanted to carry that forward,&quot; Harris said.Why Anthropic&#x27;s Claude powers the new Slackbot \u2014 and which AI models could come nextThe new Slackbot runs on Claude, Anthropic&#x27;s large language model, a choice driven partly by compliance requirements. Slack&#x27;s commercial service operates under FedRAMP Moderate certification to serve U.S. federal government customers, and Harris said Anthropic was &quot;the only provider that could give us a compliant LLM&quot; when Slack began building the new system.But that exclusivity won&#x27;t last. &quot;We are, this year, going to support additional providers,&quot; Harris said. &quot;We have a great relationship with Google. Gemini is incredible \u2014 performance is great, cost is great. So we&#x27;re going to use Gemini for some things.&quot; He added that OpenAI remains a possibility as well.Harris echoed Salesforce CEO Marc Benioff&#x27;s view that large language models are becoming commoditized: &quot;You&#x27;ve heard Marc talk about LLMs are commodities, that they&#x27;re democratized. I call them CPUs.&quot;On the sensitive question of training data, Harris was unequivocal: Salesforce does not train any models on customer data. &quot;Models don&#x27;t have any sort of security,&quot; he explained. &quot;If we trained it on some confidential conversation that you and I have, I don&#x27;t want Carolyn to know \u2014 if I train it into the LLM, there is no way for me to say you get to see the answer, but Carolyn doesn&#x27;t.&quot;Inside Salesforce&#x27;s internal experiment: 80,000 employees tested Slackbot with striking resultsSalesforce has been testing the new Slackbot internally for months, rolling it out to all 80,000 employees. According to Ryan Gavin, Slack&#x27;s chief marketing officer, the results have been striking: &quot;It&#x27;s the fastest adopted product in Salesforce history.&quot;Internal data shows that two-thirds of Salesforce employees have tried the new Slackbot, with 80% of those users continuing to use it regularly. Internal satisfaction rates reached 96% \u2014 the highest for any AI feature Slack has shipped. Employees report saving between two and 20 hours per week.The adoption happened largely organically. &quot;I think it was about five days, and a Canvas was developed by our employees called &#x27;The Most Stealable Slackbot Prompts,&#x27;&quot; Gavin said. &quot;People just started adding to it organically. I think it&#x27;s up to 250-plus prompts that are in this Canvas right now.&quot;Kate Crotty, a principal UX researcher at Salesforce, found that 73% of internal adoption was driven by social sharing rather than top-down mandates. &quot;Everybody is there to help each other learn and communicate hacks,&quot; she said.How Slackbot transforms scattered enterprise data into executive-ready insightsDuring a product demonstration, Amy Bauer, Slack&#x27;s product experience designer, showed how Slackbot can synthesize information across multiple sources. In one example, she asked Slackbot to analyze customer feedback from a pilot program, upload an image of a usage dashboard, and have Slackbot correlate the qualitative and quantitative data.&quot;This is where Slackbot really earns its keep for me,&quot; Bauer explained. &quot;What it&#x27;s doing is not just simply reading the image \u2014 it&#x27;s actually looking at the image and comparing it to the insight it just generated for me.&quot;Slackbot can then query Salesforce to find enterprise accounts with open deals that might be good candidates for early access, creating what Bauer called &quot;a really great justification and plan to move forward.&quot; Finally, it can synthesize all that information into a Canvas \u2014 Slack&#x27;s collaborative document format \u2014 and find calendar availability among stakeholders to schedule a review meeting.&quot;Up until this point, we have been working in a one-to-one capacity with Slackbot,&quot; Bauer said. &quot;But one of the benefits that I can do now is take this insight and have it generate this into a Canvas, a shared workspace where I can iterate on it, refine it with Slackbot, or share it out with my team.&quot;Rob Seaman, Slack&#x27;s chief product officer, said the Canvas creation demonstrates where the product is heading: &quot;This is making a tool call internally to Slack Canvas to actually write, effectively, a shared document. But it signals where we&#x27;re going with Slackbot \u2014 we&#x27;re eventually going to be adding in additional third-party tool calls.&quot;MrBeast&#x27;s company became a Slackbot guinea pig\u2014and employees say they&#x27;re saving 90 minutes a dayAmong Salesforce&#x27;s pilot customers is Beast Industries, the parent company of YouTube star MrBeast. Luis Madrigal, the company&#x27;s chief information officer, joined the launch announcement to describe his experience.&quot;As somebody who has rolled out enterprise technologies for over two decades now, this was practically one of the easiest,&quot; Madrigal said. &quot;The plumbing is there. Slack as an implementation, Enterprise Tools \u2014 being able to turn on the Slackbot and the Slack AI functionality was as simple as having my team go in, review, do a quick security review.&quot;Madrigal said his security team signed off &quot;rather quickly&quot; \u2014 unusual for enterprise AI deployments \u2014 because Slackbot accesses only the information each individual user already has permission to view. &quot;Given all the guardrails you guys have put into place for Slackbot to be unique and customized to only the information that each individual user has, only the conversations and the Slack rooms and Slack channels that they&#x27;re part of\u2014that made my security team sign off rather quickly.&quot;One Beast Industries employee, Sinan, the head of Beast Games marketing, reported saving &quot;at bare minimum, 90 minutes a day.&quot; Another employee, Spencer, a creative supervisor, described it as &quot;an assistant who&#x27;s paying attention when I&#x27;m not.&quot;Other pilot customers include Slalom, reMarkable, Xero, Mercari, and Engine. Mollie Bodensteiner, SVP of Operations at Engine, called Slackbot &quot;an absolute &#x27;chaos tamer&#x27; for our team,&quot; estimating it saves her about 30 minutes daily &quot;just by eliminating context switching.&quot;Slackbot vs. Microsoft Copilot vs. Google Gemini: The fight for enterprise AI dominanceThe launch puts Salesforce in direct competition with Microsoft&#x27;s Copilot, which is integrated into Teams and the broader Microsoft 365 suite, as well as Google&#x27;s Gemini integrations across Workspace. When asked what distinguishes Slackbot from these alternatives, Seaman pointed to context and convenience.&quot;The thing that makes it most powerful for our customers and users is the proximity \u2014 it&#x27;s just right there in your Slack,&quot; Seaman said. &quot;There&#x27;s a tremendous convenience affordance that&#x27;s naturally built into it.&quot;The deeper advantage, executives argue, is that Slackbot already understands users&#x27; work without requiring setup or training. &quot;Most AI tools sound the same no matter who is using them,&quot; the company&#x27;s announcement stated. &quot;They lack context, miss nuance, and force you to jump between tools to get anything done.&quot;Harris put it more directly: &quot;If you&#x27;ve ever had that magic experience with AI \u2014 I think ChatGPT is a great example, it&#x27;s a great experience from a consumer perspective \u2014 Slackbot is really what we&#x27;re doing in the enterprise, to be this employee super agent that is loved, just like people love using Slack.&quot;Amy Bauer emphasized the frictionless nature of the experience. &quot;Slackbot is inherently grounded in the context, in the data that you have in Slack,&quot; she said. &quot;So as you continue working in Slack, Slackbot gets better because it&#x27;s grounded in the work that you&#x27;re doing there. There is no setup. There is no configuration for those end users.&quot;Salesforce&#x27;s ambitious plan to make Slackbot the one &#x27;super agent&#x27; that controls all the othersSalesforce positions Slackbot as what Harris calls a &quot;super agent&quot; \u2014 a central hub that can eventually coordinate with other AI agents across an organization.&quot;Every corporation is going to have an employee super agent,&quot; Harris said. &quot;Slackbot is essentially taking the magic of what Slack does. We think that Slackbot, and we&#x27;re really excited about it, is going to be that.&quot;The vision extends to third-party agents already launching in Slack. Last month, Anthropic released a preview of Claude Code for Slack, allowing developers to interact with Claude&#x27;s coding capabilities directly in chat threads. OpenAI, Google, Vercel, and others have also built agents for the platform.&quot;Most of the net-new apps that are being deployed to Slack are agents,&quot; Seaman noted during the press conference. &quot;This is proof of the promise of humans and agents coexisting and working together in Slack to solve problems.&quot;Harris described a future where Slackbot becomes an MCP (Model Context Protocol) client, able to leverage tools from across the software ecosystem \u2014 similar to how the developer tool Cursor works. &quot;Slack can be an MCP client, and Slackbot will be the hub of that, leveraging all these tools out in the world, some of which will be these amazing agents,&quot; he said.But Harris also cautioned against over-promising on multi-agent coordination. &quot;I still think we&#x27;re in the single agent world,&quot; he said. &quot;FY26 is going to be the year where we started to see more coordination. But we&#x27;re going to do it with customer success in mind, and not demonstrate and talk about, like, &#x27;I&#x27;ve got 1,000 agents working together,&#x27; because I think that&#x27;s unrealistic.&quot;Slackbot costs nothing extra, but Salesforce&#x27;s data access fees could squeeze some customersSlackbot is included at no additional cost for customers on Business+ and Enterprise+ plans. &quot;There&#x27;s no additional fees customers have to do,&quot; Gavin confirmed. &quot;If they&#x27;re on one of those plans, they&#x27;re going to get Slackbot.&quot;However, some enterprise customers may face other cost pressures related to Salesforce&#x27;s broader data strategy. CIOs may see price increases for third-party applications that work with Salesforce data, as effects of higher charges for API access ripple through the software supply chain.Fivetran CEO George Fraser has warned that Salesforce&#x27;s shift in pricing policy for API access could have tangible consequences for enterprises relying on Salesforce as a system of record. &quot;They might not be able to use Fivetran to replicate their data to Snowflake and instead have to use Salesforce Data Cloud. Or they might find that they are not able to interact with their data via ChatGPT, and instead have to use Agentforce,&quot; Fraser said in a recent CIO report.Salesforce has framed the pricing change as standard industry practice.What Slackbot can do today, what&#x27;s coming in weeks, and what&#x27;s still on the roadmapThe new Slackbot begins rolling out today and will reach all eligible customers by the end of February. Mobile availability will complete by March 3, Bauer confirmed during her interview with VentureBeat.Some capabilities remain works in progress. Calendar reading and availability checking are available at launch, but the ability to actually book meetings is &quot;coming a few weeks after,&quot; according to Seaman. Image generation is not currently supported, though Bauer said it&#x27;s &quot;something that we are looking at in the future.&quot;When asked about integration with competing CRM systems like HubSpot and Microsoft Dynamics, Salesforce representatives declined to provide specifics during the interview, though they acknowledged the question touched on key competitive differentiators.Salesforce is betting the future of work looks like a chat window\u2014and it&#x27;s not aloneThe Slackbot launch is Salesforce&#x27;s bet that the future of enterprise work is conversational \u2014 that employees will increasingly prefer to interact with AI through natural language rather than navigating traditional software interfaces.Harris described Slack&#x27;s product philosophy using principles like &quot;don&#x27;t make me think&quot; and &quot;be a great host.&quot; The goal, he said, is for Slackbot to surface information proactively rather than requiring users to hunt for it.&quot;One of the revelations for me is LLMs applied to unstructured information are incredible,&quot; Harris said. &quot;And the amount of value you have if you&#x27;re a Slack user, if your corporation uses Slack \u2014 the amount of value in Slack is unbelievable. Because you&#x27;re talking about work, you&#x27;re sharing documents, you&#x27;re making decisions, but you can&#x27;t as a human go through that and really get the same value that an LLM can do.&quot;Looking ahead, Harris expects the interfaces themselves to evolve beyond pure conversation. &quot;We&#x27;re kind of saturating what we can do with purely conversational UIs,&quot; he said. &quot;I think we&#x27;ll start to see agents building an interface that best suits your intent, as opposed to trying to surface something within a conversational interface that matches your intent.&quot;Microsoft, Google, and a growing roster of AI startups are placing similar bets \u2014 that the winning enterprise AI will be the one embedded in the tools workers already use, not another application to learn. The race to become that invisible layer of workplace intelligence is now fully underway.For Salesforce, the stakes extend beyond a single product launch. After a bruising year on Wall Street and persistent questions about whether AI threatens its core business, the company is wagering that Slackbot can prove the opposite \u2014 that the tens of millions of people already chatting in Slack every day is not a vulnerability, but an unassailable advantage.Haley Gault, the Salesforce account executive in Pittsburgh who stumbled upon the new Slackbot on a snowy morning, captured the shift in a single sentence: &quot;I honestly can&#x27;t imagine working for another company not having access to these types of tools. This is just how I work now.&quot;That&#x27;s precisely what Salesforce is counting on."
@@ -711,7 +803,7 @@
       "id": "live-fellowships-podcast-the-legacy-survey-of-space-and-t",
       "title": "Podcast: The Legacy Survey of Space and Time (LSST)",
       "category": "fellowships",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF Noirlab&#039;s Robert Blum discusses NSF-DOE Vera C. Rubin Observatory&#039;s signature mission, the Legacy Survey of Space and Time, and how it will transform the way we study...",
@@ -729,7 +821,7 @@
       "id": "live-fellowships-podcast-new-telescope-to-transform-study",
       "title": "Podcast: New telescope to transform study of universe",
       "category": "fellowships",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "As the 10-year Legacy Survey of Space and Time officially starts, Edward Ajhar discusses the NSF-DOE Vera C. Rubin Observatory and how it will transform the way people study the un...",
@@ -747,7 +839,7 @@
       "id": "live-fellowships-new-nsf-state-and-regional-ai-infrastruc",
       "title": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across t",
       "category": "fellowships",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "New initiative will accelerate AI-enabled scientific discovery by expanding access to compute for researchers, students and educators through regional partnerships among state and ...",
@@ -765,7 +857,7 @@
       "id": "live-fellowships-nsf-stands-up-2-materials-innovation-pla",
       "title": "NSF stands up 2 Materials Innovation Platforms with $50M investment",
       "category": "fellowships",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions,...",
@@ -783,7 +875,7 @@
       "id": "live-fellowships-building-the-future-atom-by-atom-nsf-dep",
       "title": "Building the future, atom by atom \u2014 NSF deploys $108M for materials science at 6 research centers",
       "category": "fellowships",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation is pushing materials science beyond the state-of-the-art with an investment of $108 million in six advanced research centers. The centers will ...",
@@ -798,10 +890,28 @@
       "details": "The U.S. National Science Foundation is pushing materials science beyond the state-of-the-art with an investment of $108 million in six advanced research centers. The centers will explore a broad range of scientific frontiers, such as exotic\u2026"
     },
     {
+      "id": "live-military-army-picks-m1-to-lead-10b-helicopter-sch",
+      "title": "Army picks M1 to lead $10B helicopter-school transformation",
+      "category": "military",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "The aviation-services firm beat out Bell and Lockheed Martin.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/business/2026/08/army-picks-m1-lead-10b-helicopter-school-transformation/415439/",
+      "details": "The aviation-services firm beat out Bell and Lockheed Martin."
+    },
+    {
       "id": "live-military-new-us-security-entities-hint-at-more-la",
       "title": "New US security entities hint at more Latin American operations",
       "category": "military",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "A new task force and coordinating body suggest SOUTHCOM senses a need for cooperation in the region.",
@@ -819,7 +929,7 @@
       "id": "live-military-as-warfare-becomes-engineering-the-era-o",
       "title": "As warfare becomes engineering, the era of the digital mercenary dawns",
       "category": "military",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The White House revives \u201cprivateering for the digital age\u201d by authorizing cyber firms to strike foreign targets.",
@@ -837,7 +947,7 @@
       "id": "live-military-intel-ops-are-underway-at-space-command-",
       "title": "Intel ops are underway at Space Command\u2019s nascent Alabama HQ",
       "category": "military",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Alabama landed SPACECOM after a years-long political fight. Now it\u2019s getting off the ground.",
@@ -855,7 +965,7 @@
       "id": "live-military-pentagon-hands-palantir-up-to-244m-in-no",
       "title": "Pentagon hands Palantir up to $244M in no-bid work",
       "category": "military",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "A memo orders agencies to find uses for the company's software, but is mute on the required justifications for sole-source work.",
@@ -870,28 +980,10 @@
       "details": "A memo orders agencies to find uses for the company's software, but is mute on the required justifications for sole-source work."
     },
     {
-      "id": "live-military-iran-war-reveals-protection-of-space-ass",
-      "title": "Iran war reveals protection of space assets on bases has to \u2018evolve,\u2019 top general says",
-      "category": "military",
-      "date": "2026-08-14",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Key radars have been hit during Epic Fury, Gen. Whiting says.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/08/iran-war-reveals-protection-space-assets-bases-has-evolve-top-general-says/415389/",
-      "details": "Key radars have been hit during Epic Fury, Gen. Whiting says."
-    },
-    {
       "id": "live-governance-nist-national-construction-safety-team-a",
       "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 202",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
@@ -909,7 +1001,7 @@
       "id": "live-governance-nist-researchers-correct-common-error-co",
       "title": "NIST Researchers Correct Common Error Confounding Nanotech Measurements",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
@@ -918,8 +1010,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -928,7 +1020,7 @@
       "id": "live-governance-spooky-particles-transit-dc-suburbs-a-st",
       "title": "\u2018Spooky\u2019 Particles Transit DC Suburbs, a Step Toward a Quantum Network",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
@@ -946,7 +1038,7 @@
       "id": "live-governance-nist-joins-national-genesis-mission-to-a",
       "title": "NIST Joins National Genesis Mission to Accelerate AI Innovation",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "NIST will execute two of its efforts through its Centers for AI in Manufacturing and Critical Infrastructure.",
@@ -964,7 +1056,7 @@
       "id": "live-governance-nist-announces-funding-opportunity-for-1",
       "title": "NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufac",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications.",
@@ -973,8 +1065,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
       "details": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications."
@@ -983,7 +1075,7 @@
       "id": "live-governance-join-the-inaugural-d-tect-forum",
       "title": "Join the Inaugural D-TECT Forum",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mecha...",
@@ -992,10 +1084,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
       "details": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mechanism for drone and counter-drone technologies. \u00a9 Marcus Jacobi The European Commission invites interested organisations to join the inaugural D-Tect Forum on 11 November 2026. We are looking for companies, research organisations, universities, industry associations, standardisation bodies and innovation networks active in the drones domain. The inaugural Forum aims to gather 100+ high-level leaders to advance Europe\u2019s ambitions in Drone and Counter-Drone technology. Participants will explore near-term cooperation across the full drone and counter-drone value chain, including detection, tracking and neutralisation systems, autonomy and AI-enabled navigation, sensing and electronic warfare, secure connectivity, and the enabling technologies that underpin them, such as semiconductors, cloud, cyber and data. The priorities and composition of the thematic Working Groups will be defined during the Forum. To participate in the event, please submit your application. This form is also a registration to the Call of Expression of Interest to join future events of the D-TECT forum. Please note that submitting an application does not by itself confirm your registration for the inaugural Forum. Further, results of membership applications will be communicated after the event. Downloads Call for Expression of interest - \u200b\u200b\u200bDrone Tech for Countering Threats Forum\u200b Download&nbsp; Privacy statement - Drone Tech for Countering Threats (D-TECT) Forum Download&nbsp; Terms of reference - Drone Tech for Countering Threats Forum Download&nbsp; Related topics Cybersecurity Tech sovereignty Hybrid security threats"
@@ -1004,7 +1096,7 @@
       "id": "live-governance-commission-starts-enforcing-ai-act-rules",
       "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August Anonymous (not verified) Fri, 07/31/2026 - 09:00 From 2 August 2026, the European Commission\u2019...",
@@ -1013,9 +1105,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
       "details": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August Anonymous (not verified) Fri, 07/31/2026 - 09:00 From 2 August 2026, the European Commission\u2019s AI Office, together with national authorities, will begin enforcing the Artificial Intelligence (AI) Act. On the same date, new transparency rules will start to apply, requiring certain AI systems to tell users when they are interacting with AI and when content has been generated or altered by it. Under the new rules, chatbots and other interactive AI systems will have to tell users they are dealing with AI, not a human. Deepfakes (images, videos, or audio that have been edited or generated using AI) will have to be labelled. AI-generated or altered content will also have to carry machine-readable marks so it can be detected more easily. The measures are intended to reduce deception and manipulation and help people make informed choices. They also give businesses clearer obligations and a practical way to show compliance. The Commission published a first list of more than 180 organisations that have signed the Code of Practice on transparency of AI-generated content that operationalises the rules on transparency of AI-generated content. Read the full press release. Read more about the Enforcement of the AI Act and the: AI Act complaints tool AI Act Whistleblower Tool Complaints channel for downstream providers using general-purpose AI models Find more information about: Guidelines on Transparency of AI-generated Content General-Purpose AI (GPAI) Code of Practice Guidelines for providers of GPAI models Guidelines on prohibited AI practices Related topics Artificial intelligence"
@@ -1024,7 +1116,7 @@
       "id": "live-governance-eu-support-for-the-news-media-sector",
       "title": "EU support for the news media sector",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "EU support for the news media sector anserge Fri, 07/31/2026 - 09:00 The European Commission works to address structural challenges in media sectors and to promote a free, diverse ...",
@@ -1033,9 +1125,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/eu-support-news-media-sector",
       "details": "EU support for the news media sector anserge Fri, 07/31/2026 - 09:00 The European Commission works to address structural challenges in media sectors and to promote a free, diverse and pluralistic media environment. image by Laurence Dutton by Getty/iStock The Commission aims to support projects that promote a free, diverse and pluralistic media environment, address structural challenges of the media sectors and/or improve citizens' access to quality information. Examples include supporting collaborative journalism, monitoring risks to media pluralism, mapping violations of media freedom, defending journalists under threat, supporting media literacy and strengthening the European public sphere. In short, the European Union supports the news media sector primarily through several instruments: The \u2018Multimedia Actions\u2019 line to fund independent news media coverage of EU affairs. Actions under its Creative Europe programme to support media pluralism and freedom, media collaborations and media literacy. Actions part of innovation programmes (Digital Europe, Horizon Europe). And Pilot Projects and Preparatory Actions proposed by the European Parliament on an annual basis.&nbsp; The available budget amounts to approximately \u20ac50 million per year. The News Infosheet (updated July 2026) &nbsp; Subscribe to the latest news on this topic and more &nbsp; See also Stay tuned for EU calls for the media sector Related topics Media and democracy Media freedom and pluralism Media Freedom and Pluralism Pilot projects MEDIA programme Disinformation Support for the news media sector"
@@ -1044,7 +1136,7 @@
       "id": "live-governance-eu-launches-ai-gigafactories-call-to-boo",
       "title": "EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than \u20ac30 bill",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than \u20ac30 billion in investment Anonymous (not verified) Thu, 07/30/2026 - 11:50 The EU has la...",
@@ -1053,10 +1145,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-launches-ai-gigafactories-call-boost-europes-computing-capacity-and-unlock-more-eu30-billion",
       "details": "EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than \u20ac30 billion in investment Anonymous (not verified) Thu, 07/30/2026 - 11:50 The EU has launched a call for tenders to establish up to seven AI Gigafactories across Europe, as part of its latest major push to accelerate Europe's technological sovereignty and ambition of becoming the AI Continent. AdobeStock \u00a9 Tikka MS Led by industry and supported by up to \u20ac10 billion in EU and national funding, the initiative is expected to unlock at least \u20ac20 billion in private investment across the Union. It will expand Europe's AI computing capacity and give start-ups, scale-ups, small and medium-sized enterprises, industry, academia and public authorities access to infrastructure for training, inference and fine-tuning advanced frontier AI models. The AI Gigafactories will combine advanced AI processors, software and cloud technology stacks, high-speed connectivity and energy-efficient data centres. Together with Europe's network of 19 AI Factories, they will strengthen Europe's technological leadership, resilience and strategic autonomy. The initiative will ensure that Europe can develop advanced AI on its own infrastructure, in line with EU rules and values. AI technologies developed in the AI Gigafactories will follow EU standards on data protection, safety, security and ethics. Read the full press release. Find more information: Strengthening Europe's Tech Sovereignty AI Continent Action Plan European High Performance Computing Joint Undertaking Tender Documents Related topics Advanced Digital Technologies High Performance Computing - HPC Artificial intelligence Funding for Digital Tech sovereignty Related content Call document01 July 2026Presentations from Info Session on AI Gigafactories InitiativeOn 16 June, the EuroHPC Joint Undertaking organised a dedicated online information session on the upcoming AI Gigafactories initiative. The presentations are now available."
@@ -1065,7 +1157,7 @@
       "id": "live-governance-ai-powered-robotics-in-europe-live-demon",
       "title": "AI-powered robotics in Europe: Live demonstrations and strategic debate",
       "category": "governance",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "AI-powered robotics in Europe: Live demonstrations and strategic debate Anonymous (not verified) Fri, 07/24/2026 - 14:32 &nbsp; 02 September 2026 The European Parliament will host ...",
@@ -1074,13 +1166,104 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance",
         "#EUAIAct",
-        "#Reasoning"
+        "#Reasoning",
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/ai-powered-robotics-europe-live-demonstrations-and-strategic-debate",
       "details": "AI-powered robotics in Europe: Live demonstrations and strategic debate Anonymous (not verified) Fri, 07/24/2026 - 14:32 &nbsp; 02 September 2026 The European Parliament will host a gathering of policymakers, industry leaders, researchers, alongside live demonstrations of cutting-edge robots, to set the course for the EU\u2019s future in robotics. Europe is already a global leader in robotics research, development and innovation. As advances in artificial intelligence (AI) are accelerating the emergence of physical AI\u2014robots capable of perceiving, reasoning and acting in the physical world\u2014there is a growing opportunity for Europe to translate its scientific excellence into industrial leadership. Strengthening Europe\u2019s position in AI powered robotics is essential to enhance its competitiveness, reinforce its technological sovereignty, and ensure that the next generation of AI powered robotics is developed and deployed in line with European values and strategic interests. This event will convene policymakers, industry representatives and academics to discuss how Europe can strengthen its leadership in AI-powered robotics and physical AI, including through a coordinated European initiative for AI-powered robotics that accelerates innovation, industrial deployment and investment. The discussion will build on existing European initiatives, including the AI Continent Action Plan and the Apply AI Strategy, and explore how these can help position Europe at the forefront of the next generation of AI-powered robotics. It will also feature live demonstrations by 20 to 30 of Europe\u2019s most advanced AI-powered robots, showcasing how robotics can contribute to addressing key societal and economic needs. Agenda Robotics demo opening - including speeches by senior representatives of the European institutions, MEP Axel Voss and Prof. Alin Albu-Sch\u00e4ffer (euROBIN) (30 min) Live demonstration with 20-30 of Europe\u2019s most advanced AI-powered robots (30 min) Round table discussion (1 hour and 30 min) Open demos, networking session (1 hour) This invitation-only event is organised by euROBIN, the European Network of Excellence in Robotics, funded by Horizon Europe. euROBIN is building a shared European ecosystem for intelligent robotics, with a scientific focus on enabling AI-powered robots to transfer knowledge and skills across different robots, tasks and environments. Its core consortium brings together 31 partners from 14 countries and 26 European cities, with a further 39 partners supported through cascade funding. Contact mailto:EP-RoboticsEvent@eurobin-project.eu Related topics Robotics Artificial intelligence"
+    },
+    {
+      "id": "live-multilateral-warned-but-not-protected-four-in-ten-adu",
+      "title": "\u2018Warned but not protected\u2019: Four in ten adults in England ignore heat alerts",
+      "category": "multilateral",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "As amber heat-health alerts spread across England this summer, a new study has found that the warnings are being received \u2013 but not changing behaviour.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "details": "As amber heat-health alerts spread across England this summer, a new study has found that the warnings are being received \u2013 but not changing behaviour."
+    },
+    {
+      "id": "live-multilateral-ebola-is-winning-epidemic-now-killing-on",
+      "title": "\u2018Ebola is winning\u2019: Epidemic now killing one person every 30 minutes",
+      "category": "multilateral",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) \u2013 the fastest-growing on record and on track to become the deadliest \u2013 is killing one person every 30 minut...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "details": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) \u2013 the fastest-growing on record and on track to become the deadliest \u2013 is killing one person every 30 minutes."
+    },
+    {
+      "id": "live-multilateral-900-obstacles-and-counting-west-bank-fam",
+      "title": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "category": "multilateral",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access re...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "details": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-an-attack-on-healthcare-every-six-hours-",
+      "title": "An attack on healthcare every six hours, and no one held to account",
+      "category": "multilateral",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Across the world, healthcare has suffered more than 10,000 attacks in the past eight years, including during the brutal conflict in Ukraine and efforts to contain the current Ebola...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "details": "Across the world, healthcare has suffered more than 10,000 attacks in the past eight years, including during the brutal conflict in Ukraine and efforts to contain the current Ebola outbreak spreading rapidly in the eastern Democratic Republic of the Congo (DRC).&nbsp;"
+    },
+    {
+      "id": "live-multilateral-meth-trafficking-across-middle-east-beco",
+      "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "category": "multilateral",
+      "date": "2026-08-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Authorities in Iran intercepted 3,663 kilogrammes of methamphetamines headed for Europe and the Persian Gulf in the first quarter of 2026, according to the UN\u2019s drugs and crime fig...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "details": "Authorities in Iran intercepted 3,663 kilogrammes of methamphetamines headed for Europe and the Persian Gulf in the first quarter of 2026, according to the UN\u2019s drugs and crime fighting agency (UNODC)."
     }
   ]
 }
