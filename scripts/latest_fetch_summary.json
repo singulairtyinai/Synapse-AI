@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-18T20:26:08.436084",
-  "fetched_count": 65,
+  "timestamp": "2026-08-19T01:19:53.518814",
+  "fetched_count": 60,
   "nodes": [
     {
       "id": "live-overall-the-download-how-people-really-use-ai-an",
       "title": "The Download: how people really use AI, and Flock\u2019s design choices",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don\u2019t know how people...",
@@ -25,7 +25,7 @@
       "id": "live-overall-we-still-don-t-know-how-people-are-reall",
       "title": "We still don\u2019t know how people are really using AI",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI re...",
@@ -35,8 +35,8 @@
       },
       "tags": [
         "#OpenAI",
-        "#Anthropic",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Anthropic"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
       "details": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; \u201cThere is no independent source to corroborate it,\u201d says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;"
@@ -45,7 +45,7 @@
       "id": "live-overall-the-role-of-the-astronaut-is-in-flux",
       "title": "The role of the astronaut is in flux",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "When the four astronauts on board NASA\u2019s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing...",
@@ -63,7 +63,7 @@
       "id": "live-overall-ai-s-recursive-self-improvement-might-no",
       "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for t...",
@@ -81,7 +81,7 @@
       "id": "live-overall-what-flock-s-defenders-are-missing",
       "title": "What Flock\u2019s defenders are missing",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known fo...",
@@ -99,7 +99,7 @@
       "id": "live-overall-google-just-redesigned-the-search-box-fo",
       "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more th",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list...",
@@ -108,10 +108,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AgenticAI",
         "#Google",
         "#EUAIAct",
-        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
@@ -121,7 +121,7 @@
       "id": "live-overall-railway-secures-100-million-to-challenge",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million...",
@@ -130,13 +130,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Microsoft",
+        "#Governance",
         "#AISecurity",
-        "#Google",
-        "#EUAIAct",
         "#UnitedNations",
-        "#Governance"
+        "#AgenticAI",
+        "#Google",
+        "#Microsoft",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "details": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like Amazon Web Services and Google Cloud.&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a $20 million Series A from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network \u2014 metrics that rival far larger and better-funded competitors.Why three-minute deploy times have become unacceptable in the age of AI coding assistantsRailway&#x27;s pitch rests on a simple observation: the tools developers use to deploy and manage software were designed for a slower era. A standard build-and-deploy cycle using Terraform, the industry-standard infrastructure tool, takes two to three minutes. That delay, once tolerable, has become a critical bottleneck as AI coding assistants like Claude, ChatGPT, and Cursor can generate working code in seconds.&quot;When godly intelligence is on tap and can solve any problem in three seconds, those amalgamations of systems become bottlenecks,&quot; Cooper told VentureBeat. &quot;What was really cool for humans to deploy in 10 seconds or less is now table stakes for agents.&quot;The company claims its platform delivers deployments in under one second \u2014 fast enough to keep pace with AI-generated code. Customers report a tenfold increase in developer velocity and up to 65 percent cost savings compared to traditional cloud providers.These numbers come directly from enterprise clients, not internal benchmarks. Daniel Lobaton, chief technology officer at G2X, a platform serving 100,000 federal contractors, measured deployment speed improvements of seven times faster and an 87 percent cost reduction after migrating to Railway. His infrastructure bill dropped from $15,000 per month to approximately $1,000.&quot;The work that used to take me a week on our previous infrastructure, I can do in Railway in like a day,&quot; Lobaton said. &quot;If I want to spin up a new service and test different architectures, it would take so long on our old setup. In Railway I can launch six services in two minutes.&quot;Inside the controversial decision to abandon Google Cloud and build data centers from scratchWhat distinguishes Railway from competitors like Render and Fly.io is the depth of its vertical integration. In 2024, the company made the unusual decision to abandon Google Cloud entirely and build its own data centers, a move that echoes the famous Alan Kay maxim: &quot;People who are really serious about software should make their own hardware.&quot;&quot;We wanted to design hardware in a way where we could build a differentiated experience,&quot; Cooper said. &quot;Having full control over the network, compute, and storage layers lets us do really fast build and deploy loops, the kind that allows us to move at &#x27;agentic speed&#x27; while staying 100 percent the smoothest ride in town.&quot;The approach paid dividends during recent widespread outages that affected major cloud providers \u2014 Railway remained online throughout.This soup-to-nuts control enables pricing that undercuts the hyperscalers by roughly 50 percent and newer cloud startups by three to four times. Railway charges by the second for actual compute usage: $0.00000386 per gigabyte-second of memory, $0.00000772 per vCPU-second, and $0.00000006 per gigabyte-second of storage. There are no charges for idle virtual machines \u2014 a stark contrast to the traditional cloud model where customers pay for provisioned capacity whether they use it or not.&quot;The conventional wisdom is that the big guys have economies of scale to offer better pricing,&quot; Cooper noted. &quot;But when they&#x27;re charging for VMs that usually sit idle in the cloud, and we&#x27;ve purpose-built everything to fit much more density on these machines, you have a big opportunity.&quot;How 30 employees built a platform generating tens of millions in annual revenueRailway has achieved its scale with a team of just 30 employees generating tens of millions in annual revenue \u2014 a ratio of revenue per employee that would be exceptional even for established software companies. The company grew revenue 3.5 times last year and continues to expand at 15 percent month-over-month.Cooper emphasized that the fundraise was strategic rather than necessary. &quot;We&#x27;re default alive; there&#x27;s no reason for us to raise money,&quot; he said. &quot;We raised because we see a massive opportunity to accelerate, not because we needed to survive.&quot;The company hired its first salesperson only last year and employs just two solutions engineers. Nearly all of Railway&#x27;s two million users discovered the platform through word of mouth \u2014 developers telling other developers about a tool that actually works.&quot;We basically did the standard engineering thing: if you build it, they will come,&quot; Cooper recalled. &quot;And to some degree, they came.&quot;From side projects to Fortune 500 deployments: Railway&#x27;s unlikely corporate expansionDespite its grassroots developer community, Railway has made significant inroads into large organizations. The company claims that 31 percent of Fortune 500 companies now use its platform, though deployments range from company-wide infrastructure to individual team projects.Notable customers include Bilt, the loyalty program company; Intuit&#x27;s GoCo subsidiary; TripAdvisor&#x27;s Cruise Critic; and MGM Resorts. Kernel, a Y Combinator-backed startup providing AI infrastructure to over 1,000 companies, runs its entire customer-facing system on Railway for $444 per month.&quot;At my previous company Clever, which sold for $500 million, I had six full-time engineers just managing AWS,&quot; said Rafael Garcia, Kernel&#x27;s chief technology officer. &quot;Now I have six engineers total, and they all focus on product. Railway is exactly the tool I wish I had in 2012.&quot;For enterprise customers, Railway offers security certifications including SOC 2 Type 2 compliance and HIPAA readiness, with business associate agreements available upon request. The platform provides single sign-on authentication, comprehensive audit logs, and the option to deploy within a customer&#x27;s existing cloud environment through a &quot;bring your own cloud&quot; configuration.Enterprise pricing starts at custom levels, with specific add-ons for extended log retention ($200 monthly), HIPAA BAAs ($1,000), enterprise support with SLOs ($2,000), and dedicated virtual machines ($10,000).The startup&#x27;s bold strategy to take on Amazon, Google, and a new generation of cloud rivalsRailway enters a crowded market that includes not only the hyperscale cloud providers\u2014Amazon Web Services, Microsoft Azure, and Google Cloud Platform\u2014but also a growing cohort of developer-focused platforms like Vercel, Render, Fly.io, and Heroku.Cooper argues that Railway&#x27;s competitors fall into two camps, neither of which has fully committed to the new infrastructure model that AI demands.&quot;The hyperscalers have two competing systems, and they haven&#x27;t gone all-in on the new model because their legacy revenue stream is still printing money,&quot; he observed. &quot;They have this mammoth pool of cash coming from people who provision a VM, use maybe 10 percent of it, and still pay for the whole thing. To what end are they actually interested in going all the way in on a new experience if they don&#x27;t really need to?&quot;Against startup competitors, Railway differentiates by covering the full infrastructure stack. &quot;We&#x27;re not just containers; we&#x27;ve got VM primitives, stateful storage, virtual private networking, automated load balancing,&quot; Cooper said. &quot;And we wrap all of this in an absurdly easy-to-use UI, with agentic primitives so agents can move 1,000 times faster.&quot;The platform supports databases including PostgreSQL, MySQL, MongoDB, and Redis; provides up to 256 terabytes of persistent storage with over 100,000 input/output operations per second; and enables deployment to four global regions spanning the United States, Europe, and Southeast Asia. Enterprise customers can scale to 112 vCPUs and 2 terabytes of RAM per service.Why investors are betting that AI will create a thousand times more software than exists todayRailway&#x27;s fundraise reflects broader investor enthusiasm for companies positioned to benefit from the AI coding revolution. As tools like GitHub Copilot, Cursor, and Claude become standard fixtures in developer workflows, the volume of code being written \u2014 and the infrastructure needed to run it \u2014 is expanding dramatically.&quot;The amount of software that&#x27;s going to come online over the next five years is unfathomable compared to what existed before \u2014 we&#x27;re talking a thousand times more software,&quot; Cooper predicted. &quot;All of that has to run somewhere.&quot;The company has already integrated directly with AI systems, building what Cooper calls &quot;loops where Claude can hook in, call deployments, and analyze infrastructure automatically.&quot; Railway released a Model Context Protocol server in August 2025 that allows AI coding agents to deploy applications and manage infrastructure directly from code editors.&quot;The notion of a developer is melting before our eyes,&quot; Cooper said. &quot;You don&#x27;t have to be an engineer to engineer things anymore \u2014 you just need critical thinking and the ability to analyze things in a systems capacity.&quot;What Railway plans to do with $100 million and zero marketing experienceRailway plans to use the new capital to expand its global data center footprint, grow its team beyond 30 employees, and build what Cooper described as a proper go-to-market operation for the first time in the company&#x27;s five-year history.&quot;One of my mentors said you raise money when you can change the trajectory of the business,&quot; Cooper explained. &quot;We&#x27;ve built all the required substrate to scale indefinitely; what&#x27;s been holding us back is simply talking about it. 2026 is the year we play on the world stage.&quot;The company&#x27;s investor roster reads like a who&#x27;s who of developer infrastructure. Angel investors include Tom Preston-Werner, co-founder of GitHub; Guillermo Rauch, chief executive of Vercel; Spencer Kimball, chief executive of Cockroach Labs; Olivier Pomel, chief executive of Datadog; and Jori Lallo, co-founder of Linear.The timing of Railway&#x27;s expansion coincides with what many in Silicon Valley view as a fundamental shift in how software gets made. Coding assistants are no longer experimental curiosities \u2014 they have become essential tools that millions of developers rely on daily. Each line of AI-generated code needs somewhere to run, and the incumbents, by Cooper&#x27;s telling, are too wedded to their existing business models to fully capitalize on the moment.Whether Railway can translate developer enthusiasm into sustained enterprise adoption remains an open question. The cloud infrastructure market is littered with promising startups that failed to break the grip of Amazon, Microsoft, and Google. But Cooper, who previously worked as a software engineer at Wolfram Alpha, Bloomberg, and Uber before founding Railway in 2020, seems unfazed by the scale of his ambition.&quot;In five years, Railway [will be] the place where software gets created and evolved, period,&quot; he said. &quot;Deploy instantly, scale infinitely, with zero friction. That&#x27;s the prize worth playing for, and there&#x27;s no bigger one on offer.&quot;For a company that built a $100 million business by doing the opposite of what conventional startup wisdom dictates \u2014 no marketing, no sales team, no venture hype\u2014the real test begins now. Railway spent five years proving that developers would find a better mousetrap on their own. The next five will determine whether the rest of the world is ready to get on board."
@@ -145,7 +145,7 @@
       "id": "live-overall-claude-code-costs-up-to-200-a-month-goos",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "CRITICAL",
       "company": "VentureBeat AI",
       "tldr": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code a...",
@@ -154,15 +154,15 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#Anthropic",
+        "#NVIDIA",
+        "#UnitedNations",
         "#Meta",
         "#AgenticAI",
         "#Google",
-        "#OpenAI",
-        "#UnitedNations",
         "#DeepSeek",
-        "#NVIDIA",
+        "#Reasoning",
+        "#Anthropic",
+        "#OpenAI",
         "#Governance"
       ],
       "sourceUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
@@ -172,7 +172,7 @@
       "id": "live-overall-listen-labs-raises-69m-after-viral-billb",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed im...",
@@ -181,10 +181,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Microsoft",
         "#Governance",
-        "#AgenticAI",
-        "#Microsoft"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "details": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 \u2014 a fifth of his marketing budget \u2014 on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door. Within days, thousands attempted the puzzle. 430 cracked it. Some got hired. The winner flew to Berlin, all expenses paid.That unconventional approach has now attracted $69 million in Series B funding, led by Ribbit Capital with participation from Evantic and existing investors Sequoia Capital, Conviction, and Pear VC. The round values Listen Labs at $500 million and brings its total capital to $100 million. In nine months since launch, the company has grown annualized revenue by 15x to eight figures and conducted over one million AI-powered interviews.&quot;When you obsess over customers, everything else follows,&quot; Wahlforss said in an interview with VentureBeat. &quot;Teams that use Listen bring the customer into every decision, from marketing to product, and when the customer is delighted, everyone is.&quot;Why traditional market research is broken, and what Listen Labs is building to fix itListen&#x27;s AI researcher finds participants, conducts in-depth interviews, and delivers actionable insights in hours, not weeks. The platform replaces the traditional choice between quantitative surveys \u2014 which provide statistical precision but miss nuance\u2014and qualitative interviews, which deliver depth but cannot scale.Wahlforss explained the limitation of existing approaches: &quot;Essentially surveys give you false precision because people end up answering the same question... You can&#x27;t get the outliers. People are actually not honest on surveys.&quot; The alternative, one-on-one human interviews, &quot;gives you a lot of depth. You can ask follow up questions. You can kind of double check if they actually know what they&#x27;re talking about. And the problem is you can&#x27;t scale that.&quot;The platform works in four steps: users create a study with AI assistance, Listen recruits participants from its global network of 30 million people, an AI moderator conducts in-depth interviews with follow-up questions, and results are packaged into executive-ready reports including key themes, highlight reels, and slide decks.What distinguishes Listen&#x27;s approach is its use of open-ended video conversations rather than multiple-choice forms. &quot;In a survey, you can kind of guess what you should answer, and you have four options,&quot; Wahlforss said. &quot;Oh, they probably want me to buy high income. Let me click on that button versus an open ended response. It just generates much more honesty.&quot;The dirty secret of the $140 billion market research industry: rampant fraudListen finds and qualifies the right participants in its global network of 30 million people. But building that panel required confronting what Wahlforss called &quot;one of the most shocking things that we&#x27;ve learned when we entered this industry&quot;\u2014rampant fraud.&quot;Essentially, there&#x27;s a financial transaction involved, which means there will be bad players,&quot; he explained. &quot;We actually had some of the largest companies, some of them have billions in revenue, send us people who claim to be kind of enterprise buyers to our platform and our system immediately detected, like, fraud, fraud, fraud, fraud, fraud.&quot;The company built what it calls a &quot;quality guard&quot; that cross-references LinkedIn profiles with video responses to verify identity, checks consistency across how participants answer questions, and flags suspicious patterns. The result, according to Wahlforss: &quot;People talk three times more. They&#x27;re much more honest when they talk about sensitive topics like politics and mental health.&quot;Emeritus, an online education company that uses Listen, reported that approximately 20% of survey responses previously fell into the fraudulent or low-quality category. With Listen, they reduced this to almost zero. &quot;We did not have to replace any responses because of fraud or gibberish information,&quot; said Gabrielli Tiburi, Assistant Manager of Customer Insights at Emeritus.How Microsoft, Sweetgreen, and Chubbies are using AI interviews to build better productsThe speed advantage has proven central to Listen&#x27;s pitch. Traditional customer research at Microsoft could take four to six weeks to generate insights. &quot;By the time we get to them, either the decision has been made or we lose out on the opportunity to actually influence it,&quot; said Romani Patel, Senior Research Manager at Microsoft.With Listen, Microsoft can now get insights in days, and in many cases, within hours.The platform has already powered several high-profile initiatives. Microsoft used Listen Labs to collect global customer stories for its 50th anniversary celebration. &quot;We wanted users to share how Copilot is empowering them to bring their best self forward,&quot; Patel said, &quot;and we were able to collect those user video stories within a day.&quot; Traditionally, that kind of work would have taken six to eight weeks.Simple Modern, an Oklahoma-based drinkware company, used Listen to test a new product concept. The process took about an hour to write questions, an hour to launch the study, and 2.5 hours to receive feedback from 120 people across the country. &quot;We went from &#x27;Should we even have this product?&#x27; to &#x27;How should we launch it?&#x27;&quot; said Chris Hoyle, the company&#x27;s Chief Marketing Officer.Chubbies, the shorts brand, achieved a 24x increase in youth research participation\u2014growing from 5 to 120 participants \u2014 by using Listen to overcome the scheduling challenges of traditional focus groups with children. &quot;There&#x27;s school, sports, dinner, and homework,&quot; explained Lauren Neville, Director of Insights and Innovation. &quot;I had to find a way to hear from them that fit into their schedules.&quot;The company also discovered product issues through AI interviews that might have gone undetected otherwise. Wahlforss described how the AI &quot;through conversations, realized there were like issues with the the kids short line, and decided to, like, interview hundreds of kids. And I understand that there were issues in the liner of the shorts and that they were, like, scratchy, quote, unquote, according to the people interviewed.&quot; The redesigned product became &quot;a blockbuster hit.&quot;The Jevons paradox explains why cheaper research creates more demand, not lessListen Labs is entering a massive but fragmented market. Wahlforss cited research from Andreessen Horowitz estimating the market research industry at roughly $140 billion annually, populated by legacy players \u2014 some with more than a billion dollars in revenue \u2014 that he believes are vulnerable to disruption.&quot;There are very much existing budget lines that we are replacing,&quot; Wahlforss said. &quot;Why we&#x27;re replacing them is that one, they&#x27;re super costly. Two, they&#x27;re kind of stuck in this old paradigm of choosing between a survey or interview, and they also take months to work with.&quot;But the more intriguing dynamic may be that AI-powered research doesn&#x27;t just replace existing spending \u2014 it creates new demand. Wahlforss invoked the Jevons paradox, an economic principle that occurs when technological advancements make a resource more efficient to use, but increased efficiency leads to increased overall consumption rather than decreased consumption.&quot;What I&#x27;ve noticed is that as something gets cheaper, you don&#x27;t need less of it. You want more of it,&quot; Wahlforss explained. &quot;There&#x27;s infinite demand for customer understanding. So the researchers on the team can do an order of magnitude more research, and also other people who weren&#x27;t researchers before can now do that as part of their job.&quot;Inside the elite engineering team that built Listen Labs before they had a working toiletListen Labs traces its origins to a consumer app that Wahlforss and his co-founder built after meeting at Harvard. &quot;We built this consumer app that got 20,000 downloads in one day,&quot; Wahlforss recalled. &quot;We had all these users, and we were thinking like, okay, what can we do to get to know them better? And we built this prototype of what Listen is today.&quot;The founding team brings an unusual pedigree. Wahlforss&#x27;s co-founder &quot;was the national champion in competitive programming in Germany, and he worked at Tesla Autopilot.&quot; The company claims that 30% of its engineering team are medalists from the International Olympiad in Informatics \u2014 the same competition that produced the founders of Cognition, the AI coding startup.The Berghain billboard stunt generated approximately 5 million views across social media, according to Wahlforss. It reflected the intensity of the talent war in the Bay Area.&quot;We had to do these things because some of our, like early employees, joined the company before we had a working toilet,&quot; he said. &quot;But now we fixed that situation.&quot;The company grew from 5 to 40 employees in 2024 and plans to reach 150 this year. It hires engineers for non-engineering roles across marketing, growth, and operations \u2014 a bet that in the AI era, technical fluency matters everywhere.Synthetic customers and automated decisions: what Listen Labs is building nextWahlforss outlined an ambitious product roadmap that pushes into more speculative territory. The company is building &quot;the ability to simulate your customers, so you can take all of those interviews we&#x27;ve done, and then extrapolate based on that and create synthetic users or simulated user voices.&quot;Beyond simulation, Listen aims to enable automated action based on research findings. &quot;Can you not just make recommendations, but also create spawn agents to either change things in code or some customer churns? Can you give them a discount and try to bring them back?&quot;Wahlforss acknowledged the ethical implications. &quot;Obviously, as you said, there&#x27;s kind of ethical concerns there. Of like, automated decision making overall can be bad, but we will have considerable guardrails to make sure that the companies are always in the loop.&quot;The company already handles sensitive data with care. &quot;We don&#x27;t train on any of the data,&quot; Wahlforss said. &quot;We will also scrub any sensitive PII automatically so the model can detect that. And there are times when, for example, you work with investors, where if you accidentally mention something that could be material, non public information, the AI can actually detect that and remove any information like that.&quot;How AI could reshape the future of product developmentPerhaps the most provocative implication of Listen&#x27;s model is how it could reshape product development itself. Wahlforss described a customer \u2014 an Australian startup \u2014 that has adopted what amounts to a continuous feedback loop.&quot;They&#x27;re based in Australia, so they&#x27;re coding during the day, and then in their night, they&#x27;re releasing a Listen study with an American audience. Listen validates whatever they built during the day, and they get feedback on that. They can then plug that feedback directly into coding tools like Claude Code and iterate.&quot;The vision extends Y Combinator&#x27;s famous dictum \u2014 &quot;write code, talk to users&quot; \u2014 into an automated cycle. &quot;Write code is now getting automated. And I think like talk to users will be as well, and you&#x27;ll have this kind of infinite loop where you can start to ship this truly amazing product, almost kind of autonomously.&quot;Whether that vision materializes depends on factors beyond Listen&#x27;s control \u2014 the continued improvement of AI models, enterprise willingness to trust automated research, and whether speed truly correlates with better products. A 2024 MIT study found that 95% of AI pilots fail to move into production, a statistic Wahlforss cited as the reason he emphasizes quality over demos.&quot;I&#x27;m constantly have to emphasize like, let&#x27;s make sure the quality is there and the details are right,&quot; he said.But the company&#x27;s growth suggests appetite for the experiment. Microsoft&#x27;s Patel said Listen has &quot;removed the drudgery of research and brought the fun and joy back into my work.&quot; Chubbies is now pushing its founder to give everyone in the company a login. Sling Money, a stablecoin payments startup, can create a survey in ten minutes and receive results the same day.&quot;It&#x27;s a total game changer,&quot; said Ali Romero, Sling Money&#x27;s marketing manager.Wahlforss has a different phrase for what he&#x27;s building. When asked about the tension between speed and rigor \u2014 the long-held belief that moving fast means cutting corners \u2014 he cited Nat Friedman, the former GitHub CEO and Listen investor, who keeps a list of one-liners on his website.One of them: &quot;Slow is fake.&quot;It&#x27;s an aggressive claim for an industry built on methodological caution. But Listen Labs is betting that in the AI era, the companies that listen fastest will be the ones that win. The only question is whether customers will talk back."
@@ -193,7 +193,7 @@
       "id": "live-overall-salesforce-rolls-out-new-slackbot-ai-age",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives...",
@@ -202,13 +202,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
-        "#AgenticAI",
-        "#Microsoft",
         "#AISecurity",
-        "#Google",
-        "#OpenAI",
         "#UnitedNations",
+        "#AgenticAI",
+        "#Google",
+        "#Microsoft",
+        "#Anthropic",
+        "#OpenAI",
         "#Governance"
       ],
       "sourceUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
@@ -218,7 +218,7 @@
       "id": "live-overall-flops-vs-real-work-the-importance-of-rep",
       "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and en...",
@@ -237,7 +237,7 @@
       "id": "live-overall-large-language-models-show-metacognitive",
       "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.14552v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and...",
@@ -246,10 +246,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#Meta",
-        "#EUAIAct",
         "#UnitedNations",
+        "#Meta",
+        "#Reasoning",
+        "#EUAIAct",
         "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.14552",
@@ -259,7 +259,7 @@
       "id": "live-overall-the-unwritten-benchmark-a-new-challenge-",
       "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reas",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.14558v1 Announce Type: new Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their...",
@@ -279,7 +279,7 @@
       "id": "live-overall-when-to-communicate-belief-distributions",
       "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.14559v1 Announce Type: new Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but w...",
@@ -289,8 +289,8 @@
       },
       "tags": [
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.14559",
       "details": "arXiv:2608.14559v1 Announce Type: new Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approaches either communicate at every timestep or learn a binary gate through REINFORCE policy gradients \\cite{singh2019}, a high-variance signal that produces unstable and uninterpretable gating behavior. I propose a principled alternative: agents communicate only when the KL divergence between their learned belief distributions exceeds a fixed threshold. Each agent maintains a belief distribution over a latent world state computed as a softmax over its LSTM hidden state, and communicates only when belief disagreement is large enough to justify information exchange. I evaluate this approach on the Predator-Prey benchmark from IC3Net \\cite{singh2019} across two environment sizes with 5 seeds each, and on MPE simple\\_spread \\cite{lowe2017}, comparing against IC3Net, CommNet, and an independent controller. On PP 10$\\times$10, IC3Net outperforms KL-belief at all thresholds. On the harder PP 20$\\times$20, a threshold ablation over $\\varepsilon \\in \\{0.1, 0.3, 0.5, 1.0\\}$ reveals an inverted U-shape: $\\varepsilon=0.5$ achieves 73.84 average steps and 42\\% success rate versus IC3Net's 75.31 steps and 31\\%, a gap of 1.47 steps and 11 percentage points with tighter seed variance. On MPE, the belief head improves mean reward by 12 points and reduces variance by 26$\\times$ even when gating is inactive, suggesting two orthogonal contributions: principled gating when beliefs can converge, and improved latent representations that benefit coordination regardless."
@@ -299,7 +299,7 @@
       "id": "live-overall-global-ai-regulations-for-fair-and-ethic",
       "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
       "category": "overall",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2608.14562v1 Announce Type: new Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates c...",
@@ -319,7 +319,7 @@
       "id": "live-agentic_ai-how-much-memory-does-your-agent-actually",
       "title": "How Much Memory Does Your Agent Actually Need?",
       "category": "agentic_ai",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -338,7 +338,7 @@
       "id": "live-agentic_ai-multi-vector-late-interaction-embedding-",
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "category": "agentic_ai",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -356,7 +356,7 @@
       "id": "live-agentic_ai-same-cluster-33-points-more-utilization-",
       "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "category": "agentic_ai",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -374,7 +374,7 @@
       "id": "live-agentic_ai-state-of-open-models-summer-2026-observa",
       "title": "State of Open Models: Summer 2026 Observations",
       "category": "agentic_ai",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -392,7 +392,7 @@
       "id": "live-agentic_ai-record-train-and-deploy-from-one-place-w",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buck",
       "category": "agentic_ai",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -407,102 +407,10 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-operationalizing-agentic-ai-the-day-0-2-",
-      "title": "Operationalizing agentic AI: The Day 0-2 blueprint for enterprise infrastructure",
-      "category": "agentic_ai",
-      "date": "2026-08-18",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure Comments URL: https://news.ycombinator.com/item?id=49348421 Poin...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure",
-      "details": "Article URL: https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure Comments URL: https://news.ycombinator.com/item?id=49348421 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-in-a-smolbox",
-      "title": "Agentic AI in a Smolbox",
-      "category": "agentic_ai",
-      "date": "2026-08-18",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://remyhax.xyz/posts/smolbox/ Comments URL: https://news.ycombinator.com/item?id=49338338 Points: 3 # Comments: 1",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://remyhax.xyz/posts/smolbox/",
-      "details": "Article URL: https://remyhax.xyz/posts/smolbox/ Comments URL: https://news.ycombinator.com/item?id=49338338 Points: 3 # Comments: 1"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-costs-set-to-balloon-fivefold",
-      "title": "Agentic AI costs set to balloon fivefold by 2028",
-      "category": "agentic_ai",
-      "date": "2026-08-18",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363 Comments URL: https://news.ycombinator.com/item?id=49332442 P...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
-      "details": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363 Comments URL: https://news.ycombinator.com/item?id=49332442 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-an-autonomous-framework-for-systematic-f",
-      "title": "An Autonomous Framework for Systematic Factor Invest via Agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-08-18",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881 Comments URL: https://news.ycombinator.com/item?id=49307948 Points: 3 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881",
-      "details": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881 Comments URL: https://news.ycombinator.com/item?id=49307948 Points: 3 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-drops-digits-this-library-cat",
-      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
-      "category": "agentic_ai",
-      "date": "2026-08-18",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://github.com/insightitsGit/PrismManifest Comments URL: https://news.ycombinator.com/item?id=49301925 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://github.com/insightitsGit/PrismManifest",
-      "details": "Article URL: https://github.com/insightitsGit/PrismManifest Comments URL: https://news.ycombinator.com/item?id=49301925 Points: 2 # Comments: 0"
-    },
-    {
       "id": "live-models-strengthening-democratic-oversight-in-na",
-      "title": "Strengthening Democratic Oversight in National Security",
+      "title": "Strengthening democratic oversight in national security",
       "category": "models",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
@@ -522,7 +430,7 @@
       "id": "live-models-partnering-with-codeai-to-prepare-the-fi",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "category": "models",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
@@ -540,7 +448,7 @@
       "id": "live-models-pacing-model-development-in-an-era-of-cy",
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "category": "models",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
@@ -559,7 +467,7 @@
       "id": "live-models-introducing-chatgpt-for-teens-built-for-",
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "category": "models",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
@@ -574,28 +482,29 @@
       "details": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
     },
     {
-      "id": "live-models-asana-cleared-5-years-of-engineering-wor",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "id": "live-models-how-nvidia-scales-expertise-with-chatgpt",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
       "category": "models",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "tldr": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#OpenAI",
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/asana",
-      "details": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
+      "sourceUrl": "https://openai.com/index/nvidia/chatgpt-work",
+      "details": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
     },
     {
       "id": "live-companies-securing-the-infrastructure-of-intellige",
       "title": "Securing the Infrastructure of Intelligence",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "AI factories are the defining infrastructure of the AI era\u2014where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI ec...",
@@ -604,18 +513,18 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#NVIDIA",
         "#Governance",
-        "#NVIDIA"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
       "details": "AI factories are the defining infrastructure of the AI era\u2014where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking \u2013 as well as land, power and shell. Just [\u2026]"
     },
     {
       "id": "live-companies-nvidia-guarantees-sb-energy-s-ports-pike",
-      "title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Com",
+      "title": "NVIDIA Guarantees SB Energy\u2019s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Com",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA announced that it has secured land, power and shell (LPS) capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Pike County, Ohio, to host NVI...",
@@ -624,8 +533,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
       "details": "NVIDIA announced that it has secured land, power and shell (LPS) capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Pike County, Ohio, to host NVIDIA compute..."
@@ -634,7 +543,7 @@
       "id": "live-companies-universitas-gadjah-mada-indosat-and-nvid",
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop L",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universi...",
@@ -643,8 +552,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
       "details": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta \u2014 the country\u2019s first university-based AI technology center. Established under Indonesia\u2019s AI Center of [\u2026]"
@@ -653,7 +562,7 @@
       "id": "live-companies-class-is-in-session-geforce-now-levels-u",
       "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is al...",
@@ -671,7 +580,7 @@
       "id": "live-companies-nvidia-ceo-tops-glassdoor-s-2026-list-of",
       "title": "NVIDIA CEO Tops Glassdoor\u2019s 2026 List of Best CEOs",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor\u2019s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know th...",
@@ -680,8 +589,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
       "details": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor\u2019s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best \u2014 employees. Huang topped the list, with 99% of employees approving of the job he does. \u201cAs AI and shifting expectations [\u2026]"
@@ -690,7 +599,7 @@
       "id": "live-companies-google-just-redesigned-the-search-box-fo",
       "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more th",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list...",
@@ -699,10 +608,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AgenticAI",
         "#Google",
         "#EUAIAct",
-        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
@@ -712,7 +621,7 @@
       "id": "live-companies-railway-secures-100-million-to-challenge",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million...",
@@ -721,13 +630,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Microsoft",
+        "#Governance",
         "#AISecurity",
-        "#Google",
-        "#EUAIAct",
         "#UnitedNations",
-        "#Governance"
+        "#AgenticAI",
+        "#Google",
+        "#Microsoft",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "details": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like Amazon Web Services and Google Cloud.&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a $20 million Series A from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network \u2014 metrics that rival far larger and better-funded competitors.Why three-minute deploy times have become unacceptable in the age of AI coding assistantsRailway&#x27;s pitch rests on a simple observation: the tools developers use to deploy and manage software were designed for a slower era. A standard build-and-deploy cycle using Terraform, the industry-standard infrastructure tool, takes two to three minutes. That delay, once tolerable, has become a critical bottleneck as AI coding assistants like Claude, ChatGPT, and Cursor can generate working code in seconds.&quot;When godly intelligence is on tap and can solve any problem in three seconds, those amalgamations of systems become bottlenecks,&quot; Cooper told VentureBeat. &quot;What was really cool for humans to deploy in 10 seconds or less is now table stakes for agents.&quot;The company claims its platform delivers deployments in under one second \u2014 fast enough to keep pace with AI-generated code. Customers report a tenfold increase in developer velocity and up to 65 percent cost savings compared to traditional cloud providers.These numbers come directly from enterprise clients, not internal benchmarks. Daniel Lobaton, chief technology officer at G2X, a platform serving 100,000 federal contractors, measured deployment speed improvements of seven times faster and an 87 percent cost reduction after migrating to Railway. His infrastructure bill dropped from $15,000 per month to approximately $1,000.&quot;The work that used to take me a week on our previous infrastructure, I can do in Railway in like a day,&quot; Lobaton said. &quot;If I want to spin up a new service and test different architectures, it would take so long on our old setup. In Railway I can launch six services in two minutes.&quot;Inside the controversial decision to abandon Google Cloud and build data centers from scratchWhat distinguishes Railway from competitors like Render and Fly.io is the depth of its vertical integration. In 2024, the company made the unusual decision to abandon Google Cloud entirely and build its own data centers, a move that echoes the famous Alan Kay maxim: &quot;People who are really serious about software should make their own hardware.&quot;&quot;We wanted to design hardware in a way where we could build a differentiated experience,&quot; Cooper said. &quot;Having full control over the network, compute, and storage layers lets us do really fast build and deploy loops, the kind that allows us to move at &#x27;agentic speed&#x27; while staying 100 percent the smoothest ride in town.&quot;The approach paid dividends during recent widespread outages that affected major cloud providers \u2014 Railway remained online throughout.This soup-to-nuts control enables pricing that undercuts the hyperscalers by roughly 50 percent and newer cloud startups by three to four times. Railway charges by the second for actual compute usage: $0.00000386 per gigabyte-second of memory, $0.00000772 per vCPU-second, and $0.00000006 per gigabyte-second of storage. There are no charges for idle virtual machines \u2014 a stark contrast to the traditional cloud model where customers pay for provisioned capacity whether they use it or not.&quot;The conventional wisdom is that the big guys have economies of scale to offer better pricing,&quot; Cooper noted. &quot;But when they&#x27;re charging for VMs that usually sit idle in the cloud, and we&#x27;ve purpose-built everything to fit much more density on these machines, you have a big opportunity.&quot;How 30 employees built a platform generating tens of millions in annual revenueRailway has achieved its scale with a team of just 30 employees generating tens of millions in annual revenue \u2014 a ratio of revenue per employee that would be exceptional even for established software companies. The company grew revenue 3.5 times last year and continues to expand at 15 percent month-over-month.Cooper emphasized that the fundraise was strategic rather than necessary. &quot;We&#x27;re default alive; there&#x27;s no reason for us to raise money,&quot; he said. &quot;We raised because we see a massive opportunity to accelerate, not because we needed to survive.&quot;The company hired its first salesperson only last year and employs just two solutions engineers. Nearly all of Railway&#x27;s two million users discovered the platform through word of mouth \u2014 developers telling other developers about a tool that actually works.&quot;We basically did the standard engineering thing: if you build it, they will come,&quot; Cooper recalled. &quot;And to some degree, they came.&quot;From side projects to Fortune 500 deployments: Railway&#x27;s unlikely corporate expansionDespite its grassroots developer community, Railway has made significant inroads into large organizations. The company claims that 31 percent of Fortune 500 companies now use its platform, though deployments range from company-wide infrastructure to individual team projects.Notable customers include Bilt, the loyalty program company; Intuit&#x27;s GoCo subsidiary; TripAdvisor&#x27;s Cruise Critic; and MGM Resorts. Kernel, a Y Combinator-backed startup providing AI infrastructure to over 1,000 companies, runs its entire customer-facing system on Railway for $444 per month.&quot;At my previous company Clever, which sold for $500 million, I had six full-time engineers just managing AWS,&quot; said Rafael Garcia, Kernel&#x27;s chief technology officer. &quot;Now I have six engineers total, and they all focus on product. Railway is exactly the tool I wish I had in 2012.&quot;For enterprise customers, Railway offers security certifications including SOC 2 Type 2 compliance and HIPAA readiness, with business associate agreements available upon request. The platform provides single sign-on authentication, comprehensive audit logs, and the option to deploy within a customer&#x27;s existing cloud environment through a &quot;bring your own cloud&quot; configuration.Enterprise pricing starts at custom levels, with specific add-ons for extended log retention ($200 monthly), HIPAA BAAs ($1,000), enterprise support with SLOs ($2,000), and dedicated virtual machines ($10,000).The startup&#x27;s bold strategy to take on Amazon, Google, and a new generation of cloud rivalsRailway enters a crowded market that includes not only the hyperscale cloud providers\u2014Amazon Web Services, Microsoft Azure, and Google Cloud Platform\u2014but also a growing cohort of developer-focused platforms like Vercel, Render, Fly.io, and Heroku.Cooper argues that Railway&#x27;s competitors fall into two camps, neither of which has fully committed to the new infrastructure model that AI demands.&quot;The hyperscalers have two competing systems, and they haven&#x27;t gone all-in on the new model because their legacy revenue stream is still printing money,&quot; he observed. &quot;They have this mammoth pool of cash coming from people who provision a VM, use maybe 10 percent of it, and still pay for the whole thing. To what end are they actually interested in going all the way in on a new experience if they don&#x27;t really need to?&quot;Against startup competitors, Railway differentiates by covering the full infrastructure stack. &quot;We&#x27;re not just containers; we&#x27;ve got VM primitives, stateful storage, virtual private networking, automated load balancing,&quot; Cooper said. &quot;And we wrap all of this in an absurdly easy-to-use UI, with agentic primitives so agents can move 1,000 times faster.&quot;The platform supports databases including PostgreSQL, MySQL, MongoDB, and Redis; provides up to 256 terabytes of persistent storage with over 100,000 input/output operations per second; and enables deployment to four global regions spanning the United States, Europe, and Southeast Asia. Enterprise customers can scale to 112 vCPUs and 2 terabytes of RAM per service.Why investors are betting that AI will create a thousand times more software than exists todayRailway&#x27;s fundraise reflects broader investor enthusiasm for companies positioned to benefit from the AI coding revolution. As tools like GitHub Copilot, Cursor, and Claude become standard fixtures in developer workflows, the volume of code being written \u2014 and the infrastructure needed to run it \u2014 is expanding dramatically.&quot;The amount of software that&#x27;s going to come online over the next five years is unfathomable compared to what existed before \u2014 we&#x27;re talking a thousand times more software,&quot; Cooper predicted. &quot;All of that has to run somewhere.&quot;The company has already integrated directly with AI systems, building what Cooper calls &quot;loops where Claude can hook in, call deployments, and analyze infrastructure automatically.&quot; Railway released a Model Context Protocol server in August 2025 that allows AI coding agents to deploy applications and manage infrastructure directly from code editors.&quot;The notion of a developer is melting before our eyes,&quot; Cooper said. &quot;You don&#x27;t have to be an engineer to engineer things anymore \u2014 you just need critical thinking and the ability to analyze things in a systems capacity.&quot;What Railway plans to do with $100 million and zero marketing experienceRailway plans to use the new capital to expand its global data center footprint, grow its team beyond 30 employees, and build what Cooper described as a proper go-to-market operation for the first time in the company&#x27;s five-year history.&quot;One of my mentors said you raise money when you can change the trajectory of the business,&quot; Cooper explained. &quot;We&#x27;ve built all the required substrate to scale indefinitely; what&#x27;s been holding us back is simply talking about it. 2026 is the year we play on the world stage.&quot;The company&#x27;s investor roster reads like a who&#x27;s who of developer infrastructure. Angel investors include Tom Preston-Werner, co-founder of GitHub; Guillermo Rauch, chief executive of Vercel; Spencer Kimball, chief executive of Cockroach Labs; Olivier Pomel, chief executive of Datadog; and Jori Lallo, co-founder of Linear.The timing of Railway&#x27;s expansion coincides with what many in Silicon Valley view as a fundamental shift in how software gets made. Coding assistants are no longer experimental curiosities \u2014 they have become essential tools that millions of developers rely on daily. Each line of AI-generated code needs somewhere to run, and the incumbents, by Cooper&#x27;s telling, are too wedded to their existing business models to fully capitalize on the moment.Whether Railway can translate developer enthusiasm into sustained enterprise adoption remains an open question. The cloud infrastructure market is littered with promising startups that failed to break the grip of Amazon, Microsoft, and Google. But Cooper, who previously worked as a software engineer at Wolfram Alpha, Bloomberg, and Uber before founding Railway in 2020, seems unfazed by the scale of his ambition.&quot;In five years, Railway [will be] the place where software gets created and evolved, period,&quot; he said. &quot;Deploy instantly, scale infinitely, with zero friction. That&#x27;s the prize worth playing for, and there&#x27;s no bigger one on offer.&quot;For a company that built a $100 million business by doing the opposite of what conventional startup wisdom dictates \u2014 no marketing, no sales team, no venture hype\u2014the real test begins now. Railway spent five years proving that developers would find a better mousetrap on their own. The next five will determine whether the rest of the world is ready to get on board."
@@ -736,7 +645,7 @@
       "id": "live-companies-claude-code-costs-up-to-200-a-month-goos",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "CRITICAL",
       "company": "VentureBeat Business",
       "tldr": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code a...",
@@ -745,15 +654,15 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#Anthropic",
+        "#NVIDIA",
+        "#UnitedNations",
         "#Meta",
         "#AgenticAI",
         "#Google",
-        "#OpenAI",
-        "#UnitedNations",
         "#DeepSeek",
-        "#NVIDIA",
+        "#Reasoning",
+        "#Anthropic",
+        "#OpenAI",
         "#Governance"
       ],
       "sourceUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
@@ -763,7 +672,7 @@
       "id": "live-companies-listen-labs-raises-69m-after-viral-billb",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed im...",
@@ -772,10 +681,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Microsoft",
         "#Governance",
-        "#AgenticAI",
-        "#Microsoft"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "details": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 \u2014 a fifth of his marketing budget \u2014 on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door. Within days, thousands attempted the puzzle. 430 cracked it. Some got hired. The winner flew to Berlin, all expenses paid.That unconventional approach has now attracted $69 million in Series B funding, led by Ribbit Capital with participation from Evantic and existing investors Sequoia Capital, Conviction, and Pear VC. The round values Listen Labs at $500 million and brings its total capital to $100 million. In nine months since launch, the company has grown annualized revenue by 15x to eight figures and conducted over one million AI-powered interviews.&quot;When you obsess over customers, everything else follows,&quot; Wahlforss said in an interview with VentureBeat. &quot;Teams that use Listen bring the customer into every decision, from marketing to product, and when the customer is delighted, everyone is.&quot;Why traditional market research is broken, and what Listen Labs is building to fix itListen&#x27;s AI researcher finds participants, conducts in-depth interviews, and delivers actionable insights in hours, not weeks. The platform replaces the traditional choice between quantitative surveys \u2014 which provide statistical precision but miss nuance\u2014and qualitative interviews, which deliver depth but cannot scale.Wahlforss explained the limitation of existing approaches: &quot;Essentially surveys give you false precision because people end up answering the same question... You can&#x27;t get the outliers. People are actually not honest on surveys.&quot; The alternative, one-on-one human interviews, &quot;gives you a lot of depth. You can ask follow up questions. You can kind of double check if they actually know what they&#x27;re talking about. And the problem is you can&#x27;t scale that.&quot;The platform works in four steps: users create a study with AI assistance, Listen recruits participants from its global network of 30 million people, an AI moderator conducts in-depth interviews with follow-up questions, and results are packaged into executive-ready reports including key themes, highlight reels, and slide decks.What distinguishes Listen&#x27;s approach is its use of open-ended video conversations rather than multiple-choice forms. &quot;In a survey, you can kind of guess what you should answer, and you have four options,&quot; Wahlforss said. &quot;Oh, they probably want me to buy high income. Let me click on that button versus an open ended response. It just generates much more honesty.&quot;The dirty secret of the $140 billion market research industry: rampant fraudListen finds and qualifies the right participants in its global network of 30 million people. But building that panel required confronting what Wahlforss called &quot;one of the most shocking things that we&#x27;ve learned when we entered this industry&quot;\u2014rampant fraud.&quot;Essentially, there&#x27;s a financial transaction involved, which means there will be bad players,&quot; he explained. &quot;We actually had some of the largest companies, some of them have billions in revenue, send us people who claim to be kind of enterprise buyers to our platform and our system immediately detected, like, fraud, fraud, fraud, fraud, fraud.&quot;The company built what it calls a &quot;quality guard&quot; that cross-references LinkedIn profiles with video responses to verify identity, checks consistency across how participants answer questions, and flags suspicious patterns. The result, according to Wahlforss: &quot;People talk three times more. They&#x27;re much more honest when they talk about sensitive topics like politics and mental health.&quot;Emeritus, an online education company that uses Listen, reported that approximately 20% of survey responses previously fell into the fraudulent or low-quality category. With Listen, they reduced this to almost zero. &quot;We did not have to replace any responses because of fraud or gibberish information,&quot; said Gabrielli Tiburi, Assistant Manager of Customer Insights at Emeritus.How Microsoft, Sweetgreen, and Chubbies are using AI interviews to build better productsThe speed advantage has proven central to Listen&#x27;s pitch. Traditional customer research at Microsoft could take four to six weeks to generate insights. &quot;By the time we get to them, either the decision has been made or we lose out on the opportunity to actually influence it,&quot; said Romani Patel, Senior Research Manager at Microsoft.With Listen, Microsoft can now get insights in days, and in many cases, within hours.The platform has already powered several high-profile initiatives. Microsoft used Listen Labs to collect global customer stories for its 50th anniversary celebration. &quot;We wanted users to share how Copilot is empowering them to bring their best self forward,&quot; Patel said, &quot;and we were able to collect those user video stories within a day.&quot; Traditionally, that kind of work would have taken six to eight weeks.Simple Modern, an Oklahoma-based drinkware company, used Listen to test a new product concept. The process took about an hour to write questions, an hour to launch the study, and 2.5 hours to receive feedback from 120 people across the country. &quot;We went from &#x27;Should we even have this product?&#x27; to &#x27;How should we launch it?&#x27;&quot; said Chris Hoyle, the company&#x27;s Chief Marketing Officer.Chubbies, the shorts brand, achieved a 24x increase in youth research participation\u2014growing from 5 to 120 participants \u2014 by using Listen to overcome the scheduling challenges of traditional focus groups with children. &quot;There&#x27;s school, sports, dinner, and homework,&quot; explained Lauren Neville, Director of Insights and Innovation. &quot;I had to find a way to hear from them that fit into their schedules.&quot;The company also discovered product issues through AI interviews that might have gone undetected otherwise. Wahlforss described how the AI &quot;through conversations, realized there were like issues with the the kids short line, and decided to, like, interview hundreds of kids. And I understand that there were issues in the liner of the shorts and that they were, like, scratchy, quote, unquote, according to the people interviewed.&quot; The redesigned product became &quot;a blockbuster hit.&quot;The Jevons paradox explains why cheaper research creates more demand, not lessListen Labs is entering a massive but fragmented market. Wahlforss cited research from Andreessen Horowitz estimating the market research industry at roughly $140 billion annually, populated by legacy players \u2014 some with more than a billion dollars in revenue \u2014 that he believes are vulnerable to disruption.&quot;There are very much existing budget lines that we are replacing,&quot; Wahlforss said. &quot;Why we&#x27;re replacing them is that one, they&#x27;re super costly. Two, they&#x27;re kind of stuck in this old paradigm of choosing between a survey or interview, and they also take months to work with.&quot;But the more intriguing dynamic may be that AI-powered research doesn&#x27;t just replace existing spending \u2014 it creates new demand. Wahlforss invoked the Jevons paradox, an economic principle that occurs when technological advancements make a resource more efficient to use, but increased efficiency leads to increased overall consumption rather than decreased consumption.&quot;What I&#x27;ve noticed is that as something gets cheaper, you don&#x27;t need less of it. You want more of it,&quot; Wahlforss explained. &quot;There&#x27;s infinite demand for customer understanding. So the researchers on the team can do an order of magnitude more research, and also other people who weren&#x27;t researchers before can now do that as part of their job.&quot;Inside the elite engineering team that built Listen Labs before they had a working toiletListen Labs traces its origins to a consumer app that Wahlforss and his co-founder built after meeting at Harvard. &quot;We built this consumer app that got 20,000 downloads in one day,&quot; Wahlforss recalled. &quot;We had all these users, and we were thinking like, okay, what can we do to get to know them better? And we built this prototype of what Listen is today.&quot;The founding team brings an unusual pedigree. Wahlforss&#x27;s co-founder &quot;was the national champion in competitive programming in Germany, and he worked at Tesla Autopilot.&quot; The company claims that 30% of its engineering team are medalists from the International Olympiad in Informatics \u2014 the same competition that produced the founders of Cognition, the AI coding startup.The Berghain billboard stunt generated approximately 5 million views across social media, according to Wahlforss. It reflected the intensity of the talent war in the Bay Area.&quot;We had to do these things because some of our, like early employees, joined the company before we had a working toilet,&quot; he said. &quot;But now we fixed that situation.&quot;The company grew from 5 to 40 employees in 2024 and plans to reach 150 this year. It hires engineers for non-engineering roles across marketing, growth, and operations \u2014 a bet that in the AI era, technical fluency matters everywhere.Synthetic customers and automated decisions: what Listen Labs is building nextWahlforss outlined an ambitious product roadmap that pushes into more speculative territory. The company is building &quot;the ability to simulate your customers, so you can take all of those interviews we&#x27;ve done, and then extrapolate based on that and create synthetic users or simulated user voices.&quot;Beyond simulation, Listen aims to enable automated action based on research findings. &quot;Can you not just make recommendations, but also create spawn agents to either change things in code or some customer churns? Can you give them a discount and try to bring them back?&quot;Wahlforss acknowledged the ethical implications. &quot;Obviously, as you said, there&#x27;s kind of ethical concerns there. Of like, automated decision making overall can be bad, but we will have considerable guardrails to make sure that the companies are always in the loop.&quot;The company already handles sensitive data with care. &quot;We don&#x27;t train on any of the data,&quot; Wahlforss said. &quot;We will also scrub any sensitive PII automatically so the model can detect that. And there are times when, for example, you work with investors, where if you accidentally mention something that could be material, non public information, the AI can actually detect that and remove any information like that.&quot;How AI could reshape the future of product developmentPerhaps the most provocative implication of Listen&#x27;s model is how it could reshape product development itself. Wahlforss described a customer \u2014 an Australian startup \u2014 that has adopted what amounts to a continuous feedback loop.&quot;They&#x27;re based in Australia, so they&#x27;re coding during the day, and then in their night, they&#x27;re releasing a Listen study with an American audience. Listen validates whatever they built during the day, and they get feedback on that. They can then plug that feedback directly into coding tools like Claude Code and iterate.&quot;The vision extends Y Combinator&#x27;s famous dictum \u2014 &quot;write code, talk to users&quot; \u2014 into an automated cycle. &quot;Write code is now getting automated. And I think like talk to users will be as well, and you&#x27;ll have this kind of infinite loop where you can start to ship this truly amazing product, almost kind of autonomously.&quot;Whether that vision materializes depends on factors beyond Listen&#x27;s control \u2014 the continued improvement of AI models, enterprise willingness to trust automated research, and whether speed truly correlates with better products. A 2024 MIT study found that 95% of AI pilots fail to move into production, a statistic Wahlforss cited as the reason he emphasizes quality over demos.&quot;I&#x27;m constantly have to emphasize like, let&#x27;s make sure the quality is there and the details are right,&quot; he said.But the company&#x27;s growth suggests appetite for the experiment. Microsoft&#x27;s Patel said Listen has &quot;removed the drudgery of research and brought the fun and joy back into my work.&quot; Chubbies is now pushing its founder to give everyone in the company a login. Sling Money, a stablecoin payments startup, can create a survey in ten minutes and receive results the same day.&quot;It&#x27;s a total game changer,&quot; said Ali Romero, Sling Money&#x27;s marketing manager.Wahlforss has a different phrase for what he&#x27;s building. When asked about the tension between speed and rigor \u2014 the long-held belief that moving fast means cutting corners \u2014 he cited Nat Friedman, the former GitHub CEO and Listen investor, who keeps a list of one-liners on his website.One of them: &quot;Slow is fake.&quot;It&#x27;s an aggressive claim for an industry built on methodological caution. But Listen Labs is betting that in the AI era, the companies that listen fastest will be the ones that win. The only question is whether customers will talk back."
@@ -784,7 +693,7 @@
       "id": "live-companies-salesforce-rolls-out-new-slackbot-ai-age",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "category": "companies",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives...",
@@ -793,13 +702,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
-        "#AgenticAI",
-        "#Microsoft",
         "#AISecurity",
-        "#Google",
-        "#OpenAI",
         "#UnitedNations",
+        "#AgenticAI",
+        "#Google",
+        "#Microsoft",
+        "#Anthropic",
+        "#OpenAI",
         "#Governance"
       ],
       "sourceUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
@@ -809,7 +718,7 @@
       "id": "live-fellowships-nsf-announces-1-5b-for-foundational-rese",
       "title": "NSF announces $1.5B for foundational research to drive scientific breakthroughs for American technol",
       "category": "fellowships",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today released 12 new notices of funding opportunities (NOFOs) providing over $1.5 billion for foundational research, including basic and use-i...",
@@ -827,7 +736,7 @@
       "id": "live-fellowships-podcast-the-legacy-survey-of-space-and-t",
       "title": "Podcast: The Legacy Survey of Space and Time (LSST)",
       "category": "fellowships",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF Noirlab&#039;s Robert Blum discusses NSF-DOE Vera C. Rubin Observatory&#039;s signature mission, the Legacy Survey of Space and Time, and how it will transform the way we study...",
@@ -845,7 +754,7 @@
       "id": "live-fellowships-podcast-new-telescope-to-transform-study",
       "title": "Podcast: New telescope to transform study of universe",
       "category": "fellowships",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "As the 10-year Legacy Survey of Space and Time officially starts, Edward Ajhar discusses the NSF-DOE Vera C. Rubin Observatory and how it will transform the way people study the un...",
@@ -863,7 +772,7 @@
       "id": "live-fellowships-new-nsf-state-and-regional-ai-infrastruc",
       "title": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across t",
       "category": "fellowships",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "New initiative will accelerate AI-enabled scientific discovery by expanding access to compute for researchers, students and educators through regional partnerships among state and ...",
@@ -881,7 +790,7 @@
       "id": "live-fellowships-nsf-stands-up-2-materials-innovation-pla",
       "title": "NSF stands up 2 Materials Innovation Platforms with $50M investment",
       "category": "fellowships",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions,...",
@@ -899,7 +808,7 @@
       "id": "live-military-cmmc-works-now-let-s-sharpen-it",
       "title": "CMMC Works. Now let\u2019s sharpen it.",
       "category": "military",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "This is not the moment to loosen the standard, writes a former DOD CIO.",
@@ -917,7 +826,7 @@
       "id": "live-military-army-s-apache-grounding-prompted-by-dead",
       "title": "Army\u2019s Apache grounding prompted by deadly Texas crash will end this week, memo says",
       "category": "military",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The service confirmed a transmission problem on the helicopters three months ago. It wasn\u2019t a factor in this crash, an official told Defense One.",
@@ -926,8 +835,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#DefenseAI",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/defense-systems/2026/08/armys-apache-grounding-prompted-deadly-texas-crash-will-end-week-memo-says/415467/",
@@ -937,7 +846,7 @@
       "id": "live-military-defense-firm-l3harris-promotes-mehta-to-",
       "title": "Defense firm L3Harris promotes Mehta to CEO in abrupt leadership change",
       "category": "military",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Chris Kubasik, L3Harris\u2019 CEO since June 2021, has left the company following a code of conduct investigation.",
@@ -956,7 +865,7 @@
       "id": "live-military-the-army-gave-general-dynamics-533m-to-b",
       "title": "The Army gave General Dynamics $533M to build an artillery plant that produced nothing",
       "category": "military",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Instead of making shells, the assembly robots kept failing in bizarre ways\u2014and that's just for starters.",
@@ -974,7 +883,7 @@
       "id": "live-military-army-picks-m1-to-lead-10b-helicopter-sch",
       "title": "Army picks M1 to lead $10B helicopter-school transformation",
       "category": "military",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The aviation-services firm beat out Bell and Lockheed Martin.",
@@ -992,7 +901,7 @@
       "id": "live-governance-nist-national-construction-safety-team-a",
       "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 202",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
@@ -1010,7 +919,7 @@
       "id": "live-governance-nist-researchers-correct-common-error-co",
       "title": "NIST Researchers Correct Common Error Confounding Nanotech Measurements",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
@@ -1029,7 +938,7 @@
       "id": "live-governance-spooky-particles-transit-dc-suburbs-a-st",
       "title": "\u2018Spooky\u2019 Particles Transit DC Suburbs, a Step Toward a Quantum Network",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
@@ -1047,7 +956,7 @@
       "id": "live-governance-nist-joins-national-genesis-mission-to-a",
       "title": "NIST Joins National Genesis Mission to Accelerate AI Innovation",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "NIST will execute two of its efforts through its Centers for AI in Manufacturing and Critical Infrastructure.",
@@ -1065,7 +974,7 @@
       "id": "live-governance-nist-announces-funding-opportunity-for-1",
       "title": "NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufac",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications.",
@@ -1084,7 +993,7 @@
       "id": "live-governance-call-for-tenders-study-on-how-online-mar",
       "title": "Call for tenders: Study on how online marketplace design influences user behaviour",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 2...",
@@ -1104,7 +1013,7 @@
       "id": "live-governance-join-the-inaugural-d-tect-forum",
       "title": "Join the Inaugural D-TECT Forum",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mecha...",
@@ -1113,9 +1022,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#Governance",
         "#EUAIAct",
-        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
@@ -1125,7 +1034,7 @@
       "id": "live-governance-commission-starts-enforcing-ai-act-rules",
       "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August Anonymous (not verified) Fri, 07/31/2026 - 09:00 From 2 August 2026, the European Commission\u2019...",
@@ -1145,7 +1054,7 @@
       "id": "live-governance-eu-support-for-the-news-media-sector",
       "title": "EU support for the news media sector",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "EU support for the news media sector anserge Fri, 07/31/2026 - 09:00 The European Commission works to address structural challenges in media sectors and to promote a free, diverse ...",
@@ -1165,7 +1074,7 @@
       "id": "live-governance-eu-launches-ai-gigafactories-call-to-boo",
       "title": "EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than \u20ac30 bill",
       "category": "governance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than \u20ac30 billion in investment Anonymous (not verified) Thu, 07/30/2026 - 11:50 The EU has la...",
@@ -1174,19 +1083,55 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#Governance",
         "#EUAIAct",
-        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-launches-ai-gigafactories-call-boost-europes-computing-capacity-and-unlock-more-eu30-billion",
       "details": "EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than \u20ac30 billion in investment Anonymous (not verified) Thu, 07/30/2026 - 11:50 The EU has launched a call for tenders to establish up to seven AI Gigafactories across Europe, as part of its latest major push to accelerate Europe's technological sovereignty and ambition of becoming the AI Continent. AdobeStock \u00a9 Tikka MS Led by industry and supported by up to \u20ac10 billion in EU and national funding, the initiative is expected to unlock at least \u20ac20 billion in private investment across the Union. It will expand Europe's AI computing capacity and give start-ups, scale-ups, small and medium-sized enterprises, industry, academia and public authorities access to infrastructure for training, inference and fine-tuning advanced frontier AI models. The AI Gigafactories will combine advanced AI processors, software and cloud technology stacks, high-speed connectivity and energy-efficient data centres. Together with Europe's network of 19 AI Factories, they will strengthen Europe's technological leadership, resilience and strategic autonomy. The initiative will ensure that Europe can develop advanced AI on its own infrastructure, in line with EU rules and values. AI technologies developed in the AI Gigafactories will follow EU standards on data protection, safety, security and ethics. Read the full press release. Find more information: Strengthening Europe's Tech Sovereignty AI Continent Action Plan European High Performance Computing Joint Undertaking Tender Documents Related topics Advanced Digital Technologies High Performance Computing - HPC Artificial intelligence Funding for Digital Tech sovereignty Related content Call document01 July 2026Presentations from Info Session on AI Gigafactories InitiativeOn 16 June, the EuroHPC Joint Undertaking organised a dedicated online information session on the upcoming AI Gigafactories initiative. The presentations are now available."
     },
     {
+      "id": "live-multilateral-what-s-journalism-worth-in-disasters-and",
+      "title": "What\u2019s journalism worth in disasters and emergencies? A lot, says a new UN report",
+      "category": "multilateral",
+      "date": "2026-08-19",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "A single New York Times article on a disaster generated an additional $500,000 in official aid. That\u2019s just one of the findings on the critical role a free press plays in saving li...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168164",
+      "details": "A single New York Times article on a disaster generated an additional $500,000 in official aid. That\u2019s just one of the findings on the critical role a free press plays in saving lives, according to a new UN report released on Tuesday."
+    },
+    {
+      "id": "live-multilateral-lebanon-860-000-displaced-people-have-re",
+      "title": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains \u2018immense\u2019",
+      "category": "multilateral",
+      "date": "2026-08-19",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Around 860,000 people displaced by the conflict in southern Lebanon have returned, but the displacement and humanitarian crisis are \u201cfar from over,\u201d the UN warned on Tuesday.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168163",
+      "details": "Around 860,000 people displaced by the conflict in southern Lebanon have returned, but the displacement and humanitarian crisis are \u201cfar from over,\u201d the UN warned on Tuesday."
+    },
+    {
       "id": "live-multilateral-colombia-earthquake-un-ramps-up-aid-for-",
       "title": "Colombia earthquake: UN ramps up aid for 100,000 people",
       "category": "multilateral",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The UN is scaling up humanitarian assistance in western Colombia as needs continue to grow following last week\u2019s devastating 7.4-magnitude earthquake, according to the latest updat...",
@@ -1204,7 +1149,7 @@
       "id": "live-multilateral-gaza-only-three-per-cent-of-cropland-ava",
       "title": "Gaza: Only three per cent of cropland available to grow food",
       "category": "multilateral",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Amid ongoing deadly hostilities in Gaza, the enclave\u2019s farmers face the increasingly difficult challenge of finding safe land to grow their crops.",
@@ -1222,7 +1167,7 @@
       "id": "live-multilateral-singapore-independent-rights-experts-urg",
       "title": "Singapore: Independent rights experts urge immediate end to \u2018unlawful use\u2019 of death penalty",
       "category": "multilateral",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Independent UN Human Rights Council-appointed experts on Tuesday&nbsp;condemned the execution of at least 16 people in Singapore for drug-related offences this year and urged the c...",
@@ -1235,44 +1180,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168159",
       "details": "Independent UN Human Rights Council-appointed experts on Tuesday&nbsp;condemned the execution of at least 16 people in Singapore for drug-related offences this year and urged the country to end its \u201ccontinued and unlawful use of capital punishment.\u201d"
-    },
-    {
-      "id": "live-multilateral-security-council-live-drone-strikes-and-",
-      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
-      "category": "multilateral",
-      "date": "2026-08-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#AISecurity",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168158",
-      "details": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here."
-    },
-    {
-      "id": "live-multilateral-ebola-motorbike-riders-carrying-the-sick",
-      "title": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
-      "category": "multilateral",
-      "date": "2026-08-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "From the frontlines of the deadliest-ever Ebola outbreak in Democratic Republic of the Congo (DRC), the UN World Health Organization (WHO) shared details on Tuesday of a massive pu...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168157",
-      "details": "From the frontlines of the deadliest-ever Ebola outbreak in Democratic Republic of the Congo (DRC), the UN World Health Organization (WHO) shared details on Tuesday of a massive push for community engagement, a day after yet another ambulance attack."
     }
   ]
 }
