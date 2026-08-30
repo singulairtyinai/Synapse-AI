@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-29T22:27:57.347660",
-  "fetched_count": 65,
+  "timestamp": "2026-08-30T04:16:26.023762",
+  "fetched_count": 60,
   "nodes": [
     {
       "id": "live-overall-the-download-a-secretive-antiaging-drug-",
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it\u2019s found a ...",
@@ -24,7 +24,7 @@
       "id": "live-overall-how-to-sign-up-for-a-virtual-power-plant",
       "title": "How to sign up for a virtual power plant\u2014and decide whether you should",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "MIT Technology Review\u2019s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC sy...",
@@ -42,7 +42,7 @@
       "id": "live-overall-a-startup-claims-it-s-found-a-drug-to-ma",
       "title": "A startup claims it\u2019s found a drug to make your blood young",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "I knew I\u2019d officially become a \u201clongevity influencer\u201d this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new r...",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
       "details": "I knew I\u2019d officially become a \u201clongevity influencer\u201d this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn\u2019t just any antiaging treatment, either. A company fact sheet says that&#8230;"
@@ -61,7 +61,7 @@
       "id": "live-overall-the-download-inside-openai-s-hugging-fac",
       "title": "The Download: inside OpenAI\u2019s Hugging Face hack, and a new EV takes on the US",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI...",
@@ -81,7 +81,7 @@
       "id": "live-overall-is-slate-auto-s-new-electric-truck-the-e",
       "title": "Is Slate Auto\u2019s new electric truck the EV Americans need?",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that\u2019s pretty dismal, especially because the transportati...",
@@ -99,7 +99,7 @@
       "id": "live-overall-enterprise-ai-s-real-risk-isn-t-autonomo",
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That\u2019s because enterprises don&#x27;t deploy a si...",
@@ -108,10 +108,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
+        "#AgenticAI",
         "#Fellowship",
         "#Governance",
-        "#AgenticAI",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -121,7 +121,7 @@
       "id": "live-overall-when-agents-act-on-their-own-governance-",
       "title": "When agents act on their own, governance has to live in the data layer",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to th...",
@@ -131,8 +131,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
@@ -142,7 +142,7 @@
       "id": "live-overall-orchestration-is-the-new-challenge-for-c",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to s...",
@@ -162,7 +162,7 @@
       "id": "live-overall-venturebeat-names-rob-strechay-as-its-fi",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Res...",
@@ -171,11 +171,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#Governance",
         "#AgenticAI",
-        "#UnitedNations",
-        "#Anthropic"
+        "#Anthropic",
+        "#Governance",
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "details": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers \u2014 the directors, VPs, CIOs, and CTOs \u2014 who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment.The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill.An analyst who has sat on every side of the tableStrechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services to help build a new analytics service; and he held executive roles across enterprise infrastructure. He later served as a senior analyst at Enterprise Strategy Group and most recently as managing director and principal analyst at theCUBE Research and SiliconANGLE, where he hosted executive interviews and analyzed the evolution of cloud, data, and AI infrastructure.Strechay will initially focus his coverage on cloud infrastructure, advanced data infrastructure, platform engineering and DevOps orchestration and observability, and the intersection points where AI and enterprise security collide.Already at work: GPU utilization and the VB Pulse surveysStrechay has already been contributing to VentureBeat&#x27;s research. In May he published an analysis of enterprise GPU utilization, examining the compute waste sitting inside enterprise AI infrastructure, and he provided a substantive review of our AI Infrastructure &amp; Compute survey before it went into the field.His infrastructure-level focus complements the research engine VentureBeat has built around its monthly VB Pulse surveys, which track five areas of enterprise AI adoption: agentic orchestration, agent reliability and evals, agentic security and identity, AI infrastructure and compute, and context layers, including retrieval-augmented generation (RAG). Our June report on agentic orchestration, drawn from a survey of 145 enterprises, found that two-thirds of those enterprises had hedged their AI model strategy rather than committing to a single provider \u2014 a posture whose value the June outage of Anthropic&#x27;s Claude models made plain.VB In Conversation: The first vehicleA core vehicle for this expanded research footprint will be a deepening of VentureBeat&#x27;s existing VB In Conversation video interview series, which Strechay will host. Rather than high-level industry overviews, the series will bring architectural blueprints, actual deployment barriers, and back-end infrastructure realities to light through in-depth technical interviews with the architects and product leaders behind leading enterprise AI systems \u2014 an unvarnished look at which tools perform under production-grade pressure.&quot;VentureBeat has built an audience of enterprise builders and technology buyers that any analyst would want to serve,&quot; Strechay said. &quot;My goal is to use deep empirical metrics and VentureBeat&#x27;s proprietary tracking data to help enterprise buyers and the people building for them make sound platform and infrastructure decisions during the most disruptive transition enterprise technology has seen.&quot;The expanded VB In Conversation series will appear on VentureBeat and on VentureBeat&#x27;s YouTube channel, alongside Rob&#x27;s written analysis on the site. Enterprise practitioners who want to take part in our monthly VB Pulse surveys, or arrange an analyst briefing with Rob, can reach the research team here."
@@ -184,7 +184,7 @@
       "id": "live-overall-google-just-redesigned-the-search-box-fo",
       "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more th",
       "category": "overall",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat AI",
       "tldr": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list...",
@@ -193,121 +193,20 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#EUAIAct",
         "#Governance",
         "#Google",
-        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "details": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google announced a sweeping redesign of the search box itself \u2014 the literal text field where billions of queries begin every day \u2014 transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs. The company is also merging its AI Overviews and AI Mode features into a single, seamless search flow, eliminating the friction that previously forced users to choose between a traditional results page and an AI-forward experience.Liz Reid, Google&#x27;s vice president and head of Search, called it &quot;the biggest upgrade to our iconic search box since its debut over 25 years ago&quot; during a press briefing on Monday.The announcement arrived alongside a blizzard of other news \u2014 new Gemini models, a personal AI agent called Spark, an intelligent shopping cart, a reimagined developer platform \u2014 but the search box redesign may prove to be the most consequential. It is the clearest signal yet that Google views the future of its flagship product not as a place where users type fragmented keywords, but as an interface where they hold open-ended, multimodal conversations with an AI system backed by the entire web.The new search box expands, accepts files, and coaches you on what to askThe changes show a fundamental shift in how Google expects people to interact with the product that generates the vast majority of Alphabet&#x27;s revenue.The box itself now dynamically expands to accommodate longer, more conversational queries. Where the old interface subtly encouraged brevity \u2014 a narrow field suited to two- or three-word keyword strings \u2014 the new design invites users to fully articulate complex questions in granular detail. It also now supports multimodal inputs directly. Users can upload images, PDFs, files, and videos, or drag in content from Chrome tabs, right from the main search interface. Previously, some of these capabilities existed in AI Mode, but reaching them required extra steps. Now they sit at the primary entry point.Google is also deploying what it describes as an AI-powered query suggestion system that &quot;goes beyond autocomplete.&quot; Rather than simply predicting the next word a user might type based on popular searches, the system helps users formulate complex, nuanced queries \u2014 essentially coaching them toward the kind of detailed questions that AI Mode handles best.The new search box is starting to roll out immediately in all countries and languages where AI Mode is available.Google is merging AI overviews and AI mode into one seamless experiencePerhaps more significant than the box itself is the architectural change happening behind it. Google is unifying AI Overviews \u2014 the AI-generated summary panels that appear atop traditional search results \u2014 with AI Mode, the more immersive conversational search experience the company launched at I/O one year ago.Starting Tuesday, this merged experience will be live across mobile and desktop worldwide. A user can type a question, receive an AI Overview alongside traditional results, and then continue directly into a back-and-forth AI Mode conversation to ask follow-up questions \u2014 all without navigating to a separate interface.Reid explained the logic during the press briefing: the new AI search box is &quot;an upgrade of our traditional search box, and so the results take you directly to main search rather than AI mode.&quot; She noted that while some power users actively sought out AI Mode, &quot;for most users, they don&#x27;t actually want to have to think about, do they want more of a traditional page or an AI-forward search experience.&quot;The goal, she said, was to ensure that &quot;for most users, they don&#x27;t have to think about where to go, they can just go to the search box they&#x27;re familiar with, and it feels like they get the best experience afterwards.&quot;One billion users and doubling queries reveal how fast search behavior is shiftingGoogle&#x27;s decision to redesign the foundational interface of its most important product did not happen in a vacuum. The company shared a set of usage statistics during the briefing that reveal just how rapidly user behavior is already changing.AI Mode, which launched in the United States at I/O 2025, has surpassed one billion monthly users in its first year. AI Mode queries have been doubling every quarter since launch. AI Overviews, the lighter-weight AI summaries, now reach more than 2.5 billion monthly users. And overall search query volume hit an all-time high last quarter \u2014 a data point the company had previously disclosed on its earnings call.Sundar Pichai, Google&#x27;s CEO, framed these figures as evidence that AI features are additive, not cannibalistic, to search usage. &quot;When people use our AI-powered features in search, they use search more,&quot; he said. He added that he loves &quot;how search has become less about individual queries and feels more like an ongoing conversation, giving users deeper insights and connecting you with the vastness of the web.&quot;Reid reinforced the point: &quot;It&#x27;s not just that people are searching more, it&#x27;s that they&#x27;re searching differently. They&#x27;re fully expressing their questions in granular detail, asking those follow-up questions and searching across modalities.&quot;Gemini 3.5 Flash gives Google&#x27;s AI search the speed it needs to work at scaleUnder the hood, the new search experience runs on Gemini 3.5 Flash, Google&#x27;s newest AI model, which the company also introduced at I/O. Google upgraded AI Mode&#x27;s underlying model to 3.5 Flash to deliver what Reid described as &quot;an even more powerful AI search experience.&quot;Gemini 3.5 Flash is the workhorse of this year&#x27;s announcements. Google claims it outperforms its previous frontier model, Gemini 3.1 Pro, on nearly all benchmarks while running four times faster in output tokens per second than comparable frontier models. Pichai described it as being &quot;in a league of its own in the top right quadrant&quot; of the Artificial Analysis index, which plots intelligence against speed \u2014 meaning it delivers near-frontier quality at dramatically lower latency.That speed matters enormously for search. A conversational AI search experience that feels sluggish would be dead on arrival for a product that serves billions of queries daily. By coupling the redesigned interface with a model optimized for both quality and throughput, Google is attempting to make AI-powered search feel as instantaneous as the old keyword experience \u2014 while being dramatically more capable.Search can now build interactive visuals and custom mini apps on the flyThe redesigned search box is also the gateway to a set of new capabilities that push search far beyond text-based answers. Google announced what it calls &quot;generative UI&quot; \u2014 the ability for search to dynamically build custom widgets, interactive visualizations, and even mini applications in real time, tailored to a user&#x27;s specific question.Reid offered a concrete example during the briefing: a user could ask &quot;How do black holes affect space time?&quot; and receive an interactive visual in an AI Overview that brings the concept to life. Follow-up questions would trigger the system to dynamically generate entirely new visuals in real time. This is possible, she explained, because of &quot;a novel real-time code generation system we built in partnership with the Google DeepMind team&quot; that runs on Gemini 3.5 Flash. Generative UI capabilities will roll out to everyone this summer, free of charge.But Google is going further still. For ongoing tasks \u2014 planning a wedding, organizing a move, tracking a fitness routine \u2014 users will be able to build what the company describes as customizable, stateful experiences within search, powered by its Antigravity development platform. These require no coding expertise. Users simply describe what they want in natural language, and search builds it. Those experiences will be available in coming months, starting with Google AI Pro and Ultra subscribers in the United States.AI agents that monitor the web around the clock are coming to search resultsThe redesign also opens the door to what Google calls &quot;information agents&quot; \u2014 AI agents that users can configure directly within search to monitor the web 24/7 for specific conditions and deliver synthesized updates when those conditions are met.A user could, for example, set up an agent to track market movements in a particular sector with specific parameters. The agent would create a monitoring plan, tap into real-time finance data, and proactively notify the user when conditions are met \u2014 complete with links and context for further research. Other use cases include apartment hunting, tracking sneaker drops, or monitoring any topic a user cares about. Information agents will launch first for Google AI Pro and Ultra subscribers this summer.These agents sit within a much larger strategic pivot that Google articulated throughout the briefing: the company is going all-in on AI systems that don&#x27;t just answer questions but proactively take actions on users&#x27; behalf. Beyond search, Google introduced Gemini Spark, a 24/7 personal AI agent that runs on dedicated virtual machines in Google Cloud. It unveiled the Universal Cart, an intelligent cross-merchant shopping cart. It announced the Agent Payments Protocol for agents to make secure purchases. And it expanded its Antigravity developer platform into a full ecosystem for building autonomous AI agents.Publishers, advertisers, and SEO professionals face a new realityThe redesign raises profound questions for the sprawling ecosystem \u2014 publishers, advertisers, SEO professionals \u2014 that has been built around the old model of keyword search and blue links.If users increasingly express their needs as full, conversational sentences rather than fragmented keywords, the entire discipline of search engine optimization will need to evolve. Keyword-density strategies become less relevant when the AI is parsing natural language intent rather than matching strings. Content that answers deep, nuanced questions in authoritative ways becomes more valuable; content engineered to rank for two-word keyword fragments becomes less so.For publishers, the stakes are existential. AI Overviews already synthesize information from across the web and present it directly in search results, reducing the need for users to click through to source material. The new seamless AI Mode integration deepens that dynamic: users can now get an AI-generated answer and ask multiple follow-up questions without ever leaving the search page. Google has consistently maintained that its AI features drive more traffic to publishers, but the redesign puts that claim under renewed scrutiny as the search results page becomes more self-contained.For advertisers \u2014 who fund the vast majority of Google&#x27;s revenue \u2014 the shift from keywords to conversations changes the calculus of ad targeting. Conversational queries contain richer intent signals, which could make ad targeting more precise and valuable. But they also create new ambiguities: when a user is in the middle of a multi-turn conversation with AI Mode, where does an ad naturally fit? Google did not detail changes to its advertising model during the briefing, but the structural shift in the interface will inevitably reshape how ads are surfaced and measured.The search box was always more than a product \u2014 it was a habit for billions of peopleThere is a reason Google chose to redesign the search box rather than simply adding new features behind it. The search box is not just a product element at this point; it is a cultural artifact \u2014 one of the few pieces of digital infrastructure used by essentially the entire internet-connected world. Changing it sends an unmistakable message about where the company believes computing is headed.For 25 years, the search box trained billions of people to think in keywords \u2014 to compress their curiosity into the shortest possible string of words. The new box invites them to do the opposite: to think out loud, to upload what they&#x27;re looking at, to ask follow-up questions, to let an AI system handle the compression.Pichai tied the company&#x27;s broader ambitions to a striking statistic: Google&#x27;s surfaces now process over 3.2 quadrillion tokens per month, up seven-fold from a year ago. The company expects capital expenditures of approximately $180 to $190 billion in 2026 \u2014 roughly six times the $31 billion it spent four years ago \u2014 largely to support the infrastructure required for this AI transformation. When asked about the future of traditional search, he was direct. &quot;Search is the most used AI product in the world,&quot; he said.The blinking cursor in Google&#x27;s search box still invites you to type. But after 25 years of teaching the world to speak in keywords, Google is now asking it to speak in sentences \u2014 and betting roughly $190 billion that it will."
     },
     {
-      "id": "live-overall-eduriskx-a-neuro-symbolic-framework-with",
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "category": "overall",
-      "date": "2026-08-29",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and l...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Reasoning",
-        "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2608.26107",
-      "details": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading to a \"black-box\" trust crisis that hinders their adoption in real-world pedagogical settings. To address these challenges, we propose EduRiskX, a neuro-symbolic framework that integrates a temporal Transformer-based predictor with F-Logic symbolic reasoning. The neural component models longitudinal student activity sequences using temporal attention, class-weighted loss, and dynamic weekly truncation. Acting as a data-driven expert system, an F-Logic rule base -- grounded in established educational theories (Engagement Theory and Student Integration Model) to mimic the diagnostic logic of human educators -- is constructed exclusively from the training data. The neural risk probability and the symbolic confidence score are then combined through a logistic regression-based fusion mechanism that learns the relative contribution of each signal. Experiments on the Open University Learning Analytics Dataset (OULAD) using a strict 80/10/10 student-level split show that EduRiskX achieves an accuracy of 0.900 and an F1-score of 0.894 at the end of the semester (Week 38), with an average early detection week of 9.32 and a detection rate of 94.30 percent. Compared with state-of-the-art time-series models (PatchTST, iTransformer) and common deep learning baselines (LSTM, CNN), EduRiskX yields improved recall and earlier risk identification under identical conditions. Beyond predictive performance, the F-Logic module provides structured rule-based explanations linking predictions to observable behavioral patterns and educational theories."
-    },
-    {
-      "id": "live-overall-standalone-llm-and-a-pre-specified-agent",
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feas",
-      "category": "overall",
-      "date": "2026-08-29",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narr...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2608.26109",
-      "details": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a plausible extension because they separate data interpretation, guideline checking, and final explanation. This revised feasibility study preserves the original standalone-versus-agentic comparison while making the main clinical findings more explicit. Using the retained local eICU Demo artifact set (2,353 ICU stays; 8.1\\% mortality), XGBoost achieved an AUROC of 0.855 (95\\% CI 0.796--0.906) and an AUPRC of 0.332 (95\\% CI 0.217--0.494). On a stratified 38-case explanation subset, the standalone LLM produced 1 explanation with explicit outcome leakage, whereas the four-step agentic pipeline produced none. Among the 14 cases that overlapped with the SHAP review subset, the standalone LLM showed higher SHAP alignment (mean Jaccard 0.171 versus 0.077) and higher direction consistency (92.9\\% versus 78.6\\%), while the agentic pipeline showed higher guideline grounding (0.762 versus 0.143), higher value specificity (0.236 versus 0.143), and slightly higher plausibility (0.700 versus 0.671). Clinically, the results suggest that agentic decomposition may improve safety-relevant grounding and patient-specific detail, but it should be paired with attribution-based checks before use in high-stakes risk explanation."
-    },
-    {
-      "id": "live-overall-large-models-for-battery-prognostics-and",
-      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "category": "overall",
-      "date": "2026-08-29",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batter...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2608.26111",
-      "details": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-based models and task-centric deep learning methods, face challenges in computational efficiency and parameterization, cross-domain generalization, dependence on extensive labeled run-to-failure data, and model interpretability. Recent Large Models (LMs), built upon Transformer architectures and self-supervised pre-training, offer a transformative new paradigm to overcome these long-standing bottlenecks. This review provides the first comprehensive survey of LM applications in BPHM, systematically examining how these models address challenges in the field. We begin by elucidating the foundational technologies enabling LMs, including Transformer architectures, self-supervised learning, large-scale multimodal datasets, and PEFT techniques. We then categorize recent progress along four critical dimensions: mitigating data scarcity, enhancing generalization and robustness, integrating domain knowledge for interpretability, and enabling system-level automation. Despite promising results, significant challenges remain across data accessibility, intelligence validation, trustworthiness, and deployment feasibility. To guide future research, we propose a roadmap focused on building collaborative data ecosystems, validating intelligence for industrial applications, enhancing trustworthiness with physics-informed designs, and enabling efficient on-device deployment. This review establishes a systematic approach to understand and advance LM-driven BPHM, providing researchers and practitioners with essential insights for developing next-generation battery management systems capable of safe, reliable, and autonomous operation throughout battery lifecycles."
-    },
-    {
-      "id": "live-overall-picasso-an-ai-enabled-design-framework-f",
-      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "category": "overall",
-      "date": "2026-08-29",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2608.26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2608.26113",
-      "details": "arXiv:2608.26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generation pipeline with PDK aware knowledge injection, automated placement and routing, DRC/LVS validation, and SAX-based photonic simulation. To systematically evaluate AI-driven photonic design, we introduce PIC-Set, a benchmark of 36 parameterized PIC design tasks spanning core photonic primitives and multi-component circuits. Using PIC-Set, we benchmark several state-of-the-art Large Language Models (LLMs) under a unified evaluation protocol, including new metrics such as structural and functional $Spec@k$, optimization efficiency, and robustness under perturbations. Across the benchmark, PICasso significantly improves end-to-end specification satisfaction compared to vanilla LLM generation. Structural $Spec@3$ reaches up to 92.7% and functional $Spec@3$ up to 52% on high-complexity circuits. In addition, PICasso consistently reduces circuit insertion loss, lowering the mean loss from 4.98 dB to 3.25 dB (1.74 dB improvement) through simulation-guided optimization. These results demonstrate that structured domain constraints, physical verification, and simulation feedback transform LLMs from brittle netlist generators into practical PIC design agents capable of producing manufacturable layouts with competitive runtimes relative to manual GUI-based workflows."
-    },
-    {
-      "id": "live-overall-cifqa-a-deterministic-tool-grounded-mult",
-      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "category": "overall",
-      "date": "2026-08-29",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical fo...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
-        "#Governance",
-        "#Reasoning"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2608.26114",
-      "details": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce numerically incorrect yet plausible answers when solving multi-step financial calculations. To address this limitation, we introduce CIFQA (Calculation-Intensive Financial Query Answering), a deterministic tool-grounded multi-agent LLM framework for financial question answering. CIFQA separates language understanding from numerical execution by assigning specialized agents to query interpretation, routing, parameter extraction, computation planning, and response generation, while deterministic Python-based tools perform financial calculations and rule application. We instantiate CIFQA for fixed deposit query answering and evaluate it on a curated benchmark of fixed deposit queries. CIFQA achieves 95.54% accuracy on calculation-intensive queries and 90.87% overall accuracy, substantially outperforming direct LLM baselines even when provided with complete formulas, rate cards, and benchmark instructions. Ablation studies show that deterministic components such as exact rate lookup, tenure computation, rolling-year adjustment, and premature-withdrawal logic are critical contributors to performance. Notably, a 17B open-source backbone operating within CIFQA outperforms substantially larger frontier models evaluated with the same financial information, demonstrating that architectural design is a more important determinant of numerical reliability than model scale. While evaluated on fixed deposit queries, CIFQA provides a generalizable framework for calculation-intensive financial reasoning tasks."
-    },
-    {
       "id": "live-agentic_ai-the-open-asr-leaderboard-adds-its-first-",
       "title": "The Open ASR Leaderboard Adds Its First Global South Language",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -325,7 +224,7 @@
       "id": "live-agentic_ai-training-and-finetuning-multi-vector-emb",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -343,7 +242,7 @@
       "id": "live-agentic_ai-granite-4-2-llms-how-they-re-built",
       "title": "Granite 4.2 LLMs: How They're Built",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -361,7 +260,7 @@
       "id": "live-agentic_ai-quantization-aware-healing-a-compressed-",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -379,7 +278,7 @@
       "id": "live-agentic_ai-wire-it-run-it-deploy-it-ai-workflows-in",
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -397,7 +296,7 @@
       "id": "live-agentic_ai-why-agentic-ai-needs-a-strong-identity-f",
       "title": "Why Agentic AI Needs a Strong Identity Foundation",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation Comments URL: https://news.ycombinator.com/item?id=494836...",
@@ -407,8 +306,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
       "details": "Article URL: https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation Comments URL: https://news.ycombinator.com/item?id=49483683 Points: 1 # Comments: 0"
@@ -417,7 +316,7 @@
       "id": "live-agentic_ai-making-your-data-ready-for-agentic-ai",
       "title": "Making Your Data Ready for Agentic AI",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49476637 Points: 2 # Comments: 0",
@@ -435,7 +334,7 @@
       "id": "live-agentic_ai-aperture-ga-building-a-home-lab-for-agen",
       "title": "Aperture GA: Building a home(lab) for agentic AI",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://tailscale.com/blog/aperture-ga Comments URL: https://news.ycombinator.com/item?id=49453932 Points: 4 # Comments: 1",
@@ -453,7 +352,7 @@
       "id": "live-agentic_ai-intel-crescent-island-gpu-flexes-32-xe3p",
       "title": "Intel Crescent Island GPU Flexes 32 Xe3P Cores, 480GB LPDDR5X for Agentic AI",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://hothardware.com/news/intel-crescent-island-hot-chips-2026 Comments URL: https://news.ycombinator.com/item?id=49449607 Points: 7 # Comments: 0",
@@ -471,7 +370,7 @@
       "id": "live-agentic_ai-234b-in-enterprise-application-software-",
       "title": "$234B in Enterprise Application Software Spend at Risk from Agentic AI",
       "category": "agentic_ai",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-arti...",
@@ -489,7 +388,7 @@
       "id": "live-models-our-decision-on-cursor-following-its-acq",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "category": "models",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
@@ -498,8 +397,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI"
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "details": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
@@ -508,7 +407,7 @@
       "id": "live-models-supporting-thailand-s-next-generation-of",
       "title": "Supporting Thailand\u2019s next generation of AI startups",
       "category": "models",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
@@ -527,7 +426,7 @@
       "id": "live-models-better-answers-broader-thinking-what-stu",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "category": "models",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
@@ -546,7 +445,7 @@
       "id": "live-models-expanding-openai-s-presence-in-brazil",
       "title": "Expanding OpenAI\u2019s presence in Brazil",
       "category": "models",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
@@ -565,7 +464,7 @@
       "id": "live-models-learning-never-stops-how-ai-makes-learni",
       "title": "Learning never stops: How AI makes learning continuous",
       "category": "models",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
@@ -583,7 +482,7 @@
       "id": "live-companies-nvidia-announces-upcoming-event-for-fina",
       "title": "NVIDIA Announces Upcoming Event for Financial Community",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA will present at the following event for the financial community",
@@ -592,8 +491,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
       "details": "NVIDIA will present at the following event for the financial community"
@@ -602,7 +501,7 @@
       "id": "live-companies-geforce-now-gives-gamers-more-ways-to-pl",
       "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA\u2019s Gamescom announcements are revealing what\u2019s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the clo...",
@@ -611,8 +510,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
       "details": "NVIDIA\u2019s Gamescom announcements are revealing what\u2019s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser [\u2026]"
@@ -621,7 +520,7 @@
       "id": "live-companies-nvidia-nvlink-fusion-expands-with-nvhbm-",
       "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only...",
@@ -630,9 +529,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#AgenticAI",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
       "details": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation [\u2026]"
@@ -641,7 +540,7 @@
       "id": "live-companies-aws-and-nvidia-to-deliver-2-million-addi",
       "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic a",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and NVIDIA (NASDAQ: NVDA) today announced a major expansion of their strategic collaboration to meet surging ...",
@@ -650,9 +549,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#AgenticAI",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
       "details": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and NVIDIA (NASDAQ: NVDA) today announced a major expansion of their strategic collaboration to meet surging global demand for AI infrastructure as demand continues to accelerate."
@@ -661,7 +560,7 @@
       "id": "live-companies-nvidia-announces-financial-results-for-s",
       "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago.",
@@ -670,8 +569,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
       "details": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago."
@@ -680,7 +579,7 @@
       "id": "live-companies-enterprise-ai-s-real-risk-isn-t-autonomo",
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That\u2019s because enterprises don&#x27;t deploy a si...",
@@ -689,10 +588,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
+        "#AgenticAI",
         "#Fellowship",
         "#Governance",
-        "#AgenticAI",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -702,7 +601,7 @@
       "id": "live-companies-when-agents-act-on-their-own-governance-",
       "title": "When agents act on their own, governance has to live in the data layer",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to th...",
@@ -712,8 +611,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
@@ -723,7 +622,7 @@
       "id": "live-companies-orchestration-is-the-new-challenge-for-c",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to s...",
@@ -743,7 +642,7 @@
       "id": "live-companies-venturebeat-names-rob-strechay-as-its-fi",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Res...",
@@ -752,11 +651,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#Governance",
         "#AgenticAI",
-        "#UnitedNations",
-        "#Anthropic"
+        "#Anthropic",
+        "#Governance",
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "details": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers \u2014 the directors, VPs, CIOs, and CTOs \u2014 who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment.The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill.An analyst who has sat on every side of the tableStrechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services to help build a new analytics service; and he held executive roles across enterprise infrastructure. He later served as a senior analyst at Enterprise Strategy Group and most recently as managing director and principal analyst at theCUBE Research and SiliconANGLE, where he hosted executive interviews and analyzed the evolution of cloud, data, and AI infrastructure.Strechay will initially focus his coverage on cloud infrastructure, advanced data infrastructure, platform engineering and DevOps orchestration and observability, and the intersection points where AI and enterprise security collide.Already at work: GPU utilization and the VB Pulse surveysStrechay has already been contributing to VentureBeat&#x27;s research. In May he published an analysis of enterprise GPU utilization, examining the compute waste sitting inside enterprise AI infrastructure, and he provided a substantive review of our AI Infrastructure &amp; Compute survey before it went into the field.His infrastructure-level focus complements the research engine VentureBeat has built around its monthly VB Pulse surveys, which track five areas of enterprise AI adoption: agentic orchestration, agent reliability and evals, agentic security and identity, AI infrastructure and compute, and context layers, including retrieval-augmented generation (RAG). Our June report on agentic orchestration, drawn from a survey of 145 enterprises, found that two-thirds of those enterprises had hedged their AI model strategy rather than committing to a single provider \u2014 a posture whose value the June outage of Anthropic&#x27;s Claude models made plain.VB In Conversation: The first vehicleA core vehicle for this expanded research footprint will be a deepening of VentureBeat&#x27;s existing VB In Conversation video interview series, which Strechay will host. Rather than high-level industry overviews, the series will bring architectural blueprints, actual deployment barriers, and back-end infrastructure realities to light through in-depth technical interviews with the architects and product leaders behind leading enterprise AI systems \u2014 an unvarnished look at which tools perform under production-grade pressure.&quot;VentureBeat has built an audience of enterprise builders and technology buyers that any analyst would want to serve,&quot; Strechay said. &quot;My goal is to use deep empirical metrics and VentureBeat&#x27;s proprietary tracking data to help enterprise buyers and the people building for them make sound platform and infrastructure decisions during the most disruptive transition enterprise technology has seen.&quot;The expanded VB In Conversation series will appear on VentureBeat and on VentureBeat&#x27;s YouTube channel, alongside Rob&#x27;s written analysis on the site. Enterprise practitioners who want to take part in our monthly VB Pulse surveys, or arrange an analyst briefing with Rob, can reach the research team here."
@@ -765,7 +664,7 @@
       "id": "live-companies-google-just-redesigned-the-search-box-fo",
       "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more th",
       "category": "companies",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "VentureBeat Business",
       "tldr": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list...",
@@ -774,10 +673,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#EUAIAct",
         "#Governance",
         "#Google",
-        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
@@ -787,7 +686,7 @@
       "id": "live-fellowships-nsf-launches-three-new-science-and-techn",
       "title": "NSF launches three new Science and Technology Centers with $90M investment in transformative researc",
       "category": "fellowships",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation is investing $90 million over five years to support three new NSF Science and Technology Centers (NSF STC). These centers will advance American...",
@@ -805,7 +704,7 @@
       "id": "live-fellowships-podcast-educator-wins-presidential-ai-ch",
       "title": "Podcast: Educator wins Presidential AI Challenge",
       "category": "fellowships",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researchers are behind an educational effort to introduce artificial intelligence techniques to elementary school children...",
@@ -823,7 +722,7 @@
       "id": "live-fellowships-eight-nsf-research-institutes-to-propel-",
       "title": "Eight NSF research institutes to propel U.S. quantum science with $290M investment",
       "category": "fellowships",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Understanding and wielding the quantum properties of nature is the ambitious objective of eight research institutes that will collectively receive more than $290 million from the U...",
@@ -841,7 +740,7 @@
       "id": "live-fellowships-podcast-researchers-bring-ai-to-elementa",
       "title": "Podcast: Researchers bring AI to elementary schoolers",
       "category": "fellowships",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Researchers discuss the challenges of introducing artificial intelligence concepts into elementary school curriculum and how the project led to a win in the inaugural Presidential ...",
@@ -859,7 +758,7 @@
       "id": "live-fellowships-nsf-announces-1-5b-for-foundational-rese",
       "title": "NSF announces $1.5B for foundational research to drive scientific breakthroughs for American technol",
       "category": "fellowships",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today released 12 new notices of funding opportunities (NOFOs) providing over $1.5 billion for foundational research, including basic and use-i...",
@@ -877,7 +776,7 @@
       "id": "live-military-here-s-what-trump-s-new-space-academy-co",
       "title": "Here\u2019s what Trump\u2019s new \u2018Space Academy\u2019 could mean for the US military",
       "category": "military",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "A new source for commissioned officers\u2014but is it needed?",
@@ -895,7 +794,7 @@
       "id": "live-military-can-ai-help-the-marines-simplify-sustain",
       "title": "Can AI help the Marines simplify sustainment in the Pacific?",
       "category": "military",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The service is testing a \u201clogistics decision engine\u201d at the theater level.",
@@ -913,7 +812,7 @@
       "id": "live-military-a-pacific-conflict-may-not-look-like-con",
       "title": "A Pacific conflict may not look like conventional war, SOCPAC commander says",
       "category": "military",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "At an irregular-warfare forum in Hawaii, commanders offer warnings and advice.",
@@ -931,7 +830,7 @@
       "id": "live-military-privacy-focused-communication-app-aims-f",
       "title": "Privacy-focused communication app aims for military customers and beyond",
       "category": "military",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "When adversaries can forge faces and voices in real time, traditional secure messaging is no longer enough.",
@@ -940,8 +839,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/08/privacy-focused-communication-app-aims-military-customers-and-beyond/415686/",
       "details": "When adversaries can forge faces and voices in real time, traditional secure messaging is no longer enough."
@@ -950,7 +849,7 @@
       "id": "live-military-us-military-bought-commercial-satellite-",
       "title": "US military bought commercial satellite images of alleged narco airstrips, Chinese naval fleet",
       "category": "military",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The Space Force can improve how it embraces commercial intel, a new GAO report says.",
@@ -968,7 +867,7 @@
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
       "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single ...",
@@ -986,7 +885,7 @@
       "id": "live-governance-nist-national-construction-safety-team-a",
       "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 202",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
@@ -1004,7 +903,7 @@
       "id": "live-governance-nist-researchers-correct-common-error-co",
       "title": "NIST Researchers Correct Common Error Confounding Nanotech Measurements",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
@@ -1013,8 +912,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -1023,7 +922,7 @@
       "id": "live-governance-spooky-particles-transit-dc-suburbs-a-st",
       "title": "\u2018Spooky\u2019 Particles Transit DC Suburbs, a Step Toward a Quantum Network",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
@@ -1041,7 +940,7 @@
       "id": "live-governance-nist-joins-national-genesis-mission-to-a",
       "title": "NIST Joins National Genesis Mission to Accelerate AI Innovation",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "NIST will execute two of its efforts through its Centers for AI in Manufacturing and Critical Infrastructure.",
@@ -1059,7 +958,7 @@
       "id": "live-governance-pitching-day-finalists-of-the-apply-ai-s",
       "title": "Pitching day: Finalists of the Apply AI Startup Award",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply...",
@@ -1078,7 +977,7 @@
       "id": "live-governance-call-for-tenders-study-on-how-online-mar",
       "title": "Call for tenders: Study on how online marketplace design influences user behaviour",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 2...",
@@ -1098,7 +997,7 @@
       "id": "live-governance-join-the-inaugural-d-tect-forum",
       "title": "Join the Inaugural D-TECT Forum",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mecha...",
@@ -1108,8 +1007,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
@@ -1119,7 +1018,7 @@
       "id": "live-governance-commission-starts-enforcing-ai-act-rules",
       "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August Anonymous (not verified) Fri, 07/31/2026 - 09:00 From 2 August 2026, the European Commission\u2019...",
@@ -1139,7 +1038,7 @@
       "id": "live-governance-eu-support-for-the-news-media-sector",
       "title": "EU support for the news media sector",
       "category": "governance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "EU support for the news media sector anserge Fri, 07/31/2026 - 09:00 The European Commission works to address structural challenges in media sectors and to promote a free, diverse ...",
@@ -1156,10 +1055,29 @@
       "details": "EU support for the news media sector anserge Fri, 07/31/2026 - 09:00 The European Commission works to address structural challenges in media sectors and to promote a free, diverse and pluralistic media environment. image by Laurence Dutton by Getty/iStock The Commission aims to support projects that promote a free, diverse and pluralistic media environment, address structural challenges of the media sectors and/or improve citizens' access to quality information. Examples include supporting collaborative journalism, monitoring risks to media pluralism, mapping violations of media freedom, defending journalists under threat, supporting media literacy and strengthening the European public sphere. In short, the European Union supports the news media sector primarily through several instruments: The \u2018Multimedia Actions\u2019 line to fund independent news media coverage of EU affairs. Actions under its Creative Europe programme to support media pluralism and freedom, media collaborations and media literacy. Actions part of innovation programmes (Digital Europe, Horizon Europe). And Pilot Projects and Preparatory Actions proposed by the European Parliament on an annual basis.&nbsp; The available budget amounts to approximately \u20ac50 million per year. The News Infosheet (updated July 2026) &nbsp; Subscribe to the latest news on this topic and more &nbsp; See also Stay tuned for EU calls for the media sector Related topics Media and democracy Media freedom and pluralism Media Freedom and Pluralism Pilot projects MEDIA programme Disinformation Support for the news media sector"
     },
     {
+      "id": "live-multilateral-rising-seas-rising-stakes-what-increasin",
+      "title": "Rising seas, rising stakes: What increasing sea-levels mean to humanity",
+      "category": "multilateral",
+      "date": "2026-08-30",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The ocean is rising faster now than at any point in recorded history. The impacts are already being felt and the threats are growing.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168206",
+      "details": "The ocean is rising faster now than at any point in recorded history. The impacts are already being felt and the threats are growing."
+    },
+    {
       "id": "live-multilateral-four-children-killed-as-separate-attacks",
       "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
       "category": "multilateral",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said ...",
@@ -1177,7 +1095,7 @@
       "id": "live-multilateral-as-the-himalayas-melt-deadly-floods-beco",
       "title": "As the Himalayas melt, deadly floods become the new normal",
       "category": "multilateral",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "A day before a wall of ice, rock and muddy water tore through Himalayan valleys along the Nepal-China border, Dipesh Chapagain was discussing with a colleague just how devastating ...",
@@ -1195,7 +1113,7 @@
       "id": "live-multilateral-security-council-live-deadly-gang-attack",
       "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
       "category": "multilateral",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency...",
@@ -1204,8 +1122,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168222",
       "details": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency meeting at 3pm (local time) to hear and discuss the latest developments. UN News app users can follow our coverage here."
@@ -1214,7 +1132,7 @@
       "id": "live-multilateral-who-reports-more-than-3-200-attacks-on-u",
       "title": "WHO reports more than 3,200 attacks on Ukraine\u2019s healthcare system since full-scale invasion",
       "category": "multilateral",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Since the beginning of Russia\u2019s full-scale invasion of Ukraine, 3,205 attacks on healthcare facilities have been carried out, World Health Organization (WHO) Representative for Ukr...",
@@ -1227,24 +1145,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168226",
       "details": "Since the beginning of Russia\u2019s full-scale invasion of Ukraine, 3,205 attacks on healthcare facilities have been carried out, World Health Organization (WHO) Representative for Ukraine Jarno Habicht reported on Friday following fresh overnight strikes."
-    },
-    {
-      "id": "live-multilateral-risks-of-child-recruitment-by-armed-grou",
-      "title": "Risks of child recruitment by armed groups rise in post-quake Colombia",
-      "category": "multilateral",
-      "date": "2026-08-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The recent earthquake in Colombia could increase the risk of child recruitment by armed groups in Choc\u00f3 and Valle del Cauca, where thousands of children remain out of school in are...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168224",
-      "details": "The recent earthquake in Colombia could increase the risk of child recruitment by armed groups in Choc\u00f3 and Valle del Cauca, where thousands of children remain out of school in areas already affected by conflict, the UN warned on Friday."
     }
   ]
 }
