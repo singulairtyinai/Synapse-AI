@@ -1,7 +1,43 @@
 {
-  "timestamp": "2026-09-01T04:05:53.544635",
+  "timestamp": "2026-09-01T13:12:58.469906",
   "fetched_count": 60,
   "nodes": [
+    {
+      "id": "live-overall-the-download-engineered-microbes-for-cro",
+      "title": "The Download: engineered microbes for crops, and OpenAI\u2019s culture problem",
+      "category": "overall",
+      "date": "2026-09-01",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world\u2019s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;"
+    },
+    {
+      "id": "live-overall-how-engineered-microbes-could-help-feed-",
+      "title": "How engineered microbes could help feed the world\u2019s crops",
+      "category": "overall",
+      "date": "2026-09-01",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of resea...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "details": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop\u2019s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;"
+    },
     {
       "id": "live-overall-the-hugging-face-hack-could-indicate-cul",
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -15,9 +51,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#AISecurity",
         "#OpenAI",
-        "#AISecurity"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;"
@@ -59,45 +95,6 @@
       "details": "MIT Technology Review\u2019s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such&#8230;"
     },
     {
-      "id": "live-overall-a-startup-claims-it-s-found-a-drug-to-ma",
-      "title": "A startup claims it\u2019s found a drug to make your blood young",
-      "category": "overall",
-      "date": "2026-09-01",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "I knew I\u2019d officially become a \u201clongevity influencer\u201d this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new r...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "details": "I knew I\u2019d officially become a \u201clongevity influencer\u201d this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn\u2019t just any antiaging treatment, either. A company fact sheet says that&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-inside-openai-s-hugging-fac",
-      "title": "The Download: inside OpenAI\u2019s Hugging Face hack, and a new EV takes on the US",
-      "category": "overall",
-      "date": "2026-09-01",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with&#8230;"
-    },
-    {
       "id": "live-overall-enterprise-ai-s-real-risk-isn-t-autonomo",
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "category": "overall",
@@ -110,10 +107,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Fellowship",
-        "#AgenticAI",
         "#Governance",
+        "#UnitedNations",
+        "#AgenticAI",
+        "#Fellowship",
         "#AISecurity"
       ],
       "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -132,10 +129,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
         "#Governance",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "details": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?These are your agents, running on your models, touching your data in your infrastructure \u2014 and the responsibility for what they do sits with you. That responsibility can\u2019t be met in hindsight or with a set of abstract policies that live on paper but not in practice. Agents need rules in the context of the moment, because they don\u2019t exercise overriding judgment of their own actions.Consider a simple rule: Never open the car door. Followed literally, an agent could never get in or out of the car at all. But if you change the context (the car has just crashed, there\u2019s a fire, someone is hurt and needs to get out), then the rule you actually want is the opposite. Context in the moment is everything. We are asking agents to do intelligent things; that requires intelligent rules.The instinct is to add guardrails around the agent: instructions, policies, and monitoring layered above the model. Those mechanisms matter, but they share a structural limit: The car-door rule is plausible right up until the moment you actually have to decide whether to open the door. Controls at the agent layer are only as reliable as the agent\u2019s output is predictable, and autonomy is precisely the property that makes that output hard to predict. Governance that depends on reviewing an action before it happens cannot keep pace with a system that acts in milliseconds, across many systems at once.Governance has to become executable, and enforced where agents actually do their work: at the operational data layer, in the context, and exactly at the moment it is happening. The data layer is the enforcement pointAgents create value by touching data. They query it, retrieve it, transform it, and increasingly act on it. A policy that says an agent should not reach a certain class of data is meaningful only if the system can deny that access at the moment the agent requests it. Additionally, a principle that says AI must be auditable is meaningful only if the organization can reconstruct what the agent did, what data it touched, which user it acted for, and what resulted. When governance lives at the data layer, it holds regardless of how the agent was built or how it behaves, because the control is a property of the database itself, not a promise made by the agent.Agent behavior may be probabilistic. Governance cannot beThe enterprise should not rely on a model choosing to follow policy. The policy has to be enforced by the system. That is the difference between hoping an actor stays in bounds and constructing bounds it cannot cross to begin with.The controls that make this real are ones many enterprises already run at the data layer: role- and attribute-based access, row- and column-level security, classification and masking, policy as code, and complete audit trails. What agents change is not the mechanism, but who the mechanism has to recognize. Identity management has to treat the agent as a principal in its own right, with its own identity and a purpose declared when the session opens. Once purpose is bound to identity, the policy engine can evaluate it the same way it evaluates role or department today, and the record of what happened can capture not just who acted and what they touched, but what they declared they were there to do.In practice, this resolves into nine controls, grouped under three imperatives:Enforce itRole- and attribute-based access control enforced at query time, for agents as well as usersDynamic column masking driven by the same policy pathAgent identity as a first-class principal, with declared purpose bound at session start and the acting user preservedSee it and prove itClassification and tagging that drives policySession-level audit logging that records which agent acted, for which user, and under what declared purposeLineage across pipelines, so a result can be traced back to the request that produced itUnify and hardenCentralized, portable policy managementEncryption at rest and in transitConsistent enforcement across on-prem, cloud, and sovereign or air-gapped environments\u201cDeclared purpose is what makes the difference. It becomes an attribute the access layer already understands, evaluated in the same policy path as role and row-level security. The enforcement mechanism does not change. What changes is that the agent&#x27;s purpose is part of what it evaluates, and part of what the record proves afterward,\u201d says Priyanka Jain, VP, product management, data &amp; AI governance, EDB. Wherever you are in your AI adoption journey, enforcement at the data layer is what lets you move faster rather than slower. The controls are already in the database. The difference is that agents now have to pass through them.A digital leash, not a locked doorThe goal is not to stop agents from doing useful work. It is to define how far an agent can go, what it can touch, what it can change, what requires escalation, and how the organization can reconstruct events if something goes wrong. Governed this way, agents are identified, scoped, monitored, and auditable. The enterprise can adopt them faster, because security, risk, and leadership teams trust the operating model underneath.Open, sovereign, and enforceable at the sourceBuilt on open source Postgres, this open foundation keeps enterprises in control of where their data lives, who can reach it, and under what policy, without ceding governance to a layer they don\u2019t own or can\u2019t inspect. For regulated industries, that combination of data sovereignty and source-level enforcement isn\u2019t a nice-to-have; it\u2019s the precondition for putting agents into production at all.Agentic systems will keep getting more capable and more autonomous. That is a reason to be deliberate about where control lives, not a reason to slow down. The enterprises that enforce governance at the data layer can move aggressively on AI, because the thing protecting their data is more than just wishful thinking. EDB Postgres AI is an open, enterprise-grade sovereign data and AI platform that unifies transactional, analytical, and AI workloads \u2014 with governance enforced where the data lives. For the full framework, see EDB\u2019s white paper Governing Agentic AI at Enterprise Speed.Max Romanenko is Chief Technology Officer at EDB.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they\u2019re always clearly marked. For more information, contact sales@venturebeat.com."
@@ -153,9 +150,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "details": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms that are truly integrated, scaled, and capable of seamless orchestration.&quot;That gap creates a heavy cognitive load for human agents who must piece together context across disjointed tools to understand what an AI system has already told a customer. The challenge is not simply access to data, but the absence of a shared enterprise context that connects customer identities, interactions, transactions, policies, journeys, and operational systems into a common understanding. Traditional CX architecture was built for linear, human-driven routing, not for managing real-time data flows between autonomous AI systems, data lakes, and human workers.&quot;Today&#x27;s operational complexity is no longer about adding more intelligence,&quot; he adds. &quot;It is about coordinating the existing intelligence across the enterprise, so the enterprise customer never feels the friction of those internal silos. That requires a shared context layer that allows AI systems, applications, and people to operate from the same understanding of the customer and the business.&quot;Why orchestration is replacing automation as the top CX priorityAs that coordination problem grows, Anand says the strategic priority inside enterprises is shifting from automation to orchestration.&quot;Automation solves individual tasks, whereas orchestration connects them into end-to-end outcomes,&quot; Anand says. &quot;The next evolution is context-aware orchestration, where AI agents, applications, and human workers operate using a shared understanding of customers, processes, and business intent rather than isolated system records.&quot;As organizations accumulate more bots, agents, and AI tools, managing them grows exponentially more complex. Anand says the competitive advantage now sits less in deploying automation and more in how intelligently systems hand off work, collaborate, and escalate. The trap of bolting AI onto legacy systemsCompanies that simply place a voice AI agent in front of an existing system are repeating the same old mistake. Instead of improving the experience, they end up recreating the deterministic phone menus AI was supposed to replace. The real benefit of AI is the scale, speed, and orchestration it provides.Anand points to a wave of consolidation across the industry, as established contact center providers acquire AI-native firms to close capability gaps and strengthen their customer experience offerings. The broader industry shift reflects a growing recognition that enterprises need more than channels and automation; they need an intelligence layer capable of orchestrating AI, people, data, and workflows across the business.The goal across industries is to make AI the connective layer between customers, employees, and enterprise systems. To achieve that, organizations increasingly need a common enterprise ontology: a shared business vocabulary that aligns customer data, products, policies, SOPs, transactions, and workflows across otherwise disconnected platforms.Tata Communications\u2019 solution is the Interaction Fabric, an orchestration layer that unifies contact center, messaging, collaboration, AI, and customer data while coordinating AI agents, channels, and enterprise systems in real time. Underpinning that orchestration is a context-driven architecture that continuously connects identities, conversations, transactions, and operational data so interactions retain continuity across channels and touchpoints.That means AI and agents can move across voice, WhatsApp, chat, email, and CRM workflows without losing customer context. Identity, intent, and AI-driven insight flow continuously across channels instead of remaining trapped in disconnected applications.The next phase of orchestration is not simply coordinating tasks across systems, but coordinating them through a shared understanding of the enterprise. Context graphs, built on enterprise ontologies, create that common understanding by connecting customers, interactions, products, policies, decisions, and outcomes across organizational silos. This allows AI agents and human workers to operate from the same source of context, driving more accurate decisions, seamless handoffs, and consistent customer experiences.But synchronizing customer intent, conversation history, enterprise data, and AI decision-making across channels only works without lag. Legacy networks not designed for modern data frequency create what Anand calls data gravity, producing latency and inconsistent journeys as users switch channels.&quot;The underlying network needs to be engineered to be as agile as the AI systems running on top of it,&quot; he explains. &quot;Interactions stay synchronous and technology itself becomes invisible, leaving only an experience that feels effortless.&quot;Making AI a better partner for human agentsEffective shared visibility between human agents and AI systems starts with the agent experience rather than any single technology. The most effective implementations allow both the AI and human agent to operate from the same contextual understanding of the customer, ensuring that information gathered in one interaction can inform the next regardless of channel or system. Automated call summaries, real-time sentiment analysis, and AI-powered assistance provide agents with instant, actionable insights and suggested next steps directly within their workflow.That allows AI to handle routine, high-volume tasks such as password resets, delivery tracking, and account updates, while human agents focus on interactions requiring judgment and empathy.&quot;If a customer is facing a sudden crisis like a fraudulent transaction, the AI can instantly block the card, but it cannot provide the emotional comfort and delicate communication needed in that moment of panic,&quot; Anand says. &quot;The answer to the dilemma is intelligent orchestration, rather than a choice between systems.&quot; In practice, AI handles the immediate technical transaction, while real-time sentiment analysis recognizes the customer&#x27;s distress and routes the call to a human expert. The objective is to orchestrate AI and human agents together so efficiency never comes at the cost of brand trust and loyalty.Building a unified CX architectureMoving from fragmented experimentation to coordinated orchestration requires both technical and organizational change, Anand says, beginning with consolidating data and fragmented point solutions onto a unified, cloud-first platform.&quot;IT and CX teams need to work more collaboratively,&quot; he explains, describing that alignment as the second necessary shift, this time at the organizational level.At the architecture level, Anand says communication APIs need to be embedded into the enterprise&#x27;s core so every function operates from the same customer context instead of maintaining its own siloed data. Increasingly, this means moving beyond integration alone toward a contextual architecture where a shared ontology and context graph provide a common understanding across CX, operations, sales, service, and AI systems. The deeper organizational change, he says, is a mindset shift from reactive support toward proactive, predictive, and personalized engagement, which he calls the three Ps.How AI agents will shape the future of CXCustomer engagement over the next several years will be defined by real-time intelligence, increasing autonomy, and seamless orchestration across touchpoints, and persistent enterprise context that follows customers, employees, and AI agents wherever interactions occur. Rather than analyzing interactions after the fact, enterprises will increasingly shape conversations in real time. &quot;The future of CX will be defined by simplification, aligning data, infrastructure, and operating models around clear customer outcomes rather than adding more models and tools,&quot; Anand says. &quot;The rise of AI-powered agents and agent-to-agent interactions is a defining trend, with AI systems moving beyond assisting humans to independently managing and resolving interactions, creating a largely invisible layer of engagement that improves speed and efficiency.&quot; Human agents will increasingly work alongside AI, supported by real-time conversational intelligence and next-best-action recommendations to deliver what Anand calls Total Experience: a unified model that brings together customer, employee, and AI-driven experiences. Tata Communications is building toward that future through its Voice AI, AI Workers, and Total Experience Hub solutions.&quot;Ultimately, customer engagement will evolve from being reactive to predictive and increasingly generative,&quot; Anand says. &quot;Enterprises won&#x27;t just be responding to needs, but actively shaping and improving customer journeys in real time.&quot;Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they\u2019re always clearly marked. For more information, contact sales@venturebeat.com."
@@ -173,11 +170,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
         "#AgenticAI",
-        "#Anthropic",
-        "#Governance",
-        "#AISecurity"
+        "#AISecurity",
+        "#Anthropic"
       ],
       "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "details": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers \u2014 the directors, VPs, CIOs, and CTOs \u2014 who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment.The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill.An analyst who has sat on every side of the tableStrechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services to help build a new analytics service; and he held executive roles across enterprise infrastructure. He later served as a senior analyst at Enterprise Strategy Group and most recently as managing director and principal analyst at theCUBE Research and SiliconANGLE, where he hosted executive interviews and analyzed the evolution of cloud, data, and AI infrastructure.Strechay will initially focus his coverage on cloud infrastructure, advanced data infrastructure, platform engineering and DevOps orchestration and observability, and the intersection points where AI and enterprise security collide.Already at work: GPU utilization and the VB Pulse surveysStrechay has already been contributing to VentureBeat&#x27;s research. In May he published an analysis of enterprise GPU utilization, examining the compute waste sitting inside enterprise AI infrastructure, and he provided a substantive review of our AI Infrastructure &amp; Compute survey before it went into the field.His infrastructure-level focus complements the research engine VentureBeat has built around its monthly VB Pulse surveys, which track five areas of enterprise AI adoption: agentic orchestration, agent reliability and evals, agentic security and identity, AI infrastructure and compute, and context layers, including retrieval-augmented generation (RAG). Our June report on agentic orchestration, drawn from a survey of 145 enterprises, found that two-thirds of those enterprises had hedged their AI model strategy rather than committing to a single provider \u2014 a posture whose value the June outage of Anthropic&#x27;s Claude models made plain.VB In Conversation: The first vehicleA core vehicle for this expanded research footprint will be a deepening of VentureBeat&#x27;s existing VB In Conversation video interview series, which Strechay will host. Rather than high-level industry overviews, the series will bring architectural blueprints, actual deployment barriers, and back-end infrastructure realities to light through in-depth technical interviews with the architects and product leaders behind leading enterprise AI systems \u2014 an unvarnished look at which tools perform under production-grade pressure.&quot;VentureBeat has built an audience of enterprise builders and technology buyers that any analyst would want to serve,&quot; Strechay said. &quot;My goal is to use deep empirical metrics and VentureBeat&#x27;s proprietary tracking data to help enterprise buyers and the people building for them make sound platform and infrastructure decisions during the most disruptive transition enterprise technology has seen.&quot;The expanded VB In Conversation series will appear on VentureBeat and on VentureBeat&#x27;s YouTube channel, alongside Rob&#x27;s written analysis on the site. Enterprise practitioners who want to take part in our monthly VB Pulse surveys, or arrange an analyst briefing with Rob, can reach the research team here."
@@ -195,10 +192,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Google",
-        "#AgenticAI",
         "#Governance",
+        "#UnitedNations",
+        "#AgenticAI",
         "#EUAIAct"
       ],
       "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
@@ -217,10 +214,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.28590",
       "details": "arXiv:2608.28590v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provides evaluation feedback. Existing data-science agents often leave this harness implicit, making results difficult to reproduce, compare, and attribute across heterogeneous tasks. We introduce DS-Lighting, a unified harness toolkit that makes harness design explicit for data-science automation. DS-Lighting decomposes the harness into four reusable layers: data, workflow, execution, and evaluation, and represents diverse agents as executable operator programs that support both predefined pipelines and adaptive search. We further integrate multiple open-source data-science benchmarks into an MLE-Bench-style task format, enabling controlled comparison under a shared task interface, sandboxed runtime, and metric protocol. Experiments across agents, harnesses, models, and ablations show that explicit harness design improves reproducibility, comparability, and reliability, while reducing avoidable system-level failures in end-to-end data-science workflows. Our code is available at https://github.com/usail-hkust/dslighting"
@@ -258,9 +255,9 @@
       },
       "tags": [
         "#Reasoning",
-        "#UnitedNations",
+        "#Governance",
         "#Meta",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.28592",
       "details": "arXiv:2608.28592v1 Announce Type: new Abstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing benchmarks largely measure factual recall, leaving open whether frontier LLMs share decision-path blind spots that combining models cannot fix. We built the Oncology Decision Boundary Benchmark (ODBB)--2,005 oncology decision points across NCCN guidelines and colorectal cancer cases--and evaluated nine frontier LLMs (four closed-source, five open-weight families) released between June 2025 and April 2026. A fully deterministic scorer (zero LLM inference) classified outputs into 14 failure types, independently validated by two oncologists (Cohen's weighted $\\kappa$ = 0.939 and 0.790) on a 225-item stratified sample. Treating the nine as a pooled super-model, 42.1% (Wilson 95% CI 40.0--44.3%) of all items--35.7% of the 1,586 NCCN items and 66.4% of the 419 colorectal-cancer cases--were answered correctly by none, with failures concentrated in choosing between guideline pathways before reasoning within any: a consistent blind spot in clinical meta-judgment that likely requires architectural intervention rather than more training data. Two models tuned for decisiveness (GPT-5.5, Gemini 3.1 Pro Preview) made unsafe commitments three to five times more often than the seven cautious models without scoring higher. In 3--9% of items, models stated the correct next clinical step yet did not commit to it--failures of decision, not knowledge. Model quality is no longer the primary bottleneck for clinical LLM deployment; the binding constraint is the assumption that any single model can be the sole basis for a clinical decision. Progress requires architectures that detect when a model reaches its competence boundary and route the decision to a clinician."
@@ -297,9 +294,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2608.28594",
       "details": "arXiv:2608.28594v1 Announce Type: new Abstract: Conversational analytics systems assume the user already has a well-formed question, leaving a non-expert facing a blank query box on an unfamiliar enterprise schema. Commercial 'proactive' tools narrow this gap only by detecting statistical anomalies over analyst-curated metric layers, and academic next-question recommenders depend on query logs that a fresh dataset lacks. We describe a production analytics system that inverts the interaction model from question-first to analyst-first through two coupled architectural ideas. First, a pluggable domain-expert 'skill' abstraction: a folder-based, database-free subject-matter pack (a manifest, per-stage prompt facets, keyword-routed references, report templates, and optional compute) auto-selected per (client, dataset) by deterministic schema matching and spliced as a cross-cutting concern into every stage of an agentic pipeline, the schema explorer, and the report engines, degrading to a strict no-op when absent. Because a skill is a self-contained folder resolved deterministically, the catalogue is open-ended: an extensible marketplace of domain experts. Second, an offline knowledge-compilation loop: an agent probes the dataset's parquet via DuckDB (zero load on production), runs critic-gated per-table convergence with self-healing retries, and data-validates joins by value overlap, producing durable schema knowledge that drives standing expert reports whose every published metric is re-verified by re-executing its evidence SQL, plus suggested questions that mirror the report agenda. These close a proactive loop: reports surface numbers, the numbers seed questions, and a click launches a verified deep dive, all before the query box is used. We give a formal model and report illustrative single-tenant evidence. We make no user-study or benchmark claims; the contribution is the architecture and its defensibility."
@@ -395,6 +392,118 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-a-policy-algebra-for-trust-preserving-ag",
+      "title": "A Policy Algebra for Trust-Preserving Agentic AI Execution",
+      "category": "agentic_ai",
+      "date": "2026-09-01",
+      "impact": "HIGH",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://arxiv.org/abs/2608.16402 Comments URL: https://news.ycombinator.com/item?id=49509877 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2608.16402",
+      "details": "Article URL: https://arxiv.org/abs/2608.16402 Comments URL: https://news.ycombinator.com/item?id=49509877 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-only-believe-what-you-can-validate-a-ver",
+      "title": "Only believe what you can validate: a verification framework for agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-01",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/ Comments URL: https://news.ycombinator.com/item?id=49497440 Points: 3 # Comments: 1",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Microsoft",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/",
+      "details": "Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/ Comments URL: https://news.ycombinator.com/item?id=49497440 Points: 3 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-why-agentic-ai-needs-a-strong-identity-f",
+      "title": "Why Agentic AI Needs a Strong Identity Foundation",
+      "category": "agentic_ai",
+      "date": "2026-09-01",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation Comments URL: https://news.ycombinator.com/item?id=494836...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
+      "details": "Article URL: https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation Comments URL: https://news.ycombinator.com/item?id=49483683 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-making-your-data-ready-for-agentic-ai",
+      "title": "Making Your Data Ready for Agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-01",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49476637 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "details": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49476637 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-aperture-ga-building-a-home-lab-for-agen",
+      "title": "Aperture GA: Building a home(lab) for agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-01",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://tailscale.com/blog/aperture-ga Comments URL: https://news.ycombinator.com/item?id=49453932 Points: 4 # Comments: 1",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://tailscale.com/blog/aperture-ga",
+      "details": "Article URL: https://tailscale.com/blog/aperture-ga Comments URL: https://news.ycombinator.com/item?id=49453932 Points: 4 # Comments: 1"
+    },
+    {
+      "id": "live-models-openai-supports-california-s-bill-to-adv",
+      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
+      "category": "models",
+      "date": "2026-09-01",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "details": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
+    },
+    {
       "id": "live-models-polimill-builds-japan-s-next-generation-",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "category": "models",
@@ -407,8 +516,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/polimill",
       "details": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
@@ -426,8 +535,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "details": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
@@ -464,30 +573,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "details": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
-    },
-    {
-      "id": "live-models-better-answers-broader-thinking-what-stu",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "category": "models",
-      "date": "2026-09-01",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "details": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
     },
     {
       "id": "live-companies-nvidia-and-mediatek-deepen-long-standing",
@@ -502,8 +592,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
       "details": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms \u2014 spanning AI infrastructure, local AI computing and automotive."
@@ -521,8 +611,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
       "details": "NVIDIA will present at the following event for the financial community"
@@ -540,8 +630,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
       "details": "NVIDIA\u2019s Gamescom announcements are revealing what\u2019s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser [\u2026]"
@@ -559,8 +649,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
@@ -579,8 +669,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
@@ -599,10 +689,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Fellowship",
-        "#AgenticAI",
         "#Governance",
+        "#UnitedNations",
+        "#AgenticAI",
+        "#Fellowship",
         "#AISecurity"
       ],
       "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -621,10 +711,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
         "#Governance",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "details": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?These are your agents, running on your models, touching your data in your infrastructure \u2014 and the responsibility for what they do sits with you. That responsibility can\u2019t be met in hindsight or with a set of abstract policies that live on paper but not in practice. Agents need rules in the context of the moment, because they don\u2019t exercise overriding judgment of their own actions.Consider a simple rule: Never open the car door. Followed literally, an agent could never get in or out of the car at all. But if you change the context (the car has just crashed, there\u2019s a fire, someone is hurt and needs to get out), then the rule you actually want is the opposite. Context in the moment is everything. We are asking agents to do intelligent things; that requires intelligent rules.The instinct is to add guardrails around the agent: instructions, policies, and monitoring layered above the model. Those mechanisms matter, but they share a structural limit: The car-door rule is plausible right up until the moment you actually have to decide whether to open the door. Controls at the agent layer are only as reliable as the agent\u2019s output is predictable, and autonomy is precisely the property that makes that output hard to predict. Governance that depends on reviewing an action before it happens cannot keep pace with a system that acts in milliseconds, across many systems at once.Governance has to become executable, and enforced where agents actually do their work: at the operational data layer, in the context, and exactly at the moment it is happening. The data layer is the enforcement pointAgents create value by touching data. They query it, retrieve it, transform it, and increasingly act on it. A policy that says an agent should not reach a certain class of data is meaningful only if the system can deny that access at the moment the agent requests it. Additionally, a principle that says AI must be auditable is meaningful only if the organization can reconstruct what the agent did, what data it touched, which user it acted for, and what resulted. When governance lives at the data layer, it holds regardless of how the agent was built or how it behaves, because the control is a property of the database itself, not a promise made by the agent.Agent behavior may be probabilistic. Governance cannot beThe enterprise should not rely on a model choosing to follow policy. The policy has to be enforced by the system. That is the difference between hoping an actor stays in bounds and constructing bounds it cannot cross to begin with.The controls that make this real are ones many enterprises already run at the data layer: role- and attribute-based access, row- and column-level security, classification and masking, policy as code, and complete audit trails. What agents change is not the mechanism, but who the mechanism has to recognize. Identity management has to treat the agent as a principal in its own right, with its own identity and a purpose declared when the session opens. Once purpose is bound to identity, the policy engine can evaluate it the same way it evaluates role or department today, and the record of what happened can capture not just who acted and what they touched, but what they declared they were there to do.In practice, this resolves into nine controls, grouped under three imperatives:Enforce itRole- and attribute-based access control enforced at query time, for agents as well as usersDynamic column masking driven by the same policy pathAgent identity as a first-class principal, with declared purpose bound at session start and the acting user preservedSee it and prove itClassification and tagging that drives policySession-level audit logging that records which agent acted, for which user, and under what declared purposeLineage across pipelines, so a result can be traced back to the request that produced itUnify and hardenCentralized, portable policy managementEncryption at rest and in transitConsistent enforcement across on-prem, cloud, and sovereign or air-gapped environments\u201cDeclared purpose is what makes the difference. It becomes an attribute the access layer already understands, evaluated in the same policy path as role and row-level security. The enforcement mechanism does not change. What changes is that the agent&#x27;s purpose is part of what it evaluates, and part of what the record proves afterward,\u201d says Priyanka Jain, VP, product management, data &amp; AI governance, EDB. Wherever you are in your AI adoption journey, enforcement at the data layer is what lets you move faster rather than slower. The controls are already in the database. The difference is that agents now have to pass through them.A digital leash, not a locked doorThe goal is not to stop agents from doing useful work. It is to define how far an agent can go, what it can touch, what it can change, what requires escalation, and how the organization can reconstruct events if something goes wrong. Governed this way, agents are identified, scoped, monitored, and auditable. The enterprise can adopt them faster, because security, risk, and leadership teams trust the operating model underneath.Open, sovereign, and enforceable at the sourceBuilt on open source Postgres, this open foundation keeps enterprises in control of where their data lives, who can reach it, and under what policy, without ceding governance to a layer they don\u2019t own or can\u2019t inspect. For regulated industries, that combination of data sovereignty and source-level enforcement isn\u2019t a nice-to-have; it\u2019s the precondition for putting agents into production at all.Agentic systems will keep getting more capable and more autonomous. That is a reason to be deliberate about where control lives, not a reason to slow down. The enterprises that enforce governance at the data layer can move aggressively on AI, because the thing protecting their data is more than just wishful thinking. EDB Postgres AI is an open, enterprise-grade sovereign data and AI platform that unifies transactional, analytical, and AI workloads \u2014 with governance enforced where the data lives. For the full framework, see EDB\u2019s white paper Governing Agentic AI at Enterprise Speed.Max Romanenko is Chief Technology Officer at EDB.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they\u2019re always clearly marked. For more information, contact sales@venturebeat.com."
@@ -642,9 +732,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "details": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms that are truly integrated, scaled, and capable of seamless orchestration.&quot;That gap creates a heavy cognitive load for human agents who must piece together context across disjointed tools to understand what an AI system has already told a customer. The challenge is not simply access to data, but the absence of a shared enterprise context that connects customer identities, interactions, transactions, policies, journeys, and operational systems into a common understanding. Traditional CX architecture was built for linear, human-driven routing, not for managing real-time data flows between autonomous AI systems, data lakes, and human workers.&quot;Today&#x27;s operational complexity is no longer about adding more intelligence,&quot; he adds. &quot;It is about coordinating the existing intelligence across the enterprise, so the enterprise customer never feels the friction of those internal silos. That requires a shared context layer that allows AI systems, applications, and people to operate from the same understanding of the customer and the business.&quot;Why orchestration is replacing automation as the top CX priorityAs that coordination problem grows, Anand says the strategic priority inside enterprises is shifting from automation to orchestration.&quot;Automation solves individual tasks, whereas orchestration connects them into end-to-end outcomes,&quot; Anand says. &quot;The next evolution is context-aware orchestration, where AI agents, applications, and human workers operate using a shared understanding of customers, processes, and business intent rather than isolated system records.&quot;As organizations accumulate more bots, agents, and AI tools, managing them grows exponentially more complex. Anand says the competitive advantage now sits less in deploying automation and more in how intelligently systems hand off work, collaborate, and escalate. The trap of bolting AI onto legacy systemsCompanies that simply place a voice AI agent in front of an existing system are repeating the same old mistake. Instead of improving the experience, they end up recreating the deterministic phone menus AI was supposed to replace. The real benefit of AI is the scale, speed, and orchestration it provides.Anand points to a wave of consolidation across the industry, as established contact center providers acquire AI-native firms to close capability gaps and strengthen their customer experience offerings. The broader industry shift reflects a growing recognition that enterprises need more than channels and automation; they need an intelligence layer capable of orchestrating AI, people, data, and workflows across the business.The goal across industries is to make AI the connective layer between customers, employees, and enterprise systems. To achieve that, organizations increasingly need a common enterprise ontology: a shared business vocabulary that aligns customer data, products, policies, SOPs, transactions, and workflows across otherwise disconnected platforms.Tata Communications\u2019 solution is the Interaction Fabric, an orchestration layer that unifies contact center, messaging, collaboration, AI, and customer data while coordinating AI agents, channels, and enterprise systems in real time. Underpinning that orchestration is a context-driven architecture that continuously connects identities, conversations, transactions, and operational data so interactions retain continuity across channels and touchpoints.That means AI and agents can move across voice, WhatsApp, chat, email, and CRM workflows without losing customer context. Identity, intent, and AI-driven insight flow continuously across channels instead of remaining trapped in disconnected applications.The next phase of orchestration is not simply coordinating tasks across systems, but coordinating them through a shared understanding of the enterprise. Context graphs, built on enterprise ontologies, create that common understanding by connecting customers, interactions, products, policies, decisions, and outcomes across organizational silos. This allows AI agents and human workers to operate from the same source of context, driving more accurate decisions, seamless handoffs, and consistent customer experiences.But synchronizing customer intent, conversation history, enterprise data, and AI decision-making across channels only works without lag. Legacy networks not designed for modern data frequency create what Anand calls data gravity, producing latency and inconsistent journeys as users switch channels.&quot;The underlying network needs to be engineered to be as agile as the AI systems running on top of it,&quot; he explains. &quot;Interactions stay synchronous and technology itself becomes invisible, leaving only an experience that feels effortless.&quot;Making AI a better partner for human agentsEffective shared visibility between human agents and AI systems starts with the agent experience rather than any single technology. The most effective implementations allow both the AI and human agent to operate from the same contextual understanding of the customer, ensuring that information gathered in one interaction can inform the next regardless of channel or system. Automated call summaries, real-time sentiment analysis, and AI-powered assistance provide agents with instant, actionable insights and suggested next steps directly within their workflow.That allows AI to handle routine, high-volume tasks such as password resets, delivery tracking, and account updates, while human agents focus on interactions requiring judgment and empathy.&quot;If a customer is facing a sudden crisis like a fraudulent transaction, the AI can instantly block the card, but it cannot provide the emotional comfort and delicate communication needed in that moment of panic,&quot; Anand says. &quot;The answer to the dilemma is intelligent orchestration, rather than a choice between systems.&quot; In practice, AI handles the immediate technical transaction, while real-time sentiment analysis recognizes the customer&#x27;s distress and routes the call to a human expert. The objective is to orchestrate AI and human agents together so efficiency never comes at the cost of brand trust and loyalty.Building a unified CX architectureMoving from fragmented experimentation to coordinated orchestration requires both technical and organizational change, Anand says, beginning with consolidating data and fragmented point solutions onto a unified, cloud-first platform.&quot;IT and CX teams need to work more collaboratively,&quot; he explains, describing that alignment as the second necessary shift, this time at the organizational level.At the architecture level, Anand says communication APIs need to be embedded into the enterprise&#x27;s core so every function operates from the same customer context instead of maintaining its own siloed data. Increasingly, this means moving beyond integration alone toward a contextual architecture where a shared ontology and context graph provide a common understanding across CX, operations, sales, service, and AI systems. The deeper organizational change, he says, is a mindset shift from reactive support toward proactive, predictive, and personalized engagement, which he calls the three Ps.How AI agents will shape the future of CXCustomer engagement over the next several years will be defined by real-time intelligence, increasing autonomy, and seamless orchestration across touchpoints, and persistent enterprise context that follows customers, employees, and AI agents wherever interactions occur. Rather than analyzing interactions after the fact, enterprises will increasingly shape conversations in real time. &quot;The future of CX will be defined by simplification, aligning data, infrastructure, and operating models around clear customer outcomes rather than adding more models and tools,&quot; Anand says. &quot;The rise of AI-powered agents and agent-to-agent interactions is a defining trend, with AI systems moving beyond assisting humans to independently managing and resolving interactions, creating a largely invisible layer of engagement that improves speed and efficiency.&quot; Human agents will increasingly work alongside AI, supported by real-time conversational intelligence and next-best-action recommendations to deliver what Anand calls Total Experience: a unified model that brings together customer, employee, and AI-driven experiences. Tata Communications is building toward that future through its Voice AI, AI Workers, and Total Experience Hub solutions.&quot;Ultimately, customer engagement will evolve from being reactive to predictive and increasingly generative,&quot; Anand says. &quot;Enterprises won&#x27;t just be responding to needs, but actively shaping and improving customer journeys in real time.&quot;Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they\u2019re always clearly marked. For more information, contact sales@venturebeat.com."
@@ -662,11 +752,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
         "#AgenticAI",
-        "#Anthropic",
-        "#Governance",
-        "#AISecurity"
+        "#AISecurity",
+        "#Anthropic"
       ],
       "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "details": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers \u2014 the directors, VPs, CIOs, and CTOs \u2014 who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment.The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill.An analyst who has sat on every side of the tableStrechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services to help build a new analytics service; and he held executive roles across enterprise infrastructure. He later served as a senior analyst at Enterprise Strategy Group and most recently as managing director and principal analyst at theCUBE Research and SiliconANGLE, where he hosted executive interviews and analyzed the evolution of cloud, data, and AI infrastructure.Strechay will initially focus his coverage on cloud infrastructure, advanced data infrastructure, platform engineering and DevOps orchestration and observability, and the intersection points where AI and enterprise security collide.Already at work: GPU utilization and the VB Pulse surveysStrechay has already been contributing to VentureBeat&#x27;s research. In May he published an analysis of enterprise GPU utilization, examining the compute waste sitting inside enterprise AI infrastructure, and he provided a substantive review of our AI Infrastructure &amp; Compute survey before it went into the field.His infrastructure-level focus complements the research engine VentureBeat has built around its monthly VB Pulse surveys, which track five areas of enterprise AI adoption: agentic orchestration, agent reliability and evals, agentic security and identity, AI infrastructure and compute, and context layers, including retrieval-augmented generation (RAG). Our June report on agentic orchestration, drawn from a survey of 145 enterprises, found that two-thirds of those enterprises had hedged their AI model strategy rather than committing to a single provider \u2014 a posture whose value the June outage of Anthropic&#x27;s Claude models made plain.VB In Conversation: The first vehicleA core vehicle for this expanded research footprint will be a deepening of VentureBeat&#x27;s existing VB In Conversation video interview series, which Strechay will host. Rather than high-level industry overviews, the series will bring architectural blueprints, actual deployment barriers, and back-end infrastructure realities to light through in-depth technical interviews with the architects and product leaders behind leading enterprise AI systems \u2014 an unvarnished look at which tools perform under production-grade pressure.&quot;VentureBeat has built an audience of enterprise builders and technology buyers that any analyst would want to serve,&quot; Strechay said. &quot;My goal is to use deep empirical metrics and VentureBeat&#x27;s proprietary tracking data to help enterprise buyers and the people building for them make sound platform and infrastructure decisions during the most disruptive transition enterprise technology has seen.&quot;The expanded VB In Conversation series will appear on VentureBeat and on VentureBeat&#x27;s YouTube channel, alongside Rob&#x27;s written analysis on the site. Enterprise practitioners who want to take part in our monthly VB Pulse surveys, or arrange an analyst briefing with Rob, can reach the research team here."
@@ -684,10 +774,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Google",
-        "#AgenticAI",
         "#Governance",
+        "#UnitedNations",
+        "#AgenticAI",
         "#EUAIAct"
       ],
       "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
@@ -784,6 +874,24 @@
       "details": "Researchers discuss the challenges of introducing artificial intelligence concepts into elementary school curriculum and how the project led to a win in the inaugural Presidential AI Challenge..."
     },
     {
+      "id": "live-military-change-agent-army-secretary-resigns",
+      "title": "\u2018Change agent\u2019 Army secretary resigns",
+      "category": "military",
+      "date": "2026-09-01",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Hegseth\u2019s purging of transformation-focused generals led to Dan Driscoll\u2019s resignation, source says.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/09/change-agent-army-secretary-resigns/415747/",
+      "details": "Hegseth\u2019s purging of transformation-focused generals led to Dan Driscoll\u2019s resignation, source says."
+    },
+    {
       "id": "live-military-we-can-buy-more-weapons-we-can-t-buy-mor",
       "title": "We can buy more weapons. We can\u2019t buy more time.",
       "category": "military",
@@ -814,9 +922,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI",
         "#DefenseAI",
+        "#OpenAI",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/08/us-military-chatgpt/415719/",
@@ -857,24 +965,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/08/can-ai-help-marines-simplify-sustainment-pacific/415709/",
       "details": "The service is testing a \u201clogistics decision engine\u201d at the theater level."
-    },
-    {
-      "id": "live-military-a-pacific-conflict-may-not-look-like-con",
-      "title": "A Pacific conflict may not look like conventional war, SOCPAC commander says",
-      "category": "military",
-      "date": "2026-09-01",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "At an irregular-warfare forum in Hawaii, commanders offer warnings and advice.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/08/pacific-conflict-may-not-look-conventional-war-socpac-commander-says/415704/",
-      "details": "At an irregular-warfare forum in Hawaii, commanders offer warnings and advice."
     },
     {
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
@@ -980,8 +1070,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
@@ -1000,9 +1090,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#Governance",
         "#UnitedNations",
-        "#EUAIAct",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
@@ -1021,8 +1111,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
       "details": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply AI Startup Award and learn more about the European AI innovation ecosystem. The Apply AI Startup Award recognises innovative European startups and scaleups developing AI solutions in the 11 strategic sectors covered by the Apply AI Strategy. In July, national startup associations nominated 24 European AI startups and scaleups across 16 Member States. Independent experts are currently evaluating the nominations and will choose the top 10 finalists for the pitching event. Each startup will have 3 minutes to pitch their AI solution and convince the jury. After the pitching session the jury will select the 3 winners. Among other rewards, they will be invited to pitch their solution and receive a trophy and certificate on the main stage of the Apply AI Summit. Registration will open soon. Agenda 14:00-15:30 CET(to be confirmed) Welcome and introduction Part I - Pitches&nbsp; Presentation from the AI Office Part II - Pitches Conclusion Jury &amp; finalists The jury members and the top 10 Finalists will be announced soon. Related topics Artificial intelligence"
@@ -1040,9 +1130,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#EUAIAct",
         "#UnitedNations",
-        "#EUAIAct"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -1060,104 +1150,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#Governance",
         "#UnitedNations",
-        "#EUAIAct",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
       "details": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mechanism for drone and counter-drone technologies. \u00a9 Marcus Jacobi The European Commission invites interested organisations to join the inaugural D-Tect Forum on 11 November 2026. We are looking for companies, research organisations, universities, industry associations, standardisation bodies and innovation networks active in the drones domain. The inaugural Forum aims to gather 100+ high-level leaders to advance Europe\u2019s ambitions in Drone and Counter-Drone technology. Participants will explore near-term cooperation across the full drone and counter-drone value chain, including detection, tracking and neutralisation systems, autonomy and AI-enabled navigation, sensing and electronic warfare, secure connectivity, and the enabling technologies that underpin them, such as semiconductors, cloud, cyber and data. The priorities and composition of the thematic Working Groups will be defined during the Forum. To participate in the event, please submit your application. This form is also a registration to the Call of Expression of Interest to join future events of the D-TECT forum. Please note that submitting an application does not by itself confirm your registration for the inaugural Forum. Further, results of membership applications will be communicated after the event. Downloads Call for Expression of interest - \u200b\u200b\u200bDrone Tech for Countering Threats Forum\u200b Download&nbsp; Privacy statement - Drone Tech for Countering Threats (D-TECT) Forum Download&nbsp; Terms of reference - Drone Tech for Countering Threats Forum Download&nbsp; Related topics Cybersecurity Tech sovereignty Hybrid security threats"
-    },
-    {
-      "id": "live-multilateral-nepal-flooding-deaths-surpass-900-as-nee",
-      "title": "Nepal flooding deaths surpass 900 as needs climb",
-      "category": "multilateral",
-      "date": "2026-09-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The confirmed death toll from Nepal\u2019s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168233",
-      "details": "The confirmed death toll from Nepal\u2019s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to reach the hardest-hit areas, UN Spokesperson St\u00e9phane Dujarric said on Monday."
-    },
-    {
-      "id": "live-multilateral-slavery-is-not-a-thing-of-the-past-un-su",
-      "title": "\u2018Slavery is not a thing of the past\u2019: UN supports call for reparations",
-      "category": "multilateral",
-      "date": "2026-09-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Slavery is not just a thing of the past. Its effects continue to be felt in systemic inequality and racism. This was reiterated on Monday by the UN Committee against Racial Discrim...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168232",
-      "details": "Slavery is not just a thing of the past. Its effects continue to be felt in systemic inequality and racism. This was reiterated on Monday by the UN Committee against Racial Discrimination (CERD) as the world marks the International Day of People of African Descent.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-every-step-towards-disarmament-matters-n",
-      "title": "\u2018Every step towards disarmament matters,\u2019 nuclear testing survivors warn",
-      "category": "multilateral",
-      "date": "2026-09-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "He was born without arms, a legacy of four decades of nuclear explosions at the Semipalatinsk test site in his native Kazakhstan.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168231",
-      "details": "He was born without arms, a legacy of four decades of nuclear explosions at the Semipalatinsk test site in his native Kazakhstan."
-    },
-    {
-      "id": "live-multilateral-the-lake-is-our-life-protecting-a-shared",
-      "title": "\u2018The lake is our life\u2019: Protecting a shared lifeline in Uganda",
-      "category": "multilateral",
-      "date": "2026-09-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "On the shores of Nkondo, in Uganda\u2019s Kikuube district, the day begins before sunrise. Fishers enter the lake to fish, while families around Lake Albert rely on its waters for food,...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168228",
-      "details": "On the shores of Nkondo, in Uganda\u2019s Kikuube district, the day begins before sunrise. Fishers enter the lake to fish, while families around Lake Albert rely on its waters for food, income and daily survival."
-    },
-    {
-      "id": "live-multilateral-rising-seas-rising-stakes-what-increasin",
-      "title": "Rising seas, rising stakes: What increasing sea levels mean to humanity",
-      "category": "multilateral",
-      "date": "2026-09-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The ocean is rising faster now than at any point in recorded history. The impacts are already being felt and the threats are growing.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168206",
-      "details": "The ocean is rising faster now than at any point in recorded history. The impacts are already being felt and the threats are growing."
     }
   ]
 }
