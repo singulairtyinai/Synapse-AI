@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-04T03:27:24.321113",
-  "fetched_count": 45,
+  "timestamp": "2026-09-04T08:34:48.509190",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-rethinking-child-safety-and",
@@ -70,8 +70,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "details": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;"
@@ -95,105 +95,104 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term \u201cmachine learning\u201d was popularized in a 1959 article&#8230;"
     },
     {
-      "id": "live-overall-evaldetectbench-a-benchmark-for-measurin",
-      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
-      "category": "overall",
-      "date": "2026-09-04",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If mod...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.01611",
-      "details": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are a crucial component of current AI safety frameworks. We introduce EvalDetectBench, an open pipeline and benchmark for measuring evaluation awareness that works with any Inspect-compatible evaluation, allowing practitioners to test against current and future benchmarks. EvalDetectBench ships with a newly curated transcript suite covering current frontier system-card evaluations and diverse deployment sources. The benchmark serves two purposes: measuring how reliably frontier LLMs recognize that they are being evaluated, and assessing how detectable individual benchmarks are as evaluations. We identify two methodological choices in the existing literature that introduce systematic bias: the identity of the model that generated the deployment transcripts accounts for 11.25% of measurement variance and can reorder model rankings; and elicitation prompts selected for high performance on one model can perform near chance on others. EvalDetectBench corrects for both via per-model probe calibration and a stratified generator-harmonisation procedure."
-    },
-    {
-      "id": "live-overall-meta-ethics-and-ai-exploring-the-novel-m",
-      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "id": "live-overall-structure-and-implementation-of-new-prac",
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
       "category": "overall",
       "date": "2026-09-04",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.01685v1 Announce Type: new Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces...",
+      "tldr": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems th...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
         "#UnitedNations",
-        "#Reasoning",
         "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.01685",
-      "details": "arXiv:2609.01685v1 Announce Type: new Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently integrated capacities for moral reasoning, moral intentionality, and moral reflection, novel meta-ethical questions would arise concerning what I call \"AI's own ethics\", as distinct from ethical principles merely imposed on AI by human designers. This paper offers a conditional and methodological framework for identifying the questions that would emerge if such AI systems were to arise. On that basis, the paper distinguishes four domains of meta-ethical inquiry in the era of AI: questions about the nature of human ethics from the human perspective; questions about the nature of AI's own ethics from the human perspective; questions about the nature of human ethics from the AI perspective; and questions about the nature of AI's own ethics from the AI perspective. The paper then considers how some existing mainstream meta-ethical theories (such as cognitivism and non-cognitivism, error theory and success theory, relativism, and objective realism) might illuminate these domains, while arguing that many familiar human-centred formulations of those theories may not transfer straightforwardly to AI cases without substantial revision. The overall conclusion is that the emergence of AI's own ethics would place significant pressure on current frameworks and may require substantial refinement, reconstruction, or reconceptualisation."
+      "sourceUrl": "https://arxiv.org/abs/2609.02981",
+      "details": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowledge mapping, learner profiling, task generation, feedback orchestration, and teacher-side governance. A prototype was tested on 186 non-English-major undergraduates for eight weeks of teaching. Compared with a static digital textbook, the proposed system increased the unit completion accuracy from 72.4% to 84.9%, raised the average score for speaking tasks by 10.8 points, and reduced the teacher's correction time by 31.6%. Therefore, an AI-driven textbook can maintain the stability of the curriculum while providing personalised learning paths, rich practice materials and traceable classroom data."
     },
     {
-      "id": "live-overall-when-can-a-machine-trust-a-statute-a-sur",
-      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "id": "live-overall-mastercontrol-seventeen-every-time",
+      "title": "MasterControl Seventeen Every Time",
       "category": "overall",
       "date": "2026-09-04",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.01741v1 Announce Type: new Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independ...",
+      "tldr": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects a...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.01741",
-      "details": "arXiv:2609.01741v1 Announce Type: new Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal logic survives such noise. We build a passive survival certificate for the Duquenne-Guigues implication basis of machine-extracted statutory contexts: per-attribute inter-extractor disagreement is measured, replayed against the basis in 1,000 Monte Carlo trials, and an implication is certified only when a one-sided Wilson 95% lower bound on survival reaches 0.95; every certified implication carries premise spans and a minimal counterexample. On 29,365 Missouri sections and 502 Indian central-Act sections, the preregistered held-out gate passes (10 statute families across 7 Titles exact; 16 across 11 with 5% tolerance), yet under one globally deployed error model 93.2% of held-out chapters fall below the informativeness floor, and a 2x2 factorial assigns that to calibration-rate transfer, not selection. The certificate is usable but fragile: deploy it per-chapter-calibrated or error-tolerant. Code, data products, and the audit trail, including one retracted claim, are released."
-    },
-    {
-      "id": "live-overall-when-does-information-sharing-improve-de",
-      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and ",
-      "category": "overall",
-      "date": "2026-09-04",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.01814v1 Announce Type: new Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects i...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.03209",
+      "details": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain expressive within a defined analytical class, using relational operations plus aggregation, comparison, windows, ranking, and similarity. Fixed meaning, policy, data, and execution rules also make results replayable. Across 440 runs, three 8B models generated SQL and selected tools at runtime, while Qwen3-8B interpreted intent only and policy executed the approved program. None of 330 runtime-planning episodes matched the full answer-and-evidence contract across all test datasets; the policy-executed analyzer matched 110 of 110. This is a configuration-specific result, not evidence that runtime agents cannot succeed under other designs."
+    },
+    {
+      "id": "live-overall-speculative-macro-commit-for-faster-tool",
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "category": "overall",
+      "date": "2026-09-04",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each too...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance",
         "#EUAIAct",
         "#AgenticAI"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.01814",
-      "details": "arXiv:2609.01814v1 Announce Type: new Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist with different portfolio values. Under a registered incremental-sharing protocol, a sharing step improves discovery exactly when pooled residual error contracts faster than an independent rescue attempt. Exact bounded registries exhibit compression, aggregation, neutral curves, and a bounded zero mixed class. In a two-agent Bayesian game with a hidden mixture of common and independent signal sources, the registered selected equilibrium yields a strict positive sharing interval at signal accuracy 3/5, while alternative equilibria show that the result is selection-dependent rather than universal. The models are synthetic and finite; no human or organizational data are used."
+      "sourceUrl": "https://arxiv.org/abs/2609.03236",
+      "details": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official trajectory, while a faster speculative drafter model continuously predicts and executes future action chains on an isolated environment snapshot. SMC mines recurring multi-action skeletons from training traces and stores them in a macro library used to match against action chains predicted by the drafter at runtime. When the actor's next tool call matches the first drafted action, SMC commits the remaining pre-executed draft steps, together with their observations, to the official trajectory. Using Qwen3.5-27B INT4 as the authoritative actor model and Qwen3.5-4B as the speculative drafter model, SMC matches the sequential agent's overall accuracy while reducing latency by 10.23\\% over the Speculative Actions (SA) baseline and 18.59\\% over sequential execution on the $\\tau^2$-Bench Telecom subset. On AppWorld, SMC reduces wall time by 7.7\\% over SA baseline and 44.9\\% over sequential execution, with a small reduction in task completion. Overall, SMC provides a practical way to reuse multi-step speculative execution and reduce agent latency beyond single-step speculative actions. Our code is publicly available \\href{https://github.com/zeyuliu1037/speculative-macro-commit}{\\textcolor{magenta}{here}}."
     },
     {
-      "id": "live-overall-induction-and-inquiry-via-probabilistic-",
-      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "id": "live-overall-fresh-memory-stale-plans-dependency-scop",
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
       "category": "overall",
       "date": "2026-09-04",
-      "impact": "HIGH",
+      "impact": "MODERATE",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.01815v1 Announce Type: new Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in c...",
+      "tldr": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from ...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#Reasoning",
-        "#EUAIAct"
+        "#Governance",
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.01815",
-      "details": "arXiv:2609.01815v1 Announce Type: new Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and compute-efficient, (2) capture gradations of uncertainty to support intelligent inquiry and information gathering, and (3) be flexible enough to mentally represent the endless range of concepts people can learn and think about. Here we introduce a computational model that captures these three properties, by encoding symbolic knowledge as mental programs that combine natural language with source code, and sequentially inferring mental programs using LLM-guided Bayesian learning algorithms. Across a range of behavioral studies this model successfully reproduces quantitative signatures of human inductive learning and active inquiry, such as anchoring, garden-pathing, and other effects. In contrast, pure LLMs and classic Bayesian models either fail at the underlying task, or do not reproduce human behavior, or succeed only at exorbitant computational cost. These results suggest that one way humans continually grow their knowledge is by mentally representing many hypotheses spanning language-like and program-like representations, then revising those hypotheses to approximate Bayesian updates, while a bottom-up neural mechanism (an LLM) makes inference both tractable and learnable."
+      "sourceUrl": "https://arxiv.org/abs/2609.03340",
+      "details": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validation protocol. Plans cite the exact public records they used, and an executor validates only the records that can affect the pending external action, replanning once or blocking when validation is incomplete. In 30 controlled live workflows with a post-plan revision, a freshness-only executor acts on the obsolete plan in every task, whereas PlanFence completes all tasks without an invalid action. Controlled replay reveals two conditional boundaries: proactive synchronization yields lower coordination stall at low churn, while PlanFence avoids repeated update-path coordination as churn grows and avoids validating unrelated state as the shared keyspace grows. These are controlled safety and systems-cost results, not general task-accuracy gains."
+    },
+    {
+      "id": "live-overall-a-prompt-engineering-approach-to-develop",
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Person",
+      "category": "overall",
+      "date": "2026-09-04",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but ofte...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.03402",
+      "details": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-purpose LLM/RAG-based AI teaching assistants such as Jill Watson across academic disciplines and courses. The framework adapts responses using six learner-specific dimensions: self-assessment, abstraction preference, verbosity preference, perceptual orientation, information processing style, and level of understanding, yielding 96 distinct learner profiles. Student queries are additionally analyzed using Bloom's Taxonomy to estimate cognitive complexity at the interaction level. Learner attributes and cognitive assessments are encoded in structured prompts that condition the LLM without requiring model retraining. The framework is evaluated through experiments using NLP metrics and a human study with five participants. Results show perceived differences in response style and structure across personalization conditions, with statistical analyses identifying learner attributes associated with measurable response changes. These findings provide preliminary evidence that prompt-based personalization can support adaptive behavior in LLM-powered educational agents."
     },
     {
       "id": "live-agentic_ai-neomme-an-efficient-multimodal-native-an",
@@ -353,9 +352,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#AISecurity"
       ],
       "sourceUrl": "https://openai.com/index/safety-overview-gpt-6-astra",
       "details": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
@@ -392,10 +391,10 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
         "#Microsoft",
+        "#AgenticAI",
         "#NVIDIA",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "details": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [\u2026]"
@@ -414,8 +413,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#EUAIAct",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "details": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA\u2019s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court \u2014 tuned [\u2026]"
@@ -453,10 +452,10 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
-        "#DefenseAI",
+        "#AgenticAI",
         "#NVIDIA",
-        "#AgenticAI"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "details": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [\u2026]"
@@ -709,8 +708,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -784,9 +783,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
         "#AISecurity",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
@@ -824,8 +823,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
@@ -844,13 +843,107 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
         "#AISecurity",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
       "details": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mechanism for drone and counter-drone technologies. \u00a9 Marcus Jacobi The European Commission invites interested organisations to join the inaugural D-Tect Forum on 11 November 2026. We are looking for companies, research organisations, universities, industry associations, standardisation bodies and innovation networks active in the drones domain. The inaugural Forum aims to gather 100+ high-level leaders to advance Europe\u2019s ambitions in Drone and Counter-Drone technology. Participants will explore near-term cooperation across the full drone and counter-drone value chain, including detection, tracking and neutralisation systems, autonomy and AI-enabled navigation, sensing and electronic warfare, secure connectivity, and the enabling technologies that underpin them, such as semiconductors, cloud, cyber and data. The priorities and composition of the thematic Working Groups will be defined during the Forum. To participate in the event, please submit your application. This form is also a registration to the Call of Expression of Interest to join future events of the D-TECT forum. Please note that submitting an application does not by itself confirm your registration for the inaugural Forum. Further, results of membership applications will be communicated after the event. Downloads Call for Expression of interest - \u200b\u200b\u200bDrone Tech for Countering Threats Forum\u200b Download&nbsp; Privacy statement - Drone Tech for Countering Threats (D-TECT) Forum Download&nbsp; Terms of reference - Drone Tech for Countering Threats Forum Download&nbsp; Related topics Cybersecurity Tech sovereignty Hybrid security threats"
+    },
+    {
+      "id": "live-multilateral-general-assembly-backs-creation-of-new-u",
+      "title": "General Assembly backs creation of new UN learning institute under UN80 reforms",
+      "category": "multilateral",
+      "date": "2026-09-04",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN General Assembly has approved the merger of two United Nations learning and training bodies, creating a new institution designed to strengthen support for both Member States...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168276",
+      "details": "The UN General Assembly has approved the merger of two United Nations learning and training bodies, creating a new institution designed to strengthen support for both Member States and the UN system itself."
+    },
+    {
+      "id": "live-multilateral-lebanon-israel-tensions-escalate-as-gaza",
+      "title": "Lebanon\u2013Israel tensions escalate as Gaza sees major aid delivery",
+      "category": "multilateral",
+      "date": "2026-09-04",
+      "impact": "HIGH",
+      "company": "UN News AI",
+      "tldr": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity",
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168275",
+      "details": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson St\u00e9phane Dujarric said on Thursday."
+    },
+    {
+      "id": "live-multilateral-gloria-steinem-a-voice-for-women-to-the-",
+      "title": "Gloria Steinem: A voice for women, to the very end",
+      "category": "multilateral",
+      "date": "2026-09-04",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Gloria Steinem, the journalist and women's rights campaigner who became one of the most influential voices of the feminist movement, has died at the age of 92. In an announcement o...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168272",
+      "details": "Gloria Steinem, the journalist and women's rights campaigner who became one of the most influential voices of the feminist movement, has died at the age of 92. In an announcement on Instagram, her family said she had passed away on Wednesday at her home in New York City, surrounded by some of the many who loved her."
+    },
+    {
+      "id": "live-multilateral-security-council-live-addressing-the-leg",
+      "title": "Security Council LIVE: Addressing the legacy of Syria\u2019s chemical weapons",
+      "category": "multilateral",
+      "date": "2026-09-04",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapon...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168271",
+      "details": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead."
+    },
+    {
+      "id": "live-multilateral-outside-forces-fuel-sudan-war-new-report",
+      "title": "Outside forces fuel Sudan war, new report finds",
+      "category": "multilateral",
+      "date": "2026-09-04",
+      "impact": "HIGH",
+      "company": "UN News AI",
+      "tldr": "Foreign recruitment and external support networks are fuelling the brutal conflict in Sudan, independent UN human rights investigators said on Thursday in a new report, calling for...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168270",
+      "details": "Foreign recruitment and external support networks are fuelling the brutal conflict in Sudan, independent UN human rights investigators said on Thursday in a new report, calling for accountability as fighting continues between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF)."
     }
   ]
 }
