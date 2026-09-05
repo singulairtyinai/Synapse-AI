@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-04T22:11:53.809374",
-  "fetched_count": 50,
+  "timestamp": "2026-09-05T03:28:50.023980",
+  "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-architecting-memory-and-storage-in-the-a",
       "title": "Architecting memory and storage in the AI era",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "CRITICAL",
       "company": "MIT Tech Review AI",
       "tldr": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assist...",
@@ -24,7 +24,7 @@
       "id": "live-overall-the-download-selling-battlefield-drone-d",
       "title": "The Download: selling battlefield drone data and AI reshaping language",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is...",
@@ -43,7 +43,7 @@
       "id": "live-overall-data-from-drones-in-ukraine-is-fueling-a",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a n...",
@@ -61,7 +61,7 @@
       "id": "live-overall-the-download-rethinking-child-safety-and",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might ne...",
@@ -79,7 +79,7 @@
       "id": "live-overall-agriculture-relies-on-fossil-fuels-it-s-",
       "title": "Agriculture relies on fossil fuels. It\u2019s costing us.",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "If you\u2019ve had to fill up your vehicle\u2019s gas tank or buy a plane ticket lately, you\u2019ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for thei...",
@@ -97,7 +97,7 @@
       "id": "live-overall-structure-and-implementation-of-new-prac",
       "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems th...",
@@ -116,7 +116,7 @@
       "id": "live-overall-mastercontrol-seventeen-every-time",
       "title": "MasterControl Seventeen Every Time",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects a...",
@@ -125,8 +125,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
+        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.03209",
@@ -136,7 +136,7 @@
       "id": "live-overall-speculative-macro-commit-for-faster-tool",
       "title": "Speculative Macro Commit for Faster Tool-Using Agents",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each too...",
@@ -145,10 +145,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#EUAIAct",
         "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#AgenticAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.03236",
       "details": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official trajectory, while a faster speculative drafter model continuously predicts and executes future action chains on an isolated environment snapshot. SMC mines recurring multi-action skeletons from training traces and stores them in a macro library used to match against action chains predicted by the drafter at runtime. When the actor's next tool call matches the first drafted action, SMC commits the remaining pre-executed draft steps, together with their observations, to the official trajectory. Using Qwen3.5-27B INT4 as the authoritative actor model and Qwen3.5-4B as the speculative drafter model, SMC matches the sequential agent's overall accuracy while reducing latency by 10.23\\% over the Speculative Actions (SA) baseline and 18.59\\% over sequential execution on the $\\tau^2$-Bench Telecom subset. On AppWorld, SMC reduces wall time by 7.7\\% over SA baseline and 44.9\\% over sequential execution, with a small reduction in task completion. Overall, SMC provides a practical way to reuse multi-step speculative execution and reduce agent latency beyond single-step speculative actions. Our code is publicly available \\href{https://github.com/zeyuliu1037/speculative-macro-commit}{\\textcolor{magenta}{here}}."
@@ -157,7 +157,7 @@
       "id": "live-overall-fresh-memory-stale-plans-dependency-scop",
       "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from ...",
@@ -166,8 +166,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
+        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.03340",
@@ -177,7 +177,7 @@
       "id": "live-overall-a-prompt-engineering-approach-to-develop",
       "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Person",
       "category": "overall",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but ofte...",
@@ -186,8 +186,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
+        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.03402",
@@ -197,7 +197,7 @@
       "id": "live-agentic_ai-neomme-an-efficient-multimodal-native-an",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -215,7 +215,7 @@
       "id": "live-agentic_ai-fine-tuning-a-350m-model-for-better-stru",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -233,7 +233,7 @@
       "id": "live-agentic_ai-give-your-coding-agents-a-memory-you-own",
       "title": "Give Your Coding Agents a Memory You Own",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -251,7 +251,7 @@
       "id": "live-agentic_ai-training-a-coding-model-to-paint-waterco",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -269,7 +269,7 @@
       "id": "live-agentic_ai-real-time-intelligence-with-ibm-time-ser",
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -287,7 +287,7 @@
       "id": "live-agentic_ai-scaling-agentic-ai-pilots-across-the-ent",
       "title": "Scaling agentic AI pilots across the enterprise",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/ Comments URL: https://news.ycombinator.com/item?id=49548462 Points...",
@@ -305,7 +305,7 @@
       "id": "live-agentic_ai-a-policy-algebra-for-trust-preserving-ag",
       "title": "A Policy Algebra for Trust-Preserving Agentic AI Execution",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://arxiv.org/abs/2608.16402 Comments URL: https://news.ycombinator.com/item?id=49509877 Points: 1 # Comments: 0",
@@ -323,7 +323,7 @@
       "id": "live-agentic_ai-only-believe-what-you-can-validate-a-ver",
       "title": "Only believe what you can validate: a verification framework for agentic AI",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/ Comments URL: https://news.ycombinator.com/item?id=49497440 Points: 3 # Comments: 1",
@@ -332,8 +332,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Microsoft"
       ],
       "sourceUrl": "https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/",
       "details": "Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/ Comments URL: https://news.ycombinator.com/item?id=49497440 Points: 3 # Comments: 1"
@@ -342,7 +342,7 @@
       "id": "live-agentic_ai-why-agentic-ai-needs-a-strong-identity-f",
       "title": "Why Agentic AI Needs a Strong Identity Foundation",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation Comments URL: https://news.ycombinator.com/item?id=494836...",
@@ -351,8 +351,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#AISecurity",
+        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
@@ -362,7 +362,7 @@
       "id": "live-agentic_ai-making-your-data-ready-for-agentic-ai",
       "title": "Making Your Data Ready for Agentic AI",
       "category": "agentic_ai",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49476637 Points: 2 # Comments: 0",
@@ -380,7 +380,7 @@
       "id": "live-models-daybreak-for-frontline-defenders-1b-to-p",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "category": "models",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
@@ -398,7 +398,7 @@
       "id": "live-models-playco-cut-manual-fixes-50-prototyping-g",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "category": "models",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
@@ -417,7 +417,7 @@
       "id": "live-models-legora-reviewed-41-documents-in-minutes-",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "category": "models",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
@@ -432,10 +432,29 @@
       "details": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     },
     {
+      "id": "live-models-gpt-6-astra-a-new-generation-of-intellig",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "category": "models",
+      "date": "2026-09-05",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://openai.com/index/gpt-6-astra",
+      "details": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+    },
+    {
       "id": "live-models-safety-overview-gpt-6-astra",
       "title": "Safety overview: GPT-6 Astra",
       "category": "models",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
@@ -444,36 +463,18 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#OpenAI",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/safety-overview-gpt-6-astra",
       "details": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
     },
     {
-      "id": "live-models-atv-big-air-tour-turned-3-days-of-work-i",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "category": "models",
-      "date": "2026-09-04",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/atv-big-air-tour",
-      "details": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
-    },
-    {
       "id": "live-companies-sparks-fly-nvidia-accelerates-local-ai-a",
       "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
       "category": "companies",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and...",
@@ -482,11 +483,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations",
-        "#AgenticAI",
         "#NVIDIA",
-        "#Microsoft"
+        "#AgenticAI",
+        "#Microsoft",
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "details": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [\u2026]"
@@ -495,7 +496,7 @@
       "id": "live-companies-nba-2k27-with-nvidia-dlss-5-leads-26-new",
       "title": "\u2018NBA 2K27\u2019 With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
       "category": "companies",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA\u2019s c...",
@@ -504,9 +505,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#NVIDIA",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "details": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA\u2019s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court \u2014 tuned [\u2026]"
@@ -515,7 +516,7 @@
       "id": "live-companies-nvidia-to-acquire-hugging-face",
       "title": "NVIDIA to Acquire Hugging Face",
       "category": "companies",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "I\u2019m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face\u2019s platform, strengthen its infrastructure and expan...",
@@ -534,7 +535,7 @@
       "id": "live-companies-nvidia-and-crowdstrike-strengthen-agenti",
       "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
       "category": "companies",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be...",
@@ -543,11 +544,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations",
-        "#DefenseAI",
+        "#NVIDIA",
         "#AgenticAI",
-        "#NVIDIA"
+        "#AISecurity",
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "details": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [\u2026]"
@@ -556,7 +557,7 @@
       "id": "live-companies-nvidia-and-mediatek-deepen-long-standing",
       "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
       "category": "companies",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms \u2014 spanning AI infrastructure, local AI c...",
@@ -575,7 +576,7 @@
       "id": "live-fellowships-podcast-lasers-and-materials-of-the-futu",
       "title": "Podcast: Lasers and materials of the future",
       "category": "fellowships",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Chunlei Guo, an NSF-supported researcher, discusses his work using femtosecond lasers to design materials with highly functionalized purposes...",
@@ -593,7 +594,7 @@
       "id": "live-fellowships-nsf-launches-three-new-science-and-techn",
       "title": "NSF launches three new Science and Technology Centers with $90M investment in transformative researc",
       "category": "fellowships",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation is investing $90 million over five years to support three new NSF Science and Technology Centers (NSF STC). These centers will advance American...",
@@ -611,7 +612,7 @@
       "id": "live-fellowships-eight-nsf-research-institutes-to-propel-",
       "title": "Eight NSF research institutes to propel U.S. quantum science with $290M investment",
       "category": "fellowships",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Understanding and wielding the quantum properties of nature is the ambitious objective of eight research institutes that will collectively receive more than $290 million from the U...",
@@ -629,7 +630,7 @@
       "id": "live-fellowships-podcast-educator-wins-presidential-ai-ch",
       "title": "Podcast: Educator wins Presidential AI Challenge",
       "category": "fellowships",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researchers are behind an educational effort to introduce artificial intelligence techniques to elementary school children...",
@@ -647,7 +648,7 @@
       "id": "live-fellowships-podcast-researchers-bring-ai-to-elementa",
       "title": "Podcast: Researchers bring AI to elementary schoolers",
       "category": "fellowships",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Researchers discuss the challenges of introducing artificial intelligence concepts into elementary school curriculum and how the project led to a win in the inaugural Presidential ...",
@@ -665,7 +666,7 @@
       "id": "live-military-july-s-breakout-at-openai-was-far-more-c",
       "title": "July\u2019s breakout at OpenAI was far more complex than initially realized",
       "category": "military",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves.",
@@ -674,10 +675,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#OpenAI",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#AgenticAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/AI-breakout-openai-complex/415825/",
       "details": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves."
@@ -686,7 +687,7 @@
       "id": "live-military-back-to-life-how-shield-ai-s-future-unma",
       "title": "Back to life: How Shield AI\u2019s future unmanned fighter made decades-old tech new again",
       "category": "military",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The original GE Aerospace engine nozzle, designed for the F-16, is key to building a vertical takeoff robotic jet prototype.",
@@ -704,7 +705,7 @@
       "id": "live-military-white-house-pressure-for-us-firms-to-ski",
       "title": "White House pressure for US firms to skip French space summit is \u2018unfortunate,\u2019 insiders say",
       "category": "military",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "One policy director warned that American companies could be used as a \u2018prop\u2019 against their country\u2019s interests.",
@@ -722,7 +723,7 @@
       "id": "live-military-defense-business-brief-takeaways-from-am",
       "title": "Defense Business Brief: Takeaways from America\u2019s first jet engine test site",
       "category": "military",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -740,7 +741,7 @@
       "id": "live-military-the-us-may-lack-the-engineers-to-rebuild",
       "title": "The US may lack the engineers to rebuild space assets in a future war: RAND",
       "category": "military",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Industry is already short of skilled engineering personnel.",
@@ -758,7 +759,7 @@
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
       "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single ...",
@@ -776,7 +777,7 @@
       "id": "live-governance-nist-national-construction-safety-team-a",
       "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 202",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
@@ -794,7 +795,7 @@
       "id": "live-governance-nist-researchers-correct-common-error-co",
       "title": "NIST Researchers Correct Common Error Confounding Nanotech Measurements",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
@@ -813,7 +814,7 @@
       "id": "live-governance-spooky-particles-transit-dc-suburbs-a-st",
       "title": "\u2018Spooky\u2019 Particles Transit DC Suburbs, a Step Toward a Quantum Network",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
@@ -831,7 +832,7 @@
       "id": "live-governance-nist-joins-national-genesis-mission-to-a",
       "title": "NIST Joins National Genesis Mission to Accelerate AI Innovation",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "NIST will execute two of its efforts through its Centers for AI in Manufacturing and Critical Infrastructure.",
@@ -849,7 +850,7 @@
       "id": "live-governance-state-of-the-union-2026",
       "title": "State of the Union 2026",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the...",
@@ -858,9 +859,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#AISecurity",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "details": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the European Commission to the European Parliament, setting the priorities for the Union for the year ahead. It will be livestreamed. Main link https://commission.europa.eu/strategy-and-policy/state-union_en Related topics Shaping the Digital Single Market Creating a digital society Research and Innovation Digital connectivity Media and democracy Digital Cultural heritage Cybersecurity Electronic communications and Privacy Advanced Digital Technologies Startups Strengthening trust and security Data policy Advanced and Cloud Computing Copyright Boosting European digital Industry International relations Online platforms and e-commerce Artificial intelligence Funding for Digital Digital Decade An agile rulebook Tech sovereignty"
@@ -869,7 +870,7 @@
       "id": "live-governance-commission-designates-chatgpt-reddit-rob",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Onli...",
@@ -878,10 +879,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
+        "#EUAIAct",
         "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -890,7 +891,7 @@
       "id": "live-governance-pitching-day-finalists-of-the-apply-ai-s",
       "title": "Pitching day: Finalists of the Apply AI Startup Award",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply...",
@@ -899,8 +900,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
       "details": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply AI Startup Award and learn more about the European AI innovation ecosystem. The Apply AI Startup Award recognises innovative European startups and scaleups developing AI solutions in the 11 strategic sectors covered by the Apply AI Strategy. In July, national startup associations nominated 24 European AI startups and scaleups across 16 Member States. Independent experts are currently evaluating the nominations and will choose the top 10 finalists for the pitching event. Each startup will have 3 minutes to pitch their AI solution and convince the jury. After the pitching session the jury will select the 3 winners. Among other rewards, they will be invited to pitch their solution and receive a trophy and certificate on the main stage of the Apply AI Summit. Registration will open soon. Agenda 14:00-15:30 CET(to be confirmed) Welcome and introduction Part I - Pitches&nbsp; Presentation from the AI Office Part II - Pitches Conclusion Jury &amp; finalists The jury members and the top 10 Finalists will be announced soon. Related topics Artificial intelligence"
@@ -909,7 +910,7 @@
       "id": "live-governance-call-for-tenders-study-on-how-online-mar",
       "title": "Call for tenders: Study on how online marketplace design influences user behaviour",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 2...",
@@ -918,9 +919,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -929,7 +930,7 @@
       "id": "live-governance-join-the-inaugural-d-tect-forum",
       "title": "Join the Inaugural D-TECT Forum",
       "category": "governance",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mecha...",
@@ -938,13 +939,104 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
+        "#EUAIAct",
         "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
       "details": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mechanism for drone and counter-drone technologies. \u00a9 Marcus Jacobi The European Commission invites interested organisations to join the inaugural D-Tect Forum on 11 November 2026. We are looking for companies, research organisations, universities, industry associations, standardisation bodies and innovation networks active in the drones domain. The inaugural Forum aims to gather 100+ high-level leaders to advance Europe\u2019s ambitions in Drone and Counter-Drone technology. Participants will explore near-term cooperation across the full drone and counter-drone value chain, including detection, tracking and neutralisation systems, autonomy and AI-enabled navigation, sensing and electronic warfare, secure connectivity, and the enabling technologies that underpin them, such as semiconductors, cloud, cyber and data. The priorities and composition of the thematic Working Groups will be defined during the Forum. To participate in the event, please submit your application. This form is also a registration to the Call of Expression of Interest to join future events of the D-TECT forum. Please note that submitting an application does not by itself confirm your registration for the inaugural Forum. Further, results of membership applications will be communicated after the event. Downloads Call for Expression of interest - \u200b\u200b\u200bDrone Tech for Countering Threats Forum\u200b Download&nbsp; Privacy statement - Drone Tech for Countering Threats (D-TECT) Forum Download&nbsp; Terms of reference - Drone Tech for Countering Threats Forum Download&nbsp; Related topics Cybersecurity Tech sovereignty Hybrid security threats"
+    },
+    {
+      "id": "live-multilateral-un-tells-the-world-stop-making-africa-lo",
+      "title": "UN tells the world: Stop making Africa look small",
+      "category": "multilateral",
+      "date": "2026-09-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN General Assembly has voted overwhelmingly to encourage governments, schools and tech companies worldwide to stop using maps that make Africa look far smaller than it really ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168284",
+      "details": "The UN General Assembly has voted overwhelmingly to encourage governments, schools and tech companies worldwide to stop using maps that make Africa look far smaller than it really is."
+    },
+    {
+      "id": "live-multilateral-west-bank-un-rights-report-warns-of-forc",
+      "title": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
+      "category": "multilateral",
+      "date": "2026-09-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Israeli security forces forcibly displaced the entire population of three Palestine refugee camps in the occupied West Bank in January and February last year \u2013 and continue to prev...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168282",
+      "details": "Israeli security forces forcibly displaced the entire population of three Palestine refugee camps in the occupied West Bank in January and February last year \u2013 and continue to prevent their return, in violation of international law, according to a new report&nbsp;by the UN human rights office, OHCHR."
+    },
+    {
+      "id": "live-multilateral-un-aims-to-raise-nearly-50-million-for-n",
+      "title": "UN aims to raise nearly $50 million for Nepal flood response",
+      "category": "multilateral",
+      "date": "2026-09-05",
+      "impact": "HIGH",
+      "company": "UN News AI",
+      "tldr": "The UN and its humanitarian partners launched a $49.6 million flash appeal on Friday to deliver emergency assistance to more than 84,000 people affected by last week\u2019s catastrophic...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168281",
+      "details": "The UN and its humanitarian partners launched a $49.6 million flash appeal on Friday to deliver emergency assistance to more than 84,000 people affected by last week\u2019s catastrophic floods in Nepal."
+    },
+    {
+      "id": "live-multilateral-repeated-attacks-on-humanitarian-warehou",
+      "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
+      "category": "multilateral",
+      "date": "2026-09-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the U...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168278",
+      "details": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the UN agency said on Friday."
+    },
+    {
+      "id": "live-multilateral-general-assembly-backs-creation-of-new-u",
+      "title": "General Assembly backs creation of new UN learning institute under UN80 reforms",
+      "category": "multilateral",
+      "date": "2026-09-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN General Assembly has approved the merger of two United Nations learning and training bodies, creating a new institution designed to strengthen support for both Member States...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168276",
+      "details": "The UN General Assembly has approved the merger of two United Nations learning and training bodies, creating a new institution designed to strengthen support for both Member States and the UN system itself."
     }
   ]
 }
