@@ -1,99 +1,117 @@
 {
-  "timestamp": "2026-09-08T08:41:05.220710",
+  "timestamp": "2026-09-08T16:13:05.507268",
   "fetched_count": 40,
   "nodes": [
     {
-      "id": "live-overall-the-download-the-hunt-for-underground-hy",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "id": "live-overall-the-download-our-35-innovators-under-35-",
+      "title": "The Download: our 35 Innovators Under 35 this year",
       "category": "overall",
       "date": "2026-09-08",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us un...",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators ...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;"
+    },
+    {
+      "id": "live-overall-this-founder-is-teaching-chips-how-to-re",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "category": "overall",
+      "date": "2026-09-08",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it\u2019s a design choice. Earley, ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "details": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it\u2019s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat\u2014a strategy known as reversible computing.&#8230;"
+    },
+    {
+      "id": "live-overall-this-ai-entrepreneur-is-developing-agent",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "category": "overall",
+      "date": "2026-09-08",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
         "#UnitedNations",
-        "#AgenticAI"
+        "#EUAIAct"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;"
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "details": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;"
     },
     {
-      "id": "live-overall-architecting-memory-and-storage-in-the-a",
-      "title": "Architecting memory and storage in the AI era",
+      "id": "live-overall-this-founder-is-making-cheaper-cleaner-s",
+      "title": "This founder is making cheaper, cleaner steel",
       "category": "overall",
       "date": "2026-09-08",
-      "impact": "CRITICAL",
+      "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assist...",
+      "tldr": "The steel industry isn\u2019t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "details": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;"
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "details": "The steel industry isn\u2019t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It&#8230;"
     },
     {
-      "id": "live-overall-the-download-selling-battlefield-drone-d",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "id": "live-overall-this-geneticist-s-age-reversal-tech-coul",
+      "title": "This geneticist\u2019s age-reversal tech could help restore sight",
       "category": "overall",
       "date": "2026-09-08",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is...",
+      "tldr": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the ...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace \u2014Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;"
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "details": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn\u2019t see oncoming traffic. And Lu\u2019s own&#8230;"
     },
     {
-      "id": "live-overall-data-from-drones-in-ukraine-is-fueling-a",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "category": "overall",
+      "id": "live-agentic_ai-safety-for-whom-refusing-the-right-subse",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "category": "agentic_ai",
       "date": "2026-09-08",
       "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a n...",
+      "company": "Hugging Face Blog",
+      "tldr": "",
       "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "details": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-rethinking-child-safety-and",
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "category": "overall",
-      "date": "2026-09-08",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might ne...",
-      "specs": {
-        "source": "MIT Tech Review AI",
+        "source": "Hugging Face Blog",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#AITrend"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they\u2019re increasingly turning to content-monitoring apps that scan their children\u2019s texts, photos, emails,&#8230;"
+      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-neomme-an-efficient-multimodal-native-an",
@@ -168,22 +186,40 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-real-time-intelligence-with-ibm-time-ser",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "category": "agentic_ai",
+      "id": "live-models-the-work-now-within-reach",
+      "title": "The Work Now Within Reach",
+      "category": "models",
       "date": "2026-09-08",
-      "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical.",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#OpenAI"
       ],
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://openai.com/index/the-work-now-within-reach",
+      "details": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical."
+    },
+    {
+      "id": "live-models-openai-expands-initiatives-to-support-jo",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "category": "models",
+      "date": "2026-09-08",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "details": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
     },
     {
       "id": "live-models-supporting-independent-journalism-in-ukr",
@@ -235,47 +271,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
       "details": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
-    },
-    {
-      "id": "live-models-daybreak-for-frontline-defenders-1b-to-p",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "category": "models",
-      "date": "2026-09-08",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "details": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "id": "live-models-legora-reviewed-41-documents-in-minutes-",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "category": "models",
-      "date": "2026-09-08",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "details": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     },
     {
       "id": "live-companies-sparks-fly-nvidia-accelerates-local-ai-a",
@@ -290,11 +290,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#Microsoft",
         "#AgenticAI",
-        "#NVIDIA",
         "#UnitedNations",
-        "#Microsoft"
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "details": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [\u2026]"
@@ -312,8 +312,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#UnitedNations",
+        "#NVIDIA",
         "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
@@ -332,8 +332,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "details": "I\u2019m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face\u2019s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for [\u2026]"
@@ -351,11 +351,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#AgenticAI",
-        "#AISecurity",
+        "#DefenseAI",
+        "#UnitedNations",
         "#NVIDIA",
-        "#UnitedNations"
+        "#AISecurity"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "details": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [\u2026]"
@@ -373,8 +373,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
       "details": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms \u2014 spanning AI infrastructure, local AI computing and automotive."
@@ -482,10 +482,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations",
+        "#AgenticAI",
         "#Governance",
-        "#AgenticAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/AI-breakout-openai-complex/415825/",
       "details": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves."
@@ -611,8 +611,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -685,8 +685,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
@@ -705,9 +705,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance",
         "#AISecurity",
+        "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
@@ -745,8 +745,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
