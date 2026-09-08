@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T16:13:05.507268",
+  "timestamp": "2026-09-08T22:26:05.923484",
   "fetched_count": 40,
   "nodes": [
     {
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#UnitedNations",
+        "#AgenticAI",
         "#EUAIAct"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
@@ -186,6 +186,25 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-how-gpt-5-6-sol-helps-run-quantum-comput",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "category": "models",
+      "date": "2026-09-08",
+      "impact": "CRITICAL",
+      "company": "OpenAI Newsroom",
+      "tldr": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments",
+      "details": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    },
+    {
       "id": "live-models-the-work-now-within-reach",
       "title": "The Work Now Within Reach",
       "category": "models",
@@ -204,13 +223,13 @@
       "details": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical."
     },
     {
-      "id": "live-models-openai-expands-initiatives-to-support-jo",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "id": "live-models-introducing-chatgpt-images-2-5",
+      "title": "Introducing ChatGPT Images 2.5",
       "category": "models",
       "date": "2026-09-08",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "tldr": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
@@ -218,64 +237,47 @@
       "tags": [
         "#OpenAI"
       ],
-      "sourceUrl": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "details": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "details": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
     },
     {
-      "id": "live-models-supporting-independent-journalism-in-ukr",
-      "title": "Supporting independent journalism in Ukraine",
+      "id": "live-models-on-the-navier-stokes-millennium-prize-pr",
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
       "category": "models",
       "date": "2026-09-08",
-      "impact": "HIGH",
+      "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "tldr": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#OpenAI",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://openai.com/index/navier-stokes-solution",
+      "details": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+    },
+    {
+      "id": "live-models-funding-grants-for-new-research-into-ai-",
+      "title": "Funding grants for new research into AI and teen development",
+      "category": "models",
+      "date": "2026-09-08",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Fellowship",
+        "#OpenAI",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "details": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
-    },
-    {
-      "id": "live-models-an-alien-mind",
-      "title": "An Alien Mind",
-      "category": "models",
-      "date": "2026-09-08",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/an-alien-mind",
-      "details": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
-    },
-    {
-      "id": "live-models-research-acceleration-the-view-inside-op",
-      "title": "Research acceleration: The view inside OpenAI",
-      "category": "models",
-      "date": "2026-09-08",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "details": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+      "sourceUrl": "https://openai.com/index/teen-development-research-grants",
+      "details": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
     },
     {
       "id": "live-companies-sparks-fly-nvidia-accelerates-local-ai-a",
@@ -290,11 +292,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
-        "#AgenticAI",
+        "#Governance",
         "#UnitedNations",
         "#NVIDIA",
-        "#Governance"
+        "#AgenticAI",
+        "#Microsoft"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "details": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [\u2026]"
@@ -351,11 +353,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#DefenseAI",
         "#UnitedNations",
         "#NVIDIA",
-        "#AISecurity"
+        "#AISecurity",
+        "#AgenticAI",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "details": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [\u2026]"
@@ -378,6 +380,24 @@
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
       "details": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms \u2014 spanning AI infrastructure, local AI computing and automotive."
+    },
+    {
+      "id": "live-fellowships-podcast-ai-and-wearable-devices",
+      "title": "Podcast: AI and wearable devices",
+      "category": "fellowships",
+      "date": "2026-09-08",
+      "impact": "MODERATE",
+      "company": "NSF News",
+      "tldr": "Mark Hersam an NSF-supported researcher, discusses nanoelectronic materials and how a cerebellum-inspired approach may transform how AI performs in wearable devices...",
+      "specs": {
+        "source": "NSF News",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.nsf.gov/news/podcast-ai-wearable-devices",
+      "details": "Mark Hersam an NSF-supported researcher, discusses nanoelectronic materials and how a cerebellum-inspired approach may transform how AI performs in wearable devices..."
     },
     {
       "id": "live-fellowships-podcast-lasers-and-materials-of-the-futu",
@@ -452,22 +472,22 @@
       "details": "U.S. National Science Foundation-supported researchers are behind an educational effort to introduce artificial intelligence techniques to elementary school children..."
     },
     {
-      "id": "live-fellowships-podcast-researchers-bring-ai-to-elementa",
-      "title": "Podcast: Researchers bring AI to elementary schoolers",
-      "category": "fellowships",
+      "id": "live-military-after-heavy-reaper-drone-loses-in-iran-a",
+      "title": "After heavy Reaper drone loses in Iran, Air Force accelerates affordable future replacement",
+      "category": "military",
       "date": "2026-09-08",
       "impact": "MODERATE",
-      "company": "NSF News",
-      "tldr": "Researchers discuss the challenges of introducing artificial intelligence concepts into elementary school curriculum and how the project led to a win in the inaugural Presidential ...",
+      "company": "Defense One AI",
+      "tldr": "The Massed Modular Aircraft effort wants to bring a new ISR, strike drone to the frontlines.",
       "specs": {
-        "source": "NSF News",
+        "source": "Defense One AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#AITrend"
       ],
-      "sourceUrl": "https://www.nsf.gov/news/podcast-researchers-bring-ai-elementary-schoolers",
-      "details": "Researchers discuss the challenges of introducing artificial intelligence concepts into elementary school curriculum and how the project led to a win in the inaugural Presidential AI Challenge..."
+      "sourceUrl": "https://www.defenseone.com/technology/2026/09/after-heavy-reaper-drone-loses-iran-air-force-accelerates-affordable-future-replacement/415852/",
+      "details": "The Massed Modular Aircraft effort wants to bring a new ISR, strike drone to the frontlines."
     },
     {
       "id": "live-military-july-s-breakout-at-openai-was-far-more-c",
@@ -482,10 +502,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
         "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/AI-breakout-openai-complex/415825/",
       "details": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves."
@@ -543,24 +563,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-takeaways-americas-first-jet-engine-test-site/415795/",
       "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-military-the-us-may-lack-the-engineers-to-rebuild",
-      "title": "The US may lack the engineers to rebuild space assets in a future war: RAND",
-      "category": "military",
-      "date": "2026-09-08",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Industry is already short of skilled engineering personnel.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/09/us-may-lack-engineers-rebuild-space-assets-future-war-rand/415788/",
-      "details": "Industry is already short of skilled engineering personnel."
     },
     {
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
@@ -705,8 +707,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
+        "#AISecurity",
         "#UnitedNations",
         "#EUAIAct"
       ],
