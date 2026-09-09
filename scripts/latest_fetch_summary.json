@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-09T16:07:17.375486",
-  "fetched_count": 45,
+  "timestamp": "2026-09-09T22:20:09.837937",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-openai-s-turning-point-for-",
@@ -15,9 +15,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would&#8230;"
@@ -71,9 +71,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "details": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI\u2019s cap. But the announcement has been overshadowed by accusations&#8230;"
@@ -187,6 +187,136 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-making-your-data-ready-for-agentic-ai",
+      "title": "Making your data ready for agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49620450 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "details": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49620450 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-solo-io-pushes-agentic-ai-governance-to-",
+      "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
+      "category": "agentic_ai",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/ Comments URL: https://news.ycombinator.com/item?id=49...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
+      "details": "Article URL: https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/ Comments URL: https://news.ycombinator.com/item?id=49618083 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-why-agentic-ai-needs-a-semantic-core",
+      "title": "Why Agentic AI Needs a Semantic Core",
+      "category": "agentic_ai",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core Comments URL: https://news.ycombinator.com/item?id=49613543 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core",
+      "details": "Article URL: https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core Comments URL: https://news.ycombinator.com/item?id=49613543 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-rocm-10-0-a-decade-of-open-compute-built",
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html Comments URL: https://news.ycombinator.com/item?id=49592508 Points: 18 # Comments: 1",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "details": "Article URL: https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html Comments URL: https://news.ycombinator.com/item?id=49592508 Points: 18 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-scaling-agentic-ai-pilots-across-the-ent",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "category": "agentic_ai",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/ Comments URL: https://news.ycombinator.com/item?id=49548462 Points...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "details": "Article URL: https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/ Comments URL: https://news.ycombinator.com/item?id=49548462 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-models-gpt-6-astra-the-next-generation-in-intel",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "category": "models",
+      "date": "2026-09-09",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "Meet GPT-6 Astra, OpenAI\u2019s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#Reasoning"
+      ],
+      "sourceUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "details": "Meet GPT-6 Astra, OpenAI\u2019s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+    },
+    {
+      "id": "live-models-paul-christiano-joins-openai-foundation-",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "category": "models",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "details": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+    },
+    {
       "id": "live-models-how-gpt-5-6-sol-helps-run-quantum-comput",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "category": "models",
@@ -199,8 +329,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments",
       "details": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
@@ -242,45 +372,6 @@
       "details": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
     },
     {
-      "id": "live-models-on-the-navier-stokes-millennium-prize-pr",
-      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "category": "models",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://openai.com/index/navier-stokes-solution",
-      "details": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
-    },
-    {
-      "id": "live-models-funding-grants-for-new-research-into-ai-",
-      "title": "Funding grants for new research into AI and teen development",
-      "category": "models",
-      "date": "2026-09-09",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Fellowship",
-        "#UnitedNations",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/teen-development-research-grants",
-      "details": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
-    },
-    {
       "id": "live-companies-nvidia-brings-real-time-ai-to-broadcast-",
       "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
       "category": "companies",
@@ -313,11 +404,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Microsoft",
-        "#UnitedNations",
         "#Governance",
-        "#NVIDIA"
+        "#UnitedNations",
+        "#NVIDIA",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "details": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [\u2026]"
@@ -336,8 +427,8 @@
       },
       "tags": [
         "#NVIDIA",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "details": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA\u2019s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court \u2014 tuned [\u2026]"
@@ -374,11 +465,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#AgenticAI",
         "#UnitedNations",
+        "#NVIDIA",
+        "#DefenseAI",
         "#AISecurity",
-        "#NVIDIA"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "details": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [\u2026]"
@@ -474,6 +565,42 @@
       "details": "U.S. National Science Foundation-supported researchers are behind an educational effort to introduce artificial intelligence techniques to elementary school children..."
     },
     {
+      "id": "live-military-ai-powered-biowarfare-is-coming-the-army",
+      "title": "AI-powered biowarfare is coming; the Army lays plans to \u2018fight through\u2019 it",
+      "category": "military",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "A new strategy aims to prepare to \u201cdeploy, fight, and win decisively in a bio-contested environment\u201d by 2035.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/09/ai-powered-biowarfare-looms-army-lays-plans-fight-through-it/415886/",
+      "details": "A new strategy aims to prepare to \u201cdeploy, fight, and win decisively in a bio-contested environment\u201d by 2035."
+    },
+    {
+      "id": "live-military-maven-is-becoming-the-pentagon-s-everyth",
+      "title": "Maven is becoming the Pentagon\u2019s everything app",
+      "category": "military",
+      "date": "2026-09-09",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "MSS has replaced \u201csix, eight, ten\u201d systems that the military used to analyze data, AI chief says.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/09/maven-becoming-pentagons-everything-app/415882/",
+      "details": "MSS has replaced \u201csix, eight, ten\u201d systems that the military used to analyze data, AI chief says."
+    },
+    {
       "id": "live-military-nsa-wants-ai-to-help-analysts-sift-vast-",
       "title": "NSA wants AI to help analysts sift vast data troves",
       "category": "military",
@@ -526,45 +653,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/intelligence-agencies-warn-chinas-large-scale-ai-model-distillation-efforts/415858/",
       "details": "NSA, FBI, and CISA cite \u201caggressive, malicious, and targeted\" distillation tactics."
-    },
-    {
-      "id": "live-military-usaf-speed-up-reaper-replacement-after-h",
-      "title": "USAF speed up Reaper replacement after heavy losses in Iran",
-      "category": "military",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The Massed Modular Aircraft program envisions a $10M airframe\u2014plus sensor and system costs.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/09/after-heavy-reaper-drone-loses-iran-air-force-accelerates-affordable-future-replacement/415852/",
-      "details": "The Massed Modular Aircraft program envisions a $10M airframe\u2014plus sensor and system costs."
-    },
-    {
-      "id": "live-military-july-s-breakout-at-openai-was-far-more-c",
-      "title": "July\u2019s breakout at OpenAI was far more complex than initially realized",
-      "category": "military",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations",
-        "#AgenticAI",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/09/AI-breakout-openai-complex/415825/",
-      "details": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves."
     },
     {
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
@@ -670,8 +758,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -689,9 +777,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#EUAIAct",
         "#AISecurity",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "details": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the European Commission to the European Parliament, setting the priorities for the Union for the year ahead. It will be livestreamed. Main link https://commission.europa.eu/strategy-and-policy/state-union_en Related topics Shaping the Digital Single Market Creating a digital society Research and Innovation Digital connectivity Media and democracy Digital Cultural heritage Cybersecurity Electronic communications and Privacy Advanced Digital Technologies Startups Strengthening trust and security Data policy Advanced and Cloud Computing Copyright Boosting European digital Industry International relations Online platforms and e-commerce Artificial intelligence Funding for Digital Digital Decade An agile rulebook Tech sovereignty"
@@ -709,10 +797,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#Governance",
-        "#UnitedNations",
         "#AISecurity",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -730,8 +818,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
       "details": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply AI Startup Award and learn more about the European AI innovation ecosystem. The Apply AI Startup Award recognises innovative European startups and scaleups developing AI solutions in the 11 strategic sectors covered by the Apply AI Strategy. In July, national startup associations nominated 24 European AI startups and scaleups across 16 Member States. Independent experts are currently evaluating the nominations and will choose the top 10 finalists for the pitching event. Each startup will have 3 minutes to pitch their AI solution and convince the jury. After the pitching session the jury will select the 3 winners. Among other rewards, they will be invited to pitch their solution and receive a trophy and certificate on the main stage of the Apply AI Summit. Registration will open soon. Agenda 14:00-15:30 CET(to be confirmed) Welcome and introduction Part I - Pitches&nbsp; Presentation from the AI Office Part II - Pitches Conclusion Jury &amp; finalists The jury members and the top 10 Finalists will be announced soon. Related topics Artificial intelligence"
@@ -749,12 +837,68 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-flood-ravaged-nepal-calls-for-climate-ju",
+      "title": "Flood-ravaged Nepal calls for climate justice",
+      "category": "multilateral",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Nepal\u2019s call for financial compensation following recent deadly floods underlines the need to help countries that contribute the least to climate change \u2013 but are increasingly grap...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168305",
+      "details": "Nepal\u2019s call for financial compensation following recent deadly floods underlines the need to help countries that contribute the least to climate change \u2013 but are increasingly grappling with its most lethal consequences, the top UN official in the country said on Wednesday."
+    },
+    {
+      "id": "live-multilateral-plight-of-afghans-going-from-bad-to-wors",
+      "title": "Plight of Afghans going \u2018from bad to worse\u2019, but the world is looking away: T\u00fcrk",
+      "category": "multilateral",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Since the Taliban returned to power in 2021, the plight of Afghans has only deteriorated, with millions impoverished while authorities violate basic human rights daily.&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168303",
+      "details": "Since the Taliban returned to power in 2021, the plight of Afghans has only deteriorated, with millions impoverished while authorities violate basic human rights daily.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-un-hails-libya-election-deal-as-security",
+      "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
+      "category": "multilateral",
+      "date": "2026-09-09",
+      "impact": "CRITICAL",
+      "company": "UN News AI",
+      "tldr": "The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections i...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168302",
+      "details": "The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections in over a decade \u2013 while pressing all sides to move quickly from paper to practice."
     },
     {
       "id": "live-multilateral-guterres-urges-leaders-to-invest-in-peac",
@@ -791,61 +935,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168300",
       "details": "While September traditionally marks the start of the school year across the northern hemisphere, a staggering 93 million children are not in class at all amid an unprecedented number of attacks on learning, education experts warned on Wednesday."
-    },
-    {
-      "id": "live-multilateral-ships-and-seafarers-increasingly-caught-",
-      "title": "Ships and seafarers increasingly caught in the crossfire of unrelated wars",
-      "category": "multilateral",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The global shipping industry is facing a \"genuinely unprecedented\" convergence of maritime crises, with vessels and seafarers increasingly used as \u201cleverage\u201d in conflicts that have...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168297",
-      "details": "The global shipping industry is facing a \"genuinely unprecedented\" convergence of maritime crises, with vessels and seafarers increasingly used as \u201cleverage\u201d in conflicts that have nothing to do with them."
-    },
-    {
-      "id": "live-multilateral-un-chief-demands-israeli-withdrawal-from",
-      "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
-      "category": "multilateral",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168298",
-      "details": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in and around Nabatieh."
-    },
-    {
-      "id": "live-multilateral-ai-datacentres-pose-growing-threat-to-el",
-      "title": "AI datacentres pose growing threat to electricity systems worldwide",
-      "category": "multilateral",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Use of data-intensive technologies \u2013 in particular artificial intelligence (AI) data centres \u2013 is growing faster than electricity infrastructure can handle, the UN\u2019s economic commi...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168296",
-      "details": "Use of data-intensive technologies \u2013 in particular artificial intelligence (AI) data centres \u2013 is growing faster than electricity infrastructure can handle, the UN\u2019s economic commission for Europe has warned, raising concerns about the future reliability and resilience of energy systems worldwide.&nbsp;"
     }
   ]
 }
