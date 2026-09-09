@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-09-09T03:39:36.269433",
+  "timestamp": "2026-09-09T08:46:21.631064",
   "fetched_count": 40,
   "nodes": [
+    {
+      "id": "live-overall-understanding-the-thermal-ceiling-in-por",
+      "title": "Understanding the thermal ceiling in portable power",
+      "category": "overall",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It\u2019s the connected device protecting itself. As temperature r...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "details": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It\u2019s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces&#8230;"
+    },
     {
       "id": "live-overall-what-openai-s-latest-controversy-tells-u",
       "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
@@ -15,9 +33,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#UnitedNations",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "details": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI\u2019s cap. But the announcement has been overshadowed by accusations&#8230;"
@@ -71,31 +89,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "details": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;"
-    },
-    {
-      "id": "live-overall-this-founder-is-making-cheaper-cleaner-s",
-      "title": "This founder is making cheaper, cleaner steel",
-      "category": "overall",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "The steel industry isn\u2019t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-      "details": "The steel industry isn\u2019t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It&#8230;"
     },
     {
       "id": "live-agentic_ai-safety-for-whom-refusing-the-right-subse",
@@ -200,8 +199,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments",
       "details": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
@@ -255,8 +254,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/navier-stokes-solution",
       "details": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
@@ -274,9 +273,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#OpenAI",
-        "#Fellowship",
-        "#UnitedNations"
+        "#Fellowship"
       ],
       "sourceUrl": "https://openai.com/index/teen-development-research-grants",
       "details": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
@@ -296,9 +295,9 @@
       "tags": [
         "#NVIDIA",
         "#UnitedNations",
-        "#Governance",
+        "#AgenticAI",
         "#Microsoft",
-        "#AgenticAI"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "details": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [\u2026]"
@@ -316,9 +315,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#NVIDIA",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "details": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA\u2019s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court \u2014 tuned [\u2026]"
@@ -336,8 +335,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "details": "I\u2019m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face\u2019s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for [\u2026]"
@@ -356,10 +355,10 @@
       },
       "tags": [
         "#NVIDIA",
-        "#DefenseAI",
         "#UnitedNations",
+        "#AgenticAI",
         "#AISecurity",
-        "#AgenticAI"
+        "#DefenseAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "details": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [\u2026]"
@@ -377,8 +376,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
       "details": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms \u2014 spanning AI infrastructure, local AI computing and automotive."
@@ -558,10 +557,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI",
         "#UnitedNations",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/AI-breakout-openai-complex/415825/",
       "details": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves."
@@ -615,8 +614,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -670,8 +669,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -689,9 +688,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AISecurity",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "details": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the European Commission to the European Parliament, setting the priorities for the Union for the year ahead. It will be livestreamed. Main link https://commission.europa.eu/strategy-and-policy/state-union_en Related topics Shaping the Digital Single Market Creating a digital society Research and Innovation Digital connectivity Media and democracy Digital Cultural heritage Cybersecurity Electronic communications and Privacy Advanced Digital Technologies Startups Strengthening trust and security Data policy Advanced and Cloud Computing Copyright Boosting European digital Industry International relations Online platforms and e-commerce Artificial intelligence Funding for Digital Digital Decade An agile rulebook Tech sovereignty"
@@ -709,10 +708,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
+        "#UnitedNations",
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#AISecurity",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -730,8 +729,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
       "details": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply AI Startup Award and learn more about the European AI innovation ecosystem. The Apply AI Startup Award recognises innovative European startups and scaleups developing AI solutions in the 11 strategic sectors covered by the Apply AI Strategy. In July, national startup associations nominated 24 European AI startups and scaleups across 16 Member States. Independent experts are currently evaluating the nominations and will choose the top 10 finalists for the pitching event. Each startup will have 3 minutes to pitch their AI solution and convince the jury. After the pitching session the jury will select the 3 winners. Among other rewards, they will be invited to pitch their solution and receive a trophy and certificate on the main stage of the Apply AI Summit. Registration will open soon. Agenda 14:00-15:30 CET(to be confirmed) Welcome and introduction Part I - Pitches&nbsp; Presentation from the AI Office Part II - Pitches Conclusion Jury &amp; finalists The jury members and the top 10 Finalists will be announced soon. Related topics Artificial intelligence"
@@ -749,9 +748,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
