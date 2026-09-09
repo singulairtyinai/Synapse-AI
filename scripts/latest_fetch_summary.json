@@ -1,7 +1,45 @@
 {
-  "timestamp": "2026-09-09T08:46:21.631064",
-  "fetched_count": 40,
+  "timestamp": "2026-09-09T16:07:17.375486",
+  "fetched_count": 45,
   "nodes": [
+    {
+      "id": "live-overall-the-download-openai-s-turning-point-for-",
+      "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
+      "category": "overall",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI\u2019s latest controver...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would&#8230;"
+    },
+    {
+      "id": "live-overall-batteries-just-broke-another-record-in-t",
+      "title": "Batteries just broke another record in the US",
+      "category": "overall",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That\u2019s enough ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "details": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That\u2019s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of&#8230;"
+    },
     {
       "id": "live-overall-understanding-the-thermal-ceiling-in-por",
       "title": "Understanding the thermal ceiling in portable power",
@@ -59,42 +97,22 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;"
     },
     {
-      "id": "live-overall-this-founder-is-teaching-chips-how-to-re",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "category": "overall",
+      "id": "live-agentic_ai-ibm-releases-sota-granite-time-series-pa",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "category": "agentic_ai",
       "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it\u2019s a design choice. Earley, ...",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
       "specs": {
-        "source": "MIT Tech Review AI",
+        "source": "Hugging Face Blog",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations"
+        "#AITrend"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "details": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it\u2019s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat\u2014a strategy known as reversible computing.&#8230;"
-    },
-    {
-      "id": "live-overall-this-ai-entrepreneur-is-developing-agent",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "category": "overall",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I ...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AgenticAI",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "details": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;"
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-safety-for-whom-refusing-the-right-subse",
@@ -169,24 +187,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-training-a-coding-model-to-paint-waterco",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "category": "agentic_ai",
-      "date": "2026-09-09",
-      "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/train-to-paint-with-code",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-models-how-gpt-5-6-sol-helps-run-quantum-comput",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "category": "models",
@@ -254,8 +254,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#OpenAI"
+        "#OpenAI",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://openai.com/index/navier-stokes-solution",
       "details": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
@@ -273,12 +273,32 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Fellowship",
         "#UnitedNations",
-        "#OpenAI",
-        "#Fellowship"
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/teen-development-research-grants",
       "details": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+    },
+    {
+      "id": "live-companies-nvidia-brings-real-time-ai-to-broadcast-",
+      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "category": "companies",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations acr...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "details": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers [\u2026]"
     },
     {
       "id": "live-companies-sparks-fly-nvidia-accelerates-local-ai-a",
@@ -293,11 +313,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations",
         "#AgenticAI",
         "#Microsoft",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "details": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [\u2026]"
@@ -315,8 +335,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
@@ -335,8 +355,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "details": "I\u2019m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face\u2019s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for [\u2026]"
@@ -354,33 +374,14 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations",
+        "#DefenseAI",
         "#AgenticAI",
+        "#UnitedNations",
         "#AISecurity",
-        "#DefenseAI"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "details": "\u201cWe\u2019re at an inflection point in cybersecurity,\u201d Jensen Huang told a sold-out crowd at CrowdStrike\u2019s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-and-mediatek-deepen-long-standing",
-      "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-      "category": "companies",
-      "date": "2026-09-09",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms \u2014 spanning AI infrastructure, local AI c...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
-      "details": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms \u2014 spanning AI infrastructure, local AI computing and automotive."
     },
     {
       "id": "live-fellowships-podcast-ai-and-wearable-devices",
@@ -557,10 +558,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
         "#AgenticAI",
-        "#OpenAI",
-        "#Governance"
+        "#OpenAI"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/AI-breakout-openai-complex/415825/",
       "details": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves."
@@ -614,8 +615,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -708,8 +709,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#AISecurity",
         "#EUAIAct"
       ],
@@ -748,12 +749,103 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-guterres-urges-leaders-to-invest-in-peac",
+      "title": "Guterres urges leaders to invest in peace as conflicts deepen",
+      "category": "multilateral",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN Secretary-General appealed on Wednesday for world leaders to invest in peace as violence, division and conflict exacerbate suffering worldwide.&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168301",
+      "details": "The UN Secretary-General appealed on Wednesday for world leaders to invest in peace as violence, division and conflict exacerbate suffering worldwide.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-record-number-of-attacks-on-education-gl",
+      "title": "Record number of attacks on education, global fund warns",
+      "category": "multilateral",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "While September traditionally marks the start of the school year across the northern hemisphere, a staggering 93 million children are not in class at all amid an unprecedented numb...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168300",
+      "details": "While September traditionally marks the start of the school year across the northern hemisphere, a staggering 93 million children are not in class at all amid an unprecedented number of attacks on learning, education experts warned on Wednesday."
+    },
+    {
+      "id": "live-multilateral-ships-and-seafarers-increasingly-caught-",
+      "title": "Ships and seafarers increasingly caught in the crossfire of unrelated wars",
+      "category": "multilateral",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The global shipping industry is facing a \"genuinely unprecedented\" convergence of maritime crises, with vessels and seafarers increasingly used as \u201cleverage\u201d in conflicts that have...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168297",
+      "details": "The global shipping industry is facing a \"genuinely unprecedented\" convergence of maritime crises, with vessels and seafarers increasingly used as \u201cleverage\u201d in conflicts that have nothing to do with them."
+    },
+    {
+      "id": "live-multilateral-un-chief-demands-israeli-withdrawal-from",
+      "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
+      "category": "multilateral",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168298",
+      "details": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in and around Nabatieh."
+    },
+    {
+      "id": "live-multilateral-ai-datacentres-pose-growing-threat-to-el",
+      "title": "AI datacentres pose growing threat to electricity systems worldwide",
+      "category": "multilateral",
+      "date": "2026-09-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Use of data-intensive technologies \u2013 in particular artificial intelligence (AI) data centres \u2013 is growing faster than electricity infrastructure can handle, the UN\u2019s economic commi...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168296",
+      "details": "Use of data-intensive technologies \u2013 in particular artificial intelligence (AI) data centres \u2013 is growing faster than electricity infrastructure can handle, the UN\u2019s economic commission for Europe has warned, raising concerns about the future reliability and resilience of energy systems worldwide.&nbsp;"
     }
   ]
 }
