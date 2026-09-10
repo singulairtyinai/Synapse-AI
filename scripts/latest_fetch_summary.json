@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T19:05:43.404287",
+  "timestamp": "2026-09-10T22:19:17.129149",
   "fetched_count": 50,
   "nodes": [
     {
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
       "details": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing&#8230;"
@@ -106,10 +106,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#Meta",
+        "#Reasoning",
         "#UnitedNations",
-        "#Reasoning"
+        "#Meta",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.05437",
       "details": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anticipating who will enforce it and how (e.g., public shame or even imprisonment). These second-order expectations, known as metanorms, govern how people respond when social rules are broken. We introduce a novel framework for evaluating metanorm reasoning in Large Language Models (LLMs) along two dimensions: emotional appraisal and behavioral response, and propose new classification tasks, namely, predicting self-regulation in violators, and other-regulation in observers. We release a multi-perspective dataset, NormReact, of 450 norm violation scenarios, hand-annotated for emotions and behavioral responses across norm violators' gender and observers' social closeness. Current LLMs portray a harsher social world: across six models, they overpredict negative sanctions where humans would expect inaction, and alignment with human judgments deteriorates as social distance increases. These findings suggest that AI systems in norm-sensitive domains from conflict mediation to policy simulation, may risk producing a distorted picture of social regulation: one that over-represents punishment and under-represents the tolerance, restraint, and relational calibration that characterize actual norm enforcement in real world."
@@ -127,8 +127,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.05439",
       "details": "arXiv:2609.05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-aware evaluation framework that turns evaluation into actionable control for answer improvement. CriticGen first generates sample-specific evaluation dimensions and scoring criteria under high-level categories such as subjective, objective, and self-derived constraints. These criteria then serve as a dynamic rubric for jointly producing a score, a reason, an executable refinement suggestion, and a refined answer. This rubric-conditioned refinement process enables models to diagnose flaws and perform targeted answer improvement. Experimental results show that fine-grained evaluation should be both instance-specific and actionable. CriticGen induces higher-quality rubrics, improving relevance/coverage from 3.33/4.03 to 3.97/4.24. CriticGen also achieves the best score correlations, with 0.9556 Pearson and 0.9560 Spearman, and raises the F1 of criterion-grounded reasons and executable suggestions from 0.6369/0.5994 to 0.7554/0.7900. Crucially, its feedback translates into reliable answer improvement, improving 73.17% of answers with a 93.28% non-degradation rate."
@@ -146,8 +146,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#UnitedNations",
+        "#AgenticAI",
         "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.05441",
@@ -166,11 +166,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AgenticAI",
+        "#Governance",
+        "#UnitedNations",
         "#Meta",
-        "#AISecurity",
-        "#UnitedNations"
+        "#AISecurity"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.05446",
       "details": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable information is reintroduced only through explicit interfaces such as persistent memory files, reports, and repository state. Within a round, an orchestrator explores, plans and builds many alternative approaches with specialized agents, while a task-grounded verifier verifies the work and supplies an objective reward for measuring progress. This reward is distilled back into the persistent state, which updates the effective policy for the next round. In this technical report, we formalize this loop and describe its persistent state and verification interfaces. We then demonstrate its use in three domains, namely olympiad mathematics, data science, and cybersecurity. On the six fresh problems of the 2026 International Mathematical Olympiad, every model with room to improve scores higher under AutoFyn than in its provider's own coding agent. AutoFyn also built the top-ranked agent on the Spider 2.0 dbt benchmark, and has produced $16$ maintainer-confirmed vulnerability advisories in Next.js, MetaMask, pnpm, Warp, LiteLLM, Langflow, and Open WebUI."
@@ -188,8 +188,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.05448",
       "details": "arXiv:2609.05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandit problem under a fixed candidate-evaluation budget. Attention heads and MLP channel groups are temporarily masked on calibration batches. Paired damage is the masked loss minus the base loss on the same batch, reducing batch-to-batch variation. A smooth bounded reward drives either a UCB-style policy or fractional-Beta Thompson Sampling, and the final mask is constructed sequentially by adding one unit at each step. The selected units are functionally zeroed in the original dense checkpoint; therefore, the reported parameter effects represent effective structural suppression rather than physical compression or measured speedup. Experiments on WikiText-2, LAMBADA, and Imagenette cover GPT-2, OPT, Pythia, Qwen2.5, SmolLM2, ViT-B/16, DeiT-Tiny, and Swin-Tiny, with comparisons against random, magnitude, static-saliency, and budgeted-greedy selection. Across five seeds, the bandit methods usually reduce degradation relative to budgeted greedy in the paired language-model comparisons. Of 28 comparisons highlighted in the paper, 23 bootstrap confidence intervals exclude zero and 11 paired tests have p < 0.05; six have q < 0.05 after Benjamini-Hochberg correction across the full family of 116 dataset-wise tests. Matched-evaluation results for ViT-B/16 and Swin-Tiny indicate that their gains are not explained solely by a larger candidate-evaluation budget."
@@ -285,98 +285,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-designing-tests-for-agentic-ai-tools",
-      "title": "Designing Tests for Agentic AI Tools",
-      "category": "agentic_ai",
-      "date": "2026-09-10",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://automatedteach.com/p/designing-tests-for-agentic-ai-tools Comments URL: https://news.ycombinator.com/item?id=49647091 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://automatedteach.com/p/designing-tests-for-agentic-ai-tools",
-      "details": "Article URL: https://automatedteach.com/p/designing-tests-for-agentic-ai-tools Comments URL: https://news.ycombinator.com/item?id=49647091 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-humble-bundle-24-linux-cloud-and-agentic",
-      "title": "Humble Bundle \u2013 24 Linux, Cloud and Agentic AI Books",
-      "category": "agentic_ai",
-      "date": "2026-09-10",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.humblebundle.com/books/ultimate-linux-cloud-infrastructure-bundle-packt-books Comments URL: https://news.ycombinator.com/item?id=49641604 Points: 1 # Comme...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.humblebundle.com/books/ultimate-linux-cloud-infrastructure-bundle-packt-books",
-      "details": "Article URL: https://www.humblebundle.com/books/ultimate-linux-cloud-infrastructure-bundle-packt-books Comments URL: https://news.ycombinator.com/item?id=49641604 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-making-your-data-ready-for-agentic-ai",
-      "title": "Making your data ready for agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-09-10",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49620450 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
-      "details": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49620450 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-solo-io-pushes-agentic-ai-governance-to-",
-      "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
-      "category": "agentic_ai",
-      "date": "2026-09-10",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/ Comments URL: https://news.ycombinator.com/item?id=49...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
-      "details": "Article URL: https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/ Comments URL: https://news.ycombinator.com/item?id=49618083 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-why-agentic-ai-needs-a-semantic-core",
-      "title": "Why Agentic AI Needs a Semantic Core",
-      "category": "agentic_ai",
-      "date": "2026-09-10",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core Comments URL: https://news.ycombinator.com/item?id=49613543 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core",
-      "details": "Article URL: https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core Comments URL: https://news.ycombinator.com/item?id=49613543 Points: 2 # Comments: 0"
-    },
-    {
       "id": "live-models-how-a-researcher-uses-codex-and-chatgpt-",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "category": "models",
@@ -407,9 +315,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
         "#OpenAI",
+        "#UnitedNations",
+        "#AgenticAI",
         "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/put-data-to-work",
@@ -453,22 +361,24 @@
       "details": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     },
     {
-      "id": "live-models-build-more-natural-voice-experiences-wit",
-      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+      "id": "live-models-introducing-the-agents-api",
+      "title": "Introducing the Agents API",
       "category": "models",
       "date": "2026-09-10",
-      "impact": "MODERATE",
+      "impact": "HIGH",
       "company": "OpenAI Newsroom",
-      "tldr": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "tldr": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations",
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "details": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+      "sourceUrl": "https://openai.com/index/introducing-the-agents-api",
+      "details": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
     },
     {
       "id": "live-companies-skild-ai-taps-nvidia-physical-ai-to-teac",
@@ -483,9 +393,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "details": "Manufacturing floors, warehouses and production lines rarely stay fixed \u2014 tasks change, layouts shift and new products arrive, and most robots can\u2019t keep up without significant reprogramming. Skild AI\u2019s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses [\u2026]"
@@ -656,6 +566,24 @@
       "details": "Understanding and wielding the quantum properties of nature is the ambitious objective of eight research institutes that will collectively receive more than $290 million from the U.S. National Science Foundation. The investment is an expansion of the\u2026"
     },
     {
+      "id": "live-military-top-air-and-space-force-leaders-will-gat",
+      "title": "Top Air and Space Force leaders will gather amid unresolved Iran war, budget uncertainty",
+      "category": "military",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "The Joint Chiefs chairman, Space Force\u2019s new leader, and the NASA administrator are all scheduled to speak at next week\u2019s Air and Space Force Association conference.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/09/top-air-and-space-force-leaders-will-gather-amid-unresolved-iran-war-budget-uncertainty/415913/",
+      "details": "The Joint Chiefs chairman, Space Force\u2019s new leader, and the NASA administrator are all scheduled to speak at next week\u2019s Air and Space Force Association conference."
+    },
+    {
       "id": "live-military-defense-business-brief-ai-manufacturing-",
       "title": "Defense Business Brief: AI manufacturing; Skilled trades; Arms transfer oversight",
       "category": "military",
@@ -668,8 +596,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#Governance"
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-ai-manufacturing-skilled-trades-arms-transfer-oversight/415898/",
       "details": "Live news development fetched from official RSS feed."
@@ -727,24 +655,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/nsa-ai-analysts-data/415860/",
       "details": "Tasks that take days or weeks will be done \"much faster,\" says the agency\u2019s cybersecurity chief."
-    },
-    {
-      "id": "live-military-cia-cyber-intelligence-helped-us-forces-",
-      "title": "CIA cyber intelligence helped US forces capture Maduro, deputy director says",
-      "category": "military",
-      "date": "2026-09-10",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The agency\u2019s Center for Cyber Intelligence built a \u201cflawless intelligence picture,\u201d Michael Ellis said.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/09/cia-cyber-intelligence-helped-us-forces-capture-maduro-deputy-director-says/415859/",
-      "details": "The agency\u2019s Center for Cyber Intelligence built a \u201cflawless intelligence picture,\u201d Michael Ellis said."
     },
     {
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
@@ -813,8 +723,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -870,8 +780,8 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "details": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the European Commission to the European Parliament, setting the priorities for the Union for the year ahead. It will be livestreamed. Main link https://commission.europa.eu/strategy-and-policy/state-union_en Related topics Shaping the Digital Single Market Creating a digital society Research and Innovation Digital connectivity Media and democracy Digital Cultural heritage Cybersecurity Electronic communications and Privacy Advanced Digital Technologies Startups Strengthening trust and security Data policy Advanced and Cloud Computing Copyright Boosting European digital Industry International relations Online platforms and e-commerce Artificial intelligence Funding for Digital Digital Decade An agile rulebook Tech sovereignty"
@@ -890,8 +800,8 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
@@ -935,6 +845,100 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-ukraine-drone-attacks-on-chornobyl-are-g",
+      "title": "Ukraine: Drone attacks on Chornobyl are \u2018gambling with the safety of millions of people\u2019",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the safety of millions of people, UN Development Programme (UNDP) Administrato...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168312",
+      "details": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the safety of millions of people, UN Development Programme (UNDP) Administrator Alexander De Croo told reporters via video link from Kyiv on Thursday."
+    },
+    {
+      "id": "live-multilateral-un-climate-chief-warns-political-divisio",
+      "title": "UN climate chief warns political division is undermining fight against \u2018economic security emergency\u2019",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The head of the UN's climate body&nbsp;has warned that treating global warming as a partisan issue is dangerously out of step with reality, as he set out a stark account of the eco...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct",
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168311",
+      "details": "The head of the UN's climate body&nbsp;has warned that treating global warming as a partisan issue is dangerously out of step with reality, as he set out a stark account of the economic toll climate change is already inflicting on Europe."
+    },
+    {
+      "id": "live-multilateral-an-assault-on-humanity-itself-guterres-p",
+      "title": "\u2018An assault on humanity itself\u2019: Guterres pays tribute to 9/11 victims, survivors and first responde",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented \u201can assault on humanity itself\u201d, the ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168310",
+      "details": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented \u201can assault on humanity itself\u201d, the UN chief said on Thursday."
+    },
+    {
+      "id": "live-multilateral-security-council-live-fresh-attacks-prom",
+      "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen\u2019s Red Sea coast \u2013 including the seizure of eight UN...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168309",
+      "details": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen\u2019s Red Sea coast \u2013 including the seizure of eight UN vehicles from a key aid hub there \u2013 the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments."
+    },
+    {
+      "id": "live-multilateral-human-cost-of-violence-in-south-sudan-co",
+      "title": "Human cost of violence in South Sudan \u2018continues to grow\u2019",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Independent human rights investigators voiced deep concern over growing risks to both civilians and South Sudan\u2019s political transition following their latest fact-finding mission t...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168307",
+      "details": "Independent human rights investigators voiced deep concern over growing risks to both civilians and South Sudan\u2019s political transition following their latest fact-finding mission to the world\u2019s youngest nation \u2013 their 14th in a decade.&nbsp;"
     }
   ]
 }
