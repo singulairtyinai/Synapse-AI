@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-10T03:37:06.801360",
-  "fetched_count": 40,
+  "timestamp": "2026-09-10T08:44:10.097374",
+  "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-the-download-openai-s-turning-point-for-",
@@ -15,9 +15,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#UnitedNations",
-        "#OpenAI",
-        "#AgenticAI"
+        "#OpenAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would&#8230;"
@@ -71,9 +71,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#UnitedNations",
-        "#OpenAI",
-        "#AgenticAI"
+        "#OpenAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "details": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI\u2019s cap. But the announcement has been overshadowed by accusations&#8230;"
@@ -95,6 +95,107 @@
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;"
+    },
+    {
+      "id": "live-overall-beyond-right-and-wrong-evaluating-second",
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "category": "overall",
+      "date": "2026-09-10",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or u...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Meta",
+        "#UnitedNations",
+        "#Reasoning",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.05437",
+      "details": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anticipating who will enforce it and how (e.g., public shame or even imprisonment). These second-order expectations, known as metanorms, govern how people respond when social rules are broken. We introduce a novel framework for evaluating metanorm reasoning in Large Language Models (LLMs) along two dimensions: emotional appraisal and behavioral response, and propose new classification tasks, namely, predicting self-regulation in violators, and other-regulation in observers. We release a multi-perspective dataset, NormReact, of 450 norm violation scenarios, hand-annotated for emotions and behavioral responses across norm violators' gender and observers' social closeness. Current LLMs portray a harsher social world: across six models, they overpredict negative sanctions where humans would expect inaction, and alignment with human judgments deteriorates as social distance increases. These findings suggest that AI systems in norm-sensitive domains from conflict mediation to policy simulation, may risk producing a distorted picture of social regulation: one that over-represents punishment and under-represents the tolerance, restraint, and relational calibration that characterize actual norm enforcement in real world."
+    },
+    {
+      "id": "live-overall-criticgen-generation-aware-evaluation-as",
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "category": "overall",
+      "date": "2026-09-10",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanation...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.05439",
+      "details": "arXiv:2609.05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-aware evaluation framework that turns evaluation into actionable control for answer improvement. CriticGen first generates sample-specific evaluation dimensions and scoring criteria under high-level categories such as subjective, objective, and self-derived constraints. These criteria then serve as a dynamic rubric for jointly producing a score, a reason, an executable refinement suggestion, and a refined answer. This rubric-conditioned refinement process enables models to diagnose flaws and perform targeted answer improvement. Experimental results show that fine-grained evaluation should be both instance-specific and actionable. CriticGen induces higher-quality rubrics, improving relevance/coverage from 3.33/4.03 to 3.97/4.24. CriticGen also achieves the best score correlations, with 0.9556 Pearson and 0.9560 Spearman, and raises the F1 of criterion-grounded reasons and executable suggestions from 0.6369/0.5994 to 0.7554/0.7900. Crucially, its feedback translates into reliable answer improvement, improving 73.17% of answers with a 93.28% non-degradation rate."
+    },
+    {
+      "id": "live-overall-when-does-memory-help-a-cost-aware-evalu",
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "category": "overall",
+      "date": "2026-09-10",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.05441",
+      "details": "arXiv:2609.05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (Memory Evaluation for Realistic Instrumented Tasks), a benchmark and harness that measures the marginal utility of memory for task-executing agents under explicit cost accounting. MERIT provides episodic tool-use tasks in three domains whose dependence on earlier-episode facts is verified by an automated leak check; a difficulty ladder ending in updated-fact recall; controlled memory corruption; and full token and dollar metering of every memory operation. Across 23,440 scored episodes ($42.57), a two-generation pilot on gpt-4.1-mini and a preregistered 3-model x 3-seed grid (GPT-4.1, Claude Haiku 4.5; memory side held fixed), memory lifts dependent-task success from a leak-verified floor of 0.00 to 0.55-1.00. On updated facts, embedding retrieval collapses unpredictably (0.30-0.95 across models; max seed gap 0.45), and agents act on a correctly retrieved value only 55% of the time, while update-on-write stores (a structured fact store and, notably, LLM summarization) remain at 0.70-1.00; the hybrid is worse than the fact store alone. A latest-generation spot-check (Claude Sonnet 5, gated on a clean full-replay control) reproduces the pattern. Swapping a memory's implementation moves task success by up to 60 points, and full replay is never economical: the best condition per domain delivers 2.7-3.9x its marginal utility per dollar. We release the benchmark, harness, and all traces."
+    },
+    {
+      "id": "live-overall-autofyn-technical-report-non-parametric-",
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "category": "overall",
+      "date": "2026-09-10",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by upd...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Meta",
+        "#UnitedNations",
+        "#AgenticAI",
+        "#AISecurity",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.05446",
+      "details": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable information is reintroduced only through explicit interfaces such as persistent memory files, reports, and repository state. Within a round, an orchestrator explores, plans and builds many alternative approaches with specialized agents, while a task-grounded verifier verifies the work and supplies an objective reward for measuring progress. This reward is distilled back into the persistent state, which updates the effective policy for the next round. In this technical report, we formalize this loop and describe its persistent state and verification interfaces. We then demonstrate its use in three domains, namely olympiad mathematics, data science, and cybersecurity. On the six fresh problems of the 2026 International Mathematical Olympiad, every model with room to improve scores higher under AutoFyn than in its provider's own coding agent. AutoFyn also built the top-ranked agent on the Spider 2.0 dbt benchmark, and has produced $16$ maintainer-confirmed vulnerability advisories in Next.js, MetaMask, pnpm, Warp, LiteLLM, Langflow, and Open WebUI."
+    },
+    {
+      "id": "live-overall-damage-aware-bandit-pruning-for-vision-a",
+      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "category": "overall",
+      "date": "2026-09-10",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degra...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.05448",
+      "details": "arXiv:2609.05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandit problem under a fixed candidate-evaluation budget. Attention heads and MLP channel groups are temporarily masked on calibration batches. Paired damage is the masked loss minus the base loss on the same batch, reducing batch-to-batch variation. A smooth bounded reward drives either a UCB-style policy or fractional-Beta Thompson Sampling, and the final mask is constructed sequentially by adding one unit at each step. The selected units are functionally zeroed in the original dense checkpoint; therefore, the reported parameter effects represent effective structural suppression rather than physical compression or measured speedup. Experiments on WikiText-2, LAMBADA, and Imagenette cover GPT-2, OPT, Pythia, Qwen2.5, SmolLM2, ViT-B/16, DeiT-Tiny, and Swin-Tiny, with comparisons against random, magnitude, static-saliency, and budgeted-greedy selection. Across five seeds, the bandit methods usually reduce degradation relative to budgeted greedy in the paired language-model comparisons. Of 28 comparisons highlighted in the paper, 23 bootstrap confidence intervals exclude zero and 11 paired tests have p < 0.05; six have q < 0.05 after Benjamini-Hochberg correction across the full family of 116 dataset-wise tests. Matched-evaluation results for ViT-B/16 and Swin-Tiny indicate that their gains are not explained solely by a larger candidate-evaluation budget."
     },
     {
       "id": "live-agentic_ai-ibm-releases-sota-granite-time-series-pa",
@@ -187,6 +288,97 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-making-your-data-ready-for-agentic-ai",
+      "title": "Making your data ready for agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49620450 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "details": "Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49620450 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-solo-io-pushes-agentic-ai-governance-to-",
+      "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
+      "category": "agentic_ai",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/ Comments URL: https://news.ycombinator.com/item?id=49...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
+      "details": "Article URL: https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/ Comments URL: https://news.ycombinator.com/item?id=49618083 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-why-agentic-ai-needs-a-semantic-core",
+      "title": "Why Agentic AI Needs a Semantic Core",
+      "category": "agentic_ai",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core Comments URL: https://news.ycombinator.com/item?id=49613543 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core",
+      "details": "Article URL: https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core Comments URL: https://news.ycombinator.com/item?id=49613543 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-rocm-10-0-a-decade-of-open-compute-built",
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html Comments URL: https://news.ycombinator.com/item?id=49592508 Points: 18 # Comments: 1",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "details": "Article URL: https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html Comments URL: https://news.ycombinator.com/item?id=49592508 Points: 18 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-scaling-agentic-ai-pilots-across-the-ent",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "category": "agentic_ai",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/ Comments URL: https://news.ycombinator.com/item?id=49548462 Points...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "details": "Article URL: https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/ Comments URL: https://news.ycombinator.com/item?id=49548462 Points: 2 # Comments: 0"
+    },
+    {
       "id": "live-models-the-ai-policy-window-is-open-we-need-to-",
       "title": "The AI policy window is open. We need to act.",
       "category": "models",
@@ -238,8 +430,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#OpenAI",
-        "#AISecurity"
+        "#AISecurity",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "details": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
@@ -295,8 +487,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
       "details": "NVIDIA today announced that it is collaborating with a growing ecosystem of Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure partners to expand land, power and shell capacity designed to host multiple generations of NVIDIA DSX\u2122 AI factories, supporting the nation\u2019s growing demand for AI compute \u2014 with up to a 2-gigawatt buildout by 2027."
@@ -315,8 +507,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ibc-news-2026/",
       "details": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers [\u2026]"
@@ -334,11 +526,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#UnitedNations",
         "#Governance",
-        "#NVIDIA",
-        "#AgenticAI",
-        "#Microsoft"
+        "#Microsoft",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "details": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [\u2026]"
@@ -473,6 +665,25 @@
       "details": "U.S. National Science Foundation-supported researchers are behind an educational effort to introduce artificial intelligence techniques to elementary school children..."
     },
     {
+      "id": "live-military-defense-business-brief-ai-manufacturing-",
+      "title": "Defense Business Brief: AI manufacturing; Skilled trades; Arms transfer oversight",
+      "category": "military",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-ai-manufacturing-skilled-trades-arms-transfer-oversight/415898/",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
       "id": "live-military-ai-powered-biowarfare-is-coming-the-army",
       "title": "AI-powered biowarfare is coming; the Army lays plans to \u2018fight through\u2019 it",
       "category": "military",
@@ -543,24 +754,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/cia-cyber-intelligence-helped-us-forces-capture-maduro-deputy-director-says/415859/",
       "details": "The agency\u2019s Center for Cyber Intelligence built a \u201cflawless intelligence picture,\u201d Michael Ellis said."
-    },
-    {
-      "id": "live-military-china-is-trying-to-steal-us-ai-models-se",
-      "title": "China is trying to steal US AI models' secrets, intel agencies warn",
-      "category": "military",
-      "date": "2026-09-10",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "NSA, FBI, and CISA cite \u201caggressive, malicious, and targeted\" distillation tactics.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/09/intelligence-agencies-warn-chinas-large-scale-ai-model-distillation-efforts/415858/",
-      "details": "NSA, FBI, and CISA cite \u201caggressive, malicious, and targeted\" distillation tactics."
     },
     {
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
@@ -686,8 +879,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AISecurity",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "details": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the European Commission to the European Parliament, setting the priorities for the Union for the year ahead. It will be livestreamed. Main link https://commission.europa.eu/strategy-and-policy/state-union_en Related topics Shaping the Digital Single Market Creating a digital society Research and Innovation Digital connectivity Media and democracy Digital Cultural heritage Cybersecurity Electronic communications and Privacy Advanced Digital Technologies Startups Strengthening trust and security Data policy Advanced and Cloud Computing Copyright Boosting European digital Industry International relations Online platforms and e-commerce Artificial intelligence Funding for Digital Digital Decade An agile rulebook Tech sovereignty"
@@ -706,9 +899,9 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
+        "#EUAIAct",
         "#AISecurity",
-        "#EUAIAct"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -746,11 +939,103 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-the-water-comes-up-to-our-knees-climate-",
+      "title": "\u2018The water comes up to our knees\u2019: Climate hazards shut millions of children out of school in 2025",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "When the creek beside Taudibura Garo's school in Papua New Guinea floods, the water doesn't stop at the gate. It rises through the pit toilets \u2013 making the school unsafe \u2013 sending ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168306",
+      "details": "When the creek beside Taudibura Garo's school in Papua New Guinea floods, the water doesn't stop at the gate. It rises through the pit toilets \u2013 making the school unsafe \u2013 sending the 16-year-old and her classmates home without being able to finish."
+    },
+    {
+      "id": "live-multilateral-flood-ravaged-nepal-calls-for-climate-ju",
+      "title": "Flood-ravaged Nepal calls for climate justice",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Nepal\u2019s call for financial compensation following recent deadly floods underlines the need to help countries that contribute the least to climate change \u2013 but are increasingly grap...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168305",
+      "details": "Nepal\u2019s call for financial compensation following recent deadly floods underlines the need to help countries that contribute the least to climate change \u2013 but are increasingly grappling with its most lethal consequences, the top UN official in the country said on Wednesday."
+    },
+    {
+      "id": "live-multilateral-plight-of-afghans-going-from-bad-to-wors",
+      "title": "Plight of Afghans going \u2018from bad to worse\u2019, but the world is looking away: T\u00fcrk",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Since the Taliban returned to power in 2021, the plight of Afghans has only deteriorated, with millions impoverished while authorities violate basic human rights daily.&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168303",
+      "details": "Since the Taliban returned to power in 2021, the plight of Afghans has only deteriorated, with millions impoverished while authorities violate basic human rights daily.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-un-hails-libya-election-deal-as-security",
+      "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "CRITICAL",
+      "company": "UN News AI",
+      "tldr": "The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections i...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168302",
+      "details": "The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections in over a decade \u2013 while pressing all sides to move quickly from paper to practice."
+    },
+    {
+      "id": "live-multilateral-guterres-urges-leaders-to-invest-in-peac",
+      "title": "Guterres urges leaders to invest in peace as conflicts deepen",
+      "category": "multilateral",
+      "date": "2026-09-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN Secretary-General appealed on Wednesday for world leaders to invest in peace as violence, division and conflict exacerbate suffering worldwide.&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168301",
+      "details": "The UN Secretary-General appealed on Wednesday for world leaders to invest in peace as violence, division and conflict exacerbate suffering worldwide.&nbsp;"
     }
   ]
 }
