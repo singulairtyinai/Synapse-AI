@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T03:39:45.829494",
+  "timestamp": "2026-09-12T08:28:22.834473",
   "fetched_count": 50,
   "nodes": [
     {
@@ -93,108 +93,104 @@
       "details": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world&#8217;s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;"
     },
     {
-      "id": "live-overall-opendiscoverytrace-process-traces-for-ev",
-      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-      "category": "overall",
-      "date": "2026-09-12",
-      "impact": "CRITICAL",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard t...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Reasoning",
-        "#AgenticAI",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.09203",
-      "details": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose failure modes, or distinguish systematic reasoning from fortunate guessing. We present \\textbf{OpenDiscoveryTrace}, a public dataset of 558 complete AI scientific agent trajectories that captures how models reason, not just what they produce. Each trajectory records a structured 9-field-per-step trace---including thoughts, tool calls, observations, errors, revision triggers, and self-reported confidence---as models execute 124 scientific tasks spanning drug discovery, materials science, genomics, and scientific literature analysis. The dataset covers seven models: three frontier models (GPT-5.4, Claude Opus 4.6, and Gemini 3.1 Pro; 124 trajectories each, fully balanced across domains and difficulty levels) and four open-weight models (Qwen2.5-7B, Mistral-7B-v0.3, Phi-3.5-mini, and Qwen2.5-1.5B; 30 each), plus 60 live-retrieval variant trajectories. Pilot analysis on 363 LLM-judged trajectories reveals that process traces expose behavioral differences invisible to output-only evaluation: all three frontier models achieve comparable success rates (84--89%), yet Claude Opus 4.6 produces 30$\\times$ more errors than GPT-5.4 (2.5 vs. 0.08 per trajectory, $p < 0.0001$, Cliff's $\\delta = 0.613$), with qualitatively different error profiles---66.7% tool misuse for Claude versus 83.6% reasoning errors for GPT-5.4. We define five benchmark tasks with baselines from logistic regression, random forests, LSTMs, and Transformer models. The dataset, trace schema, agent harness, and benchmark definitions are publicly available under CC BY 4.0 to support research on process-level evaluation, scientific agent auditing, and AI governance."
-    },
-    {
-      "id": "live-overall-adaptive-entangled-game-modules-in-artif",
-      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "id": "live-overall-probabilistic-focal-search-accelerating-",
+      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
       "category": "overall",
       "date": "2026-09-12",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eig...",
+      "tldr": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuri...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.10584",
+      "details": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy may leave $f_{\\min}$ unchanged for many expansions. We introduce Probabilistic Focal Search (PFS), which follows the FS guided choice with probability $p$ and expands a minimum-$f$ OPEN node with probability $1-p$. The latter branch encourages the lower bound to advance, enlarging FOCAL and admitting nodes that may lead to feasible solutions. By balancing guidance and lower-bound advancement, this mechanism can reduce time to a bounded solution when progress is limited by delayed FOCAL admission. As a secondary transfer experiment, we apply the same scheduler to Dynamic Potential Search, yielding Probabilistic Dynamic Potential Search (PDPS). We benchmark PFS against FS on N-Puzzle, Pancake Sorting, and the Traveling Salesperson Problem (TSP), and evaluate its anytime extension on the Generalized Covering TSP (GCTSP), using multiple $w$ and $p$ values. Across these benchmarks, the largest gains occur when long $f_{\\min}$ plateaus delay useful FOCAL admissions; in such settings, the probabilistic factor may reduce node expansions by about 90\\% or more (e.g., on N-Puzzle and TSP). For the anytime algorithm family, Anytime Probabilistic Focal Search (APFS) outperforms all tested algorithms in evaluating anytime methods on GCTSP. We also observe that the benefit is smaller when the deterministic search already advances efficiently (e.g., Pancake Sorting), indicating that the probabilistic factor is most useful when FOCAL admission is a search bottleneck. The PDPS transfer shows that the mechanism also transfers to potential guidance, although its common-success effects remain domain- and bound-dependent."
+    },
+    {
+      "id": "live-overall-automating-quadratic-unconstrained-binar",
+      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural La",
+      "category": "overall",
+      "date": "2026-09-12",
+      "impact": "MODERATE",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#AgenticAI",
-        "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.09226",
-      "details": "arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures a broad range of human intelligence behaviors with analytical mechanisms and offers an indirect method to examine the Liu-Chen-Ao (LCA) hypothesis of nonlocal entangled nerve fibers in the brain through collective trader behaviors. Our empirical analysis of Chinese intraday stock market data demonstrates that adaptive entangled game modes explain 82-94% (89% overall) of observed decision patterns, a sharp contrast to the predictions of neoclassical finance based on independent rational agents. Moreover, 2-12% of behaviors show adaption to intraday news, events, and environments, characterized by dual equilibrium states and abrupt reference point shifts, while purely independent modes occur in less than 5% of cases. These findings empirically support the LCA hypothesis, as observable trading behaviors reflect underlying brain mechanisms and internal intelligence decision-making in behavioral psychology. Our results highlight the necessity of incorporating adaptive entangled game modules into artificial general intelligence (AGI) architectures, addressing the limitations of conventional artificial neural network (ANN)-based AI, which relies on trillions of opaque parameters. By integrating ANN-based AI with probability-wave-based entangled-brain simulations, machine learning can enrich AGI foundation models (FMs) and facilitate the development of human-like processing units (HPUs) that leverage brain-inspired mechanisms. Such HPUs may ultimately create more compact, efficient, and robust AGI systems, particularly for embodied intelligence and robotics."
+      "sourceUrl": "https://arxiv.org/abs/2609.10629",
+      "details": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, translating natural-language problem descriptions into correct QUBO formulations remains difficult, requiring the identification of binary variables, constraints, objective functions, penalty terms, and suitable penalty weights. This process is time-consuming and often demands substantial domain expertise. To address this challenge, we propose an end-to-end multi-agent framework that automatically generates QUBO formulations from natural-language problem descriptions, supported by structured or unstructured test cases. To evaluate its performance, We also introduce QUBOBench, a benchmark containing 100 combinatorial optimization problems across 12 application domains, curated from peer-reviewed literature, competitions, and canonical NP-hard problems. Experimental results show that our framework achieves 68% accuracy on QUBOBench, outperforming a direct single-call baseline by 22%. Further analysis identifies iterative self-repair as the most important component contributing to improved performance. The data and code are open-sourced at https://quitttcat.github.io/QuantumQUBOAgent."
     },
     {
-      "id": "live-overall-subagents-vs-agent-skills-executing-reus",
-      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "id": "live-overall-a-multi-stage-rule-chaining-framework-fo",
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+      "category": "overall",
+      "date": "2026-09-12",
+      "impact": "MODERATE",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from l...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#EUAIAct",
+        "#UnitedNations",
+        "#Reasoning"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.10654",
+      "details": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across symbolic, structural, and conceptual levels. The framework integrates three complementary solvers: (1) a deterministic rule discovery module that induces atomic transformations through geometric, color, and object-based analysis; (2) a pattern-composition engine that reconstructs outputs via block merging, repetition, and spatial heuristics; and (3) a structural abstraction layer that infers hierarchical and nested relationships across grids. These solvers operate sequentially within a progressive fallback hierarchy, where each stage reuses prior reasoning traces to enhance interpretability and generalization. Training passed for 995 tasks out of 1000, further evaluated on 105 tasks out of 120 and solved 230 test tasks out of 240 ARC-AGI-2 tasks. The system achieved strong coverage across deterministic, compositional, and abstract categories, demonstrating an overall accuracy exceeding 95 percent. The proposed architecture bridges symbolic reasoning and pattern synthesis, providing interpretable insight into cognitive generalization. The results suggest that rule chaining and hierarchical composition can advance machine reasoning toward transparent, human-aligned abstraction without relying on task-specific tuning."
+    },
+    {
+      "id": "live-overall-understanding-lora-rank-trade-offs-in-di",
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
       "category": "overall",
       "date": "2026-09-12",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.09233v1 Announce Type: new Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has incr...",
+      "tldr": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Reasoning",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.10656",
+      "details": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with extended-budget DDPM runs (20 epochs; ranks 4/8/16) and a Tiny DiT backbone (10 epochs; ranks 4/8/16). Results show moderate ranks are most efficient: rank 4 achieves the best DDPM FID (124.1380), rank 8 is close (124.2136), and higher ranks provide limited gains despite larger adaptation cost. These findings support small-to-moderate ranks as practical defaults under fixed training budgets."
+    },
+    {
+      "id": "live-overall-quantifying-the-memorization-to-generali",
+      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokk",
+      "category": "overall",
+      "date": "2026-09-12",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking....",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
         "#Governance",
         "#EUAIAct",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.09233",
-      "details": "arXiv:2609.09233v1 Announce Type: new Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles containing instructions, scripts, and other resources that help agents perform specific tasks. Agent skills are typically executed by loading their skill instructions into an agent's context and relying on the agent to follow them. As task horizons grow, however, this approach becomes increasingly brittle, because reasoning quality degrades as more information accumulates in the context window. We investigate an alternative approach in which skill packages are instead invoked as subagents. Rather than loading skill instructions into the main context, subagent execution spawns fresh context windows dedicated to solving individual subtasks. We show that subagent execution outperforms agent-skill execution when skill packages expose clear input-output contracts and their instructions encode the procedural knowledge needed to fulfill those contracts. The tradeoff is additional communication overhead, as extra tokens are required to coordinate between the main agent and its subagents. Our results show that the benefit of reusable knowledge depends not only on its content, but also on how it is organized and invoked."
-    },
-    {
-      "id": "live-overall-gradland-on-phenomenal-experience-differ",
-      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-      "category": "overall",
-      "date": "2026-09-12",
-      "impact": "MODERATE",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.09306v1 Announce Type: new Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, charact...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.09306",
-      "details": "arXiv:2609.09306v1 Announce Type: new Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland, where the physics are known and the functions are (mostly) differentiable. The paper introduces two measures of Jacobian structure: effective rank and cohesion, based on Kirchhoff complexity. Applying the measures to a series of worked examples shows the hypothesis accounts for: (1) the duration of experience, that it can prolong over hundreds of milliseconds; (2) the difference between what is experienced vividly and obscurely; (3) the experience of texture; (4) the blooming buzzing confusion presumably experienced by newborns; (5) the difference between ideas that are held distinctly in mind and ideas that are confused; (6) what learning is like; and finally (7) the paper explains the function of rich, dense experience."
-    },
-    {
-      "id": "live-overall-an-autonomous-geoai-agent-for-arctic-eco",
-      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-      "category": "overall",
-      "date": "2026-09-12",
-      "impact": "MODERATE",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while sim...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.09374",
-      "details": "arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherently a multi-criteria problem: routes that improve vessel safety or efficiency may increase exposure to sea ice, sensitive ecosystems, or nearby communities. Existing routing methods prioritize travel time, fuel use, and navigational risk, often overlooking ecological and community impacts. We introduce a human-in-the-loop, multi-agent GeoAI system for Arctic eco-navigation that integrates operational, physical, ecological, and community-related criteria within a unified routing framework. Multiple specialized agents coordinate geospatial data acquisition and preparation, multi-objective route generation, and skyline-based decision support. The ecological criteria explicitly account for exposure to sensitive areas, including Essential Fish Habitat and seal critical habitat. By considering these ecosystem impacts and potential community burdens while keeping consequential value judgments under human control, the framework supports safer, more transparent, and socially responsible Arctic navigation. Project page and code are publicly available. https://samiraat.github.io/Arctic-Eco-Navigation-Agent/, https://github.com/samiraat/Arctic-Eco-Navigation-Agent"
+      "sourceUrl": "https://arxiv.org/abs/2609.10657",
+      "details": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs in hyperparameter space remains uncharacterized. We map the memorization-to-generalization boundary across 384 configurations of two-hidden-layer MLPs on modular arithmetic, fitting a power-law scaling relation for generalization onset time: $T_{\\mathrm{grok}} \\propto H^{-0.27}\\, D^{-2.04}\\, \\eta^{-0.50}\\, \\lambda^{-0.64}$ ($R^2 = 0.732$; $0.821$ with interactions). The exponent hierarchy reveals that data complexity ($D^{-2.04}$) is the dominant driver of regime transition, not model capacity ($H^{-0.27}$): doubling data accelerates generalization by ${\\sim}4\\times$, while doubling width yields only ${\\sim}1.2\\times$. A sharp phase boundary at weight decay $\\lambda \\gtrsim 1.0$ separates grokking from non-grokking configurations, and weight norm trajectories show monotonic compression during the transition, consistent with implicit regularization selecting low-complexity solutions. These results provide a quantitative foundation for predicting and controlling regime transitions in overparameterized networks."
     },
     {
       "id": "live-agentic_ai-rebuilding-automatic1111-with-gradio-wor",
@@ -287,6 +283,24 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-teaching-novice-computing-and-programmin",
+      "title": "Teaching Novice Computing and Programming in the Agentic AI Era",
+      "category": "agentic_ai",
+      "date": "2026-09-12",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49669144 Points: 1 # Comm...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/",
+      "details": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49669144 Points: 1 # Comments: 0"
+    },
+    {
       "id": "live-agentic_ai-designing-tests-for-agentic-ai-tools",
       "title": "Designing Tests for Agentic AI Tools",
       "category": "agentic_ai",
@@ -354,29 +368,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
       "details": "Article URL: https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/ Comments URL: https://news.ycombinator.com/item?id=49618083 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-why-agentic-ai-needs-a-semantic-core",
-      "title": "Why Agentic AI Needs a Semantic Core",
-      "category": "agentic_ai",
-      "date": "2026-09-12",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core Comments URL: https://news.ycombinator.com/item?id=49613543 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core",
-      "details": "Article URL: https://cube.dev/blog/why-agentic-ai-needs-a-semantic-core Comments URL: https://news.ycombinator.com/item?id=49613543 Points: 2 # Comments: 0"
     },
     {
       "id": "live-models-perplexity-trusts-gpt-6-astra-with-end-t",
@@ -392,8 +388,8 @@
       },
       "tags": [
         "#Perplexity",
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "details": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
@@ -465,10 +461,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
-        "#OpenAI",
-        "#UnitedNations"
+        "#AgenticAI",
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/put-data-to-work",
       "details": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
@@ -486,8 +482,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#NVIDIA",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
@@ -895,8 +891,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AISecurity",
+        "#Governance",
         "#EUAIAct",
         "#UnitedNations"
       ],
