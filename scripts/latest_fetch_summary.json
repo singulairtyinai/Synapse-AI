@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T18:11:23.080548",
+  "timestamp": "2026-09-12T21:58:52.806850",
   "fetched_count": 50,
   "nodes": [
     {
@@ -105,9 +105,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#EUAIAct",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.10584",
       "details": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy may leave $f_{\\min}$ unchanged for many expansions. We introduce Probabilistic Focal Search (PFS), which follows the FS guided choice with probability $p$ and expands a minimum-$f$ OPEN node with probability $1-p$. The latter branch encourages the lower bound to advance, enlarging FOCAL and admitting nodes that may lead to feasible solutions. By balancing guidance and lower-bound advancement, this mechanism can reduce time to a bounded solution when progress is limited by delayed FOCAL admission. As a secondary transfer experiment, we apply the same scheduler to Dynamic Potential Search, yielding Probabilistic Dynamic Potential Search (PDPS). We benchmark PFS against FS on N-Puzzle, Pancake Sorting, and the Traveling Salesperson Problem (TSP), and evaluate its anytime extension on the Generalized Covering TSP (GCTSP), using multiple $w$ and $p$ values. Across these benchmarks, the largest gains occur when long $f_{\\min}$ plateaus delay useful FOCAL admissions; in such settings, the probabilistic factor may reduce node expansions by about 90\\% or more (e.g., on N-Puzzle and TSP). For the anytime algorithm family, Anytime Probabilistic Focal Search (APFS) outperforms all tested algorithms in evaluating anytime methods on GCTSP. We also observe that the benefit is smaller when the deterministic search already advances efficiently (e.g., Pancake Sorting), indicating that the probabilistic factor is most useful when FOCAL admission is a search bottleneck. The PDPS transfer shows that the mechanism also transfers to potential guidance, although its common-success effects remain domain- and bound-dependent."
@@ -126,8 +126,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.10629",
       "details": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, translating natural-language problem descriptions into correct QUBO formulations remains difficult, requiring the identification of binary variables, constraints, objective functions, penalty terms, and suitable penalty weights. This process is time-consuming and often demands substantial domain expertise. To address this challenge, we propose an end-to-end multi-agent framework that automatically generates QUBO formulations from natural-language problem descriptions, supported by structured or unstructured test cases. To evaluate its performance, We also introduce QUBOBench, a benchmark containing 100 combinatorial optimization problems across 12 application domains, curated from peer-reviewed literature, competitions, and canonical NP-hard problems. Experimental results show that our framework achieves 68% accuracy on QUBOBench, outperforming a direct single-call baseline by 22%. Further analysis identifies iterative self-repair as the most important component contributing to improved performance. The data and code are open-sourced at https://quitttcat.github.io/QuantumQUBOAgent."
@@ -146,9 +146,9 @@
       },
       "tags": [
         "#Governance",
+        "#Reasoning",
         "#EUAIAct",
-        "#UnitedNations",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.10654",
       "details": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across symbolic, structural, and conceptual levels. The framework integrates three complementary solvers: (1) a deterministic rule discovery module that induces atomic transformations through geometric, color, and object-based analysis; (2) a pattern-composition engine that reconstructs outputs via block merging, repetition, and spatial heuristics; and (3) a structural abstraction layer that infers hierarchical and nested relationships across grids. These solvers operate sequentially within a progressive fallback hierarchy, where each stage reuses prior reasoning traces to enhance interpretability and generalization. Training passed for 995 tasks out of 1000, further evaluated on 105 tasks out of 120 and solved 230 test tasks out of 240 ARC-AGI-2 tasks. The system achieved strong coverage across deterministic, compositional, and abstract categories, demonstrating an overall accuracy exceeding 95 percent. The proposed architecture bridges symbolic reasoning and pattern synthesis, providing interpretable insight into cognitive generalization. The results suggest that rule chaining and hierarchical composition can advance machine reasoning toward transparent, human-aligned abstraction without relying on task-specific tuning."
@@ -166,8 +166,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.10656",
       "details": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with extended-budget DDPM runs (20 epochs; ranks 4/8/16) and a Tiny DiT backbone (10 epochs; ranks 4/8/16). Results show moderate ranks are most efficient: rank 4 achieves the best DDPM FID (124.1380), rank 8 is close (124.2136), and higher ranks provide limited gains despite larger adaptation cost. These findings support small-to-moderate ranks as practical defaults under fixed training budgets."
@@ -185,9 +185,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#EUAIAct",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.10657",
       "details": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs in hyperparameter space remains uncharacterized. We map the memorization-to-generalization boundary across 384 configurations of two-hidden-layer MLPs on modular arithmetic, fitting a power-law scaling relation for generalization onset time: $T_{\\mathrm{grok}} \\propto H^{-0.27}\\, D^{-2.04}\\, \\eta^{-0.50}\\, \\lambda^{-0.64}$ ($R^2 = 0.732$; $0.821$ with interactions). The exponent hierarchy reveals that data complexity ($D^{-2.04}$) is the dominant driver of regime transition, not model capacity ($H^{-0.27}$): doubling data accelerates generalization by ${\\sim}4\\times$, while doubling width yields only ${\\sim}1.2\\times$. A sharp phase boundary at weight decay $\\lambda \\gtrsim 1.0$ separates grokking from non-grokking configurations, and weight norm trajectories show monotonic compression during the transition, consistent with implicit regularization selecting low-complexity solutions. These results provide a quantitative foundation for predicting and controlling regime transitions in overparameterized networks."
@@ -296,8 +296,8 @@
       },
       "tags": [
         "#OpenAI",
-        "#UnitedNations",
-        "#Perplexity"
+        "#Perplexity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "details": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
@@ -371,8 +371,8 @@
       "tags": [
         "#AgenticAI",
         "#OpenAI",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/put-data-to-work",
       "details": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
@@ -390,9 +390,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "details": "Manufacturing floors, warehouses and production lines rarely stay fixed \u2014 tasks change, layouts shift and new products arrive, and most robots can\u2019t keep up without significant reprogramming. Skild AI\u2019s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses [\u2026]"
@@ -428,8 +428,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
       "details": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA\u2019s AI infrastructure platform \u2014 joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion [\u2026]"
@@ -447,8 +447,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
       "details": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 \u2014 part of nine new titles joining the cloud. The newest PC releases can demand serious hardware, storage [\u2026]"
@@ -466,8 +466,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
       "details": "Palantir Technologies Inc. (NASDAQ: PLTR) and NVIDIA (NASDAQ: NVDA) today announced a collaboration to bring sovereign AI to critical supply chains, starting with NVIDIA\u2019s own operations."
@@ -563,6 +563,24 @@
       "details": "Understanding and wielding the quantum properties of nature is the ambitious objective of eight research institutes that will collectively receive more than $290 million from the U.S. National Science Foundation. The investment is an expansion of the\u2026"
     },
     {
+      "id": "live-military-cold-comfort",
+      "title": "Cold comfort",
+      "category": "military",
+      "date": "2026-09-12",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "A Polish naval commando walks into a bar\u2026in the latest Fictional Intelligence column.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/cold-comfort/415955/",
+      "details": "A Polish naval commando walks into a bar\u2026in the latest Fictional Intelligence column."
+    },
+    {
       "id": "live-military-russia-is-weaponizing-us-built-ai-to-mak",
       "title": "Russia is weaponizing US-built AI to make killer drones, cyberattack bots, and fake news",
       "category": "military",
@@ -575,8 +593,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/russia-weaponizing-us-built-ai-make-killer-drones-cyberattack-bots-and-fake-news/415949/",
       "details": "AI companies are sounding alarms, but the Trump administration isn\u2019t acting on them."
@@ -595,8 +613,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#UnitedNations",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/digital-employees-are-coming-defense-logistics-agency/415947/",
       "details": "Nearly 200 agentic-AI bots are already running autonomously as the combat support agency pushes ahead with AI-powered tools, CIO says."
@@ -632,29 +650,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/ideas/2026/09/pentagon-polygraphs-leakers-theater/415926/",
       "details": "My 27-year career with the CIA makes me wary of the certainty their use can appear to convey."
-    },
-    {
-      "id": "live-military-us-absent-as-western-powers-meet-on-wart",
-      "title": "US absent as western powers meet on wartime protections for civilians",
-      "category": "military",
-      "date": "2026-09-12",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "A multinational group meets this week at NATO headquarters in Belgium to discuss protections for civilians during combat. Even though the U.S. co-founded this effort, no American d...",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/09/wartime-protection-civilians/415925/",
-      "details": "A multinational group meets this week at NATO headquarters in Belgium to discuss protections for civilians during combat. Even though the U.S. co-founded this effort, no American delegation will be in the room."
     },
     {
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
@@ -723,8 +723,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -779,9 +779,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#EUAIAct",
-        "#UnitedNations",
-        "#AISecurity"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "details": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the European Commission to the European Parliament, setting the priorities for the Union for the year ahead. It will be livestreamed. Main link https://commission.europa.eu/strategy-and-policy/state-union_en Related topics Shaping the Digital Single Market Creating a digital society Research and Innovation Digital connectivity Media and democracy Digital Cultural heritage Cybersecurity Electronic communications and Privacy Advanced Digital Technologies Startups Strengthening trust and security Data policy Advanced and Cloud Computing Copyright Boosting European digital Industry International relations Online platforms and e-commerce Artificial intelligence Funding for Digital Digital Decade An agile rulebook Tech sovereignty"
@@ -799,10 +799,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#Governance",
         "#EUAIAct",
-        "#UnitedNations",
-        "#AISecurity"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -839,9 +839,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#EUAIAct",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -877,8 +877,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168318",
       "details": "The Security Council met to mark 25 years since the 9/11 attacks with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers highlighted militants' growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning."
