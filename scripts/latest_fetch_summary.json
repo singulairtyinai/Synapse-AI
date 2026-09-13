@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-13T18:35:44.912738",
-  "fetched_count": 40,
+  "timestamp": "2026-09-13T22:11:44.376365",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-roundtables-could-ai-really-kill-us-all",
@@ -195,9 +195,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Perplexity",
         "#OpenAI",
-        "#UnitedNations",
-        "#Perplexity"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "details": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
@@ -269,9 +269,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#OpenAI",
         "#Governance",
-        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/put-data-to-work",
@@ -291,8 +291,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "details": "Manufacturing floors, warehouses and production lines rarely stay fixed \u2014 tasks change, layouts shift and new products arrive, and most robots can\u2019t keep up without significant reprogramming. Skild AI\u2019s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses [\u2026]"
@@ -328,8 +328,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
       "details": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA\u2019s AI infrastructure platform \u2014 joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion [\u2026]"
@@ -347,8 +347,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
       "details": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 \u2014 part of nine new titles joining the cloud. The newest PC releases can demand serious hardware, storage [\u2026]"
@@ -366,8 +366,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
       "details": "Palantir Technologies Inc. (NASDAQ: PLTR) and NVIDIA (NASDAQ: NVDA) today announced a collaboration to bring sovereign AI to critical supply chains, starting with NVIDIA\u2019s own operations."
@@ -512,8 +512,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#AgenticAI",
+        "#DefenseAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/digital-employees-are-coming-defense-logistics-agency/415947/",
@@ -679,8 +679,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#EUAIAct",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
@@ -699,9 +699,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#Governance",
         "#AISecurity",
-        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
@@ -739,12 +739,104 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-guterres-old-global-order-must-change-as",
+      "title": "Guterres: Old global order must change as power shifts to emerging economies",
+      "category": "multilateral",
+      "date": "2026-09-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "UN Secretary-General Ant\u00f3nio Guterres told leaders of a bloc of major emerging economies in New Delhi on Sunday that a more balanced global order requires an overhaul of the instit...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168323",
+      "details": "UN Secretary-General Ant\u00f3nio Guterres told leaders of a bloc of major emerging economies in New Delhi on Sunday that a more balanced global order requires an overhaul of the institutions built after the Second World War, including the UN Security Council."
+    },
+    {
+      "id": "live-multilateral-married-at-13-pregnant-and-starving-chil",
+      "title": "Married at 13, pregnant and starving: Child brides of Yemen",
+      "category": "multilateral",
+      "date": "2026-09-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Fatimah* was 13 when she was married off to an older man. Two years later, she gave birth to twin daughters.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168322",
+      "details": "Fatimah* was 13 when she was married off to an older man. Two years later, she gave birth to twin daughters."
+    },
+    {
+      "id": "live-multilateral-where-do-we-go-how-israel-s-yellow-line-",
+      "title": "\u2018Where do we go?\u2019: How Israel\u2019s \u2018yellow line\u2019 is closing in on Palestinians",
+      "category": "multilateral",
+      "date": "2026-09-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Ola&nbsp;Ishtiwi&nbsp;sits with her children in front of&nbsp;the&nbsp;remains of her home in the Al-Tuffah neighbourhood in eastern Gaza City, a few metres away from&nbsp;a series...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168320",
+      "details": "Ola&nbsp;Ishtiwi&nbsp;sits with her children in front of&nbsp;the&nbsp;remains of her home in the Al-Tuffah neighbourhood in eastern Gaza City, a few metres away from&nbsp;a series of&nbsp;painted cement blocks&nbsp;Israel has&nbsp;placed to mark what has become known as the&nbsp;\u201cyellow line\u201d."
+    },
+    {
+      "id": "live-multilateral-security-council-live-ambassadors-mark-9",
+      "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+      "category": "multilateral",
+      "date": "2026-09-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The Security Council met to mark 25 years since the 9/11 attacks with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since reso...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168318",
+      "details": "The Security Council met to mark 25 years since the 9/11 attacks with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers highlighted militants' growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning."
+    },
+    {
+      "id": "live-multilateral-the-world-just-had-the-hottest-august-ev",
+      "title": "The world just had the hottest August ever",
+      "category": "multilateral",
+      "date": "2026-09-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Earth just had the hottest August on record, according to newly released weather data.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168317",
+      "details": "Earth just had the hottest August on record, according to newly released weather data."
     }
   ]
 }
