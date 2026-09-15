@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-09-15T16:30:37.192066",
-  "fetched_count": 45,
+  "timestamp": "2026-09-15T22:44:57.627503",
+  "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-roundtables-could-ai-really-kill-us-all",
+      "title": "Roundtables: Could AI really kill us all?",
+      "category": "overall",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they ri...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "details": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;"
+    },
     {
       "id": "live-overall-the-download-ai-doomers-whistleblowing-a",
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
@@ -77,24 +95,6 @@
       "details": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;"
     },
     {
-      "id": "live-overall-donated-livers-can-be-made-biologically-",
-      "title": "Donated livers can be made biologically younger",
-      "category": "overall",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Once an organ is removed from a donor\u2019s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice\u2014where it immediatel...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-      "details": "Once an organ is removed from a donor\u2019s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice\u2014where it immediately starts to degrade. The team has a matter of hours to get it into a recipient\u2019s body. There\u2019s another option\u2014one that has been growing&#8230;"
-    },
-    {
       "id": "live-overall-zgcm-1-a-fully-open-and-extremely-effici",
       "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
       "category": "overall",
@@ -107,10 +107,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Reasoning",
         "#Governance",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.13356",
       "details": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling deliberate internal thinking with active external tool use. To support this paradigm across a 256K context, we develop an end-to-end, high-efficiency open training recipe: Architecture & System Co-design: interleaved gated sliding-window and full attention, and a stable FP8 Muon optimizer; Progressive Curriculum & MDP Mid-Training: context scaling across 16K, 64K, and 256K, and the reformulation of interaction traces into Markov Decision Processes. Furthermore, we establish an AI-native R&D workflow where agent swarms autonomously manage cluster operations, data curation, and rapid diagnostic evaluation. Extensive evaluations show that ZGCM-1-7B is competitive across 7B model family on general benchmarks. On several challenging mathematical reasoning and agentic search suites, it remains competitive with frontier models orders of magnitude larger, such as Qwen3-235B-A22B and GLM-5.1. We also show that our pre-training design offers a ~4.2x efficiency improvement in 16K pre-training time-to-loss. Across the full development lifecycle, we distill eight actionable empirical findings-spanning architectural scaling, SFT quality pruning, long-context generalization, and agentic co-training dynamics. To facilitate community research, we open-source model weights from the pre-training, mid-training, and post-training stages, intermediate checkpoints, training code, per-stage data and data recipes, and W&B logs."
@@ -148,8 +148,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.13406",
       "details": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these emerging instances exists. Its counterpart in the classical realm, iterative policy improvement, is characterized by generalized policy iteration (GPI), a framework of broad applicability with well-understood theoretical properties, but only where the update principle and the evaluation base lie outside the agent. In this paper, we propose Generalized Agent Iteration (GAI), a formal framework that describes iterative policy improvement and RSI as two cases of a single learning paradigm. GAI defines the agent as a configuration of modifiable components within a system and models the learning process as a cycle of agent evaluation and agent improvement. Two pivotal dials then distinguish the instances: whether the improving mechanism is part of the agent and whether the standard it is measured against is grounded outside it. The former dial delineates the boundary between GPI and RSI, and the latter determines a system's polarity as anchored, goal drift, or fully self-referential. Moreover, we use these coordinates to place existing systems on the same two axes and make the defects of recursive self-improvement statable one condition at a time. We see this paper as a first step toward exploring a formal characterization of RSI that rests on the classical account, makes existing systems comparable, and provides a principled basis for analyzing and designing new ones."
@@ -167,10 +167,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Reasoning",
         "#Governance",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.13422",
       "details": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluation. A separately-invoked LLM judge evaluates generated patent drafts and provides structured feedback for iterative revision. Across multiple inventions and drafting-agent configurations, judge-guided revision consistently improves judge-assessed quality, while unguided revision tends to saturate. Notably, iterative judge feedback enables a low-reasoning agent to approach the performance of a substantially more expensive high-reasoning agent. Stronger models and increased reasoning generally improve judge-assessed drafting quality, while domain-specific agentic workflows provide further gains. We validate the judge against independent evaluation by a professional patent attorney and find meaningful but strongly metric-dependent agreement and systematic calibration differences. These results highlight both the utility and limitations of LLM judges as evaluators and optimization signals for complex professional workflows."
@@ -189,8 +189,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.13436",
       "details": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as the environment changes. Existing approaches either require substantial data and retraining, or primarily focus on agents operating in the virtual world. In this work, we explore the feasibility of building a self-adaptive physical AI agent that manages long-term physical tasks in a zero-shot manner and adapts to environmental changes without human intervention. We design a multi-agent framework that integrates planning, tool calling, observation, and verification, and evaluate it on agricultural tasks against reinforcement learning (RL) agents under different weather patterns. Our results show that zero-shot LLM agents can achieve comparable management outcomes to RL agents under the same weather pattern and adapt more effectively than RL when evaluated under a shifted environment, highlighting a promising path toward self-adaptive physical AI agents."
@@ -298,8 +298,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/fyxer",
       "details": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice."
@@ -318,8 +318,8 @@
       },
       "tags": [
         "#Perplexity",
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "details": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
@@ -379,6 +379,65 @@
       "details": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
     },
     {
+      "id": "live-companies-now-we-can-know-everything-and-do-anythi",
+      "title": "\u2018Now We Can Know Everything and Do Anything,\u2019 Jensen Huang Says at Dreamforce",
+      "category": "companies",
+      "date": "2026-09-15",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance t...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Reasoning",
+        "#NVIDIA",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "details": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa \u2014 Salesforce\u2019s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn\u2019t just take the stage. He walked into [\u2026]"
+    },
+    {
+      "id": "live-companies-from-megawatts-to-tokens-how-nvidia-maxi",
+      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "category": "companies",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power cons...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#NVIDIA",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "details": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others \u2014 his team at Emerald AI in their San Francisco conference room, engineers [\u2026]"
+    },
+    {
+      "id": "live-companies-ai-infra-summit-nvidia-vera-rubin-and-ds",
+      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Opt",
+      "category": "companies",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center ev...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA",
+        "#Governance"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "details": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience \u2014 with more than 8,000 attendees this year, up from 3,500 last year \u2014 [\u2026]"
+    },
+    {
       "id": "live-companies-heart-of-the-matter-how-a-major-children",
       "title": "Heart of the Matter: How a Major Children\u2019s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
       "category": "companies",
@@ -409,69 +468,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Perplexity",
+        "#NVIDIA",
         "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
       "details": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-expands-open-source-cuda-q-platfo",
-      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-      "category": "companies",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q\u2122 open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to deve...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-      "details": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q\u2122 open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers."
-    },
-    {
-      "id": "live-companies-skild-ai-taps-nvidia-physical-ai-to-teac",
-      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "category": "companies",
-      "date": "2026-09-15",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed \u2014 tasks change, layouts shift and new products arrive, and most robots can\u2019t keep up without significant rep...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "details": "Manufacturing floors, warehouses and production lines rarely stay fixed \u2014 tasks change, layouts shift and new products arrive, and most robots can\u2019t keep up without significant reprogramming. Skild AI\u2019s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses [\u2026]"
-    },
-    {
-      "id": "live-companies-physical-ai-takes-the-wheel-how-the-worl",
-      "title": "Physical AI Takes the Wheel: How the World\u2019s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "category": "companies",
-      "date": "2026-09-15",
-      "impact": "CRITICAL",
-      "company": "NVIDIA Newsroom",
-      "tldr": "The global robotaxi market \u2014 physical AI\u2019s first commercial breakthrough \u2014 is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as drive...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-      "details": "The global robotaxi market \u2014 physical AI\u2019s first commercial breakthrough \u2014 is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world\u2019s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is [\u2026]"
     },
     {
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
@@ -564,6 +566,24 @@
       "details": "Chunlei Guo, an NSF-supported researcher, discusses his work using femtosecond lasers to design materials with highly functionalized purposes..."
     },
     {
+      "id": "live-military-it-was-time-to-admit-us-has-weapons-in-o",
+      "title": "\u2018It was time\u2019 to admit US has weapons in orbit, Space Force\u2019s new leader says",
+      "category": "military",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Russian and Chinese advances led to the revelation, Gen. Douglas Schiess says at AFA.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/09/orbit-weapons-space-force-leader/415999/",
+      "details": "Russian and Chinese advances led to the revelation, Gen. Douglas Schiess says at AFA."
+    },
+    {
       "id": "live-military-iran-strikes-exposed-gaps-in-medical-eva",
       "title": "Iran strikes exposed gaps in medical evacuation ops across Middle East: IG",
       "category": "military",
@@ -637,23 +657,22 @@
       "details": "A Polish naval commando walks into a bar\u2026in the latest Fictional Intelligence column."
     },
     {
-      "id": "live-military-russia-is-weaponizing-us-built-ai-to-mak",
-      "title": "Russia is weaponizing US-built AI to make killer drones, cyberattack bots, and fake news",
-      "category": "military",
+      "id": "live-governance-nist-awards-more-than-30-million-for-mep",
+      "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
+      "category": "governance",
       "date": "2026-09-15",
       "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "AI companies are sounding alarms, but the Trump administration isn\u2019t acting on them.",
+      "company": "NIST News",
+      "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
       "specs": {
-        "source": "Defense One AI",
+        "source": "NIST News",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/09/russia-weaponizing-us-built-ai-make-killer-drones-cyberattack-bots-and-fake-news/415949/",
-      "details": "AI companies are sounding alarms, but the Trump administration isn\u2019t acting on them."
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico",
+      "details": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology."
     },
     {
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
@@ -728,25 +747,6 @@
       "details": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16."
     },
     {
-      "id": "live-governance-nist-researchers-correct-common-error-co",
-      "title": "NIST Researchers Correct Common Error Confounding Nanotech Measurements",
-      "category": "governance",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "NIST News",
-      "tldr": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
-      "specs": {
-        "source": "NIST News",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
-      "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
-    },
-    {
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
@@ -778,9 +778,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#EUAIAct",
-        "#UnitedNations",
-        "#AISecurity"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "details": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the European Commission to the European Parliament, setting the priorities for the Union for the year ahead. It will be livestreamed. Main link https://commission.europa.eu/strategy-and-policy/state-union_en Related topics Shaping the Digital Single Market Creating a digital society Research and Innovation Digital connectivity Media and democracy Digital Cultural heritage Cybersecurity Electronic communications and Privacy Advanced Digital Technologies Startups Strengthening trust and security Data policy Advanced and Cloud Computing Copyright Boosting European digital Industry International relations Online platforms and e-commerce Artificial intelligence Funding for Digital Digital Decade An agile rulebook Tech sovereignty"
@@ -798,10 +798,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -838,12 +838,103 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-security-council-live-rising-violence-tr",
+      "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
+      "category": "multilateral",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shippi...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168343",
+      "details": "Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here."
+    },
+    {
+      "id": "live-multilateral-unicef-says-thousands-of-children-requir",
+      "title": "UNICEF says thousands of children require mental health support after Nepal floods",
+      "category": "multilateral",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Three weeks after the devastating flash floods in Nepal, about 17,000 children require urgent mental health and psychosocial support in the country, the UN Children\u2019s Fund (UNICEF)...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168340",
+      "details": "Three weeks after the devastating flash floods in Nepal, about 17,000 children require urgent mental health and psychosocial support in the country, the UN Children\u2019s Fund (UNICEF) said on Tuesday."
+    },
+    {
+      "id": "live-multilateral-escalating-conflict-drives-new-displacem",
+      "title": "Escalating conflict drives new displacement in Yemen",
+      "category": "multilateral",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,00...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168339",
+      "details": "The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month."
+    },
+    {
+      "id": "live-multilateral-ebola-responders-grapple-with-widening-o",
+      "title": "Ebola responders grapple with widening outbreak in DR Congo",
+      "category": "multilateral",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The deadly Ebola virus outbreak in DR Congo continues to spread across the vast country despite some success in containing it, aid officials said on Tuesday, in a renewed call for ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168338",
+      "details": "The deadly Ebola virus outbreak in DR Congo continues to spread across the vast country despite some success in containing it, aid officials said on Tuesday, in a renewed call for international support to help responders on the ground.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-back-to-school-in-haiti-madame-can-you-s",
+      "title": "Back to school in Haiti: \u2018Madame, can you stop what the gangs are doing to us?\u2019",
+      "category": "multilateral",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "When UNICEF\u2019s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: W...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168337",
+      "details": "When UNICEF\u2019s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children\u2019s agency?"
     }
   ]
 }
