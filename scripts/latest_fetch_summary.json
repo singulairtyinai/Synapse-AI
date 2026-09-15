@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T03:54:38.682773",
+  "timestamp": "2026-09-15T09:16:06.975007",
   "fetched_count": 45,
   "nodes": [
     {
@@ -9,7 +9,7 @@
       "date": "2026-09-15",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted ...",
+      "tldr": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, po...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
@@ -18,7 +18,7 @@
         "#Anthropic"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "details": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;"
+      "details": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;"
     },
     {
       "id": "live-overall-donated-livers-can-be-made-biologically-",
@@ -51,10 +51,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Google",
+        "#Governance",
         "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
+        "#Google",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
       "details": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;"
@@ -94,6 +94,107 @@
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "details": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;"
+    },
+    {
+      "id": "live-overall-zgcm-1-a-fully-open-and-extremely-effici",
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "category": "overall",
+      "date": "2026-09-15",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorith...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Reasoning",
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.13356",
+      "details": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling deliberate internal thinking with active external tool use. To support this paradigm across a 256K context, we develop an end-to-end, high-efficiency open training recipe: Architecture & System Co-design: interleaved gated sliding-window and full attention, and a stable FP8 Muon optimizer; Progressive Curriculum & MDP Mid-Training: context scaling across 16K, 64K, and 256K, and the reformulation of interaction traces into Markov Decision Processes. Furthermore, we establish an AI-native R&D workflow where agent swarms autonomously manage cluster operations, data curation, and rapid diagnostic evaluation. Extensive evaluations show that ZGCM-1-7B is competitive across 7B model family on general benchmarks. On several challenging mathematical reasoning and agentic search suites, it remains competitive with frontier models orders of magnitude larger, such as Qwen3-235B-A22B and GLM-5.1. We also show that our pre-training design offers a ~4.2x efficiency improvement in 16K pre-training time-to-loss. Across the full development lifecycle, we distill eight actionable empirical findings-spanning architectural scaling, SFT quality pruning, long-context generalization, and agentic co-training dynamics. To facilitate community research, we open-source model weights from the pre-training, mid-training, and post-training stages, intermediate checkpoints, training code, per-stage data and data recipes, and W&B logs."
+    },
+    {
+      "id": "live-overall-converge-then-diversify-decoupling-conve",
+      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisati",
+      "category": "overall",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multip...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.13396",
+      "details": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to adequately approximate the Pareto front; that is, to obtain a high-quality solution set with 1) good convergence (closeness to the Pareto front) and 2) good diversity (spread across the Pareto front). Existing MOBO methods typically aim to accomplish these two tasks simultaneously, i.e., driving the search towards the Pareto front while maintaining a diverse set of nondominated solutions, such that the solutions, ideally, can gradually approach the entire front. When sufficient search budgets are available, this approach is effective. However, considering both convergence and diversity throughout the search is not easy and requires careful design. Under very tight budgets, there may not be enough solutions generated to be able to simultaneously approach the entire Pareto front. To address this issue, this paper proposes a \\textit{converge-then-diversify} (CTD) approach that decouples convergence and diversity into two stages. In the first stage, CTD focuses on convergence, aiming to quickly drive the search toward a single point on the Pareto front. In the second stage, CTD focuses on diversity, aiming to spread solutions across the front. We present two simple instantiations of CTD by using widely adopted acquisition functions in the area. Experimental results show that, across all 446 pairwise comparisons, CTD statistically outperforms state-of-the-art methods in 72.9\\% of the cases, performs equivalently in 21.1\\%, and is statistically worse in only 6.1\\%, with the advantage being particularly evident in settings with very tight evaluation budgets or in high-dimensional problems."
+    },
+    {
+      "id": "live-overall-generalized-agent-iteration-one-formal-f",
+      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Sel",
+      "category": "overall",
+      "date": "2026-09-15",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous a...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.13406",
+      "details": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these emerging instances exists. Its counterpart in the classical realm, iterative policy improvement, is characterized by generalized policy iteration (GPI), a framework of broad applicability with well-understood theoretical properties, but only where the update principle and the evaluation base lie outside the agent. In this paper, we propose Generalized Agent Iteration (GAI), a formal framework that describes iterative policy improvement and RSI as two cases of a single learning paradigm. GAI defines the agent as a configuration of modifiable components within a system and models the learning process as a cycle of agent evaluation and agent improvement. Two pivotal dials then distinguish the instances: whether the improving mechanism is part of the agent and whether the standard it is measured against is grounded outside it. The former dial delineates the boundary between GPI and RSI, and the latter determines a system's polarity as anchored, goal drift, or fully self-referential. Moreover, we use these coordinates to place existing systems on the same two axes and make the defects of recursive self-improvement statable one condition at a time. We see this paper as a first step toward exploring a formal characterization of RSI that rests on the classical account, makes existing systems comparable, and provides a principled basis for analyzing and designing new ones."
+    },
+    {
+      "id": "live-overall-vibe-patenting-evaluating-llm-judges-for",
+      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+      "category": "overall",
+      "date": "2026-09-15",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work r...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Reasoning",
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.13422",
+      "details": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluation. A separately-invoked LLM judge evaluates generated patent drafts and provides structured feedback for iterative revision. Across multiple inventions and drafting-agent configurations, judge-guided revision consistently improves judge-assessed quality, while unguided revision tends to saturate. Notably, iterative judge feedback enables a low-reasoning agent to approach the performance of a substantially more expensive high-reasoning agent. Stronger models and increased reasoning generally improve judge-assessed drafting quality, while domain-specific agentic workflows provide further gains. We validate the judge against independent evaluation by a professional patent attorney and find meaningful but strongly metric-dependent agreement and systematic calibration differences. These results highlight both the utility and limitations of LLM judges as evaluators and optimization signals for complex professional workflows."
+    },
+    {
+      "id": "live-overall-toward-self-adaptive-physical-ai-can-llm",
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "category": "overall",
+      "date": "2026-09-15",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human interve...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.13436",
+      "details": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as the environment changes. Existing approaches either require substantial data and retraining, or primarily focus on agents operating in the virtual world. In this work, we explore the feasibility of building a self-adaptive physical AI agent that manages long-term physical tasks in a zero-shot manner and adapts to environmental changes without human intervention. We design a multi-agent framework that integrates planning, tool calling, observation, and verification, and evaluate it on agricultural tasks against reinforcement learning (RL) agents under different weather patterns. Our results show that zero-shot LLM agents can achieve comparable management outcomes to RL agents under the same weather pattern and adapt more effectively than RL when evaluated under a shifted environment, highlighting a promising path toward self-adaptive physical AI agents."
     },
     {
       "id": "live-agentic_ai-async-grpo-with-lora-across-hf-jobs-a-bu",
@@ -279,6 +380,24 @@
       "details": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
     },
     {
+      "id": "live-companies-heart-of-the-matter-how-a-major-children",
+      "title": "Heart of the Matter: How a Major Children\u2019s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "category": "companies",
+      "date": "2026-09-15",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
       "id": "live-companies-perplexity-portable-computer-is-now-avai",
       "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
       "category": "companies",
@@ -292,8 +411,8 @@
       },
       "tags": [
         "#Perplexity",
-        "#AgenticAI",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
       "details": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information [\u2026]"
@@ -330,9 +449,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#NVIDIA",
-        "#Governance"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "details": "Manufacturing floors, warehouses and production lines rarely stay fixed \u2014 tasks change, layouts shift and new products arrive, and most robots can\u2019t keep up without significant reprogramming. Skild AI\u2019s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses [\u2026]"
@@ -354,25 +473,6 @@
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
       "details": "The global robotaxi market \u2014 physical AI\u2019s first commercial breakthrough \u2014 is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world\u2019s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is [\u2026]"
-    },
-    {
-      "id": "live-companies-d-matrix-adopts-nvidia-nvlink-fusion-for",
-      "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "category": "companies",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA\u2019s AI infrastructure platform \u2014 joining a growi...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-      "details": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA\u2019s AI infrastructure platform \u2014 joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion [\u2026]"
     },
     {
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
@@ -465,6 +565,24 @@
       "details": "Chunlei Guo, an NSF-supported researcher, discusses his work using femtosecond lasers to design materials with highly functionalized purposes..."
     },
     {
+      "id": "live-military-iran-strikes-exposed-gaps-in-medical-eva",
+      "title": "Iran strikes exposed gaps in medical evacuation ops across Middle East: IG",
+      "category": "military",
+      "date": "2026-09-15",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "Medical professionals have long warned that drones would cause higher U.S. battlefield casualties. A new Inspector General report shows the military is still scrambling to meet tha...",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/09/iran-strikes-exposed-gaps-medical-evacuation-ops-across-middle-east-ig/415988/",
+      "details": "Medical professionals have long warned that drones would cause higher U.S. battlefield casualties. A new Inspector General report shows the military is still scrambling to meet that challenge."
+    },
+    {
       "id": "live-military-us-military-has-on-orbit-space-weapons-a",
       "title": "US military has \u2018on-orbit\u2019 space weapons, Air Force Secretary reveals",
       "category": "military",
@@ -477,8 +595,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#Governance"
       ],
       "sourceUrl": "https://www.defenseone.com/defense-systems/2026/09/us-military-has-orbit-space-weapons-air-force-secretary-reveals/415964/",
       "details": "Experts said the acknowledgment may lead to overt action by China, Russia."
@@ -532,31 +650,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/russia-weaponizing-us-built-ai-make-killer-drones-cyberattack-bots-and-fake-news/415949/",
       "details": "AI companies are sounding alarms, but the Trump administration isn\u2019t acting on them."
-    },
-    {
-      "id": "live-military-digital-employees-are-coming-to-the-defe",
-      "title": "\u2018Digital employees\u2019 are coming to the Defense Logistics Agency",
-      "category": "military",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Nearly 200 agentic-AI bots are already running autonomously as the combat support agency pushes ahead with AI-powered tools, CIO says.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/09/digital-employees-are-coming-defense-logistics-agency/415947/",
-      "details": "Nearly 200 agentic-AI bots are already running autonomously as the combat support agency pushes ahead with AI-powered tools, CIO says."
     },
     {
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
@@ -625,8 +723,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
       "details": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products."
@@ -702,8 +800,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
@@ -741,103 +839,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
-    },
-    {
-      "id": "live-multilateral-six-un-staff-killed-in-gaza-school-strik",
-      "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
-      "category": "multilateral",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168333",
-      "details": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA."
-    },
-    {
-      "id": "live-multilateral-un-agencies-warn-humanitarian-system-in-",
-      "title": "UN agencies warn humanitarian system in Sudan \u2018could collapse\u2019",
-      "category": "multilateral",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan \u2013 home of the world\u2019s worst hunger and displacement crisis \u2013 due to funding shortfalls.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168331",
-      "details": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan \u2013 home of the world\u2019s worst hunger and displacement crisis \u2013 due to funding shortfalls."
-    },
-    {
-      "id": "live-multilateral-money-sent-home-by-migrants-nearly-doubl",
-      "title": "Money sent home by migrants nearly doubles in a decade",
-      "category": "multilateral",
-      "date": "2026-09-15",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "Migrants sent $728.6 billion home to families in low and middle-income countries in 2025, nearly double the amount recorded a decade earlier, according to a new report from the UN\u2019...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Fellowship",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168330",
-      "details": "Migrants sent $728.6 billion home to families in low and middle-income countries in 2025, nearly double the amount recorded a decade earlier, according to a new report from the UN\u2019s International Fund for Agricultural Development (IFAD)."
-    },
-    {
-      "id": "live-multilateral-highly-persistent-toxic-waste-threatens-",
-      "title": "Highly persistent toxic waste threatens \u2018many, if not all, human rights\u2019",
-      "category": "multilateral",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Poor management of toxic chemicals and hazardous waste threatens \u201cmany, if not all, human rights,\u201d the newly appointed independent human rights independent expert on the rising thr...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168329",
-      "details": "Poor management of toxic chemicals and hazardous waste threatens \u201cmany, if not all, human rights,\u201d the newly appointed independent human rights independent expert on the rising threat told the Human Rights Council on Monday.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-civilians-bear-the-brunt-with-deadly-us-",
-      "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-      "category": "multilateral",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that hav...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168328",
-      "details": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that have killed civilians as tensions ripple through the region."
     }
   ]
 }
