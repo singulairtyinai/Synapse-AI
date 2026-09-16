@@ -1,7 +1,63 @@
 {
-  "timestamp": "2026-09-16T09:08:53.190979",
-  "fetched_count": 45,
+  "timestamp": "2026-09-16T16:22:09.647044",
+  "fetched_count": 55,
   "nodes": [
+    {
+      "id": "live-overall-meet-a-mouse-whose-brain-cortex-is-made-",
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "category": "overall",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch th...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "details": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;"
+    },
+    {
+      "id": "live-overall-building-the-materials-foundation-for-ai",
+      "title": "Building the materials foundation for AI",
+      "category": "overall",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms ru...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "details": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;"
+    },
+    {
+      "id": "live-overall-the-download-ai-s-trillion-dollar-gamble",
+      "title": "The Download: AI\u2019s trillion-dollar gamble and OpenAI\u2019s biology data bid",
+      "category": "overall",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s at stake in AI\u2019s trilli...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s at stake in AI\u2019s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI\u2019s impact on the economy over the next few years,&#8230;"
+    },
     {
       "id": "live-overall-roundtables-could-ai-really-kill-us-all",
       "title": "Roundtables: Could AI really kill us all?",
@@ -39,62 +95,6 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;"
     },
     {
-      "id": "live-overall-ai-models-need-more-data-about-biology-a",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "category": "overall",
-      "date": "2026-09-16",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding a...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "details": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data\u2014types of information usually considered trade secrets. She&#8230;"
-    },
-    {
-      "id": "live-overall-what-s-at-stake-in-ai-s-trillion-dollar-",
-      "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
-      "category": "overall",
-      "date": "2026-09-16",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long ...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "details": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a \u201cremarkable fact\u201d that is not in question: A handful of so-called&#8230;"
-    },
-    {
-      "id": "live-overall-the-ai-industry-has-taken-a-doomer-turn-",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "category": "overall",
-      "date": "2026-09-16",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, po...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Anthropic"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "details": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;"
-    },
-    {
       "id": "live-overall-optimal-pruning-for-neural-architectures",
       "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
       "category": "overall",
@@ -107,9 +107,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.16129",
       "details": "arXiv:2609.16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parameter sets its value to zero, representing a displacement of the model to the hypersurface on which that parameter vanishes. The minimal distance from the unpruned model to this hypersurface is naturally computed via the geodesic distance in the model space as determined by the Fisher information metric. This distance determines the true change in the model, and its performance, under pruning. By analysing progressively more faithful approximations of this geodesic distance a natural hierarchy of optimality for pruning methods is determined. This starts with the traditional magnitude pruning, then develops into new more sophisticated and effective pruning schemes. The method is demonstrated for both fully-connected networks and vision transformers, on MNIST and CIFAR-10, over the complete $0$-$100\\%$ pruning range and across five random seeds. It outperforms pruning by parameter magnitude and by the local Fisher information alone in every architecture and dataset combination considered, on both accuracy and the Matthews correlation coefficient. Additionally, analysis of different levels of geodesic approximation produces intermediate pruning schemes that are computationally efficient and maintain near-optimal performance. This geometric picture supplies not only a state-of-the-art pruning methodology for AI models, but also a verified and mathematically-motivated justification for pruning schemes."
@@ -127,9 +127,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.16145",
       "details": "arXiv:2609.16145v1 Announce Type: new Abstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its base capabilities? We propose CRN v2, a lightweight logit-level correction module (~34M trainable parameters, 0.73% of the 4.65B text module) that sits atop a fully frozen Gemma 4 E2B model. The base model is never updated; only the correction module learns, via supervised fine-tuning followed by reference-free DPO on 83,400 error-correction pairs. On a 60-question domain exam (CEHRI: Certified Human-Robot Intelligence, covering facts, arithmetic, and implicit-goal reasoning), CRN v2 corrects 53.3% of base-model errors (reworded variant: 43.3%) while showing no degradation on tested capability benchmarks (MMLU/BoolQ N=200; car-wash N=8). A LoRA baseline at the matched CRN v1 budget (6.6M params, rank 19) achieves 83.3% correction but suffers 30-75% capability loss on the same benchmarks -- the correction-capability tradeoff. An ablation shows that the KL preservation term (lambda=0.1) is critical: lowering it to 0.01 degrades correction to 35.0%. A hidden-state injection variant at earlier layers (1.6M params, SFT-only) reaches 50.0%/55.8% but does not exceed logit correction; shallower injection (layer 4) drops to 30.0%/28.3%; multi-depth logit correction (~35M) reaches only 40%; and longer training (5,000 SFT + 2,000 DPO) stays at 53.3% -- none of the alternative configurations we tested exceeded the rank-128 logit result, consistent with a best-achieved result of ~53% rather than a floor. This is a study of a design principle (frozen base + logit correction + KL anchoring), not a claim of architectural novelty. All code, main-result weights, and evaluation scripts are released (deep variant as code only -- no trained deep checkpoints)."
@@ -147,8 +147,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.16163",
       "details": "arXiv:2609.16163v1 Announce Type: new Abstract: The sharp increase in mass shootings underscores an urgent need for systems that guide victims to safety in real time. An effective evacuation system must minimize threat exposure while also accounting for adversarial uncertainty and crowding dynamics. Current methods in the literature are rigidly constrained to layout-specific policies and computationally intractable in large-scale layouts, while practical guidelines simply advise victims to \"run\", \"hide\", or \"fight\". We propose GPEvac: a GNN-based PPO framework that computes adaptive evacuation routes during shooting events. To capture both local and long-distance dependencies, we introduce an edge-first sequential message-passing scheme with a learnable virtual global node. The resulting graph embeddings are integrated into a permutation-invariant scoring mechanism that allows a single learned policy to operate across building layouts of diverse topologies and sizes. Through extensive simulation, we show that GPEvac outperforms intelligent baselines across distinct architectural layouts, significantly reducing total threat exposure. Crucially, the system computes global evacuation routes in just 14.73 ms on local CPU hardware, enabling seamless integration with live surveillance systems. In addition to saving lives during shooting events, the methodologies developed are transferable to other graph-structured decision-making domains, including critical infrastructure, intelligent transportation systems, and adaptive sensor networks."
@@ -166,8 +166,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.16189",
@@ -186,10 +186,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#EUAIAct",
         "#NVIDIA",
-        "#EUAIAct"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.16206",
       "details": "arXiv:2609.16206v1 Announce Type: new Abstract: Disaggregated LLM serving places compute heavy prefill and memory heavy decode on separate GPU pools. Systems such as DistServe, Splitwise, and Mooncake make this separation fast, but routing still determines which instances handle each request. We study a router that estimates the additional completion time on each instance using exact prompt length, predicted output length, post admission KV cache pressure, and SLO class. We develop the policy in a discrete event simulator and validate it on eight NVIDIA A40 GPUs, each running a vLLM engine, with NIXL transferring KV caches between pools. All workloads run at measured saturation. Across three mixed, bursty arrival traces, the calibrated router achieves the highest mean goodput at 0.864, compared with 0.835 to 0.847 for round robin, least loaded, and a length heuristic. It also shows the lowest variance across traces. It beats round robin and the length heuristic on all three traces and least loaded on two. On the third, it trails by 0.003, within run to run noise. Hardware calibration matters: simulator derived constants cost 4.5 goodput points and roughly 40 percent of the tail latency advantage, reducing the scorer to little more than queue counting. Benefits grow with decode pool size and traffic heterogeneity but disappear in pools with three instances, where queue counts are often enough. Under extreme scarcity, greedy cost minimization concentrates requests on the cheapest scored instance, and blind spreading performs better. With calibrated costs, the learned router matches the goodput of round robin using six GPUs instead of seven."
@@ -285,6 +285,136 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
+      "title": "Agentic AI cringe wars [video]",
+      "category": "agentic_ai",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
+      "details": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-codename-mdash-brings-agentic-ai-securit",
+      "title": "Codename MDASH brings agentic AI security scanning to US Government",
+      "category": "agentic_ai",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Microsoft",
+        "#AgenticAI",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
+      "details": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https://news.ycombinator.com/item?id=49682988 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentsdock-an-ide-designed-for-agentic-a",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "category": "agentic_ai",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://agentsdock.net/",
+      "details": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33"
+    },
+    {
+      "id": "live-agentic_ai-teaching-novice-computing-and-programmin",
+      "title": "Teaching Novice Computing and Programming in the Agentic AI Era [pdf]",
+      "category": "agentic_ai",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf",
+      "details": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-teaching-novice-computing-and-programmin",
+      "title": "Teaching Novice Computing and Programming in the Agentic AI Era",
+      "category": "agentic_ai",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49669144 Points: 1 # Comm...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/",
+      "details": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49669144 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-models-helping-older-adults-use-ai-in-everyday-",
+      "title": "Helping older adults use AI in everyday life",
+      "category": "models",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "details": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+    },
+    {
+      "id": "live-models-reimagining-advertising-with-ai",
+      "title": "Reimagining advertising with AI",
+      "category": "models",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai",
+      "details": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+    },
+    {
       "id": "live-models-how-fyxer-built-an-ai-executive-assistan",
       "title": "How Fyxer built an AI executive assistant people trust",
       "category": "models",
@@ -342,40 +472,43 @@
       "details": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
     },
     {
-      "id": "live-models-cognition-helps-devin-test-its-own-work-",
-      "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
-      "category": "models",
+      "id": "live-companies-nvidia-vera-rubin-nvl72-delivers-leading",
+      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "category": "companies",
       "date": "2026-09-16",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "details": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+      "sourceUrl": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+      "details": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. [\u2026]"
     },
     {
-      "id": "live-models-how-a-researcher-uses-codex-and-chatgpt-",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "category": "models",
+      "id": "live-companies-emerald-ai-google-and-nvidia-launch-alli",
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "category": "companies",
       "date": "2026-09-16",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#UnitedNations",
+        "#Governance",
+        "#NVIDIA",
+        "#Google"
       ],
-      "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "details": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "details": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use [\u2026]"
     },
     {
       "id": "live-companies-university-of-manchester-uses-nvidia-ear",
@@ -409,9 +542,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
         "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Reasoning"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
       "details": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa \u2014 Salesforce\u2019s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn\u2019t just take the stage. He walked into [\u2026]"
@@ -429,49 +562,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
       "details": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others \u2014 his team at Emerald AI in their San Francisco conference room, engineers [\u2026]"
-    },
-    {
-      "id": "live-companies-ai-infra-summit-nvidia-vera-rubin-and-ds",
-      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Opt",
-      "category": "companies",
-      "date": "2026-09-16",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center ev...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
-      "details": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience \u2014 with more than 8,000 attendees this year, up from 3,500 last year \u2014 [\u2026]"
-    },
-    {
-      "id": "live-companies-heart-of-the-matter-how-a-major-children",
-      "title": "Heart of the Matter: How a Major Children\u2019s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "category": "companies",
-      "date": "2026-09-16",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
@@ -648,8 +744,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#Governance"
       ],
       "sourceUrl": "https://www.defenseone.com/defense-systems/2026/09/us-military-has-orbit-space-weapons-air-force-secretary-reveals/415964/",
       "details": "Experts said the acknowledgment may lead to overt action by China, Russia."
@@ -776,10 +872,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#Governance",
         "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -816,9 +912,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -836,13 +932,105 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#Governance",
         "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
       "details": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mechanism for drone and counter-drone technologies. \u00a9 Marcus Jacobi The European Commission invites interested organisations to join the inaugural D-Tect Forum on 11 November 2026. We are looking for companies, research organisations, universities, industry associations, standardisation bodies and innovation networks active in the drones domain. The inaugural Forum aims to gather 100+ high-level leaders to advance Europe\u2019s ambitions in Drone and Counter-Drone technology. Participants will explore near-term cooperation across the full drone and counter-drone value chain, including detection, tracking and neutralisation systems, autonomy and AI-enabled navigation, sensing and electronic warfare, secure connectivity, and the enabling technologies that underpin them, such as semiconductors, cloud, cyber and data. The priorities and composition of the thematic Working Groups will be defined during the Forum. To participate in the event, please submit your application. This form is also a registration to the Call of Expression of Interest to join future events of the D-TECT forum. Please note that submitting an application does not by itself confirm your registration for the inaugural Forum. Further, results of membership applications will be communicated after the event. Downloads Call for Expression of interest - \u200b\u200b\u200bDrone Tech for Countering Threats Forum\u200b Download&nbsp; Privacy statement - Drone Tech for Countering Threats (D-TECT) Forum Download&nbsp; Terms of reference - Drone Tech for Countering Threats Forum Download&nbsp; Related topics Cybersecurity Tech sovereignty Hybrid security threats"
+    },
+    {
+      "id": "live-multilateral-ai-climate-and-conflicts-top-guterres-s-",
+      "title": "AI, climate and conflicts top Guterres\u2019s agenda ahead of General Assembly",
+      "category": "multilateral",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Ahead of the UN General Assembly\u2019s high-level week, Secretary-General Ant\u00f3nio Guterres said the world had entered \u201can era of deep uncertainty\u201d and urged governments to embrace inte...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168348",
+      "details": "Ahead of the UN General Assembly\u2019s high-level week, Secretary-General Ant\u00f3nio Guterres said the world had entered \u201can era of deep uncertainty\u201d and urged governments to embrace international cooperation to address global threats."
+    },
+    {
+      "id": "live-multilateral-security-council-live-being-a-woman-is-a",
+      "title": "Security Council LIVE: \u2018Being a woman is a crime in Afghanistan,\u2019 civil society briefer declares",
+      "category": "multilateral",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern a...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168347",
+      "details": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council meets Wednesday to hear the latest updates, including from a civil society representative who said being born as a woman in the country \u201cis a crime\u201d."
+    },
+    {
+      "id": "live-multilateral-un-report-warns-of-reprisals-against-tho",
+      "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
+      "category": "multilateral",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by th...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168345",
+      "details": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by the Secretary-General that calls for greater protection and accountability."
+    },
+    {
+      "id": "live-multilateral-gaza-at-least-20-killed-in-deadly-buildi",
+      "title": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
+      "category": "multilateral",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Search and rescue operations continued in Gaza City on Wednesday following the collapse of a bombed-out building that killed at least 20 people, according to reports.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168346",
+      "details": "Search and rescue operations continued in Gaza City on Wednesday following the collapse of a bombed-out building that killed at least 20 people, according to reports."
+    },
+    {
+      "id": "live-multilateral-the-world-comes-to-new-york-what-s-at-st",
+      "title": "The world comes to New York: What\u2019s at stake at UN General Assembly high-level week",
+      "category": "multilateral",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Each September, New York becomes the centre of global diplomacy as presidents, prime ministers, ministers and diplomats from around the world gather at United Nations Headquarters.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168344",
+      "details": "Each September, New York becomes the centre of global diplomacy as presidents, prime ministers, ministers and diplomats from around the world gather at United Nations Headquarters."
     }
   ]
 }
