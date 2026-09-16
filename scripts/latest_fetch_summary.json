@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-15T22:44:57.627503",
+  "timestamp": "2026-09-16T03:52:06.639678",
   "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-roundtables-could-ai-really-kill-us-all",
       "title": "Roundtables: Could AI really kill us all?",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they ri...",
@@ -24,7 +24,7 @@
       "id": "live-overall-the-download-ai-doomers-whistleblowing-a",
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a do...",
@@ -42,7 +42,7 @@
       "id": "live-overall-ai-models-need-more-data-about-biology-a",
       "title": "AI models need more data about biology, and OpenAI is paying to create it",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding a...",
@@ -61,7 +61,7 @@
       "id": "live-overall-what-s-at-stake-in-ai-s-trillion-dollar-",
       "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long ...",
@@ -80,7 +80,7 @@
       "id": "live-overall-the-ai-industry-has-taken-a-doomer-turn-",
       "title": "The AI industry has taken a doomer turn. What now?",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, po...",
@@ -98,7 +98,7 @@
       "id": "live-overall-zgcm-1-a-fully-open-and-extremely-effici",
       "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorith...",
@@ -107,10 +107,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#Reasoning",
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.13356",
       "details": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling deliberate internal thinking with active external tool use. To support this paradigm across a 256K context, we develop an end-to-end, high-efficiency open training recipe: Architecture & System Co-design: interleaved gated sliding-window and full attention, and a stable FP8 Muon optimizer; Progressive Curriculum & MDP Mid-Training: context scaling across 16K, 64K, and 256K, and the reformulation of interaction traces into Markov Decision Processes. Furthermore, we establish an AI-native R&D workflow where agent swarms autonomously manage cluster operations, data curation, and rapid diagnostic evaluation. Extensive evaluations show that ZGCM-1-7B is competitive across 7B model family on general benchmarks. On several challenging mathematical reasoning and agentic search suites, it remains competitive with frontier models orders of magnitude larger, such as Qwen3-235B-A22B and GLM-5.1. We also show that our pre-training design offers a ~4.2x efficiency improvement in 16K pre-training time-to-loss. Across the full development lifecycle, we distill eight actionable empirical findings-spanning architectural scaling, SFT quality pruning, long-context generalization, and agentic co-training dynamics. To facilitate community research, we open-source model weights from the pre-training, mid-training, and post-training stages, intermediate checkpoints, training code, per-stage data and data recipes, and W&B logs."
@@ -119,7 +119,7 @@
       "id": "live-overall-converge-then-diversify-decoupling-conve",
       "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisati",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multip...",
@@ -138,7 +138,7 @@
       "id": "live-overall-generalized-agent-iteration-one-formal-f",
       "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Sel",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous a...",
@@ -148,8 +148,8 @@
       },
       "tags": [
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.13406",
       "details": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these emerging instances exists. Its counterpart in the classical realm, iterative policy improvement, is characterized by generalized policy iteration (GPI), a framework of broad applicability with well-understood theoretical properties, but only where the update principle and the evaluation base lie outside the agent. In this paper, we propose Generalized Agent Iteration (GAI), a formal framework that describes iterative policy improvement and RSI as two cases of a single learning paradigm. GAI defines the agent as a configuration of modifiable components within a system and models the learning process as a cycle of agent evaluation and agent improvement. Two pivotal dials then distinguish the instances: whether the improving mechanism is part of the agent and whether the standard it is measured against is grounded outside it. The former dial delineates the boundary between GPI and RSI, and the latter determines a system's polarity as anchored, goal drift, or fully self-referential. Moreover, we use these coordinates to place existing systems on the same two axes and make the defects of recursive self-improvement statable one condition at a time. We see this paper as a first step toward exploring a formal characterization of RSI that rests on the classical account, makes existing systems comparable, and provides a principled basis for analyzing and designing new ones."
@@ -158,7 +158,7 @@
       "id": "live-overall-vibe-patenting-evaluating-llm-judges-for",
       "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work r...",
@@ -167,10 +167,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#Reasoning",
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.13422",
       "details": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluation. A separately-invoked LLM judge evaluates generated patent drafts and provides structured feedback for iterative revision. Across multiple inventions and drafting-agent configurations, judge-guided revision consistently improves judge-assessed quality, while unguided revision tends to saturate. Notably, iterative judge feedback enables a low-reasoning agent to approach the performance of a substantially more expensive high-reasoning agent. Stronger models and increased reasoning generally improve judge-assessed drafting quality, while domain-specific agentic workflows provide further gains. We validate the judge against independent evaluation by a professional patent attorney and find meaningful but strongly metric-dependent agreement and systematic calibration differences. These results highlight both the utility and limitations of LLM judges as evaluators and optimization signals for complex professional workflows."
@@ -179,7 +179,7 @@
       "id": "live-overall-toward-self-adaptive-physical-ai-can-llm",
       "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
       "category": "overall",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human interve...",
@@ -189,8 +189,8 @@
       },
       "tags": [
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.13436",
       "details": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as the environment changes. Existing approaches either require substantial data and retraining, or primarily focus on agents operating in the virtual world. In this work, we explore the feasibility of building a self-adaptive physical AI agent that manages long-term physical tasks in a zero-shot manner and adapts to environmental changes without human intervention. We design a multi-agent framework that integrates planning, tool calling, observation, and verification, and evaluate it on agricultural tasks against reinforcement learning (RL) agents under different weather patterns. Our results show that zero-shot LLM agents can achieve comparable management outcomes to RL agents under the same weather pattern and adapt more effectively than RL when evaluated under a shifted environment, highlighting a promising path toward self-adaptive physical AI agents."
@@ -199,7 +199,7 @@
       "id": "live-agentic_ai-your-agent-aced-the-task-will-it-do-it-a",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "category": "agentic_ai",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -217,7 +217,7 @@
       "id": "live-agentic_ai-async-grpo-with-lora-across-hf-jobs-a-bu",
       "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
       "category": "agentic_ai",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -235,7 +235,7 @@
       "id": "live-agentic_ai-rebuilding-automatic1111-with-gradio-wor",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "category": "agentic_ai",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -253,7 +253,7 @@
       "id": "live-agentic_ai-safety-for-whom-refusing-the-right-subse",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "category": "agentic_ai",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -271,7 +271,7 @@
       "id": "live-agentic_ai-neomme-an-efficient-multimodal-native-an",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "category": "agentic_ai",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -289,7 +289,7 @@
       "id": "live-models-how-fyxer-built-an-ai-executive-assistan",
       "title": "How Fyxer built an AI executive assistant people trust",
       "category": "models",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice.",
@@ -308,7 +308,7 @@
       "id": "live-models-perplexity-trusts-gpt-6-astra-with-end-t",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "category": "models",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -317,8 +317,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Perplexity",
         "#UnitedNations",
+        "#Perplexity",
         "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -328,7 +328,7 @@
       "id": "live-models-rapidly-scaling-online-storage-to-serve-",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "category": "models",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
@@ -346,7 +346,7 @@
       "id": "live-models-cognition-helps-devin-test-its-own-work-",
       "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
       "category": "models",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
@@ -364,7 +364,7 @@
       "id": "live-models-how-a-researcher-uses-codex-and-chatgpt-",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "category": "models",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
@@ -382,7 +382,7 @@
       "id": "live-companies-now-we-can-know-everything-and-do-anythi",
       "title": "\u2018Now We Can Know Everything and Do Anything,\u2019 Jensen Huang Says at Dreamforce",
       "category": "companies",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance t...",
@@ -391,8 +391,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
         "#NVIDIA",
+        "#Reasoning",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
@@ -402,7 +402,7 @@
       "id": "live-companies-from-megawatts-to-tokens-how-nvidia-maxi",
       "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
       "category": "companies",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power cons...",
@@ -422,7 +422,7 @@
       "id": "live-companies-ai-infra-summit-nvidia-vera-rubin-and-ds",
       "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Opt",
       "category": "companies",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center ev...",
@@ -441,7 +441,7 @@
       "id": "live-companies-heart-of-the-matter-how-a-major-children",
       "title": "Heart of the Matter: How a Major Children\u2019s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
       "category": "companies",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "",
@@ -459,7 +459,7 @@
       "id": "live-companies-perplexity-portable-computer-is-now-avai",
       "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
       "category": "companies",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the ...",
@@ -468,9 +468,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Perplexity",
         "#NVIDIA",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Perplexity"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
       "details": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information [\u2026]"
@@ -479,7 +479,7 @@
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
       "title": "NSF launches $20M pilot to accelerate commercialization of promising deep technologies from small bu",
       "category": "fellowships",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventur...",
@@ -497,7 +497,7 @@
       "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
       "title": "Podcast: Creating thermal cloaking and new structures",
       "category": "fellowships",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
@@ -515,7 +515,7 @@
       "id": "live-fellowships-nsf-leadership-in-a-new-golden-age-of-sc",
       "title": "NSF leadership in a new golden age of science",
       "category": "fellowships",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation was established in 1950 to keep American discovery at the frontier. That mission has not changed. The science and technology ecosystem around i...",
@@ -533,7 +533,7 @@
       "id": "live-fellowships-podcast-ai-and-wearable-devices",
       "title": "Podcast: AI and wearable devices",
       "category": "fellowships",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Mark Hersam an NSF-supported researcher, discusses nanoelectronic materials and how a cerebellum-inspired approach may transform how AI performs in wearable devices...",
@@ -551,7 +551,7 @@
       "id": "live-fellowships-podcast-lasers-and-materials-of-the-futu",
       "title": "Podcast: Lasers and materials of the future",
       "category": "fellowships",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Chunlei Guo, an NSF-supported researcher, discusses his work using femtosecond lasers to design materials with highly functionalized purposes...",
@@ -566,10 +566,46 @@
       "details": "Chunlei Guo, an NSF-supported researcher, discusses his work using femtosecond lasers to design materials with highly functionalized purposes..."
     },
     {
+      "id": "live-military-how-a-maga-influencer-with-ties-to-russi",
+      "title": "How a MAGA influencer with ties to Russia became Trump\u2019s Arctic adviser",
+      "category": "military",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "As Thomas Dans holds forth in the U.S. and abroad, it\u2019s not always clear where the administration\u2019s agenda ends and his own begins.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/how-maga-influencer-ties-russia-became-trumps-arctic-adviser/416013/",
+      "details": "As Thomas Dans holds forth in the U.S. and abroad, it\u2019s not always clear where the administration\u2019s agenda ends and his own begins."
+    },
+    {
+      "id": "live-military-nga-official-takes-top-ai-job-at-cyber-c",
+      "title": "NGA official takes top AI job at Cyber Command",
+      "category": "military",
+      "date": "2026-09-16",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Ronzelle Green succeeds Reid Novotny, who pushed the combatant command to embrace the technology.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/09/nga-official-assumes-top-ai-role-cyber-command/416014/",
+      "details": "Ronzelle Green succeeds Reid Novotny, who pushed the combatant command to embrace the technology."
+    },
+    {
       "id": "live-military-it-was-time-to-admit-us-has-weapons-in-o",
       "title": "\u2018It was time\u2019 to admit US has weapons in orbit, Space Force\u2019s new leader says",
       "category": "military",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Russian and Chinese advances led to the revelation, Gen. Douglas Schiess says at AFA.",
@@ -587,7 +623,7 @@
       "id": "live-military-iran-strikes-exposed-gaps-in-medical-eva",
       "title": "Iran strikes exposed gaps in medical evacuation ops across Middle East: IG",
       "category": "military",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "Medical professionals have long warned that drones would cause higher U.S. battlefield casualties. A new Inspector General report shows the military is still scrambling to meet tha...",
@@ -605,7 +641,7 @@
       "id": "live-military-us-military-has-on-orbit-space-weapons-a",
       "title": "US military has \u2018on-orbit\u2019 space weapons, Air Force Secretary reveals",
       "category": "military",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "Experts said the acknowledgment may lead to overt action by China, Russia.",
@@ -621,46 +657,10 @@
       "details": "Experts said the acknowledgment may lead to overt action by China, Russia."
     },
     {
-      "id": "live-military-lockheed-s-skunk-works-plans-to-build-fo",
-      "title": "Lockheed\u2019s Skunk Works plans to build four more of its multirole combat drones",
-      "category": "military",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The firm\u2019s top secret research arm shared new Vectis images, but few key details.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/09/lockheeds-skunk-works-plans-build-four-more-its-multirole-combat-drones/415958/",
-      "details": "The firm\u2019s top secret research arm shared new Vectis images, but few key details."
-    },
-    {
-      "id": "live-military-cold-comfort",
-      "title": "Cold comfort",
-      "category": "military",
-      "date": "2026-09-15",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "A Polish naval commando walks into a bar\u2026in the latest Fictional Intelligence column.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/cold-comfort/415955/",
-      "details": "A Polish naval commando walks into a bar\u2026in the latest Fictional Intelligence column."
-    },
-    {
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -678,7 +678,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -696,7 +696,7 @@
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -714,7 +714,7 @@
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
       "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single ...",
@@ -732,7 +732,7 @@
       "id": "live-governance-nist-national-construction-safety-team-a",
       "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 202",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
@@ -750,7 +750,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
@@ -759,8 +759,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -769,7 +769,7 @@
       "id": "live-governance-state-of-the-union-2026",
       "title": "State of the Union 2026",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the...",
@@ -779,8 +779,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
       "details": "State of the Union 2026 Anonymous (not verified) Mon, 08/31/2026 - 16:11 &nbsp; 16 September 2026 The State of the Union (SOTEU) address is an annual speech by the President of the European Commission to the European Parliament, setting the priorities for the Union for the year ahead. It will be livestreamed. Main link https://commission.europa.eu/strategy-and-policy/state-union_en Related topics Shaping the Digital Single Market Creating a digital society Research and Innovation Digital connectivity Media and democracy Digital Cultural heritage Cybersecurity Electronic communications and Privacy Advanced Digital Technologies Startups Strengthening trust and security Data policy Advanced and Cloud Computing Copyright Boosting European digital Industry International relations Online platforms and e-commerce Artificial intelligence Funding for Digital Digital Decade An agile rulebook Tech sovereignty"
@@ -789,7 +789,7 @@
       "id": "live-governance-commission-designates-chatgpt-reddit-rob",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Onli...",
@@ -800,8 +800,8 @@
       "tags": [
         "#Governance",
         "#AISecurity",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -810,7 +810,7 @@
       "id": "live-governance-pitching-day-finalists-of-the-apply-ai-s",
       "title": "Pitching day: Finalists of the Apply AI Startup Award",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply...",
@@ -819,8 +819,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
       "details": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply AI Startup Award and learn more about the European AI innovation ecosystem. The Apply AI Startup Award recognises innovative European startups and scaleups developing AI solutions in the 11 strategic sectors covered by the Apply AI Strategy. In July, national startup associations nominated 24 European AI startups and scaleups across 16 Member States. Independent experts are currently evaluating the nominations and will choose the top 10 finalists for the pitching event. Each startup will have 3 minutes to pitch their AI solution and convince the jury. After the pitching session the jury will select the 3 winners. Among other rewards, they will be invited to pitch their solution and receive a trophy and certificate on the main stage of the Apply AI Summit. Registration Click and fill the form to register Agenda 14:00-15:30 CET(to be confirmed) Welcome and introduction Part I - Pitches&nbsp; Presentation from the AI Office Part II - Pitches Conclusion Jury &amp; finalists The jury members and the top 10 Finalists will be announced soon. Registration form Related topics Events Artificial intelligence Apply AI Summit"
@@ -829,7 +829,7 @@
       "id": "live-governance-call-for-tenders-study-on-how-online-mar",
       "title": "Call for tenders: Study on how online marketplace design influences user behaviour",
       "category": "governance",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 2...",
@@ -839,8 +839,8 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
       "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -849,26 +849,26 @@
       "id": "live-multilateral-security-council-live-rising-violence-tr",
       "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
       "category": "multilateral",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shippi...",
+      "tldr": "Amid rising violence in Yemen, the Security Council met in emergency session on Tuesday to discuss the situation surrounding the critical Bab el-Mandeb Strait shipping route as UN ...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168343",
-      "details": "Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here."
+      "details": "Amid rising violence in Yemen, the Security Council met in emergency session on Tuesday to discuss the situation surrounding the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here."
     },
     {
       "id": "live-multilateral-unicef-says-thousands-of-children-requir",
       "title": "UNICEF says thousands of children require mental health support after Nepal floods",
       "category": "multilateral",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Three weeks after the devastating flash floods in Nepal, about 17,000 children require urgent mental health and psychosocial support in the country, the UN Children\u2019s Fund (UNICEF)...",
@@ -886,7 +886,7 @@
       "id": "live-multilateral-escalating-conflict-drives-new-displacem",
       "title": "Escalating conflict drives new displacement in Yemen",
       "category": "multilateral",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,00...",
@@ -904,7 +904,7 @@
       "id": "live-multilateral-ebola-responders-grapple-with-widening-o",
       "title": "Ebola responders grapple with widening outbreak in DR Congo",
       "category": "multilateral",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The deadly Ebola virus outbreak in DR Congo continues to spread across the vast country despite some success in containing it, aid officials said on Tuesday, in a renewed call for ...",
@@ -922,7 +922,7 @@
       "id": "live-multilateral-back-to-school-in-haiti-madame-can-you-s",
       "title": "Back to school in Haiti: \u2018Madame, can you stop what the gangs are doing to us?\u2019",
       "category": "multilateral",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "When UNICEF\u2019s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: W...",
