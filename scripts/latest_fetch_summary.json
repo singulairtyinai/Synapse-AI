@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-17T03:57:09.495627",
-  "fetched_count": 55,
+  "timestamp": "2026-09-17T09:21:28.786872",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-meet-a-mouse-whose-brain-cortex-is-made-",
@@ -51,9 +51,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#OpenAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s at stake in AI\u2019s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI\u2019s impact on the economy over the next few years,&#8230;"
@@ -95,104 +95,103 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;"
     },
     {
-      "id": "live-overall-optimal-pruning-for-neural-architectures",
-      "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+      "id": "live-overall-making-ai-assisted-claims-independently-",
+      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Fals",
       "category": "overall",
       "date": "2026-09-17",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a paramet...",
+      "tldr": "arXiv:2609.17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.16129",
-      "details": "arXiv:2609.16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parameter sets its value to zero, representing a displacement of the model to the hypersurface on which that parameter vanishes. The minimal distance from the unpruned model to this hypersurface is naturally computed via the geodesic distance in the model space as determined by the Fisher information metric. This distance determines the true change in the model, and its performance, under pruning. By analysing progressively more faithful approximations of this geodesic distance a natural hierarchy of optimality for pruning methods is determined. This starts with the traditional magnitude pruning, then develops into new more sophisticated and effective pruning schemes. The method is demonstrated for both fully-connected networks and vision transformers, on MNIST and CIFAR-10, over the complete $0$-$100\\%$ pruning range and across five random seeds. It outperforms pruning by parameter magnitude and by the local Fisher information alone in every architecture and dataset combination considered, on both accuracy and the Matthews correlation coefficient. Additionally, analysis of different levels of geodesic approximation produces intermediate pruning schemes that are computationally efficient and maintain near-optimal performance. This geometric picture supplies not only a state-of-the-art pruning methodology for AI models, but also a verified and mathematically-motivated justification for pruning schemes."
+      "sourceUrl": "https://arxiv.org/abs/2609.17631",
+      "details": "arXiv:2609.17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attestation, and transparency expose history but alone do not specify the publication transition examined here. We develop Publication Authority as an exact-state, non-transferable, single-use publication capability and instantiate it in PAC-2026 (Publication-Accountability Calculus), a machine-readable AIJIM Protocol candidate. We evaluate its fourth bounded semantic freeze (SF-4), a fixed-profile specification designed for replaceable bindings. Six obligations govern evidence, runs and artifacts, measurement disclosure, authorization, surface correspondence, and lifecycle continuity. Each yields a target-bound witness, localized counterexample, or localized unverifiability; none can compensate for another. Only a fresh, complete all-pass record derives the permit consumed by one atomic publication transition. We use identity vectors, adversarial cases, finite models, and historical implementations. Ten models explored 110,764 safe reachable states; 76 unsafe configurations produced the expected violation or observer countermodel. A reader surface passing its correspondence check cannot authorize publication unless the accepted record admits that surface. SF-4 separates evidence horizon from verification time and rejects an authentic but causally invalid authorization. A historical predecessor path reproduced 17 frozen authorization-successor outcomes. A later in-house, instance-blind test of known case classes matched all 183 scored expectations; same-host package execution reproduced its 240 archived observations. Results support internal coherence, bounded safety, fault sensitivity, and limited constructibility, but not factual truth, general refinement, blind interoperability, field efficacy, or standards status."
     },
     {
-      "id": "live-overall-safe-error-correction-for-language-model",
-      "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+      "id": "live-overall-evolvetrade-experience-driven-policy-ref",
+      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
       "category": "overall",
       "date": "2026-09-17",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.16145v1 Announce Type: new Abstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its b...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Reasoning",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.16145",
-      "details": "arXiv:2609.16145v1 Announce Type: new Abstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its base capabilities? We propose CRN v2, a lightweight logit-level correction module (~34M trainable parameters, 0.73% of the 4.65B text module) that sits atop a fully frozen Gemma 4 E2B model. The base model is never updated; only the correction module learns, via supervised fine-tuning followed by reference-free DPO on 83,400 error-correction pairs. On a 60-question domain exam (CEHRI: Certified Human-Robot Intelligence, covering facts, arithmetic, and implicit-goal reasoning), CRN v2 corrects 53.3% of base-model errors (reworded variant: 43.3%) while showing no degradation on tested capability benchmarks (MMLU/BoolQ N=200; car-wash N=8). A LoRA baseline at the matched CRN v1 budget (6.6M params, rank 19) achieves 83.3% correction but suffers 30-75% capability loss on the same benchmarks -- the correction-capability tradeoff. An ablation shows that the KL preservation term (lambda=0.1) is critical: lowering it to 0.01 degrades correction to 35.0%. A hidden-state injection variant at earlier layers (1.6M params, SFT-only) reaches 50.0%/55.8% but does not exceed logit correction; shallower injection (layer 4) drops to 30.0%/28.3%; multi-depth logit correction (~35M) reaches only 40%; and longer training (5,000 SFT + 2,000 DPO) stays at 53.3% -- none of the alternative configurations we tested exceeded the rank-128 logit result, consistent with a best-achieved result of ~53% rather than a floor. This is a study of a design principle (frozen base + logit correction + KL anchoring), not a claim of architectural novelty. All code, main-result weights, and evaluation scripts are released (deep variant as code only -- no trained deep checkpoints)."
-    },
-    {
-      "id": "live-overall-gpevac-gnn-based-ppo-for-adaptive-evacua",
-      "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
-      "category": "overall",
-      "date": "2026-09-17",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.16163v1 Announce Type: new Abstract: The sharp increase in mass shootings underscores an urgent need for systems that guide victims to safety in real time. An effective ...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.16163",
-      "details": "arXiv:2609.16163v1 Announce Type: new Abstract: The sharp increase in mass shootings underscores an urgent need for systems that guide victims to safety in real time. An effective evacuation system must minimize threat exposure while also accounting for adversarial uncertainty and crowding dynamics. Current methods in the literature are rigidly constrained to layout-specific policies and computationally intractable in large-scale layouts, while practical guidelines simply advise victims to \"run\", \"hide\", or \"fight\". We propose GPEvac: a GNN-based PPO framework that computes adaptive evacuation routes during shooting events. To capture both local and long-distance dependencies, we introduce an edge-first sequential message-passing scheme with a learnable virtual global node. The resulting graph embeddings are integrated into a permutation-invariant scoring mechanism that allows a single learned policy to operate across building layouts of diverse topologies and sizes. Through extensive simulation, we show that GPEvac outperforms intelligent baselines across distinct architectural layouts, significantly reducing total threat exposure. Crucially, the system computes global evacuation routes in just 14.73 ms on local CPU hardware, enabling seamless integration with live surveillance systems. In addition to saving lives during shooting events, the methodologies developed are transferable to other graph-structured decision-making domains, including critical infrastructure, intelligent transportation systems, and adaptive sensor networks."
-    },
-    {
-      "id": "live-overall-position-ai-is-not-ready-for-strategic-c",
-      "title": "Position: AI Is Not Ready for Strategic Conflicts",
-      "category": "overall",
-      "date": "2026-09-17",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.16189v1 Announce Type: new Abstract: Open-ended strategic wargames are high-stakes LM-based social simulations: they model adversaries, institutions, escalation, plan br...",
+      "tldr": "arXiv:2609.17632v1 Announce Type: new Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often contro...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#AgenticAI",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.16189",
-      "details": "arXiv:2609.16189v1 Announce Type: new Abstract: Open-ended strategic wargames are high-stakes LM-based social simulations: they model adversaries, institutions, escalation, plan brittleness, doctrine, and crisis response. Language models (LMs) are attractive because they can play agents, generate scenario branches, adjudicate ambiguous actions, and summarize lessons, but the same affordances make open-ended roles dangerous: model language determines both what an actor attempts and what becomes simulated reality. This position paper argues that no LM-enabled wargame should inform planning, doctrine, policy, or crisis response without an auditable safety case, and that the proper use of open-ended wargames today is to stress-test decision-influencing LM agents. We identify five failure modes: decision laundering, adjudication opacity, role collapse, escalation-through-adjudication, and failure of strategic imagination. Ordinary benchmarks cannot establish safety for these settings. Wargames can expose failures as stress tests; they are not themselves safety cases for consequential use."
+      "sourceUrl": "https://arxiv.org/abs/2609.17632",
+      "details": "arXiv:2609.17632v1 Announce Type: new Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how they gather evidence, invoke tools, verify signals, and manage risk under changing market regimes. We introduce EvolveTrade, a self-evolving framework that treats the system prompt of a tool-using trading agent as a text-parameterized policy. After each update interval, a Policy Agent revises this policy using accumulated decision traces and realized portfolio feedback, while keeping the backbone LLM fixed. The updated policy is then used for the next batch of trading decisions, enabling the agent to refine its information-acquisition and portfolio-construction procedure over time. Experiments across multiple market regimes and two LLM backbones show that EvolveTrade often improves Sharpe Ratio and Cumulative Return over fixed-policy LLM baselines, achieving the improved SR and CR in most evaluated settings. Behavioral analyses further show that self-evolved policies increase code-mediated analysis and activate regime-relevant computations; case-level policy-to-return attributions trace how policy-induced allocation changes contribute to realized return differences. These results suggest that adapting the reusable procedure governing tool use is a key direction for building more robust LLM trading agents."
     },
     {
-      "id": "live-overall-calibrate-then-route-a-measured-study-of",
-      "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+      "id": "live-overall-one-color-preprocessing-improves-dsatur",
+      "title": "One Color Preprocessing Improves DSATUR",
       "category": "overall",
       "date": "2026-09-17",
-      "impact": "HIGH",
+      "impact": "MODERATE",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.16206v1 Announce Type: new Abstract: Disaggregated LLM serving places compute heavy prefill and memory heavy decode on separate GPU pools. Systems such as DistServe, Spl...",
+      "tldr": "arXiv:2609.17633v1 Announce Type: new Abstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings th...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
+        "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.16206",
-      "details": "arXiv:2609.16206v1 Announce Type: new Abstract: Disaggregated LLM serving places compute heavy prefill and memory heavy decode on separate GPU pools. Systems such as DistServe, Splitwise, and Mooncake make this separation fast, but routing still determines which instances handle each request. We study a router that estimates the additional completion time on each instance using exact prompt length, predicted output length, post admission KV cache pressure, and SLO class. We develop the policy in a discrete event simulator and validate it on eight NVIDIA A40 GPUs, each running a vLLM engine, with NIXL transferring KV caches between pools. All workloads run at measured saturation. Across three mixed, bursty arrival traces, the calibrated router achieves the highest mean goodput at 0.864, compared with 0.835 to 0.847 for round robin, least loaded, and a length heuristic. It also shows the lowest variance across traces. It beats round robin and the length heuristic on all three traces and least loaded on two. On the third, it trails by 0.003, within run to run noise. Hardware calibration matters: simulator derived constants cost 4.5 goodput points and roughly 40 percent of the tail latency advantage, reducing the scorer to little more than queue counting. Benefits grow with decode pool size and traffic heterogeneity but disappear in pools with three instances, where queue counts are often enough. Under extreme scarcity, greedy cost minimization concentrates requests on the cheapest scored instance, and blind spreading performs better. With calibrated costs, the learned router matches the goodput of round robin using six GPUs instead of seven."
+      "sourceUrl": "https://arxiv.org/abs/2609.17633",
+      "details": "arXiv:2609.17633v1 Announce Type: new Abstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings that typically use more colors than state-of-the-art coloring algorithms. We propose SSLD (Semidefinite Spectral Learning with DSATUR), which improves DSATUR by preprocessing a first good color class before letting DSATUR complete coloring the rest of the given graph. We obtain this color class from a Semidefinite Programming (SDP), similar to an SDP used to compute the Lov\\'asz theta number. To the best of our knowledge, SSLD is the first approach to improve DSATUR by preprocessing through fixed color classes. We evaluate SSLD against DSATUR and against a naive 1-color-class preprocessing algorithm on DIMACS instances, random graphs (Erd\\H{o}s--R\\'enyi, Watts-Strogatz, Barab\\'asi--Albert), Frequency Assignment and Job Shop Scheduling instances. SSLD matches or beats DSATUR in almost every case across over 1600 benchmark instances, and out performs the naive GISD baseline, allows us to confirm the value brought by the SDP-guided choice of the first color class. This quality comes at a runtime cost of roughly 195 times slower that DSATUR, but demonstrating that SDP-guided preprocessing of a first color class is a direction for future improvements."
+    },
+    {
+      "id": "live-overall-physics-constrained-digital-twins-for-se",
+      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy ",
+      "category": "overall",
+      "date": "2026-09-17",
+      "impact": "MODERATE",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.17635v1 Announce Type: new Abstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top ...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.17635",
+      "details": "arXiv:2609.17635v1 Announce Type: new Abstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as ground truth. We study what happens when it is not. We formalise stealthy false data injection for city-scale pedestrian sensing, where the map from latent flow to observation is far more rank deficient than in the power and water networks for which stealth has been characterised. Our twin estimates directed flows on the pedestrian street graph, assimilates counts through a learned graph-localised gain, and is trained against a flow conservation residual that couples metered and unmetered segments. Detection combines the innovation with that residual, and the alarm threshold is set by adaptive conformal calibration rather than by hand. To measure what the physics buys, we define the attack margin, the relative reduction in worst-case corruption of the estimated flow field, achieved against a white-box adversary that optimises directly through the twin. On six years of Melbourne data the margin reaches 0.54 against a single compromised device and falls to 0.19 when a third of the fleet is compromised, on a network where only 1.18 per cent of walkable segments are metered. Replacing the street graph by a distance graph collapses it to 0.09, which shows that the gain comes from the conservation law rather than from locality."
+    },
+    {
+      "id": "live-overall-what-you-can-t-see-is-still-what-you-lea",
+      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence",
+      "category": "overall",
+      "date": "2026-09-17",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.17637v1 Announce Type: new Abstract: Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation with si...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.17637",
+      "details": "arXiv:2609.17637v1 Announce Type: new Abstract: Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation with sixty four-cell systems sharing a frozen language-model backbone and communicating through learned continuous packets. Five conditions vary evidence masking, ownership markers, and replacement of foreign evidence with neutral filler, across six initialization clusters, each with two data orders, on one fresh task world. With markers available in both regimes, masking improved accuracy on held-out two- and three-operation compositions by median paired differences of 0.846 and 0.859; all twelve pairs cleared the required margins, and the full preregistered behavioral criterion passed. The unmarked replication also passed. No globally visible system passed the marker-following check, so the effect of usable role information remains unresolved. The filler condition yielded seven full generalizers, but its decomposition criteria were inconclusive. Packet interventions in all eighteen audited masked systems followed the predicted intermediate-value changes on eligible cases; these finite, success-conditioned audits do not establish mediation. The results confirm a large advantage of the tested masking regime, while leaving its finer attribution and generality open. Protocols, results, and checkpoints are public."
     },
     {
       "id": "live-agentic_ai-your-agent-aced-the-task-will-it-do-it-a",
@@ -285,98 +284,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
-      "title": "Agentic AI cringe wars [video]",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
-      "details": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-codename-mdash-brings-agentic-ai-securit",
-      "title": "Codename MDASH brings agentic AI security scanning to US Government",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https:...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Microsoft",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
-      "details": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https://news.ycombinator.com/item?id=49682988 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentsdock-an-ide-designed-for-agentic-a",
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://agentsdock.net/",
-      "details": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33"
-    },
-    {
-      "id": "live-agentic_ai-teaching-novice-computing-and-programmin",
-      "title": "Teaching Novice Computing and Programming in the Agentic AI Era [pdf]",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points:...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf",
-      "details": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points: 3 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-teaching-novice-computing-and-programmin",
-      "title": "Teaching Novice Computing and Programming in the Agentic AI Era",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49669144 Points: 1 # Comm...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/",
-      "details": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49669144 Points: 1 # Comments: 0"
-    },
-    {
       "id": "live-models-helping-older-adults-use-ai-in-everyday-",
       "title": "Helping older adults use AI in everyday life",
       "category": "models",
@@ -389,8 +296,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "details": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
@@ -427,8 +334,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "details": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
@@ -446,8 +353,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
       "details": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
@@ -465,9 +372,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/unlocking-new-ways-of-working",
       "details": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
@@ -503,10 +410,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Google",
-        "#Governance",
-        "#UnitedNations"
+        "#NVIDIA",
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
       "details": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use [\u2026]"
@@ -524,8 +431,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
       "details": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help \u2014 but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the [\u2026]"
@@ -543,9 +450,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#NVIDIA",
-        "#Reasoning",
-        "#UnitedNations"
+        "#Reasoning"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
       "details": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa \u2014 Salesforce\u2019s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn\u2019t just take the stage. He walked into [\u2026]"
@@ -563,9 +470,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#NVIDIA",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
       "details": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others \u2014 his team at Emerald AI in their San Francisco conference room, engineers [\u2026]"
@@ -673,8 +580,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/pentagon-battles-moon-joint-chiefs-chairman/416021/",
       "details": "Days after orbital weapons were revealed, Gen. Dan Caine ups the scope of the military\u2019s desired reach."
@@ -696,6 +603,24 @@
       ],
       "sourceUrl": "https://www.defenseone.com/ideas/2026/09/how-maga-influencer-ties-russia-became-trumps-arctic-adviser/416013/",
       "details": "As Thomas Dans holds forth in the U.S. and abroad, it\u2019s not always clear where the administration\u2019s agenda ends and his own begins."
+    },
+    {
+      "id": "live-military-agencies-spent-nearly-10-billion-for-fed",
+      "title": "Agencies spent nearly $10 billion for feds not to work in 2025",
+      "category": "military",
+      "date": "2026-09-17",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "The use of paid administrative leave as part of the Trump administration\u2019s deferred resignation program, an effort to entice federal workers to quit, across government in 2025 was ...",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/09/agencies-spent-nearly-10-billion-feds-not-work-2025/416041/",
+      "details": "The use of paid administrative leave as part of the Trump administration\u2019s deferred resignation program, an effort to entice federal workers to quit, across government in 2025 was 435% higher than two years prior, according to a new GAO report."
     },
     {
       "id": "live-military-nga-official-takes-top-ai-job-at-cyber-c",
@@ -732,24 +657,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/orbit-weapons-space-force-leader/415999/",
       "details": "Russian and Chinese advances led to the revelation, Gen. Douglas Schiess says at AFA."
-    },
-    {
-      "id": "live-military-iran-strikes-exposed-gaps-in-medical-eva",
-      "title": "Iran strikes exposed gaps in medical evacuation ops across Middle East: IG",
-      "category": "military",
-      "date": "2026-09-17",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "Medical professionals have long warned that drones would cause higher U.S. battlefield casualties. A new Inspector General report shows the military is still scrambling to meet tha...",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/09/iran-strikes-exposed-gaps-medical-evacuation-ops-across-middle-east-ig/415988/",
-      "details": "Medical professionals have long warned that drones would cause higher U.S. battlefield casualties. A new Inspector General report shows the military is still scrambling to meet that challenge."
     },
     {
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
@@ -842,6 +749,48 @@
       "details": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16."
     },
     {
+      "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
+      "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
+      "category": "governance",
+      "date": "2026-09-17",
+      "impact": "HIGH",
+      "company": "EU Digital Strategy",
+      "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 Today, the European Commission has adopted the EU KIDS...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
+      "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 Today, the European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - an overview KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
+    },
+    {
+      "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
+      "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
+      "category": "governance",
+      "date": "2026-09-17",
+      "impact": "MODERATE",
+      "company": "EU Digital Strategy",
+      "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
+      "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. Below you can download the proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy', together with the Communication and the Staff Working Document (SWD) accompanying it. Find further information: Press release KIDS Act - an overview KIDS Act - questions and answers Downloads 1 - Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Download&nbsp; 2 - Communication accompanying the KIDS Act - An EU approach to online child safety Download&nbsp; 3 - Staff Working Document (SWD) - Analysis of Impacts accoumpaning the proposal for EU kids Act Download&nbsp; Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUToday, the European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
+    },
+    {
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
@@ -854,8 +803,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -873,10 +822,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -894,52 +843,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
       "details": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply AI Startup Award and learn more about the European AI innovation ecosystem. The Apply AI Startup Award recognises innovative European startups and scaleups developing AI solutions in the 11 strategic sectors covered by the Apply AI Strategy. In July, national startup associations nominated 24 European AI startups and scaleups across 16 Member States. Independent experts are currently evaluating the nominations and will choose the top 10 finalists for the pitching event. Each startup will have 3 minutes to pitch their AI solution and convince the jury. After the pitching session the jury will select the 3 winners. Among other rewards, they will be invited to pitch their solution and receive a trophy and certificate on the main stage of the Apply AI Summit. Registration Click and fill the form to register Agenda 14:00-15:30 CET(to be confirmed) Welcome and introduction Part I - Pitches&nbsp; Presentation from the AI Office Part II - Pitches Conclusion Jury &amp; finalists The jury members and the top 10 Finalists will be announced soon. Registration form Related topics Events Artificial intelligence Apply AI Summit"
-    },
-    {
-      "id": "live-governance-call-for-tenders-study-on-how-online-mar",
-      "title": "Call for tenders: Study on how online marketplace design influences user behaviour",
-      "category": "governance",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "EU Digital Strategy",
-      "tldr": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 2...",
-      "specs": {
-        "source": "EU Digital Strategy",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
-      "details": "Call for tenders: Study on how online marketplace design influences user behaviour Anonymous (not verified) Tue, 08/18/2026 - 11:13 &nbsp; Opening: 17 August 2026 &nbsp; Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trader information), and Article 31 (compliance by design) of the DSA. This report will be empirical in scope. It is intended to produce observational data on user behaviour and experience, rather than legal assessments or compliance determinations, which remain the exclusive responsibility of the European Commission. Results are expected to be presented per platform and not intended for cross-platform comparison or ranking. The study will include: Data collection: gathering evidence and data on the real user interactions with DSA-mandated features on selected VLOMs, and proposing a methodology for the structured, comparable data collection and analysis. Presentation of results: providing a structured presentation of the observational data collected, together with the supporting documentation, and a description of the methodology used. The 8-month contract has a maximum value of EUR 400 000. This call may be of particular interest to organisations with expertise in: user experience and behavioural research quantitative or mixed-methods research data analysis dataset development Interested organisations are invited to consult the tender documentation and submit their proposals. Any questions should be submitted via the dedicated platform. Find more information and instructions on how to submit the tender Related topics Online platforms and e-commerce DSA - Digital Services Act"
-    },
-    {
-      "id": "live-governance-join-the-inaugural-d-tect-forum",
-      "title": "Join the Inaugural D-TECT Forum",
-      "category": "governance",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "EU Digital Strategy",
-      "tldr": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mecha...",
-      "specs": {
-        "source": "EU Digital Strategy",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
-      "details": "Join the Inaugural D-TECT Forum lobacni Mon, 08/10/2026 - 14:07 &nbsp; 11 November 2026 The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mechanism for drone and counter-drone technologies. \u00a9 Marcus Jacobi The European Commission invites interested organisations to join the inaugural D-Tect Forum on 11 November 2026. We are looking for companies, research organisations, universities, industry associations, standardisation bodies and innovation networks active in the drones domain. The inaugural Forum aims to gather 100+ high-level leaders to advance Europe\u2019s ambitions in Drone and Counter-Drone technology. Participants will explore near-term cooperation across the full drone and counter-drone value chain, including detection, tracking and neutralisation systems, autonomy and AI-enabled navigation, sensing and electronic warfare, secure connectivity, and the enabling technologies that underpin them, such as semiconductors, cloud, cyber and data. The priorities and composition of the thematic Working Groups will be defined during the Forum. To participate in the event, please submit your application. This form is also a registration to the Call of Expression of Interest to join future events of the D-TECT forum. Please note that submitting an application does not by itself confirm your registration for the inaugural Forum. Further, results of membership applications will be communicated after the event. Downloads Call for Expression of interest - \u200b\u200b\u200bDrone Tech for Countering Threats Forum\u200b Download&nbsp; Privacy statement - Drone Tech for Countering Threats (D-TECT) Forum Download&nbsp; Terms of reference - Drone Tech for Countering Threats Forum Download&nbsp; Related topics Cybersecurity Tech sovereignty Hybrid security threats"
     },
     {
       "id": "live-multilateral-who-should-set-the-rules-for-ai-the-un-i",
