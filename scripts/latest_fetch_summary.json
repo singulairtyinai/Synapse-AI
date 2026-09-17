@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-17T16:28:56.391852",
-  "fetched_count": 55,
+  "timestamp": "2026-09-17T22:42:38.171106",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-the-download-mice-with-part-human-brains",
@@ -87,8 +87,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#OpenAI",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
@@ -126,10 +126,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#AgenticAI",
-        "#EUAIAct"
+        "#Governance",
+        "#EUAIAct",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.17632",
       "details": "arXiv:2609.17632v1 Announce Type: new Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how they gather evidence, invoke tools, verify signals, and manage risk under changing market regimes. We introduce EvolveTrade, a self-evolving framework that treats the system prompt of a tool-using trading agent as a text-parameterized policy. After each update interval, a Policy Agent revises this policy using accumulated decision traces and realized portfolio feedback, while keeping the backbone LLM fixed. The updated policy is then used for the next batch of trading decisions, enabling the agent to refine its information-acquisition and portfolio-construction procedure over time. Experiments across multiple market regimes and two LLM backbones show that EvolveTrade often improves Sharpe Ratio and Cumulative Return over fixed-policy LLM baselines, achieving the improved SR and CR in most evaluated settings. Behavioral analyses further show that self-evolved policies increase code-mediated analysis and activate regime-relevant computations; case-level policy-to-return attributions trace how policy-induced allocation changes contribute to realized return differences. These results suggest that adapting the reusable procedure governing tool use is a key direction for building more robust LLM trading agents."
@@ -147,8 +147,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.17633",
@@ -186,8 +186,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.17637",
@@ -284,96 +284,22 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
-      "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
-      "category": "agentic_ai",
+      "id": "live-models-introducing-astra-for-law",
+      "title": "Introducing Astra for Law",
+      "category": "models",
       "date": "2026-09-17",
       "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "specs": {
-        "source": "HackerNews Agentic AI",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI"
+        "#OpenAI"
       ],
-      "sourceUrl": "https://geekyants.com/antflow-ai",
-      "details": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://news.ycombinator.com/item?id=49739484 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
-      "title": "Agentic AI cringe wars [video]",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
-      "details": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-codename-mdash-brings-agentic-ai-securit",
-      "title": "Codename MDASH brings agentic AI security scanning to US Government",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https:...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#Microsoft",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
-      "details": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https://news.ycombinator.com/item?id=49682988 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentsdock-an-ide-designed-for-agentic-a",
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://agentsdock.net/",
-      "details": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33"
-    },
-    {
-      "id": "live-agentic_ai-teaching-novice-computing-and-programmin",
-      "title": "Teaching Novice Computing and Programming in the Agentic AI Era [pdf]",
-      "category": "agentic_ai",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points:...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf",
-      "details": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points: 3 # Comments: 0"
+      "sourceUrl": "https://openai.com/index/astra-for-law",
+      "details": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
     },
     {
       "id": "live-models-helping-older-adults-use-ai-in-everyday-",
@@ -388,8 +314,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI"
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "details": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
@@ -407,8 +333,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai",
       "details": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
@@ -426,8 +352,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "details": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
@@ -445,31 +371,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
       "details": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
-    },
-    {
-      "id": "live-models-how-workers-are-unlocking-new-ways-of-wo",
-      "title": "How workers are unlocking new ways of working",
-      "category": "models",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#OpenAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://openai.com/index/unlocking-new-ways-of-working",
-      "details": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
     },
     {
       "id": "live-companies-cute-critters-come-to-the-cloud-aniimo-l",
@@ -562,11 +468,30 @@
       },
       "tags": [
         "#UnitedNations",
-        "#NVIDIA",
-        "#Reasoning"
+        "#Reasoning",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
       "details": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa \u2014 Salesforce\u2019s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn\u2019t just take the stage. He walked into [\u2026]"
+    },
+    {
+      "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
+      "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
+      "category": "fellowships",
+      "date": "2026-09-17",
+      "impact": "MODERATE",
+      "company": "NSF News",
+      "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
+      "specs": {
+        "source": "NSF News",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
+      "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
     },
     {
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
@@ -587,24 +512,6 @@
       "details": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics..."
     },
     {
-      "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
-      "title": "Podcast: Creating thermal cloaking and new structures",
-      "category": "fellowships",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "NSF News",
-      "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
-      "specs": {
-        "source": "NSF News",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.nsf.gov/news/podcast-creating-thermal-cloaking-new-structures",
-      "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
-    },
-    {
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
       "title": "NSF launches $20M pilot to accelerate commercialization of promising deep technologies from small bu",
       "category": "fellowships",
@@ -621,6 +528,24 @@
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-launches-20m-pilot-accelerate-commercialization",
       "details": "The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventures. The pilot aims to address a persistent gap separating federally\u2026"
+    },
+    {
+      "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
+      "title": "Podcast: Creating thermal cloaking and new structures",
+      "category": "fellowships",
+      "date": "2026-09-17",
+      "impact": "MODERATE",
+      "company": "NSF News",
+      "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
+      "specs": {
+        "source": "NSF News",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.nsf.gov/news/podcast-creating-thermal-cloaking-new-structures",
+      "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
       "id": "live-fellowships-nsf-leadership-in-a-new-golden-age-of-sc",
@@ -641,22 +566,22 @@
       "details": "The U.S. National Science Foundation was established in 1950 to keep American discovery at the frontier. That mission has not changed. The science and technology ecosystem around it has..."
     },
     {
-      "id": "live-fellowships-podcast-ai-and-wearable-devices",
-      "title": "Podcast: AI and wearable devices",
-      "category": "fellowships",
+      "id": "live-military-defense-business-brief-dispatch-from-afa",
+      "title": "Defense Business Brief: Dispatch from AFA\u2019s Air, Space, & Cyber 2026",
+      "category": "military",
       "date": "2026-09-17",
       "impact": "MODERATE",
-      "company": "NSF News",
-      "tldr": "Mark Hersam an NSF-supported researcher, discusses nanoelectronic materials and how a cerebellum-inspired approach may transform how AI performs in wearable devices...",
+      "company": "Defense One AI",
+      "tldr": "",
       "specs": {
-        "source": "NSF News",
+        "source": "Defense One AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#DefenseAI"
       ],
-      "sourceUrl": "https://www.nsf.gov/news/podcast-ai-wearable-devices",
-      "details": "Mark Hersam an NSF-supported researcher, discusses nanoelectronic materials and how a cerebellum-inspired approach may transform how AI performs in wearable devices..."
+      "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-dispatch-afas-air-space-cyber-2026/416055/",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-military-the-pentagon-must-prepare-for-battles-ar",
@@ -671,8 +596,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/pentagon-battles-moon-joint-chiefs-chairman/416021/",
       "details": "Days after orbital weapons were revealed, Gen. Dan Caine ups the scope of the military\u2019s desired reach."
@@ -730,24 +655,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/nga-official-assumes-top-ai-role-cyber-command/416014/",
       "details": "Ronzelle Green succeeds Reid Novotny, who pushed the combatant command to embrace the technology."
-    },
-    {
-      "id": "live-military-it-was-time-to-admit-us-has-weapons-in-o",
-      "title": "\u2018It was time\u2019 to admit US has weapons in orbit, Space Force\u2019s new leader says",
-      "category": "military",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Russian and Chinese advances led to the revelation, Gen. Douglas Schiess says at AFA.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/09/orbit-weapons-space-force-leader/415999/",
-      "details": "Russian and Chinese advances led to the revelation, Gen. Douglas Schiess says at AFA."
     },
     {
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
@@ -853,8 +760,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
@@ -874,8 +781,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
@@ -914,8 +821,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
@@ -939,97 +846,6 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
       "details": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply AI Startup Award and learn more about the European AI innovation ecosystem. The Apply AI Startup Award recognises innovative European startups and scaleups developing AI solutions in the 11 strategic sectors covered by the Apply AI Strategy. In July, national startup associations nominated 24 European AI startups and scaleups across 16 Member States. Independent experts are currently evaluating the nominations and will choose the top 10 finalists for the pitching event. Each startup will have 3 minutes to pitch their AI solution and convince the jury. After the pitching session the jury will select the 3 winners. Among other rewards, they will be invited to pitch their solution and receive a trophy and certificate on the main stage of the Apply AI Summit. Registration Click and fill the form to register Agenda 14:00-15:30 CET(to be confirmed) Welcome and introduction Part I - Pitches&nbsp; Presentation from the AI Office Part II - Pitches Conclusion Jury &amp; finalists The jury members and the top 10 Finalists will be announced soon. Registration form Related topics Events Artificial intelligence Apply AI Summit"
-    },
-    {
-      "id": "live-multilateral-yemen-escalation-displaces-more-than-57-",
-      "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
-      "category": "multilateral",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168354",
-      "details": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict."
-    },
-    {
-      "id": "live-multilateral-as-freshwater-reserves-shrink-countries-",
-      "title": "As freshwater reserves shrink, countries must prepare for a new water reality",
-      "category": "multilateral",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The world is entering a period in which abnormal water supplies are becoming the norm, with river flows, groundwater and glaciers all showing signs of sustained disruption, the UN ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168350",
-      "details": "The world is entering a period in which abnormal water supplies are becoming the norm, with river flows, groundwater and glaciers all showing signs of sustained disruption, the UN weather agency warned on Thursday.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-who-should-set-the-rules-for-ai-the-un-i",
-      "title": "Who should set the rules for AI? The UN is pushing for a safer digital future",
-      "category": "multilateral",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can capture its benefits while managing risks that often extend beyond nati...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168353",
-      "details": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can capture its benefits while managing risks that often extend beyond national borders."
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-shipping-alert-from-",
-      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political",
-      "category": "multilateral",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168352",
-      "details": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a \u201cpretext\u201d to target \u201cinnocent seafarers\u201d."
-    },
-    {
-      "id": "live-multilateral-repression-continues-in-venezuela-in-the",
-      "title": "Repression continues in Venezuela in the face of \u2018appalling\u2019 human rights violations",
-      "category": "multilateral",
-      "date": "2026-09-17",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "In Venezuela\u2019s El Rodeo maximum security prison, some of those detained for political reasons are subject to forced intubation \u2013 and prolonged confinement in a sealed underground c...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168351",
-      "details": "In Venezuela\u2019s El Rodeo maximum security prison, some of those detained for political reasons are subject to forced intubation \u2013 and prolonged confinement in a sealed underground cistern.&nbsp;"
     }
   ]
 }
