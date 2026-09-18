@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-18T16:00:47.136165",
-  "fetched_count": 50,
+  "timestamp": "2026-09-18T22:22:19.107048",
+  "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-the-download-ai-s-extinction-risk-and-bi",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Anthropic"
+        "#Anthropic",
+        "#OpenAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
       "details": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: \u201cI agree with Dario that we need to pace the&#8230;"
@@ -106,8 +106,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19170",
       "details": "arXiv:2609.19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property determines constant-stepsize sampled dynamics. We construct an ergodic two-state counterexample in which the ETD mean map contracts while the sampled product has a positive top Lyapunov exponent. Regenerative-cycle analysis separates this sign from the infinite variance of the follow-on trace. We introduce regularized emphatic TD (RETD), a normalized first-order post-shock repair that leaves the trace and importance ratios unchanged, stores the emphatic TD signal in a leaky scalar state, and releases a delayed correction. RETD's raw equilibrium is an affine shift of the ETD equilibrium; single- and two-regularization readouts recover the ETD fixed point exactly. We prove almost-sure convergence for harmonic diminishing stepsizes and a conditional constant-stepsize moment-contraction result from a Markovian random-product bound. RETD has certified negative exponents on the two-state construction and one Baird point, whereas the positive Baird ETD sign remains numerical. Paired 10,000-run experiments validate both separations, fixed-point recovery, a nonmonotone stability region, and task dependence. RETD changes post-shock dynamics; it does not reduce the shared follow-on-trace variance."
@@ -125,10 +125,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DeepSeek",
-        "#Governance",
-        "#AgenticAI",
         "#UnitedNations",
+        "#AgenticAI",
+        "#Governance",
+        "#DeepSeek",
         "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19180",
@@ -147,9 +147,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19182",
       "details": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We systematically map 14,767 papers introducing or updating evaluation resources from arXiv submissions between January 2022 and August 2026. Using staged screening and automated full-text coding, we examine changes in target systems and domains, evaluation materials and conditions, and scoring mechanisms. The collection shows growing emphasis on action, interaction, and professional applications, while established and newer design elements frequently coexist. Model participation also develops unevenly: LLM-based scoring grows within both agent and non-agent groups, whereas model-generated materials show no comparable sustained increase in recent cohorts. These findings illuminate how public research translates capability expectations into concrete tests and criteria for success. As AI participates in constructing tests, performing tasks, and judging responses, they also raise a question: does expanding evaluation provide more independent evidence, or risk reproducing the preferences and blind spots of its participating models?"
@@ -167,9 +167,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19203",
       "details": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This position paper argues that the field now needs a Foundation Model Operating System (FMOS) -- a system layer that virtualizes FM interactions analogous to how virtual machines abstract physical hardware, giving applications the illusion of dedicated, trustworthy FM instances with effectively unbounded capabilities. Internally, the FMOS orchestrates knowledge across memory tiers, model selection and resource allocation, and verification and policy enforcement. Like the human brain switching between fast intuition and slow deliberation, the FMOS learns when to intervene and when to let inference proceed directly and continuously adapting its policies based on operational experience."
@@ -187,9 +187,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Reasoning",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19212",
       "details": "arXiv:2609.19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigorously under controlled settings. Existing studies therefore rely on simplifications such as approximately linear action composition, productivity-based tests, and action-explicit goals, which make systematic generalization easier to study but omit some essential aspects of this capability. To characterize what these simplifications miss, we adopt a reasoning-centered lens and introduce TranSGrid, a testbed that brings deductive, inductive, and abductive reasoning together within a unified task. Experiments with seven Transformers on 4,800 TranSGrid instances show that all models perform much worse on TranSGrid than on a held-out test set: the largest model solves 79.6% of the test set, but only 55.3% of TranSGrid and 15.8% of the hardest subset. The gap remains within the training length range, showing that productivity alone is not sufficient to evaluate systematic generalization. Additionally, we reintroduce the other two simplifications into TranSGrid: one variant makes actions compose almost linearly (reducing the inductive demand), the other makes goals action-explicit (reducing the abductive one). In both, solve rates return to roughly the test set level, showing that either simplification alone is enough to reduce TranSGrid to an ordinary held-out test set. Together, our results show that existing tasks reduce either or both of the inductive and abductive demands, and that comprehensively measuring systematic generalization requires a task that involves all three forms of reasoning."
@@ -285,6 +285,98 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
+      "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
+      "category": "agentic_ai",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://geekyants.com/antflow-ai",
+      "details": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://news.ycombinator.com/item?id=49739484 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
+      "title": "Agentic AI cringe wars [video]",
+      "category": "agentic_ai",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
+      "details": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-codename-mdash-brings-agentic-ai-securit",
+      "title": "Codename MDASH brings agentic AI security scanning to US Government",
+      "category": "agentic_ai",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#AgenticAI",
+        "#Microsoft"
+      ],
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
+      "details": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https://news.ycombinator.com/item?id=49682988 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentsdock-an-ide-designed-for-agentic-a",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "category": "agentic_ai",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 32",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://agentsdock.net/",
+      "details": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 32"
+    },
+    {
+      "id": "live-agentic_ai-teaching-novice-computing-and-programmin",
+      "title": "Teaching Novice Computing and Programming in the Agentic AI Era [pdf]",
+      "category": "agentic_ai",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf",
+      "details": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points: 3 # Comments: 0"
+    },
+    {
       "id": "live-models-how-cooley-is-accelerating-ipo-work-with",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "category": "models",
@@ -333,8 +425,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "details": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
@@ -352,30 +444,31 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai",
       "details": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
     },
     {
-      "id": "live-models-how-to-connect-ai-usage-to-business-valu",
-      "title": "How to connect AI usage to business value",
+      "id": "live-models-hex-turns-complex-analysis-into-visual-r",
+      "title": "Hex turns complex analysis into visual reports with GPT\u20116 Astra",
       "category": "models",
       "date": "2026-09-18",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "tldr": "GPT-6 Astra helps Hex\u2019s data agents turn answers into interactive visualizations that employees are proud to share.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#Governance",
+        "#AgenticAI",
+        "#OpenAI"
       ],
-      "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "details": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+      "sourceUrl": "https://openai.com/index/hex-gpt-6-astra",
+      "details": "GPT-6 Astra helps Hex\u2019s data agents turn answers into interactive visualizations that employees are proud to share."
     },
     {
       "id": "live-companies-cute-critters-come-to-the-cloud-aniimo-l",
@@ -390,8 +483,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
       "details": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio\u2019s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce NOW, alongside a smashing limited-time Deluxe Edition sale on [\u2026]"
@@ -427,10 +520,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Google",
-        "#Governance",
         "#NVIDIA",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
       "details": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use [\u2026]"
@@ -448,8 +541,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
       "details": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help \u2014 but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the [\u2026]"
@@ -467,9 +560,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Reasoning",
-        "#NVIDIA",
-        "#UnitedNations"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
       "details": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa \u2014 Salesforce\u2019s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn\u2019t just take the stage. He walked into [\u2026]"
@@ -487,8 +580,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -566,6 +659,24 @@
       "details": "The U.S. National Science Foundation was established in 1950 to keep American discovery at the frontier. That mission has not changed. The science and technology ecosystem around it has..."
     },
     {
+      "id": "live-military-pete-hegseth-is-rebuilding-the-military-",
+      "title": "Pete Hegseth is rebuilding the military's \u2018brass ceiling\u2019",
+      "category": "military",
+      "date": "2026-09-18",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "The SecDef says his ideological approach to promotion is helping recruiting. Surveys don't back that up.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/pete-hegseth-military-brass-ceiling/416082/",
+      "details": "The SecDef says his ideological approach to promotion is helping recruiting. Surveys don't back that up."
+    },
+    {
       "id": "live-military-space-force-braces-for-stalled-progress-",
       "title": "Space Force braces for stalled progress amid lack of full funding",
       "category": "military",
@@ -632,29 +743,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/pentagon-battles-moon-joint-chiefs-chairman/416021/",
       "details": "Days after orbital weapons were revealed, Gen. Dan Caine ups the scope of the military\u2019s desired reach."
-    },
-    {
-      "id": "live-military-how-a-maga-influencer-with-ties-to-russi",
-      "title": "How a MAGA influencer with ties to Russia became Trump\u2019s Arctic adviser",
-      "category": "military",
-      "date": "2026-09-18",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "As Thomas Dans holds forth in the U.S. and abroad, it\u2019s not always clear where the administration\u2019s agenda ends and his own begins.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/how-maga-influencer-ties-russia-became-trumps-arctic-adviser/416013/",
-      "details": "As Thomas Dans holds forth in the U.S. and abroad, it\u2019s not always clear where the administration\u2019s agenda ends and his own begins."
     },
     {
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
@@ -669,9 +762,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -761,9 +854,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#EUAIAct",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -781,10 +874,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
+        "#UnitedNations",
         "#EUAIAct",
-        "#UnitedNations"
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - an overview KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -802,10 +895,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
+        "#UnitedNations",
         "#EUAIAct",
-        "#UnitedNations"
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. Below you can download the proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy', together with the Communication and the Staff Working Document (SWD) accompanying it. Find further information: Press release KIDS Act - an overview KIDS Act - questions and answers Downloads 1 - Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Download&nbsp; 2 - Communication accompanying the KIDS Act - An EU approach to online child safety Download&nbsp; 3 - Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Download&nbsp; Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -823,8 +916,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -842,22 +935,22 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
+        "#UnitedNations",
         "#EUAIAct",
-        "#UnitedNations"
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
     },
     {
-      "id": "live-multilateral-haiti-child-malnutrition-crisis-worsens-",
-      "title": "Haiti: Child malnutrition crisis worsens amid escalating violence",
+      "id": "live-multilateral-violence-will-only-defer-a-problem-un-as",
+      "title": "\u2018Violence will only defer a problem\u2019: UN Assembly President on trust, AI and lessons from the Rohing",
       "category": "multilateral",
       "date": "2026-09-18",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Haiti is facing a worsening child malnutrition crisis, with an estimated 253,725 children aged 6 to 59 months projected to suffer from acute malnutrition between June 2026 and May ...",
+      "tldr": "Khalilur Rahman took the gavel as President of the UN&nbsp;General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served \u2013 in one capa...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -865,35 +958,36 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168366",
-      "details": "Haiti is facing a worsening child malnutrition crisis, with an estimated 253,725 children aged 6 to 59 months projected to suffer from acute malnutrition between June 2026 and May 2027, new UN-backed analysis has revealed.&nbsp;&nbsp;&nbsp;"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168375",
+      "details": "Khalilur Rahman took the gavel as President of the UN&nbsp;General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served \u2013 in one capacity or another \u2013 for 35 years.&nbsp;"
     },
     {
-      "id": "live-multilateral-nepal-floods-apocalyptic-destruction-sig",
-      "title": "Nepal floods: \u2018Apocalyptic\u2019 destruction signals wider climate threat across Himalayas",
+      "id": "live-multilateral-security-council-live-un-peacekeeping-un",
+      "title": "Security Council LIVE: UN peacekeeping under pressure",
       "category": "multilateral",
       "date": "2026-09-18",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The catastrophic flooding that swept away entire villages in northern Nepal could occur again in the country or elsewhere in the Himalayas due to climate change.",
+      "tldr": "UN peacekeepers have increasingly been sent into places where there is no peace to keep \u2013 under resourced, outgunned and exposed to violence they are not equipped to counter. The S...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168365",
-      "details": "The catastrophic flooding that swept away entire villages in northern Nepal could occur again in the country or elsewhere in the Himalayas due to climate change."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168376",
+      "details": "UN peacekeepers have increasingly been sent into places where there is no peace to keep \u2013 under resourced, outgunned and exposed to violence they are not equipped to counter. The Security Council meets this afternoon in New York to confront that problem, with Secretary-General Ant\u00f3nio Guterres briefing ambassadors on how to close the gap."
     },
     {
-      "id": "live-multilateral-yemen-s-humanitarian-crisis-growing-by-t",
-      "title": "Yemen\u2019s humanitarian crisis growing by the hour amid spike in displacement",
+      "id": "live-multilateral-sexual-violence-against-civilians-and-po",
+      "title": "Sexual violence against civilians and POW\u2019s in Ukraine widespread and \u2018abhorrent\u2019",
       "category": "multilateral",
       "date": "2026-09-18",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic...",
+      "tldr": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia\u2019s invasion to the end of July this year.",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -901,46 +995,44 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168364",
-      "details": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168374",
+      "details": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia\u2019s invasion to the end of July this year."
     },
     {
-      "id": "live-multilateral-new-un-system-platform-puts-millions-of-",
-      "title": "New UN system platform puts millions of data points at users\u2019 fingertips, says Guterres",
+      "id": "live-multilateral-less-than-4-years-from-development-goals",
+      "title": "Less than 4 years from development goals deadline, progress shows what\u2019s possible",
       "category": "multilateral",
       "date": "2026-09-18",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "How do you make sense of a world facing interconnected crises, from poverty and hunger to climate change, if the facts are scattered across dozens of different places?",
+      "tldr": "For Benin, making progress on the UN\u2019s Sustainable Development Goals (SDGs) has meant finding new ways to finance development.",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168363",
-      "details": "How do you make sense of a world facing interconnected crises, from poverty and hunger to climate change, if the facts are scattered across dozens of different places?"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168371",
+      "details": "For Benin, making progress on the UN\u2019s Sustainable Development Goals (SDGs) has meant finding new ways to finance development."
     },
     {
-      "id": "live-multilateral-world-news-in-brief-winter-aid-for-gaza-",
-      "title": "World News in Brief: Winter aid for Gaza, West Bank; Haiti food production; migrant deaths at sea; h",
+      "id": "live-multilateral-women-and-girls-pay-high-price-in-dr-con",
+      "title": "Women and girls pay high price in DR Congo Ebola outbreak",
       "category": "multilateral",
       "date": "2026-09-18",
-      "impact": "HIGH",
+      "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The UN Children\u2019s Fund (UNICEF) is seeking to raise $97.5 million to protect 540,000 children and their families in Gaza and the West Bank from harsh winter conditions in the comin...",
+      "tldr": "The deadly Ebola outbreak in the Democratic Republic of the Congo (DRC) has taken a disproportionate toll on women and girls, many of whom are on the frontlines caring for patients...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Fellowship",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168362",
-      "details": "The UN Children\u2019s Fund (UNICEF) is seeking to raise $97.5 million to protect 540,000 children and their families in Gaza and the West Bank from harsh winter conditions in the coming months."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168368",
+      "details": "The deadly Ebola outbreak in the Democratic Republic of the Congo (DRC) has taken a disproportionate toll on women and girls, many of whom are on the frontlines caring for patients as well as their own families despite the high risk of infection."
     }
   ]
 }
