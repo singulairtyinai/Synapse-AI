@@ -1,7 +1,62 @@
 {
-  "timestamp": "2026-09-18T08:52:30.282418",
+  "timestamp": "2026-09-18T16:00:47.136165",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-the-download-ai-s-extinction-risk-and-bi",
+      "title": "The Download: AI\u2019s extinction risk and bioweapons threat",
+      "category": "overall",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Y...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;"
+    },
+    {
+      "id": "live-overall-could-ai-really-kill-us-all-your-questio",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "category": "overall",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "details": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;"
+    },
+    {
+      "id": "live-overall-the-specter-of-ai-enabled-bioweapons-is-",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "category": "overall",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that A...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#Anthropic"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "details": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: \u201cI agree with Dario that we need to pace the&#8230;"
+    },
     {
       "id": "live-overall-the-download-mice-with-part-human-brains",
       "title": "The Download: mice with part-human brains and climate tech innovators",
@@ -39,62 +94,6 @@
       "details": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35\u2014a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate&#8230;"
     },
     {
-      "id": "live-overall-meet-a-mouse-whose-brain-cortex-is-made-",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "category": "overall",
-      "date": "2026-09-18",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch th...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "details": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;"
-    },
-    {
-      "id": "live-overall-building-the-materials-foundation-for-ai",
-      "title": "Building the materials foundation for AI",
-      "category": "overall",
-      "date": "2026-09-18",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms ru...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "details": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-ai-s-trillion-dollar-gamble",
-      "title": "The Download: AI\u2019s trillion-dollar gamble and OpenAI\u2019s biology data bid",
-      "category": "overall",
-      "date": "2026-09-18",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s at stake in AI\u2019s trilli...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#OpenAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s at stake in AI\u2019s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI\u2019s impact on the economy over the next few years,&#8230;"
-    },
-    {
       "id": "live-overall-regularized-emphatic-temporal-difference",
       "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
       "category": "overall",
@@ -126,11 +125,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Reasoning",
         "#DeepSeek",
         "#Governance",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#UnitedNations",
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19180",
       "details": "arXiv:2609.19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require grounding observed data in source evidence, interpreting it through a quantitative physics model, and linking it to a biological mechanism. To address this challenge, we introduce BioPhys-Bridge, a novel benchmark dataset for evidence-grounded scientific reasoning over biophysical literature. Each case contains evidence blocks, stable evidence IDs, quantitative values, units, equations, assumptions, mechanisms, and next decisions as grounding targets for question answering (QA) and retrieval-augmented generation (RAG). The initial release contains 500 cases, 1,517 agent-facing tasks, and covers six biological domains and nine physical model families, including three sparse families reserved for future expansion. We enforce strict quality gates for all cases in schema, evidence-integrity, quantitative-grounding, source-license, duplicate, unit-normalization, with domain expert review and annotation for 81 cases. Preliminary evaluations show that DeepSeek-V4-Flash obtain the highest evidence-ID $F_1$ score (0.360), followed by Qwen3.7-Max (0.316) and GPT-4o-mini (0.294). BioPhys-Bridge is an interdisciplinary benchmark for evaluating attribution, faithfulness, hallucination reduction, and biological experiment design with complex, multi-step scientific reasoning. Future works will increase the size and complexity of the dataset and perform comprehensive evaluations. Code and data are available in the GitHub repository and on Hugging Face."
@@ -149,8 +148,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19182",
       "details": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We systematically map 14,767 papers introducing or updating evaluation resources from arXiv submissions between January 2022 and August 2026. Using staged screening and automated full-text coding, we examine changes in target systems and domains, evaluation materials and conditions, and scoring mechanisms. The collection shows growing emphasis on action, interaction, and professional applications, while established and newer design elements frequently coexist. Model participation also develops unevenly: LLM-based scoring grows within both agent and non-agent groups, whereas model-generated materials show no comparable sustained increase in recent cohorts. These findings illuminate how public research translates capability expectations into concrete tests and criteria for success. As AI participates in constructing tests, performing tasks, and judging responses, they also raise a question: does expanding evaluation provide more independent evidence, or risk reproducing the preferences and blind spots of its participating models?"
@@ -169,8 +168,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19203",
       "details": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This position paper argues that the field now needs a Foundation Model Operating System (FMOS) -- a system layer that virtualizes FM interactions analogous to how virtual machines abstract physical hardware, giving applications the illusion of dedicated, trustworthy FM instances with effectively unbounded capabilities. Internally, the FMOS orchestrates knowledge across memory tiers, model selection and resource allocation, and verification and policy enforcement. Like the human brain switching between fast intuition and slow deliberation, the FMOS learns when to intervene and when to let inference proceed directly and continuously adapting its policies based on operational experience."
@@ -189,8 +188,8 @@
       },
       "tags": [
         "#Reasoning",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.19212",
       "details": "arXiv:2609.19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigorously under controlled settings. Existing studies therefore rely on simplifications such as approximately linear action composition, productivity-based tests, and action-explicit goals, which make systematic generalization easier to study but omit some essential aspects of this capability. To characterize what these simplifications miss, we adopt a reasoning-centered lens and introduce TranSGrid, a testbed that brings deductive, inductive, and abductive reasoning together within a unified task. Experiments with seven Transformers on 4,800 TranSGrid instances show that all models perform much worse on TranSGrid than on a held-out test set: the largest model solves 79.6% of the test set, but only 55.3% of TranSGrid and 15.8% of the hardest subset. The gap remains within the training length range, showing that productivity alone is not sufficient to evaluate systematic generalization. Additionally, we reintroduce the other two simplifications into TranSGrid: one variant makes actions compose almost linearly (reducing the inductive demand), the other makes goals action-explicit (reducing the abductive one). In both, solve rates return to roughly the test set level, showing that either simplification alone is enough to reduce TranSGrid to an ordinary held-out test set. Together, our results show that existing tasks reduce either or both of the inductive and abductive demands, and that comprehensively measuring systematic generalization requires a task that involves all three forms of reasoning."
@@ -428,9 +427,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Google",
         "#Governance",
         "#NVIDIA",
-        "#Google",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
@@ -658,6 +657,26 @@
       "details": "As Thomas Dans holds forth in the U.S. and abroad, it\u2019s not always clear where the administration\u2019s agenda ends and his own begins."
     },
     {
+      "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
+      "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
+      "category": "governance",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "NIST News",
+      "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
+      "specs": {
+        "source": "NIST News",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
+      "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
+    },
+    {
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
@@ -730,22 +749,24 @@
       "details": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. \u201cPhotons carry information,\u201d said Kristen Parzuchowski"
     },
     {
-      "id": "live-governance-nist-national-construction-safety-team-a",
-      "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 202",
+      "id": "live-governance-data-union-conference",
+      "title": "Data Union Conference",
       "category": "governance",
       "date": "2026-09-18",
-      "impact": "MODERATE",
-      "company": "NIST News",
-      "tldr": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
+      "impact": "HIGH",
+      "company": "EU Digital Strategy",
+      "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
       "specs": {
-        "source": "NIST News",
+        "source": "EU Digital Strategy",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#Governance",
+        "#EUAIAct",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-national-construction-safety-team-advisory-committee-meeting-scheduled",
-      "details": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16."
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
+      "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
     },
     {
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
@@ -754,19 +775,19 @@
       "date": "2026-09-18",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
-      "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 Today, the European Commission has adopted the EU KIDS...",
+      "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
       "specs": {
         "source": "EU Digital Strategy",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AISecurity",
         "#EUAIAct",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
-      "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 Today, the European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - an overview KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
+      "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - an overview KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
     },
     {
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
@@ -781,13 +802,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AISecurity",
         "#EUAIAct",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
-      "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. Below you can download the proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy', together with the Communication and the Staff Working Document (SWD) accompanying it. Find further information: Press release KIDS Act - an overview KIDS Act - questions and answers Downloads 1 - Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Download&nbsp; 2 - Communication accompanying the KIDS Act - An EU approach to online child safety Download&nbsp; 3 - Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Download&nbsp; Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUToday, the European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
+      "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. Below you can download the proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy', together with the Communication and the Staff Working Document (SWD) accompanying it. Find further information: Press release KIDS Act - an overview KIDS Act - questions and answers Downloads 1 - Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Download&nbsp; 2 - Communication accompanying the KIDS Act - An EU approach to online child safety Download&nbsp; 3 - Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Download&nbsp; Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
     },
     {
       "id": "live-governance-apply-ai-summit",
@@ -821,32 +842,67 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AISecurity",
         "#EUAIAct",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
     },
     {
-      "id": "live-governance-pitching-day-finalists-of-the-apply-ai-s",
-      "title": "Pitching day: Finalists of the Apply AI Startup Award",
-      "category": "governance",
+      "id": "live-multilateral-haiti-child-malnutrition-crisis-worsens-",
+      "title": "Haiti: Child malnutrition crisis worsens amid escalating violence",
+      "category": "multilateral",
       "date": "2026-09-18",
       "impact": "MODERATE",
-      "company": "EU Digital Strategy",
-      "tldr": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply...",
+      "company": "UN News AI",
+      "tldr": "Haiti is facing a worsening child malnutrition crisis, with an estimated 253,725 children aged 6 to 59 months projected to suffer from acute malnutrition between June 2026 and May ...",
       "specs": {
-        "source": "EU Digital Strategy",
+        "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
-      "details": "Pitching day: Finalists of the Apply AI Startup Award Anonymous (not verified) Mon, 08/24/2026 - 10:19 &nbsp; 20 October 2026 Watch the pitches of the top 10 finalists of the Apply AI Startup Award and learn more about the European AI innovation ecosystem. The Apply AI Startup Award recognises innovative European startups and scaleups developing AI solutions in the 11 strategic sectors covered by the Apply AI Strategy. In July, national startup associations nominated 24 European AI startups and scaleups across 16 Member States. Independent experts are currently evaluating the nominations and will choose the top 10 finalists for the pitching event. Each startup will have 3 minutes to pitch their AI solution and convince the jury. After the pitching session the jury will select the 3 winners. Among other rewards, they will be invited to pitch their solution and receive a trophy and certificate on the main stage of the Apply AI Summit. Registration Click and fill the form to register Agenda 14:00-15:30 CET(to be confirmed) Welcome and introduction Part I - Pitches&nbsp; Presentation from the AI Office Part II - Pitches Conclusion Jury &amp; finalists The jury members and the top 10 Finalists will be announced soon. Registration form Related topics Events Artificial intelligence Apply AI Summit"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168366",
+      "details": "Haiti is facing a worsening child malnutrition crisis, with an estimated 253,725 children aged 6 to 59 months projected to suffer from acute malnutrition between June 2026 and May 2027, new UN-backed analysis has revealed.&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "id": "live-multilateral-nepal-floods-apocalyptic-destruction-sig",
+      "title": "Nepal floods: \u2018Apocalyptic\u2019 destruction signals wider climate threat across Himalayas",
+      "category": "multilateral",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The catastrophic flooding that swept away entire villages in northern Nepal could occur again in the country or elsewhere in the Himalayas due to climate change.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168365",
+      "details": "The catastrophic flooding that swept away entire villages in northern Nepal could occur again in the country or elsewhere in the Himalayas due to climate change."
+    },
+    {
+      "id": "live-multilateral-yemen-s-humanitarian-crisis-growing-by-t",
+      "title": "Yemen\u2019s humanitarian crisis growing by the hour amid spike in displacement",
+      "category": "multilateral",
+      "date": "2026-09-18",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168364",
+      "details": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter."
     },
     {
       "id": "live-multilateral-new-un-system-platform-puts-millions-of-",
@@ -885,62 +941,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168362",
       "details": "The UN Children\u2019s Fund (UNICEF) is seeking to raise $97.5 million to protect 540,000 children and their families in Gaza and the West Bank from harsh winter conditions in the coming months."
-    },
-    {
-      "id": "live-multilateral-gender-equality-woefully-off-track-new-u",
-      "title": "Gender equality woefully off track, new UN report reveals",
-      "category": "multilateral",
-      "date": "2026-09-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "At the current rate of progress, gender equality would take 171 years to achieve,&nbsp;a new UN report finds as institutions built to advance gains are being defunded and demobilis...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168360",
-      "details": "At the current rate of progress, gender equality would take 171 years to achieve,&nbsp;a new UN report finds as institutions built to advance gains are being defunded and demobilised."
-    },
-    {
-      "id": "live-multilateral-un-fact-finding-mission-on-iran-focuses-",
-      "title": "UN fact-finding mission on Iran focuses on plight of civilians",
-      "category": "multilateral",
-      "date": "2026-09-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The Independent International Fact-Finding Mission on Iran confirmed that civilians in the country suffered serious human rights violations and \u201ccrimes against humanity committed b...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168358",
-      "details": "The Independent International Fact-Finding Mission on Iran confirmed that civilians in the country suffered serious human rights violations and \u201ccrimes against humanity committed by their government,\u201d while finding \"reasonable grounds\" to believe that the United States committed \u201cwar crimes\u201d in the context of its ongoing conflict with the Islamic Republic."
-    },
-    {
-      "id": "live-multilateral-guterres-calls-for-action-as-hate-speech",
-      "title": "Guterres calls for action as hate speech spreads across new platforms online",
-      "category": "multilateral",
-      "date": "2026-09-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN Secretary-General has called for concerted action by governments, technology companies and civil society to stamp out hate speech, emphasizing that \u201cits toxic message is spr...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168356",
-      "details": "The UN Secretary-General has called for concerted action by governments, technology companies and civil society to stamp out hate speech, emphasizing that \u201cits toxic message is spreading fast and striking deep\u201d.&nbsp;"
     }
   ]
 }
