@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-20T15:39:07.218946",
-  "fetched_count": 45,
+  "timestamp": "2026-09-20T18:32:24.419103",
+  "fetched_count": 40,
   "nodes": [
     {
       "id": "live-overall-the-download-ai-s-extinction-risk-and-bi",
@@ -289,8 +289,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
       "details": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio\u2019s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce NOW, alongside a smashing limited-time Deluxe Edition sale on [\u2026]"
@@ -326,10 +326,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Google",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
       "details": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use [\u2026]"
@@ -347,8 +347,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
       "details": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help \u2014 but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the [\u2026]"
@@ -366,9 +366,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Reasoning",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
       "details": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa \u2014 Salesforce\u2019s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn\u2019t just take the stage. He walked into [\u2026]"
@@ -568,8 +568,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
@@ -660,8 +660,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -680,8 +680,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#Governance",
         "#EUAIAct"
       ],
@@ -701,8 +701,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#Governance",
         "#EUAIAct"
       ],
@@ -741,104 +741,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
-    },
-    {
-      "id": "live-multilateral-the-race-to-build-a-pandemic-proof-world",
-      "title": "The race to build a pandemic-proof world",
-      "category": "multilateral",
-      "date": "2026-09-20",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Six years after COVID-19 killed millions, battered health systems, disrupted lives and brought the global economy to a virtual standstill, the world is still grappling with how we ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168377",
-      "details": "Six years after COVID-19 killed millions, battered health systems, disrupted lives and brought the global economy to a virtual standstill, the world is still grappling with how we can prepare better for the next pandemic."
-    },
-    {
-      "id": "live-multilateral-why-the-un-general-assembly-still-matter",
-      "title": "Why the UN General Assembly still matters",
-      "category": "multilateral",
-      "date": "2026-09-20",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "More than eight decades on, the UN General Assembly remains the place where the UN\u2019s 193 Member States come together to debate the defining challenges of the day, from war and peac...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168361",
-      "details": "More than eight decades on, the UN General Assembly remains the place where the UN\u2019s 193 Member States come together to debate the defining challenges of the day, from war and peace \u2013 to development, climate change and human rights."
-    },
-    {
-      "id": "live-multilateral-un-crime-congress-technology-is-transfor",
-      "title": "UN Crime Congress: Technology is transforming crime \u2013 and the response to it",
-      "category": "multilateral",
-      "date": "2026-09-20",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Sitting in her Vienna office ahead of a pivotal UN gathering in Abu Dhabi, Monica Juma is focused on a simple reality: crime has evolved faster than many of the institutions design...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168370",
-      "details": "Sitting in her Vienna office ahead of a pivotal UN gathering in Abu Dhabi, Monica Juma is focused on a simple reality: crime has evolved faster than many of the institutions designed to combat it."
-    },
-    {
-      "id": "live-multilateral-violence-will-only-defer-a-problem-un-as",
-      "title": "\u2018Violence will only defer a problem\u2019: UN Assembly President on trust, AI and lessons from the Rohing",
-      "category": "multilateral",
-      "date": "2026-09-20",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Khalilur Rahman took the gavel as President of the UN&nbsp;General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served \u2013 in one capa...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168375",
-      "details": "Khalilur Rahman took the gavel as President of the UN&nbsp;General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served \u2013 in one capacity or another \u2013 for 35 years.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-security-council-live-un-peacekeeping-un",
-      "title": "Security Council LIVE: UN peacekeeping under pressure",
-      "category": "multilateral",
-      "date": "2026-09-20",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "UN peacekeepers have increasingly been sent into places where there is no peace to keep \u2013 under resourced, outgunned and exposed to violence they are not equipped to counter. The S...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168376",
-      "details": "UN peacekeepers have increasingly been sent into places where there is no peace to keep \u2013 under resourced, outgunned and exposed to violence they are not equipped to counter. The Security Council meets this afternoon in New York to confront that problem, with Secretary-General Ant\u00f3nio Guterres briefing ambassadors on how to close the gap."
     }
   ]
 }
