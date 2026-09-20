@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-19T22:12:28.563506",
-  "fetched_count": 50,
+  "timestamp": "2026-09-20T03:56:37.726698",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-the-download-ai-s-extinction-risk-and-bi",
       "title": "The Download: AI\u2019s extinction risk and bioweapons threat",
       "category": "overall",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Y...",
@@ -24,7 +24,7 @@
       "id": "live-overall-could-ai-really-kill-us-all-your-questio",
       "title": "Could AI really kill us all? Your questions, answered.",
       "category": "overall",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees ...",
@@ -42,7 +42,7 @@
       "id": "live-overall-the-specter-of-ai-enabled-bioweapons-is-",
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
       "category": "overall",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that A...",
@@ -61,7 +61,7 @@
       "id": "live-overall-the-download-mice-with-part-human-brains",
       "title": "The Download: mice with part-human brains and climate tech innovators",
       "category": "overall",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain corte...",
@@ -79,7 +79,7 @@
       "id": "live-overall-meet-the-innovators-under-35-shaping-cli",
       "title": "Meet the innovators under 35 shaping climate tech",
       "category": "overall",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35\u2014a group of researchers, inventors, and other young minds worth following. The ...",
@@ -97,7 +97,7 @@
       "id": "live-agentic_ai-your-agent-aced-the-task-will-it-do-it-a",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "category": "agentic_ai",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -115,7 +115,7 @@
       "id": "live-agentic_ai-async-grpo-with-lora-across-hf-jobs-a-bu",
       "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
       "category": "agentic_ai",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -133,7 +133,7 @@
       "id": "live-agentic_ai-rebuilding-automatic1111-with-gradio-wor",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "category": "agentic_ai",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -151,7 +151,7 @@
       "id": "live-agentic_ai-safety-for-whom-refusing-the-right-subse",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "category": "agentic_ai",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -169,7 +169,7 @@
       "id": "live-agentic_ai-neomme-an-efficient-multimodal-native-an",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "category": "agentic_ai",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -184,102 +184,10 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
-      "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
-      "category": "agentic_ai",
-      "date": "2026-09-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://geekyants.com/antflow-ai",
-      "details": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://news.ycombinator.com/item?id=49739484 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
-      "title": "Agentic AI cringe wars [video]",
-      "category": "agentic_ai",
-      "date": "2026-09-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
-      "details": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-codename-mdash-brings-agentic-ai-securit",
-      "title": "Codename MDASH brings agentic AI security scanning to US Government",
-      "category": "agentic_ai",
-      "date": "2026-09-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https:...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Microsoft",
-        "#AgenticAI",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
-      "details": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https://news.ycombinator.com/item?id=49682988 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentsdock-an-ide-designed-for-agentic-a",
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "category": "agentic_ai",
-      "date": "2026-09-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 32",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://agentsdock.net/",
-      "details": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 32"
-    },
-    {
-      "id": "live-agentic_ai-teaching-novice-computing-and-programmin",
-      "title": "Teaching Novice Computing and Programming in the Agentic AI Era [pdf]",
-      "category": "agentic_ai",
-      "date": "2026-09-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points:...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf",
-      "details": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf Comments URL: https://news.ycombinator.com/item?id=49677108 Points: 3 # Comments: 0"
-    },
-    {
       "id": "live-models-introducing-the-australian-youth-safety-",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "category": "models",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
@@ -298,7 +206,7 @@
       "id": "live-models-how-cooley-is-accelerating-ipo-work-with",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "category": "models",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
@@ -316,7 +224,7 @@
       "id": "live-models-introducing-astra-for-law",
       "title": "Introducing Astra for Law",
       "category": "models",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
@@ -334,7 +242,7 @@
       "id": "live-models-helping-older-adults-use-ai-in-everyday-",
       "title": "Helping older adults use AI in everyday life",
       "category": "models",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -343,8 +251,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "details": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
@@ -353,7 +261,7 @@
       "id": "live-models-reimagining-advertising-with-ai",
       "title": "Reimagining advertising with AI",
       "category": "models",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
@@ -372,7 +280,7 @@
       "id": "live-companies-cute-critters-come-to-the-cloud-aniimo-l",
       "title": "Cute Critters Come to the Cloud: \u2018Aniimo\u2019 Launches on GeForce NOW",
       "category": "companies",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio\u2019s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant con...",
@@ -391,7 +299,7 @@
       "id": "live-companies-nvidia-vera-rubin-nvl72-delivers-leading",
       "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
       "category": "companies",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more...",
@@ -409,7 +317,7 @@
       "id": "live-companies-emerald-ai-google-and-nvidia-launch-alli",
       "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
       "category": "companies",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI...",
@@ -418,10 +326,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Google",
+        "#NVIDIA",
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#Google",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
       "details": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use [\u2026]"
@@ -430,7 +338,7 @@
       "id": "live-companies-university-of-manchester-uses-nvidia-ear",
       "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
       "category": "companies",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help \u2014 but computing air quality wit...",
@@ -449,7 +357,7 @@
       "id": "live-companies-now-we-can-know-everything-and-do-anythi",
       "title": "\u2018Now We Can Know Everything and Do Anything,\u2019 Jensen Huang Says at Dreamforce",
       "category": "companies",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance t...",
@@ -458,9 +366,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
         "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Reasoning"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
       "details": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa \u2014 Salesforce\u2019s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn\u2019t just take the stage. He walked into [\u2026]"
@@ -469,7 +377,7 @@
       "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
       "category": "fellowships",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
@@ -488,7 +396,7 @@
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
       "title": "NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakt",
       "category": "fellowships",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics...",
@@ -506,7 +414,7 @@
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
       "title": "NSF launches $20M pilot to accelerate commercialization of promising deep technologies from small bu",
       "category": "fellowships",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventur...",
@@ -524,7 +432,7 @@
       "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
       "title": "Podcast: Creating thermal cloaking and new structures",
       "category": "fellowships",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
@@ -542,7 +450,7 @@
       "id": "live-fellowships-nsf-leadership-in-a-new-golden-age-of-sc",
       "title": "NSF leadership in a new golden age of science",
       "category": "fellowships",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation was established in 1950 to keep American discovery at the frontier. That mission has not changed. The science and technology ecosystem around i...",
@@ -560,7 +468,7 @@
       "id": "live-military-cape-canaveral-is-building-up-its-counte",
       "title": "Cape Canaveral is building up its counter-drone defenses, Space Force says",
       "category": "military",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The Florida facility is key to the Pentagon\u2019s plans to launch a thousand rockets a year.",
@@ -569,8 +477,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/defense-systems/2026/09/cape-canaveral-building-its-counter-drone-defenses-space-force-says/416096/",
       "details": "The Florida facility is key to the Pentagon\u2019s plans to launch a thousand rockets a year."
@@ -579,7 +487,7 @@
       "id": "live-military-pete-hegseth-is-rebuilding-the-military-",
       "title": "Pete Hegseth is rebuilding the military's \u2018brass ceiling\u2019",
       "category": "military",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The SecDef says his ideological approach to promotion is helping recruiting. Surveys don't back that up.",
@@ -597,7 +505,7 @@
       "id": "live-military-space-force-braces-for-stalled-progress-",
       "title": "Space Force braces for stalled progress amid lack of full funding",
       "category": "military",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Fiscal 2027 program starts are already on hold until December.",
@@ -615,7 +523,7 @@
       "id": "live-military-air-force-contemplates-unmanned-tankers",
       "title": "Air Force contemplates unmanned tankers",
       "category": "military",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The technology isn\u2019t yet available to give autonomy to very large aircraft\u2014but it\u2019s coming.",
@@ -633,7 +541,7 @@
       "id": "live-military-defense-business-brief-dispatch-from-afa",
       "title": "Defense Business Brief: Dispatch from AFA\u2019s Air, Space, & Cyber 2026",
       "category": "military",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -651,7 +559,7 @@
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -661,8 +569,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AISecurity",
-        "#Governance"
+        "#Governance",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -671,7 +579,7 @@
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -689,7 +597,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -707,7 +615,7 @@
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -725,7 +633,7 @@
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
       "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single ...",
@@ -743,7 +651,7 @@
       "id": "live-governance-data-union-conference",
       "title": "Data Union Conference",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
@@ -752,9 +660,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -763,7 +671,7 @@
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
       "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
@@ -772,10 +680,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
+        "#Governance",
         "#AISecurity",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - an overview KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -784,7 +692,7 @@
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
       "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
@@ -793,10 +701,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
+        "#Governance",
         "#AISecurity",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. Below you can download the proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy', together with the Communication and the Staff Working Document (SWD) accompanying it. Find further information: Press release KIDS Act - an overview KIDS Act - questions and answers Downloads 1 - Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Download&nbsp; 2 - Communication accompanying the KIDS Act - An EU approach to online child safety Download&nbsp; 3 - Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Download&nbsp; Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -805,7 +713,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
@@ -814,8 +722,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -824,7 +732,7 @@
       "id": "live-governance-commission-designates-chatgpt-reddit-rob",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "category": "governance",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Onli...",
@@ -833,10 +741,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
+        "#Governance",
         "#AISecurity",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -845,7 +753,7 @@
       "id": "live-multilateral-the-race-to-build-a-pandemic-proof-world",
       "title": "The race to build a pandemic-proof world",
       "category": "multilateral",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Six years after COVID-19 killed millions, battered health systems, disrupted lives and brought the global economy to a virtual standstill, the world is still grappling with how we ...",
@@ -863,7 +771,7 @@
       "id": "live-multilateral-why-the-un-general-assembly-still-matter",
       "title": "Why the UN General Assembly still matters",
       "category": "multilateral",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "More than eight decades on, the UN General Assembly remains the place where the UN\u2019s 193 Member States come together to debate the defining challenges of the day, from war and peac...",
@@ -881,7 +789,7 @@
       "id": "live-multilateral-un-crime-congress-technology-is-transfor",
       "title": "UN Crime Congress: Technology is transforming crime \u2013 and the response to it",
       "category": "multilateral",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Sitting in her Vienna office ahead of a pivotal UN gathering in Abu Dhabi, Monica Juma is focused on a simple reality: crime has evolved faster than many of the institutions design...",
@@ -899,7 +807,7 @@
       "id": "live-multilateral-violence-will-only-defer-a-problem-un-as",
       "title": "\u2018Violence will only defer a problem\u2019: UN Assembly President on trust, AI and lessons from the Rohing",
       "category": "multilateral",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Khalilur Rahman took the gavel as President of the UN&nbsp;General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served \u2013 in one capa...",
@@ -917,7 +825,7 @@
       "id": "live-multilateral-security-council-live-un-peacekeeping-un",
       "title": "Security Council LIVE: UN peacekeeping under pressure",
       "category": "multilateral",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "UN peacekeepers have increasingly been sent into places where there is no peace to keep \u2013 under resourced, outgunned and exposed to violence they are not equipped to counter. The S...",
