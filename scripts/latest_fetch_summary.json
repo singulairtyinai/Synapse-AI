@@ -1,7 +1,64 @@
 {
-  "timestamp": "2026-09-22T09:08:23.478478",
+  "timestamp": "2026-09-22T16:30:35.743163",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-roundtables-the-deadly-failures-of-the-v",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "category": "overall",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cr...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "details": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;"
+    },
+    {
+      "id": "live-overall-the-download-why-ai-s-latest-breakthroug",
+      "title": "The Download: why AI\u2019s latest breakthroughs and fears may be more hype than reality",
+      "category": "overall",
+      "date": "2026-09-22",
+      "impact": "CRITICAL",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don\u2019t be fooled by this summer...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don\u2019t be fooled by this summer of AI hype&#160; \u2014Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;"
+    },
+    {
+      "id": "live-overall-don-t-be-fooled-by-this-summer-of-ai-hyp",
+      "title": "Don\u2019t be fooled by this summer of AI hype",
+      "category": "overall",
+      "date": "2026-09-22",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security expert...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#Anthropic",
+        "#OpenAI",
+        "#Meta"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "details": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;"
+    },
     {
       "id": "live-overall-the-download-investigating-deaths-at-the",
       "title": "The Download: investigating deaths at the US border\u2019s \u201cvirtual wall\u201d",
@@ -39,60 +96,6 @@
       "details": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technology Review&#160;and&#160;Times of San Diego. Journalists in both newsrooms spent the past&#8230;"
     },
     {
-      "id": "live-overall-4-ways-to-address-the-failures-we-found-",
-      "title": "4 ways to address the failures we found along the US border\u2019s \u201cvirtual wall\u201d",
-      "category": "overall",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "details": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;"
-    },
-    {
-      "id": "live-overall-the-us-spent-billions-on-border-surveill",
-      "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
-      "category": "overall",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and ...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "details": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed&#8230;"
-    },
-    {
-      "id": "live-overall-she-died-at-the-san-diego-border-a-surve",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "category": "overall",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border fr...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "details": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;"
-    },
-    {
       "id": "live-overall-rbs-attention-radius-bounded-sparse-pref",
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
       "category": "overall",
@@ -124,8 +127,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Reasoning",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.20974",
@@ -144,8 +147,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Reasoning",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.20981",
@@ -188,6 +191,24 @@
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.21096",
       "details": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We evaluate our approach extensively across several LLMs and established benchmarks. Empirical results demonstrate that our proposed single-pass approach provides consistent improvements over existing attention-based and multi-response baselines across two hallucination-detection benchmarks, while achieving competitive performance across diverse LLM architectures. Further analysis reveals that impaired context sharing among tokens during causal generation is strongly associated with hallucination occurrences in LLMs. In particular, hallucinated responses are consistently characterized by an over-reliance on self-attention, diffused context retrieval from earlier tokens, or information over-squashing, especially in the final transformer layer."
+    },
+    {
+      "id": "live-agentic_ai-transformers-now-runs-llama-cpp-quants",
+      "title": "Transformers now runs llama.cpp quants",
+      "category": "agentic_ai",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-jun-kim-omlx-creator-and-maintainer-join",
@@ -262,24 +283,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-async-grpo-with-lora-across-hf-jobs-a-bu",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "category": "agentic_ai",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-models-advisory-group-on-mathematics-and-artifi",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "category": "models",
@@ -292,8 +295,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "details": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
@@ -374,6 +377,26 @@
       "details": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
     },
     {
+      "id": "live-companies-nvidia-isaac-ros-5-0-advances-agentic-op",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "category": "companies",
+      "date": "2026-09-22",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open fr...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA",
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "details": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of GPU-accelerated packages built on ROS, released today at [\u2026]"
+    },
+    {
       "id": "live-companies-nvidia-launches-dsx-ready-to-qualify-pow",
       "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
       "category": "companies",
@@ -386,8 +409,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
@@ -406,8 +429,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "details": "Today, Egypt\u2019s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation\u2019s rapidly growing AI ecosystem \u2014 spanning AI natives, developers, researchers, startups and enterprises \u2014 building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead [\u2026]"
@@ -444,32 +467,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
         "#AISecurity",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
       "details": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, [\u2026]"
-    },
-    {
-      "id": "live-companies-5-companies-using-nvidia-ai-for-clean-en",
-      "title": "5 Companies Using NVIDIA AI for Clean Energy",
-      "category": "companies",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Clean energy isn\u2019t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks \u2014 including out-of-date infrastructure, elongated research an...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-      "details": "Clean energy isn\u2019t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks \u2014 including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception [\u2026]"
     },
     {
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
@@ -563,6 +567,24 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-nato-s-thumbs-up-for-aws-shows-europe-st",
+      "title": "NATO\u2019s thumbs-up for AWS shows Europe still needs America",
+      "category": "military",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "The company has become the first cloud provider to win approval to handle sensitive data for all alliance members.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/09/nato-aws-europe-america/416131/",
+      "details": "The company has become the first cloud provider to win approval to handle sensitive data for all alliance members."
+    },
+    {
       "id": "live-military-trump-floats-ai-force-to-boost-industry",
       "title": "Trump floats \u2018AI Force\u2019 to boost industry",
       "category": "military",
@@ -611,8 +633,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/defense-systems/2026/09/cape-canaveral-building-its-counter-drone-defenses-space-force-says/416096/",
       "details": "The Florida facility is key to the Pentagon\u2019s plans to launch a thousand rockets a year."
@@ -636,24 +658,6 @@
       "details": "The SecDef says his ideological approach to promotion is helping recruiting. Surveys don't back that up."
     },
     {
-      "id": "live-military-space-force-braces-for-stalled-progress-",
-      "title": "Space Force braces for stalled progress amid lack of full funding",
-      "category": "military",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Fiscal 2027 program starts are already on hold until December.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/09/space-force-braces-stalled-progress-amid-lack-full-funding/416070/",
-      "details": "Fiscal 2027 program starts are already on hold until December."
-    },
-    {
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
@@ -666,9 +670,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#UnitedNations",
-        "#Governance",
-        "#AISecurity"
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -758,9 +762,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#EUAIAct",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -778,10 +782,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -799,10 +803,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -839,13 +843,85 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-time-to-accept-hard-truths-so-trust-can-",
+      "title": "Time to accept \u2018hard truths\u2019 so trust can be rebuilt: General Assembly president",
+      "category": "multilateral",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN\u2019s survival for 80 years is not, by itself, proof of success, and now, the institution must confront painful truths if it hopes to rebuild public trust, said Khalilur Rahman,...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168394",
+      "details": "The UN\u2019s survival for 80 years is not, by itself, proof of success, and now, the institution must confront painful truths if it hopes to rebuild public trust, said Khalilur Rahman, president of the General Assembly\u2019s 81st session on Tuesday."
+    },
+    {
+      "id": "live-multilateral-guterres-cracks-have-become-canyons-as-w",
+      "title": "Guterres: \u2018Cracks have become canyons\u2019 as world faces four tests of power",
+      "category": "multilateral",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Humanity faces four defining \u201ctests of power\u201d \u2013 around war or peace, inequality, climate change and AI \u2013 that will determine whether the world moves towards a new era of cooperatio...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168392",
+      "details": "Humanity faces four defining \u201ctests of power\u201d \u2013 around war or peace, inequality, climate change and AI \u2013 that will determine whether the world moves towards a new era of cooperation or deeper division, the UN chief warned the General Assembly on Tuesday."
+    },
+    {
+      "id": "live-multilateral-millions-of-children-return-to-schools-t",
+      "title": "Millions of children return to schools that still can\u2019t provide clean water or a working toilet",
+      "category": "multilateral",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "A new academic year is underway in many countries across the world, yet millions of children still attend schools where the water is unsafe to drink, toilets are unusable and there...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168393",
+      "details": "A new academic year is underway in many countries across the world, yet millions of children still attend schools where the water is unsafe to drink, toilets are unusable and there is nowhere to properly wash their hands.&nbsp;&nbsp;"
+    },
+    {
+      "id": "live-multilateral-displacement-on-the-rise-in-yemen-as-fig",
+      "title": "Displacement on the rise in Yemen as fighting continues",
+      "category": "multilateral",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on T...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168390",
+      "details": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday."
     },
     {
       "id": "live-multilateral-in-tanzania-the-sea-is-moving-inland-and",
@@ -864,79 +940,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168389",
       "details": "Along the coast of Tanzania, in East Africa, the Indian Ocean is pushing saltwater ever farther inland, shrinking coconut harvests, driving fish away and leaving some residents wondering how much longer they can stay."
-    },
-    {
-      "id": "live-multilateral-un-condemns-attempted-houthi-strike-on-r",
-      "title": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
-      "category": "multilateral",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN has condemned continued cross\u2011border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168387",
-      "details": "The UN has condemned continued cross\u2011border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country\u2019s fastest displacement surges in years."
-    },
-    {
-      "id": "live-multilateral-nowhere-is-safe-un-experts-detail-ukrain",
-      "title": "\u2018Nowhere is safe\u2019: UN experts detail Ukraine war\u2019s toll and Russia\u2019s reach beyond its borders",
-      "category": "multilateral",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia\u2019s invasion of Ukraine, with a spotlight on civilians facing a third wartime ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168386",
-      "details": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia\u2019s invasion of Ukraine, with a spotlight on civilians facing a third wartime winter as well as the intimidation of Russians who have fled abroad."
-    },
-    {
-      "id": "live-multilateral-we-are-not-powerless-un-chief-urges-worl",
-      "title": "\u2018We are not powerless\u2019: UN chief urges world leaders to invest in peace",
-      "category": "multilateral",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "In a world facing rising conflicts, violence and divisions that are causing great suffering for millions of people, the UN chief on Monday called on world leaders and citizens to i...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168383",
-      "details": "In a world facing rising conflicts, violence and divisions that are causing great suffering for millions of people, the UN chief on Monday called on world leaders and citizens to invest more in peace."
-    },
-    {
-      "id": "live-multilateral-why-climate-action-now-comes-down-to-spe",
-      "title": "Why climate action now comes down to speed, finance and cooperation",
-      "category": "multilateral",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Temporarily exceeding the 1.5\u00b0C global warming goal set in Paris is widely considered inevitable. The challenge now is to keep that overshoot as small and short as possible by cutt...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168382",
-      "details": "Temporarily exceeding the 1.5\u00b0C global warming goal set in Paris is widely considered inevitable. The challenge now is to keep that overshoot as small and short as possible by cutting emissions faster, unlocking finance and strengthening international cooperation."
     }
   ]
 }
