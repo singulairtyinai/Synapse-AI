@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-22T03:51:13.772706",
-  "fetched_count": 55,
+  "timestamp": "2026-09-22T09:08:23.478478",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-investigating-deaths-at-the",
@@ -190,6 +190,24 @@
       "details": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We evaluate our approach extensively across several LLMs and established benchmarks. Empirical results demonstrate that our proposed single-pass approach provides consistent improvements over existing attention-based and multi-response baselines across two hallucination-detection benchmarks, while achieving competitive performance across diverse LLM architectures. Further analysis reveals that impaired context sharing among tokens during causal generation is strongly associated with hallucination occurrences in LLMs. In particular, hallucinated responses are consistently characterized by an over-reliance on self-attention, diffused context retrieval from earlier tokens, or information over-squashing, especially in the final transformer layer."
     },
     {
+      "id": "live-agentic_ai-jun-kim-omlx-creator-and-maintainer-join",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "category": "agentic_ai",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/omlx",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
       "id": "live-agentic_ai-pruning-llms-like-a-physicist-block-remo",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "category": "agentic_ai",
@@ -262,116 +280,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-rebuilding-automatic1111-with-gradio-wor",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "category": "agentic_ai",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/gradio-workflow-1111",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-agentic_ai-investment-seer-agentic-ai-powered-stock",
-      "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
-      "category": "agentic_ai",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://investmentseer.com/",
-      "details": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-i-see-the-mathematicians-panicking-at-wh",
-      "title": "I see the mathematicians panicking at what we can do with agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://twitter.com/lemire/status/2101684818358439959",
-      "details": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
-      "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
-      "category": "agentic_ai",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://geekyants.com/antflow-ai",
-      "details": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://news.ycombinator.com/item?id=49739484 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
-      "title": "Agentic AI cringe wars [video]",
-      "category": "agentic_ai",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
-      "details": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-codename-mdash-brings-agentic-ai-securit",
-      "title": "Codename MDASH brings agentic AI security scanning to US Government",
-      "category": "agentic_ai",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https:...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Microsoft",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
-      "details": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https://news.ycombinator.com/item?id=49682988 Points: 2 # Comments: 0"
-    },
-    {
       "id": "live-models-advisory-group-on-mathematics-and-artifi",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "category": "models",
@@ -421,8 +329,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI"
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
       "details": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
@@ -440,8 +348,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI"
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
       "details": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
@@ -459,8 +367,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/v7",
       "details": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
@@ -498,8 +406,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "details": "Today, Egypt\u2019s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation\u2019s rapidly growing AI ecosystem \u2014 spanning AI natives, developers, researchers, startups and enterprises \u2014 building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead [\u2026]"
@@ -517,8 +425,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
       "details": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, [\u2026]"
@@ -537,9 +445,9 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AgenticAI",
         "#NVIDIA",
-        "#AISecurity"
+        "#AISecurity",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
       "details": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, [\u2026]"
@@ -851,8 +759,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -871,12 +779,12 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AISecurity",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
-      "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - an overview KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
+      "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
     },
     {
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
@@ -892,9 +800,9 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AISecurity",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -932,12 +840,30 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AISecurity",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-in-tanzania-the-sea-is-moving-inland-and",
+      "title": "In Tanzania, the sea is moving inland \u2013 and taking livelihoods with it",
+      "category": "multilateral",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Along the coast of Tanzania, in East Africa, the Indian Ocean is pushing saltwater ever farther inland, shrinking coconut harvests, driving fish away and leaving some residents won...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168389",
+      "details": "Along the coast of Tanzania, in East Africa, the Indian Ocean is pushing saltwater ever farther inland, shrinking coconut harvests, driving fish away and leaving some residents wondering how much longer they can stay."
     },
     {
       "id": "live-multilateral-un-condemns-attempted-houthi-strike-on-r",
@@ -1011,24 +937,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168382",
       "details": "Temporarily exceeding the 1.5\u00b0C global warming goal set in Paris is widely considered inevitable. The challenge now is to keep that overshoot as small and short as possible by cutting emissions faster, unlocking finance and strengthening international cooperation."
-    },
-    {
-      "id": "live-multilateral-ebola-vaccine-trial-begins-in-dr-congo",
-      "title": "Ebola vaccine trial begins in DR Congo",
-      "category": "multilateral",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168381",
-      "details": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response."
     }
   ]
 }
