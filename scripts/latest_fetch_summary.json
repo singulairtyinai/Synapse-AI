@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-21T23:03:25.926302",
+  "timestamp": "2026-09-22T03:51:13.772706",
   "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-the-download-investigating-deaths-at-the",
       "title": "The Download: investigating deaths at the US border\u2019s \u201cvirtual wall\u201d",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on borde...",
@@ -24,7 +24,7 @@
       "id": "live-overall-how-we-made-the-first-comprehensive-map-",
       "title": "How we made the first comprehensive map of deaths along the US border\u2019s \u201cvirtual wall\u201d",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant...",
@@ -42,7 +42,7 @@
       "id": "live-overall-4-ways-to-address-the-failures-we-found-",
       "title": "4 ways to address the failures we found along the US border\u2019s \u201cvirtual wall\u201d",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the...",
@@ -60,7 +60,7 @@
       "id": "live-overall-the-us-spent-billions-on-border-surveill",
       "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and ...",
@@ -78,7 +78,7 @@
       "id": "live-overall-she-died-at-the-san-diego-border-a-surve",
       "title": "She died at the San Diego border. A surveillance camera was in plain sight",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border fr...",
@@ -96,7 +96,7 @@
       "id": "live-overall-rbs-attention-radius-bounded-sparse-pref",
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prom...",
@@ -105,8 +105,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.20971",
       "details": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base branch captures average relevance, while a rescue branch uses the maximum key-block radius and its prompt-, layer-, and head-dependent distribution to identify blocks at risk of underestimation. Independently thresholding the two branches and combining their masks controls the contribution of rescue blocks while preserving regular block-sparse FlashAttention execution. On H100 GPUs, RBS-Attention achieves 20.65$\\times$ standalone prefill-attention speedup, 11.92$\\times$ vLLM prefill-attention speedup, and 5.97$\\times$ end-to-end time-to-first-token speedup at 128K on Qwen3-30B-A3B-Instruct-2507-FP8. On the dense Qwen3-32B model, it obtains 88.65 overall RULER accuracy versus 89.52 for dense attention; LongBench-v2, InfiniteBench, and Video-MME provide additional quality evaluation. Supporting experiments measure actual retention, compare selectors at matched density, and characterize block-size, threshold, and memory behavior. Together, these results support radius-adaptive dual-branch selection as an effective approach to long-context prefill."
@@ -115,7 +115,7 @@
       "id": "live-overall-attention-aware-routing-coupling-routing",
       "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing...",
@@ -124,9 +124,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#Reasoning",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.20974",
       "details": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from the hidden state. Keeping the base transformer entirely frozen, we train only the routing parameters, isolating routing as the sole variable. AAR improves GSM8K by +3.37 pp over a routing-only SFT baseline on OLMoE. Beyond performance, we show that routing and attention form a coupled circuit: routing changes at layer l propagate through the residual stream to amplify attention sinks at layer l+1, reshaping attention without any direct update to the attention mechanism itself. Further, AAR reduces long diverging generation, with incorrect answers getting shorter, while correct answers remain unchanged in length. Finally, AAR is strongly depth-sensitive: applying it indiscriminately across layers can degrade factual retrieval, whereas mathematical reasoning gains persist when it is introduced deeper in the network. This sensitivity exposes a retrieval--reasoning tension across depth and makes layer-selective AAR a controlled probe of the routing-relevant information carried by attention at different layers."
@@ -135,7 +135,7 @@
       "id": "live-overall-calr-causal-latent-revision-for-robust-d",
       "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structu...",
@@ -144,9 +144,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#Reasoning",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.20981",
       "details": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs gradient-guided ``thought revision\" to enforce logical consistency, enabling dynamic self-correction of intermediate steps during parallel generation. Empirically, CaLR achieves SOTA DLM performance on complex benchmarks, surpassing strong AR baselines and demonstrating superior robustness in constrained tasks like Sudoku."
@@ -155,7 +155,7 @@
       "id": "live-overall-lora-enhanced-contrastive-learning-with-",
       "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is co...",
@@ -164,8 +164,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.21061",
       "details": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing the ViT backbone, bridging the gap between natural-image pretraining and underwater acoustic propagation. Stage 2 uses hard-negative mining to strengthen the decision boundary against acoustic mimics, including rocks and sediment formations resembling man-made targets. Stage 3 uses Supervised Contrastive Learning (SupCon) to separate target and clutter representations. We evaluate at-sea SAS data using a mission-level geographic split, compare all arms at 85 percent test recall, and repeat each comparison over three random seeds. LoRA accounts for the primary effect, increasing area under the precision-recall curve (AUPRC) from 0.300 to 0.679 +/- 0.027 using the same frozen backbone. Rank 4 achieves this result while training only 0.26 percent of weights. Neither refinement stage exceeds its matched control: hard-negative mining changes AUPRC by -0.0045 +/- 0.0119 versus an equal-size random curriculum, and SupCon changes AUPRC by +0.0002 +/- 0.0096 versus the preceding stage. These null results indicate that mining occurred on data the encoder had already fit and that supervised stages had already imposed most target-clutter geometry. One efficient adaptation stage is sufficient; stacked refinement is not."
@@ -174,7 +174,7 @@
       "id": "live-overall-detecting-hallucination-in-llms-tracing-",
       "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
       "category": "overall",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated f...",
@@ -183,8 +183,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.21096",
       "details": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We evaluate our approach extensively across several LLMs and established benchmarks. Empirical results demonstrate that our proposed single-pass approach provides consistent improvements over existing attention-based and multi-response baselines across two hallucination-detection benchmarks, while achieving competitive performance across diverse LLM architectures. Further analysis reveals that impaired context sharing among tokens during causal generation is strongly associated with hallucination occurrences in LLMs. In particular, hallucinated responses are consistently characterized by an over-reliance on self-attention, diffused context retrieval from earlier tokens, or information over-squashing, especially in the final transformer layer."
@@ -193,7 +193,7 @@
       "id": "live-agentic_ai-pruning-llms-like-a-physicist-block-remo",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -211,7 +211,7 @@
       "id": "live-agentic_ai-tokenizers-v1-encode-decode-and-scaling-",
       "title": "tokenizers v1: encode, decode and scaling, measured",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -229,7 +229,7 @@
       "id": "live-agentic_ai-your-agent-aced-the-task-will-it-do-it-a",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -247,7 +247,7 @@
       "id": "live-agentic_ai-async-grpo-with-lora-across-hf-jobs-a-bu",
       "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -265,7 +265,7 @@
       "id": "live-agentic_ai-rebuilding-automatic1111-with-gradio-wor",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -283,7 +283,7 @@
       "id": "live-agentic_ai-investment-seer-agentic-ai-powered-stock",
       "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0",
@@ -301,7 +301,7 @@
       "id": "live-agentic_ai-i-see-the-mathematicians-panicking-at-wh",
       "title": "I see the mathematicians panicking at what we can do with agentic AI",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0",
@@ -319,7 +319,7 @@
       "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
       "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
@@ -337,7 +337,7 @@
       "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
       "title": "Agentic AI cringe wars [video]",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 2 # Comments: 0",
@@ -355,7 +355,7 @@
       "id": "live-agentic_ai-codename-mdash-brings-agentic-ai-securit",
       "title": "Codename MDASH brings agentic AI security scanning to US Government",
       "category": "agentic_ai",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https:...",
@@ -365,8 +365,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#AISecurity",
-        "#Microsoft"
+        "#Microsoft",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
       "details": "Article URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/ Comments URL: https://news.ycombinator.com/item?id=49682988 Points: 2 # Comments: 0"
@@ -375,7 +375,7 @@
       "id": "live-models-advisory-group-on-mathematics-and-artifi",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "category": "models",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
@@ -384,8 +384,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "details": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
@@ -394,7 +394,7 @@
       "id": "live-models-higgsfield-ai-ships-new-video-features-i",
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "category": "models",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
@@ -412,7 +412,7 @@
       "id": "live-models-building-standards-for-the-next-phase-of",
       "title": "Building standards for the next phase of AI",
       "category": "models",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
@@ -431,7 +431,7 @@
       "id": "live-models-expanding-openai-academy-with-new-learni",
       "title": "Expanding OpenAI Academy with new learning paths",
       "category": "models",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
@@ -450,7 +450,7 @@
       "id": "live-models-how-v7-gives-ai-agents-institutional-mem",
       "title": "How V7 gives AI agents institutional memory",
       "category": "models",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
@@ -469,7 +469,7 @@
       "id": "live-companies-nvidia-launches-dsx-ready-to-qualify-pow",
       "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
       "category": "companies",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builde...",
@@ -478,9 +478,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#NVIDIA",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "details": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing [\u2026]"
@@ -489,7 +489,7 @@
       "id": "live-companies-from-enablement-to-execution-egypt-s-ai-",
       "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
       "category": "companies",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Today, Egypt\u2019s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation\u2019s rapidly growing AI ecosystem \u2014 spanning AI natives, developers, resea...",
@@ -508,7 +508,7 @@
       "id": "live-companies-why-deploying-physical-ai-at-scale-deman",
       "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
       "category": "companies",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omd...",
@@ -527,7 +527,7 @@
       "id": "live-companies-ai-security-is-an-engineering-problem-ho",
       "title": "AI Security Is an Engineering Problem \u2014 How to Solve It at Every Layer of the Agent Stack",
       "category": "companies",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, ...",
@@ -536,10 +536,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AgenticAI",
-        "#AISecurity",
         "#NVIDIA",
-        "#UnitedNations"
+        "#AISecurity"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
       "details": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, [\u2026]"
@@ -548,7 +548,7 @@
       "id": "live-companies-5-companies-using-nvidia-ai-for-clean-en",
       "title": "5 Companies Using NVIDIA AI for Clean Energy",
       "category": "companies",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Clean energy isn\u2019t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks \u2014 including out-of-date infrastructure, elongated research an...",
@@ -557,8 +557,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
       "details": "Clean energy isn\u2019t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks \u2014 including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception [\u2026]"
@@ -567,7 +567,7 @@
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
       "title": "Podcast: Can prosthetic limbs feel touch? (haptic feedback)",
       "category": "fellowships",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics.....",
@@ -585,7 +585,7 @@
       "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
       "category": "fellowships",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
@@ -594,8 +594,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -604,7 +604,7 @@
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
       "title": "NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakt",
       "category": "fellowships",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics...",
@@ -622,7 +622,7 @@
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
       "title": "NSF launches $20M pilot to accelerate commercialization of promising deep technologies from small bu",
       "category": "fellowships",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventur...",
@@ -640,7 +640,7 @@
       "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
       "title": "Podcast: Creating thermal cloaking and new structures",
       "category": "fellowships",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
@@ -655,10 +655,28 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-trump-floats-ai-force-to-boost-industry",
+      "title": "Trump floats \u2018AI Force\u2019 to boost industry",
+      "category": "military",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "He posted on social media that \"we will cherish it, help it, and watch over it, as it grows! However, we will also be looking for BAD, and we can do that...\"",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/09/trump-ai-force/416125/",
+      "details": "He posted on social media that \"we will cherish it, help it, and watch over it, as it grows! However, we will also be looking for BAD, and we can do that...\""
+    },
+    {
       "id": "live-military-will-airmen-trust-ai-the-air-force-s-fut",
       "title": "Will airmen trust AI? The Air Force\u2019s future plans depend on it",
       "category": "military",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Getting leaders and operators comfortable with agents will require new doctrine, training, and permissions.",
@@ -676,7 +694,7 @@
       "id": "live-military-cape-canaveral-is-building-up-its-counte",
       "title": "Cape Canaveral is building up its counter-drone defenses, Space Force says",
       "category": "military",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The Florida facility is key to the Pentagon\u2019s plans to launch a thousand rockets a year.",
@@ -685,8 +703,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/defense-systems/2026/09/cape-canaveral-building-its-counter-drone-defenses-space-force-says/416096/",
       "details": "The Florida facility is key to the Pentagon\u2019s plans to launch a thousand rockets a year."
@@ -695,7 +713,7 @@
       "id": "live-military-pete-hegseth-is-rebuilding-the-military-",
       "title": "Pete Hegseth is rebuilding the military's \u2018brass ceiling\u2019",
       "category": "military",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The SecDef says his ideological approach to promotion is helping recruiting. Surveys don't back that up.",
@@ -713,7 +731,7 @@
       "id": "live-military-space-force-braces-for-stalled-progress-",
       "title": "Space Force braces for stalled progress amid lack of full funding",
       "category": "military",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Fiscal 2027 program starts are already on hold until December.",
@@ -728,28 +746,10 @@
       "details": "Fiscal 2027 program starts are already on hold until December."
     },
     {
-      "id": "live-military-air-force-contemplates-unmanned-tankers",
-      "title": "Air Force contemplates unmanned tankers",
-      "category": "military",
-      "date": "2026-09-21",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The technology isn\u2019t yet available to give autonomy to very large aircraft\u2014but it\u2019s coming.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/09/air-force-contemplates-unmanned-tankers/416069/",
-      "details": "The technology isn\u2019t yet available to give autonomy to very large aircraft\u2014but it\u2019s coming."
-    },
-    {
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -758,9 +758,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Governance",
-        "#AISecurity",
-        "#UnitedNations"
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -769,7 +769,7 @@
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -787,7 +787,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -805,7 +805,7 @@
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -823,7 +823,7 @@
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
       "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single ...",
@@ -841,7 +841,7 @@
       "id": "live-governance-data-union-conference",
       "title": "Data Union Conference",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
@@ -850,8 +850,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -861,7 +861,7 @@
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
       "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
@@ -870,9 +870,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
         "#UnitedNations",
+        "#AISecurity",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
@@ -882,7 +882,7 @@
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
       "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
@@ -891,9 +891,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
         "#UnitedNations",
+        "#AISecurity",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
@@ -903,7 +903,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
@@ -922,7 +922,7 @@
       "id": "live-governance-commission-designates-chatgpt-reddit-rob",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "category": "governance",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Onli...",
@@ -931,19 +931,37 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
         "#UnitedNations",
+        "#AISecurity",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
     },
     {
+      "id": "live-multilateral-un-condemns-attempted-houthi-strike-on-r",
+      "title": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
+      "category": "multilateral",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN has condemned continued cross\u2011border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168387",
+      "details": "The UN has condemned continued cross\u2011border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country\u2019s fastest displacement surges in years."
+    },
+    {
       "id": "live-multilateral-nowhere-is-safe-un-experts-detail-ukrain",
       "title": "\u2018Nowhere is safe\u2019: UN experts detail Ukraine war\u2019s toll and Russia\u2019s reach beyond its borders",
       "category": "multilateral",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia\u2019s invasion of Ukraine, with a spotlight on civilians facing a third wartime ...",
@@ -961,7 +979,7 @@
       "id": "live-multilateral-we-are-not-powerless-un-chief-urges-worl",
       "title": "\u2018We are not powerless\u2019: UN chief urges world leaders to invest in peace",
       "category": "multilateral",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "In a world facing rising conflicts, violence and divisions that are causing great suffering for millions of people, the UN chief on Monday called on world leaders and citizens to i...",
@@ -979,7 +997,7 @@
       "id": "live-multilateral-why-climate-action-now-comes-down-to-spe",
       "title": "Why climate action now comes down to speed, finance and cooperation",
       "category": "multilateral",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Temporarily exceeding the 1.5\u00b0C global warming goal set in Paris is widely considered inevitable. The challenge now is to keep that overshoot as small and short as possible by cutt...",
@@ -988,8 +1006,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168382",
       "details": "Temporarily exceeding the 1.5\u00b0C global warming goal set in Paris is widely considered inevitable. The challenge now is to keep that overshoot as small and short as possible by cutting emissions faster, unlocking finance and strengthening international cooperation."
@@ -998,7 +1016,7 @@
       "id": "live-multilateral-ebola-vaccine-trial-begins-in-dr-congo",
       "title": "Ebola vaccine trial begins in DR Congo",
       "category": "multilateral",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
@@ -1011,25 +1029,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168381",
       "details": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response."
-    },
-    {
-      "id": "live-multilateral-un-panel-calls-for-stronger-safeguards-a",
-      "title": "UN panel calls for stronger safeguards as AI agents advance",
-      "category": "multilateral",
-      "date": "2026-09-21",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The world's first scientific body on Artificial Intelligence called on Monday for AI safeguards to be adapted as current firewalls are \u201cunravelling\u201d.&nbsp;",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168380",
-      "details": "The world's first scientific body on Artificial Intelligence called on Monday for AI safeguards to be adapted as current firewalls are \u201cunravelling\u201d.&nbsp;"
     }
   ]
 }
