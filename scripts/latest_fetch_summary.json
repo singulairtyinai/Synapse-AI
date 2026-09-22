@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T16:30:35.743163",
+  "timestamp": "2026-09-22T22:47:29.031077",
   "fetched_count": 50,
   "nodes": [
     {
@@ -51,10 +51,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Meta",
         "#AISecurity",
         "#Anthropic",
-        "#OpenAI",
-        "#Meta"
+        "#OpenAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "details": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;"
@@ -108,8 +108,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.20971",
       "details": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base branch captures average relevance, while a rescue branch uses the maximum key-block radius and its prompt-, layer-, and head-dependent distribution to identify blocks at risk of underestimation. Independently thresholding the two branches and combining their masks controls the contribution of rescue blocks while preserving regular block-sparse FlashAttention execution. On H100 GPUs, RBS-Attention achieves 20.65$\\times$ standalone prefill-attention speedup, 11.92$\\times$ vLLM prefill-attention speedup, and 5.97$\\times$ end-to-end time-to-first-token speedup at 128K on Qwen3-30B-A3B-Instruct-2507-FP8. On the dense Qwen3-32B model, it obtains 88.65 overall RULER accuracy versus 89.52 for dense attention; LongBench-v2, InfiniteBench, and Video-MME provide additional quality evaluation. Supporting experiments measure actual retention, compare selectors at matched density, and characterize block-size, threshold, and memory behavior. Together, these results support radius-adaptive dual-branch selection as an effective approach to long-context prefill."
@@ -127,9 +127,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.20974",
       "details": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from the hidden state. Keeping the base transformer entirely frozen, we train only the routing parameters, isolating routing as the sole variable. AAR improves GSM8K by +3.37 pp over a routing-only SFT baseline on OLMoE. Beyond performance, we show that routing and attention form a coupled circuit: routing changes at layer l propagate through the residual stream to amplify attention sinks at layer l+1, reshaping attention without any direct update to the attention mechanism itself. Further, AAR reduces long diverging generation, with incorrect answers getting shorter, while correct answers remain unchanged in length. Finally, AAR is strongly depth-sensitive: applying it indiscriminately across layers can degrade factual retrieval, whereas mathematical reasoning gains persist when it is introduced deeper in the network. This sensitivity exposes a retrieval--reasoning tension across depth and makes layer-selective AAR a controlled probe of the routing-relevant information carried by attention at different layers."
@@ -147,9 +147,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.20981",
       "details": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs gradient-guided ``thought revision\" to enforce logical consistency, enabling dynamic self-correction of intermediate steps during parallel generation. Empirically, CaLR achieves SOTA DLM performance on complex benchmarks, surpassing strong AR baselines and demonstrating superior robustness in constrained tasks like Sudoku."
@@ -167,8 +167,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.21061",
       "details": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing the ViT backbone, bridging the gap between natural-image pretraining and underwater acoustic propagation. Stage 2 uses hard-negative mining to strengthen the decision boundary against acoustic mimics, including rocks and sediment formations resembling man-made targets. Stage 3 uses Supervised Contrastive Learning (SupCon) to separate target and clutter representations. We evaluate at-sea SAS data using a mission-level geographic split, compare all arms at 85 percent test recall, and repeat each comparison over three random seeds. LoRA accounts for the primary effect, increasing area under the precision-recall curve (AUPRC) from 0.300 to 0.679 +/- 0.027 using the same frozen backbone. Rank 4 achieves this result while training only 0.26 percent of weights. Neither refinement stage exceeds its matched control: hard-negative mining changes AUPRC by -0.0045 +/- 0.0119 versus an equal-size random curriculum, and SupCon changes AUPRC by +0.0002 +/- 0.0096 versus the preceding stage. These null results indicate that mining occurred on data the encoder had already fit and that supervised stages had already imposed most target-clutter geometry. One efficient adaptation stage is sufficient; stacked refinement is not."
@@ -186,11 +186,29 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.21096",
       "details": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We evaluate our approach extensively across several LLMs and established benchmarks. Empirical results demonstrate that our proposed single-pass approach provides consistent improvements over existing attention-based and multi-response baselines across two hallucination-detection benchmarks, while achieving competitive performance across diverse LLM architectures. Further analysis reveals that impaired context sharing among tokens during causal generation is strongly associated with hallucination occurrences in LLMs. In particular, hallucinated responses are consistently characterized by an over-reliance on self-attention, diffused context retrieval from earlier tokens, or information over-squashing, especially in the final transformer layer."
+    },
+    {
+      "id": "live-agentic_ai-how-uk-aisi-and-evaleval-are-making-benc",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "category": "agentic_ai",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/evaleval-aisi",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-transformers-now-runs-llama-cpp-quants",
@@ -265,41 +283,78 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-your-agent-aced-the-task-will-it-do-it-a",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "category": "agentic_ai",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-models-advisory-group-on-mathematics-and-artifi",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "id": "live-models-better-prompt-caching-for-gpt-6",
+      "title": "Better prompt caching for GPT-6",
       "category": "models",
       "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#OpenAI"
       ],
-      "sourceUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "details": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "details": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+    },
+    {
+      "id": "live-models-introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "category": "models",
+      "date": "2026-09-22",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "details": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+    },
+    {
+      "id": "live-models-parallel-cut-research-time-and-cost-in-h",
+      "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
+      "category": "models",
+      "date": "2026-09-22",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "details": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+    },
+    {
+      "id": "live-models-priorities-and-principles-for-effective-",
+      "title": "Priorities and principles for effective third party assessments",
+      "category": "models",
+      "date": "2026-09-22",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "details": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
     },
     {
       "id": "live-models-higgsfield-ai-ships-new-video-features-i",
@@ -320,63 +375,6 @@
       "details": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
     },
     {
-      "id": "live-models-building-standards-for-the-next-phase-of",
-      "title": "Building standards for the next phase of AI",
-      "category": "models",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
-      "details": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
-    },
-    {
-      "id": "live-models-expanding-openai-academy-with-new-learni",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "category": "models",
-      "date": "2026-09-22",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "details": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
-    },
-    {
-      "id": "live-models-how-v7-gives-ai-agents-institutional-mem",
-      "title": "How V7 gives AI agents institutional memory",
-      "category": "models",
-      "date": "2026-09-22",
-      "impact": "CRITICAL",
-      "company": "OpenAI Newsroom",
-      "tldr": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://openai.com/index/v7",
-      "details": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
-    },
-    {
       "id": "live-companies-nvidia-isaac-ros-5-0-advances-agentic-op",
       "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
       "category": "companies",
@@ -389,8 +387,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#AgenticAI",
+        "#NVIDIA",
         "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
@@ -409,9 +407,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#NVIDIA",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "details": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing [\u2026]"
@@ -448,8 +446,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#Governance"
+        "#Governance",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
       "details": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, [\u2026]"
@@ -467,10 +465,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#NVIDIA",
         "#AISecurity",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
       "details": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, [\u2026]"
@@ -506,8 +504,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -567,6 +565,45 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-trump-s-fbi-shut-down-investigation-into",
+      "title": "Trump's FBI shut down investigation into defense contractor's alleged bribes",
+      "category": "military",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "A CEO told agents about funneling money to U.S. lawmakers in return for Pentagon contracts worth millions of dollars. Then the probe was killed.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance",
+        "#DefenseAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/09/fbi-defense-bribery-investigation/416138/",
+      "details": "A CEO told agents about funneling money to U.S. lawmakers in return for Pentagon contracts worth millions of dollars. Then the probe was killed."
+    },
+    {
+      "id": "live-military-time-not-capital-is-the-constraint-on-th",
+      "title": "Time, not capital, is the constraint on the defense industrial base",
+      "category": "military",
+      "date": "2026-09-22",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Here are three changes to speed things up without lowering standards.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/time-not-capital-constraint-defense-industrial-base/416135/",
+      "details": "Here are three changes to speed things up without lowering standards."
+    },
+    {
       "id": "live-military-nato-s-thumbs-up-for-aws-shows-europe-st",
       "title": "NATO\u2019s thumbs-up for AWS shows Europe still needs America",
       "category": "military",
@@ -621,43 +658,6 @@
       "details": "Getting leaders and operators comfortable with agents will require new doctrine, training, and permissions."
     },
     {
-      "id": "live-military-cape-canaveral-is-building-up-its-counte",
-      "title": "Cape Canaveral is building up its counter-drone defenses, Space Force says",
-      "category": "military",
-      "date": "2026-09-22",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "The Florida facility is key to the Pentagon\u2019s plans to launch a thousand rockets a year.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/defense-systems/2026/09/cape-canaveral-building-its-counter-drone-defenses-space-force-says/416096/",
-      "details": "The Florida facility is key to the Pentagon\u2019s plans to launch a thousand rockets a year."
-    },
-    {
-      "id": "live-military-pete-hegseth-is-rebuilding-the-military-",
-      "title": "Pete Hegseth is rebuilding the military's \u2018brass ceiling\u2019",
-      "category": "military",
-      "date": "2026-09-22",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "The SecDef says his ideological approach to promotion is helping recruiting. Surveys don't back that up.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/pete-hegseth-military-brass-ceiling/416082/",
-      "details": "The SecDef says his ideological approach to promotion is helping recruiting. Surveys don't back that up."
-    },
-    {
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
@@ -670,9 +670,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AISecurity",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -763,8 +763,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -783,9 +783,9 @@
       },
       "tags": [
         "#Governance",
-        "#AISecurity",
+        "#EUAIAct",
         "#UnitedNations",
-        "#EUAIAct"
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -804,9 +804,9 @@
       },
       "tags": [
         "#Governance",
-        "#AISecurity",
+        "#EUAIAct",
         "#UnitedNations",
-        "#EUAIAct"
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -824,8 +824,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -844,21 +844,21 @@
       },
       "tags": [
         "#Governance",
-        "#AISecurity",
+        "#EUAIAct",
         "#UnitedNations",
-        "#EUAIAct"
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
     },
     {
-      "id": "live-multilateral-time-to-accept-hard-truths-so-trust-can-",
-      "title": "Time to accept \u2018hard truths\u2019 so trust can be rebuilt: General Assembly president",
+      "id": "live-multilateral-time-is-running-out-for-israel-palestine",
+      "title": "\u2018Time is running out\u2019 for Israel-Palestine two-State solution",
       "category": "multilateral",
       "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The UN\u2019s survival for 80 years is not, by itself, proof of success, and now, the institution must confront painful truths if it hopes to rebuild public trust, said Khalilur Rahman,...",
+      "tldr": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.&nbsp;",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -866,17 +866,17 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168394",
-      "details": "The UN\u2019s survival for 80 years is not, by itself, proof of success, and now, the institution must confront painful truths if it hopes to rebuild public trust, said Khalilur Rahman, president of the General Assembly\u2019s 81st session on Tuesday."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168401",
+      "details": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.&nbsp;"
     },
     {
-      "id": "live-multilateral-guterres-cracks-have-become-canyons-as-w",
-      "title": "Guterres: \u2018Cracks have become canyons\u2019 as world faces four tests of power",
+      "id": "live-multilateral-choose-international-order-over-law-of-t",
+      "title": "Choose international order over \u2018law of the jungle\u2019, urges Macron",
       "category": "multilateral",
       "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Humanity faces four defining \u201ctests of power\u201d \u2013 around war or peace, inequality, climate change and AI \u2013 that will determine whether the world moves towards a new era of cooperatio...",
+      "tldr": "French President Emmanuel Macron said on Tuesday that the world faces a stark choice: \u201cDo we want to live\u2026with a return to the law of the jungle \u2013 or do we want to live in a civili...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -884,35 +884,36 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168392",
-      "details": "Humanity faces four defining \u201ctests of power\u201d \u2013 around war or peace, inequality, climate change and AI \u2013 that will determine whether the world moves towards a new era of cooperation or deeper division, the UN chief warned the General Assembly on Tuesday."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168402",
+      "details": "French President Emmanuel Macron said on Tuesday that the world faces a stark choice: \u201cDo we want to live\u2026with a return to the law of the jungle \u2013 or do we want to live in a civilized international society?\u201d"
     },
     {
-      "id": "live-multilateral-millions-of-children-return-to-schools-t",
-      "title": "Millions of children return to schools that still can\u2019t provide clean water or a working toilet",
+      "id": "live-multilateral-qatar-absence-of-a-regional-collective-s",
+      "title": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
       "category": "multilateral",
       "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "A new academic year is underway in many countries across the world, yet millions of children still attend schools where the water is unsafe to drink, toilets are unusable and there...",
+      "tldr": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of d...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168393",
-      "details": "A new academic year is underway in many countries across the world, yet millions of children still attend schools where the water is unsafe to drink, toilets are unusable and there is nowhere to properly wash their hands.&nbsp;&nbsp;"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168400",
+      "details": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of delay, crisis management through temporary fixes, and unrealistic policies."
     },
     {
-      "id": "live-multilateral-displacement-on-the-rise-in-yemen-as-fig",
-      "title": "Displacement on the rise in Yemen as fighting continues",
+      "id": "live-multilateral-un-rendered-unable-to-fulfil-its-mission",
+      "title": "UN rendered unable to fulfil its mission, Turkish President laments before world leaders",
       "category": "multilateral",
       "date": "2026-09-22",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on T...",
+      "tldr": "The United Nations continues to be weakened, and those who have tied their hopes to the world body \u2013 from Palestine to Sudan \u2013 have been disappointed, T\u00fcrkiye\u2019s President said, whi...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -920,26 +921,28 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168390",
-      "details": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168399",
+      "details": "The United Nations continues to be weakened, and those who have tied their hopes to the world body \u2013 from Palestine to Sudan \u2013 have been disappointed, T\u00fcrkiye\u2019s President said, while adding that his country is committed to restoring confidence in the Organization."
     },
     {
-      "id": "live-multilateral-in-tanzania-the-sea-is-moving-inland-and",
-      "title": "In Tanzania, the sea is moving inland \u2013 and taking livelihoods with it",
+      "id": "live-multilateral-trump-defends-military-action-against-ir",
+      "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
       "category": "multilateral",
       "date": "2026-09-22",
-      "impact": "MODERATE",
+      "impact": "HIGH",
       "company": "UN News AI",
-      "tldr": "Along the coast of Tanzania, in East Africa, the Indian Ocean is pushing saltwater ever farther inland, shrinking coconut harvests, driving fish away and leaving some residents won...",
+      "tldr": "US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to maintain economic pressure on Te...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
+        "#DefenseAI",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168389",
-      "details": "Along the coast of Tanzania, in East Africa, the Indian Ocean is pushing saltwater ever farther inland, shrinking coconut harvests, driving fish away and leaving some residents wondering how much longer they can stay."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168397",
+      "details": "US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to maintain economic pressure on Tehran \u2013 and declaring that he now faces a choice between making a deal, or taking far more drastic steps."
     }
   ]
 }
