@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-09-23T16:20:12.710330",
+  "timestamp": "2026-09-23T22:47:32.986958",
   "fetched_count": 55,
   "nodes": [
+    {
+      "id": "live-overall-a-congressional-representative-just-prop",
+      "title": "A congressional representative just proposed killing America\u2019s border tower program",
+      "category": "overall",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern bor...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "details": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, \u201cDying on Camera,\u201d in which we looked at deaths along the border that took place&#8230;"
+    },
     {
       "id": "live-overall-the-download-india-s-smart-glasses-menac",
       "title": "The Download: India\u2019s smart glasses menace and AI\u2019s trillion-dollar gamble",
@@ -19,6 +37,27 @@
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;"
+    },
+    {
+      "id": "live-overall-the-ai-hype-index-ai-loves-cheating",
+      "title": "The AI Hype Index: AI loves cheating",
+      "category": "overall",
+      "date": "2026-09-23",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigiou...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#OpenAI",
+        "#AgenticAI",
+        "#Anthropic"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "details": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians\u2019 answer sheets). Anthropic\u2019s models have also hacked into other companies\u2019 systems four times already. And that\u2019s&#8230;"
     },
     {
       "id": "live-overall-smart-glasses-are-already-causing-havoc-",
@@ -57,45 +96,6 @@
       "details": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;"
     },
     {
-      "id": "live-overall-the-download-why-ai-s-latest-breakthroug",
-      "title": "The Download: why AI\u2019s latest breakthroughs and fears may be more hype than reality",
-      "category": "overall",
-      "date": "2026-09-23",
-      "impact": "CRITICAL",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don\u2019t be fooled by this summer...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don\u2019t be fooled by this summer of AI hype&#160; \u2014Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;"
-    },
-    {
-      "id": "live-overall-don-t-be-fooled-by-this-summer-of-ai-hyp",
-      "title": "Don\u2019t be fooled by this summer of AI hype",
-      "category": "overall",
-      "date": "2026-09-23",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security expert...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Anthropic",
-        "#OpenAI",
-        "#Meta",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "details": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;"
-    },
-    {
       "id": "live-overall-didactic-knowledge-or-clinical-cases-how",
       "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
       "category": "overall",
@@ -108,9 +108,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#Reasoning",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22161",
       "details": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with token-matched experiments that vary the didactic-to-clinical ratio and analyze how data composition affects performance, capability profiles, and error patterns across knowledge-intensive and clinic-oriented tasks. We uncover an asymmetric transfer across task types: clinical data improves clinic-oriented tasks while remaining competitive on knowledge-intensive ones, whereas didactic data mainly improves knowledge-intensive tasks. Error analysis suggests a knowing-doing gap, where improvements in knowledge recall do not reliably generalize to clinical reasoning. We further observe that modest amounts of clinical data yield most of the gains on EHR-grounded tasks, while the optimal mixture ratio varies with the knowledge and clinical reasoning demands of downstream tasks. These findings suggest that medical LLM data curation should be application-driven, with higher proportions of clinical data preferred for reasoning-intensive use cases."
@@ -128,9 +128,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22277",
       "details": "arXiv:2609.22277v1 Announce Type: new Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud connectivity, limiting accessibility in resource-constrained settings. This paper presents an affordable (\\$88 USD), fully offline AI-integrated smart cane designed for multimodal mobility assistance on an ultra-low-power Raspberry Pi Zero 2W. The system fuses RGB vision sensing with Time-of-Flight (ToF) distance estimation, pairing an INT8-quantized SSD MobileNet V1 model with distance-aware vibrotactile feedback and real-time audio alerts. To ensure operational robustness on constrained hardware, a multiprocessing architecture isolates sensor acquisition, neural inference, and haptic feedback into independent processes with fail-safe sensing support. Experimental evaluation across indoor mobility scenarios demonstrates a macro-averaged F1-score of 0.82 (precision: 0.85, recall: 0.81), a mean end-to-end latency of 330\\,ms, and a peak power draw of 2.8\\,W. A preliminary usability study with 12 participants (SUS: 78.5, NASA-TLX) demonstrated positive user perception and enhanced obstacle awareness. The proposed prototype validates the feasibility of deploying privacy-preserving, edge-native assistive intelligence for cost-sensitive mobility assistance."
@@ -148,9 +148,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22353",
       "details": "arXiv:2609.22353v1 Announce Type: new Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct challenge. An object label or steering command does not explain which evidence supports a decision or when that evidence is unreliable. We present PAANI, an on-device perception to guidance architecture that combines a project trained YOLO11n detector and a custom MobileNetV3 Small semantic segmenter with timestamp aligned evidence fusion on Arduino UNO Q. Bounded tracking supplies object persistence, while an explicit corridor policy combines surface labels, accepted detections, urgency and mask uncertainty. Each final advisory exposes its contributing evidence and policy reasons. ROS 2 interfaces connect the local AI pipeline to a separate Gazebo vessel, localization and control testbed. Training uses 10,000 WaterScenes images for four-class detection and 1,127 MaSTr1325 images for segmentation, including 198 segmentation validation images. The selected FP32 ONNX models occupy 14.817 MB. Detector checkpoint test mAP at 0.5 IoU is 0.7388, while the separately evaluated rectangular ONNX export achieves validation mAP at 0.5 IoU of 0.7367. Segmentation ONNX validation mIoU is 0.9750. A five-minute UNO Q recording produced median and 95th percentile pipeline latencies of 467.8 ms and 580.3 ms at a configured 0.5 Hz cadence. The evaluation also identifies black input misclassification and a sampling rate mismatch that prevents the diagnostic apparent motion estimator from collecting sufficient evidence. These results support an inspectable and reusable edge robotics foundation while clearly distinguishing model accuracy and on-board execution from validated on-water collision avoidance."
@@ -168,9 +168,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AgenticAI",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22408",
       "details": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts the Music Lab design to a market for academic attention. In the first experiment, 1,000 AI agents choose papers from the titles and abstracts of all 114 regular research articles published in the American Economic Review in 2025. The experiment has five independent-choice communities and five social-influence communities, each with 100 sequential agents. Only agents in the social-influence condition observe earlier selections within their community. Agents may select any number of papers. Social-information communities select 17.2 percent fewer papers per agent, concentrate their choices more heavily, and collectively cover 73 papers, compared with 90 independently. Between-community variation is greater under social information. In a second experiment with 200 agents across twenty social communities, randomly assigning papers five initial selections raises their subsequent selection rate by 45.55 percentage points (95% CI: 41.20 to 49.90). Choices have modest correspondence with external citations and little correspondence with download counts. The results show how a simple information rule shapes the volume, breadth and distribution of scientific attention in an artificial population."
@@ -188,15 +188,15 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22410",
       "details": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell images to latent biophysical quantities and aggregates them to mean corpuscular volume, red-cell distribution width and mean corpuscular haemoglobin. The model combines shared local inference, a biophysically structured decoder for volume and haemoglobin, learned instance weighting and device-specific calibration. We formalise conditions under which aggregate observations identify restricted instance predictors, show why population agreement does not by itself identify single-cell properties or 3D geometry, and derive the dispersion penalty induced by subset mean matching. The development dataset comprises 390 specimens and 1,105 acquisitions across six devices, with reported Pearson correlations of 0.86--0.98 against a Sysmex analyser. The framework provides a testable route from 2D images and population supervision to 3D cellular biophysics without claiming explicit 3D reconstruction."
     },
     {
-      "id": "live-agentic_ai-know-who-spoke-when-build-real-time-mult",
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "id": "live-agentic_ai-how-to-use-nvidia-warp-and-mjwarp-to-acc",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "category": "agentic_ai",
       "date": "2026-09-23",
       "impact": "MODERATE",
@@ -209,7 +209,7 @@
       "tags": [
         "#NVIDIA"
       ],
-      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "details": "Live news development fetched from official RSS feed."
     },
     {
@@ -414,33 +414,33 @@
       "details": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
     },
     {
-      "id": "live-models-grab-and-openai-bring-practical-ai-skill",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "id": "live-models-sam-altman-s-remarks-at-the-united-natio",
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
       "category": "models",
       "date": "2026-09-23",
-      "impact": "HIGH",
+      "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#OpenAI",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "details": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+      "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "details": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
     },
     {
-      "id": "live-models-better-prompt-caching-for-gpt-6",
-      "title": "Better prompt caching for GPT-6",
+      "id": "live-models-harvey-turns-legal-context-into-stronger",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "category": "models",
       "date": "2026-09-23",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
@@ -448,27 +448,26 @@
       "tags": [
         "#OpenAI"
       ],
-      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "details": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+      "sourceUrl": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "details": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
     },
     {
-      "id": "live-models-introducing-gpt-6-sol-and-luna",
-      "title": "Introducing GPT-6 Sol and Luna",
+      "id": "live-models-how-invideo-improves-color-grading-3x-wi",
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
       "category": "models",
       "date": "2026-09-23",
-      "impact": "HIGH",
+      "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "tldr": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#OpenAI"
       ],
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "details": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+      "sourceUrl": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "details": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
     },
     {
       "id": "live-companies-sakeena-fiza-helps-nvidia-hardware-succe",
@@ -521,8 +520,8 @@
       },
       "tags": [
         "#NVIDIA",
-        "#Governance",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
       "details": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of GPU-accelerated packages built on ROS, released today at [\u2026]"
@@ -541,8 +540,8 @@
       },
       "tags": [
         "#NVIDIA",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "details": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing [\u2026]"
@@ -597,8 +596,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -664,7 +663,7 @@
       "date": "2026-09-23",
       "impact": "MODERATE",
       "company": "Defense One AI",
-      "tldr": "Trump's is attempting to rebrand AI with an existing term of art.",
+      "tldr": "Trump is attempting to rebrand AI with an existing term of art.",
       "specs": {
         "source": "Defense One AI",
         "type": "Live RSS Feed"
@@ -673,7 +672,7 @@
         "#AITrend"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/super-intelligence-presidents-new-term-ai-explained/416153/",
-      "details": "Trump's is attempting to rebrand AI with an existing term of art."
+      "details": "Trump is attempting to rebrand AI with an existing term of art."
     },
     {
       "id": "live-military-trump-s-fbi-shut-down-investigation-into",
@@ -688,10 +687,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AgenticAI",
-        "#UnitedNations",
         "#DefenseAI",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/fbi-defense-bribery-investigation/416138/",
       "details": "A CEO told agents about funneling money to U.S. lawmakers in return for Pentagon contracts worth millions of dollars. Then the probe was killed."
@@ -764,8 +763,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -855,9 +854,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -876,9 +875,9 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -897,9 +896,9 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -917,8 +916,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -937,21 +936,21 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
     },
     {
-      "id": "live-multilateral-syria-begins-new-phase-of-revival-presid",
-      "title": "Syria begins \u2018new phase of revival\u2019, President Al-Sharaa tells General Assembly",
+      "id": "live-multilateral-guterres-calls-on-countries-to-set-clear",
+      "title": "Guterres calls on countries to set clear timelines for transition away from fossil fuels",
       "category": "multilateral",
       "date": "2026-09-23",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Syrian President Ahmad Al-Sharaa told the UN General Assembly on Wednesday that his country \u201cis rising\u201d on many levels, thanks to the strength of its people.",
+      "tldr": "\u201cWe are the first generation with the tools to end the fossil fuel age \u2013 and the last who can avert climate catastrophe,\u201d UN Secretary-General Ant\u00f3nio Guterres said on Wednesday, c...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -959,81 +958,87 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168411",
-      "details": "Syrian President Ahmad Al-Sharaa told the UN General Assembly on Wednesday that his country \u201cis rising\u201d on many levels, thanks to the strength of its people."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168418",
+      "details": "\u201cWe are the first generation with the tools to end the fossil fuel age \u2013 and the last who can avert climate catastrophe,\u201d UN Secretary-General Ant\u00f3nio Guterres said on Wednesday, calling on countries to draw up credible roadmaps with clear timelines to transition away from fossil fuels."
     },
     {
-      "id": "live-multilateral-security-council-live-world-leaders-deba",
-      "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
+      "id": "live-multilateral-rohingya-refugees-deserve-a-future-beyon",
+      "title": "Rohingya refugees deserve a future beyond survival, not endless displacement",
       "category": "multilateral",
       "date": "2026-09-23",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace \u2013 though any resolution still runs up against the veto of Russia, one o...",
+      "tldr": "Nine years after the mass displacement of the Rohingya from Myanmar, their situation remains one of the world's most protracted and complex refugee crises, marked by years of perse...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168417",
+      "details": "Nine years after the mass displacement of the Rohingya from Myanmar, their situation remains one of the world's most protracted and complex refugee crises, marked by years of persecution and uncertainty over the prospect of returning home."
+    },
+    {
+      "id": "live-multilateral-zelenskyy-urges-stronger-pressure-on-rus",
+      "title": "Zelenskyy urges stronger pressure on Russia, warns war\u2019s impact is spreading beyond Ukraine",
+      "category": "multilateral",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Ukrainian President Volodymyr Zelenskyy on Wednesday called for intensified pressure on Russia to end its war against Ukraine, arguing that Moscow continues to incur massive losses...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168416",
+      "details": "Ukrainian President Volodymyr Zelenskyy on Wednesday called for intensified pressure on Russia to end its war against Ukraine, arguing that Moscow continues to incur massive losses while prolonging a conflict whose consequences are increasingly being felt far beyond the battlefield."
+    },
+    {
+      "id": "live-multilateral-live-openai-and-anthropic-brief-security",
+      "title": "LIVE: OpenAI and Anthropic brief Security Council amid \u2018real and imminent\u2019 threat posed by runaway A",
+      "category": "multilateral",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations"
+        "#OpenAI",
+        "#UnitedNations",
+        "#Anthropic"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168410",
-      "details": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace \u2013 though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, the gap between diplomatic process and battlefield reality appears to be stark."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168414",
+      "details": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengi, a recipient of the prestigious Turing Award and one of the godfathers of machine intelligence, said the dangers of AI beyond human control represent an unprecedented threat for countries \u201cthat none can contain alone and that does not respect the borders we defend.\u201d"
     },
     {
-      "id": "live-multilateral-right-to-development-a-blueprint-for-unm",
-      "title": "Right to development: A blueprint for unmet promises",
+      "id": "live-multilateral-live-climate-change-is-here-what-happens",
+      "title": "LIVE: Climate change is here - What happens next is still in our hands",
       "category": "multilateral",
       "date": "2026-09-23",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Ahead of the 40th anniversary of the groundbreaking Declaration on the Right to Development this December, world leaders gathered at a High-Level Week meeting on Wednesday to map p...",
+      "tldr": "\ud83d\udd34 LIVE NOW&nbsp; From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task i...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
+        "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168405",
-      "details": "Ahead of the 40th anniversary of the groundbreaking Declaration on the Right to Development this December, world leaders gathered at a High-Level Week meeting on Wednesday to map progress made and the 21st century challenges still ahead \u2013 from narrowing the digital divide to levelling the AI playing field \u2013 as the UN chief presented a \u201cblueprint\u201d to address promises that remain unfulfilled."
-    },
-    {
-      "id": "live-multilateral-un-health-agency-calls-for-investment-bo",
-      "title": "UN health agency calls for investment boost to save young lives from cancer",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "More children and young people are beating cancer, but progress remains uneven across regions and age groups, highlighting the need for increased investment to boost survival rates...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168408",
-      "details": "More children and young people are beating cancer, but progress remains uneven across regions and age groups, highlighting the need for increased investment to boost survival rates."
-    },
-    {
-      "id": "live-multilateral-dr-congo-ebola-outbreak-toll-exceeds-3-7",
-      "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up signific...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168407",
-      "details": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and \u201cthe first encouraging signs of progress\u201d are now being seen."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168372",
+      "details": "\ud83d\udd34 LIVE NOW&nbsp; From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders are meeting today to discuss how to turn those priorities into action."
     }
   ]
 }
