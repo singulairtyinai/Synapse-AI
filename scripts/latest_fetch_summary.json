@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-09-23T03:49:28.963525",
+  "timestamp": "2026-09-23T09:09:19.461493",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-smart-glasses-are-already-causing-havoc-",
+      "title": "Smart glasses are already causing havoc in India",
+      "category": "overall",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "details": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#8230;"
+    },
     {
       "id": "live-overall-roundtables-the-deadly-failures-of-the-v",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -51,10 +69,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#AISecurity",
         "#Anthropic",
-        "#OpenAI"
+        "#AISecurity",
+        "#OpenAI",
+        "#Meta"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "details": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;"
@@ -78,119 +96,103 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can\u2019t it catch people before they die? When Jos\u00e9 Morales Bernal crossed the border into the US in April 2024, the day before&#8230;"
     },
     {
-      "id": "live-overall-how-we-made-the-first-comprehensive-map-",
-      "title": "How we made the first comprehensive map of deaths along the US border\u2019s \u201cvirtual wall\u201d",
-      "category": "overall",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "details": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technology Review&#160;and&#160;Times of San Diego. Journalists in both newsrooms spent the past&#8230;"
-    },
-    {
-      "id": "live-overall-rbs-attention-radius-bounded-sparse-pref",
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "id": "live-overall-didactic-knowledge-or-clinical-cases-how",
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
       "category": "overall",
       "date": "2026-09-23",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prom...",
+      "tldr": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient r...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#Reasoning"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.20971",
-      "details": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base branch captures average relevance, while a rescue branch uses the maximum key-block radius and its prompt-, layer-, and head-dependent distribution to identify blocks at risk of underestimation. Independently thresholding the two branches and combining their masks controls the contribution of rescue blocks while preserving regular block-sparse FlashAttention execution. On H100 GPUs, RBS-Attention achieves 20.65$\\times$ standalone prefill-attention speedup, 11.92$\\times$ vLLM prefill-attention speedup, and 5.97$\\times$ end-to-end time-to-first-token speedup at 128K on Qwen3-30B-A3B-Instruct-2507-FP8. On the dense Qwen3-32B model, it obtains 88.65 overall RULER accuracy versus 89.52 for dense attention; LongBench-v2, InfiniteBench, and Video-MME provide additional quality evaluation. Supporting experiments measure actual retention, compare selectors at matched density, and characterize block-size, threshold, and memory behavior. Together, these results support radius-adaptive dual-branch selection as an effective approach to long-context prefill."
+      "sourceUrl": "https://arxiv.org/abs/2609.22161",
+      "details": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with token-matched experiments that vary the didactic-to-clinical ratio and analyze how data composition affects performance, capability profiles, and error patterns across knowledge-intensive and clinic-oriented tasks. We uncover an asymmetric transfer across task types: clinical data improves clinic-oriented tasks while remaining competitive on knowledge-intensive ones, whereas didactic data mainly improves knowledge-intensive tasks. Error analysis suggests a knowing-doing gap, where improvements in knowledge recall do not reliably generalize to clinical reasoning. We further observe that modest amounts of clinical data yield most of the gains on EHR-grounded tasks, while the optimal mixture ratio varies with the knowledge and clinical reasoning demands of downstream tasks. These findings suggest that medical LLM data curation should be application-driven, with higher proportions of clinical data preferred for reasoning-intensive use cases."
     },
     {
-      "id": "live-overall-attention-aware-routing-coupling-routing",
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "id": "live-overall-an-affordable-ai-integrated-smart-cane-f",
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
       "category": "overall",
       "date": "2026-09-23",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing...",
+      "tldr": "arXiv:2609.22277v1 Announce Type: new Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide ...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.20974",
-      "details": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from the hidden state. Keeping the base transformer entirely frozen, we train only the routing parameters, isolating routing as the sole variable. AAR improves GSM8K by +3.37 pp over a routing-only SFT baseline on OLMoE. Beyond performance, we show that routing and attention form a coupled circuit: routing changes at layer l propagate through the residual stream to amplify attention sinks at layer l+1, reshaping attention without any direct update to the attention mechanism itself. Further, AAR reduces long diverging generation, with incorrect answers getting shorter, while correct answers remain unchanged in length. Finally, AAR is strongly depth-sensitive: applying it indiscriminately across layers can degrade factual retrieval, whereas mathematical reasoning gains persist when it is introduced deeper in the network. This sensitivity exposes a retrieval--reasoning tension across depth and makes layer-selective AAR a controlled probe of the routing-relevant information carried by attention at different layers."
+      "sourceUrl": "https://arxiv.org/abs/2609.22277",
+      "details": "arXiv:2609.22277v1 Announce Type: new Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud connectivity, limiting accessibility in resource-constrained settings. This paper presents an affordable (\\$88 USD), fully offline AI-integrated smart cane designed for multimodal mobility assistance on an ultra-low-power Raspberry Pi Zero 2W. The system fuses RGB vision sensing with Time-of-Flight (ToF) distance estimation, pairing an INT8-quantized SSD MobileNet V1 model with distance-aware vibrotactile feedback and real-time audio alerts. To ensure operational robustness on constrained hardware, a multiprocessing architecture isolates sensor acquisition, neural inference, and haptic feedback into independent processes with fail-safe sensing support. Experimental evaluation across indoor mobility scenarios demonstrates a macro-averaged F1-score of 0.82 (precision: 0.85, recall: 0.81), a mean end-to-end latency of 330\\,ms, and a peak power draw of 2.8\\,W. A preliminary usability study with 12 participants (SUS: 78.5, NASA-TLX) demonstrated positive user perception and enhanced obstacle awareness. The proposed prototype validates the feasibility of deploying privacy-preserving, edge-native assistive intelligence for cost-sensitive mobility assistance."
     },
     {
-      "id": "live-overall-calr-causal-latent-revision-for-robust-d",
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "id": "live-overall-paani-on-device-visual-evidence-fusion-a",
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
       "category": "overall",
       "date": "2026-09-23",
-      "impact": "HIGH",
+      "impact": "CRITICAL",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structu...",
+      "tldr": "arXiv:2609.22353v1 Announce Type: new Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On res...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.20981",
-      "details": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs gradient-guided ``thought revision\" to enforce logical consistency, enabling dynamic self-correction of intermediate steps during parallel generation. Empirically, CaLR achieves SOTA DLM performance on complex benchmarks, surpassing strong AR baselines and demonstrating superior robustness in constrained tasks like Sudoku."
+      "sourceUrl": "https://arxiv.org/abs/2609.22353",
+      "details": "arXiv:2609.22353v1 Announce Type: new Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct challenge. An object label or steering command does not explain which evidence supports a decision or when that evidence is unreliable. We present PAANI, an on-device perception to guidance architecture that combines a project trained YOLO11n detector and a custom MobileNetV3 Small semantic segmenter with timestamp aligned evidence fusion on Arduino UNO Q. Bounded tracking supplies object persistence, while an explicit corridor policy combines surface labels, accepted detections, urgency and mask uncertainty. Each final advisory exposes its contributing evidence and policy reasons. ROS 2 interfaces connect the local AI pipeline to a separate Gazebo vessel, localization and control testbed. Training uses 10,000 WaterScenes images for four-class detection and 1,127 MaSTr1325 images for segmentation, including 198 segmentation validation images. The selected FP32 ONNX models occupy 14.817 MB. Detector checkpoint test mAP at 0.5 IoU is 0.7388, while the separately evaluated rectangular ONNX export achieves validation mAP at 0.5 IoU of 0.7367. Segmentation ONNX validation mIoU is 0.9750. A five-minute UNO Q recording produced median and 95th percentile pipeline latencies of 467.8 ms and 580.3 ms at a configured 0.5 Hz cadence. The evaluation also identifies black input misclassification and a sampling rate mismatch that prevents the diagnostic apparent motion estimator from collecting sufficient evidence. These results support an inspectable and reusable edge robotics foundation while clearly distinguishing model accuracy and on-board execution from validated on-water collision avoidance."
     },
     {
-      "id": "live-overall-lora-enhanced-contrastive-learning-with-",
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "category": "overall",
-      "date": "2026-09-23",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is co...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.21061",
-      "details": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing the ViT backbone, bridging the gap between natural-image pretraining and underwater acoustic propagation. Stage 2 uses hard-negative mining to strengthen the decision boundary against acoustic mimics, including rocks and sediment formations resembling man-made targets. Stage 3 uses Supervised Contrastive Learning (SupCon) to separate target and clutter representations. We evaluate at-sea SAS data using a mission-level geographic split, compare all arms at 85 percent test recall, and repeat each comparison over three random seeds. LoRA accounts for the primary effect, increasing area under the precision-recall curve (AUPRC) from 0.300 to 0.679 +/- 0.027 using the same frozen backbone. Rank 4 achieves this result while training only 0.26 percent of weights. Neither refinement stage exceeds its matched control: hard-negative mining changes AUPRC by -0.0045 +/- 0.0119 versus an equal-size random curriculum, and SupCon changes AUPRC by +0.0002 +/- 0.0096 versus the preceding stage. These null results indicate that mining occurred on data the encoder had already fit and that supervised stages had already imposed most target-clutter geometry. One efficient adaptation stage is sufficient; stacked refinement is not."
-    },
-    {
-      "id": "live-overall-detecting-hallucination-in-llms-tracing-",
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "id": "live-overall-social-influence-and-the-allocation-of-s",
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
       "category": "overall",
       "date": "2026-09-23",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated f...",
+      "tldr": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download stat...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.21096",
-      "details": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. We evaluate our approach extensively across several LLMs and established benchmarks. Empirical results demonstrate that our proposed single-pass approach provides consistent improvements over existing attention-based and multi-response baselines across two hallucination-detection benchmarks, while achieving competitive performance across diverse LLM architectures. Further analysis reveals that impaired context sharing among tokens during causal generation is strongly associated with hallucination occurrences in LLMs. In particular, hallucinated responses are consistently characterized by an over-reliance on self-attention, diffused context retrieval from earlier tokens, or information over-squashing, especially in the final transformer layer."
+      "sourceUrl": "https://arxiv.org/abs/2609.22408",
+      "details": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts the Music Lab design to a market for academic attention. In the first experiment, 1,000 AI agents choose papers from the titles and abstracts of all 114 regular research articles published in the American Economic Review in 2025. The experiment has five independent-choice communities and five social-influence communities, each with 100 sequential agents. Only agents in the social-influence condition observe earlier selections within their community. Agents may select any number of papers. Social-information communities select 17.2 percent fewer papers per agent, concentrate their choices more heavily, and collectively cover 73 papers, compared with 90 independently. Between-community variation is greater under social information. In a second experiment with 200 agents across twenty social communities, randomly assigning papers five initial selections raises their subsequent selection rate by 45.55 percentage points (95% CI: 41.20 to 49.90). Choices have modest correspondence with external citations and little correspondence with download counts. The results show how a simple information rule shapes the volume, breadth and distribution of scientific attention in an artificial population."
+    },
+    {
+      "id": "live-overall-learning-3d-biophysical-cell-properties-",
+      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+      "category": "overall",
+      "date": "2026-09-23",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rath...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.22410",
+      "details": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell images to latent biophysical quantities and aggregates them to mean corpuscular volume, red-cell distribution width and mean corpuscular haemoglobin. The model combines shared local inference, a biophysically structured decoder for volume and haemoglobin, learned instance weighting and device-specific calibration. We formalise conditions under which aggregate observations identify restricted instance predictors, show why population agreement does not by itself identify single-cell properties or 3D geometry, and derive the dispersion penalty induced by subset mean matching. The development dataset comprises 390 specimens and 1,105 acquisitions across six devices, with reported Pearson correlations of 0.86--0.98 against a Sysmex analyser. The framework provides a testable route from 2D images and population supervision to 3D cellular biophysics without claiming explicit 3D reconstruction."
     },
     {
       "id": "live-agentic_ai-how-uk-aisi-and-evaleval-are-making-benc",
@@ -283,6 +285,97 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-show-hn-notes-on-agentic-ai-a-text-first",
+      "title": "Show HN: Notes on Agentic AI \u2013 A text-first guide for practicing engineers",
+      "category": "agentic_ai",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://github.com/mrsachindixit/agentixit",
+      "details": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-investment-seer-agentic-ai-powered-stock",
+      "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
+      "category": "agentic_ai",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://investmentseer.com/",
+      "details": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-i-see-the-mathematicians-panicking-at-wh",
+      "title": "I see the mathematicians panicking at what we can do with agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://twitter.com/lemire/status/2101684818358439959",
+      "details": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
+      "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
+      "category": "agentic_ai",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://geekyants.com/antflow-ai",
+      "details": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://news.ycombinator.com/item?id=49739484 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
+      "title": "Agentic AI cringe wars [video]",
+      "category": "agentic_ai",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 3 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
+      "details": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 3 # Comments: 0"
+    },
+    {
       "id": "live-models-better-prompt-caching-for-gpt-6",
       "title": "Better prompt caching for GPT-6",
       "category": "models",
@@ -313,8 +406,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "details": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
@@ -332,8 +425,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "details": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
@@ -427,8 +520,8 @@
       },
       "tags": [
         "#NVIDIA",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "details": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing [\u2026]"
@@ -502,8 +595,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -593,10 +686,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#DefenseAI",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#Governance",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/fbi-defense-bribery-investigation/416138/",
       "details": "A CEO told agents about funneling money to U.S. lawmakers in return for Pentagon contracts worth millions of dollars. Then the probe was killed."
@@ -668,9 +761,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#AISecurity",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -760,9 +853,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -780,10 +873,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
         "#AISecurity",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -801,10 +894,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
         "#AISecurity",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -822,8 +915,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -841,104 +934,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
         "#AISecurity",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
-    },
-    {
-      "id": "live-multilateral-ask-us-first-children-demand-a-voice-on-",
-      "title": "\u2018Ask us first\u2019: Children demand a voice on AI\u2019s future",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The first generation to grow up with AI may also be the last one anyone thinks to ask about it \u2013 and that has to change, the UN's top human rights official said on Tuesday.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168403",
-      "details": "The first generation to grow up with AI may also be the last one anyone thinks to ask about it \u2013 and that has to change, the UN's top human rights official said on Tuesday."
-    },
-    {
-      "id": "live-multilateral-time-is-running-out-for-israel-palestine",
-      "title": "\u2018Time is running out\u2019 for Israel-Palestine two-State solution",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.&nbsp;",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168401",
-      "details": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-choose-international-order-over-law-of-t",
-      "title": "Choose international order over \u2018law of the jungle\u2019, urges Macron",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "French President Emmanuel Macron said on Tuesday that the world faces a stark choice: \u201cDo we want to live\u2026with a return to the law of the jungle \u2013 or do we want to live in a civili...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168402",
-      "details": "French President Emmanuel Macron said on Tuesday that the world faces a stark choice: \u201cDo we want to live\u2026with a return to the law of the jungle \u2013 or do we want to live in a civilized international society?\u201d"
-    },
-    {
-      "id": "live-multilateral-qatar-absence-of-a-regional-collective-s",
-      "title": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of d...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168400",
-      "details": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of delay, crisis management through temporary fixes, and unrealistic policies."
-    },
-    {
-      "id": "live-multilateral-un-rendered-unable-to-fulfil-its-mission",
-      "title": "UN rendered unable to fulfil its mission, Turkish President laments before world leaders",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The United Nations continues to be weakened, and those who have tied their hopes to the world body \u2013 from Palestine to Sudan \u2013 have been disappointed, T\u00fcrkiye\u2019s President said, whi...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168399",
-      "details": "The United Nations continues to be weakened, and those who have tied their hopes to the world body \u2013 from Palestine to Sudan \u2013 have been disappointed, T\u00fcrkiye\u2019s President said, while adding that his country is committed to restoring confidence in the Organization."
     }
   ]
 }
