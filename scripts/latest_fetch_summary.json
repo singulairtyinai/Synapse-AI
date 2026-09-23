@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-09-23T09:09:19.461493",
-  "fetched_count": 50,
+  "timestamp": "2026-09-23T16:20:12.710330",
+  "fetched_count": 55,
   "nodes": [
+    {
+      "id": "live-overall-the-download-india-s-smart-glasses-menac",
+      "title": "The Download: India\u2019s smart glasses menace and AI\u2019s trillion-dollar gamble",
+      "category": "overall",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already caus...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Meta"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;"
+    },
     {
       "id": "live-overall-smart-glasses-are-already-causing-havoc-",
       "title": "Smart glasses are already causing havoc in India",
@@ -70,30 +88,12 @@
       },
       "tags": [
         "#Anthropic",
-        "#AISecurity",
         "#OpenAI",
-        "#Meta"
+        "#Meta",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "details": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-investigating-deaths-at-the",
-      "title": "The Download: investigating deaths at the US border\u2019s \u201cvirtual wall\u201d",
-      "category": "overall",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on borde...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can\u2019t it catch people before they die? When Jos\u00e9 Morales Bernal crossed the border into the US in April 2024, the day before&#8230;"
     },
     {
       "id": "live-overall-didactic-knowledge-or-clinical-cases-how",
@@ -109,8 +109,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#Reasoning"
+        "#Reasoning",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22161",
       "details": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with token-matched experiments that vary the didactic-to-clinical ratio and analyze how data composition affects performance, capability profiles, and error patterns across knowledge-intensive and clinic-oriented tasks. We uncover an asymmetric transfer across task types: clinical data improves clinic-oriented tasks while remaining competitive on knowledge-intensive ones, whereas didactic data mainly improves knowledge-intensive tasks. Error analysis suggests a knowing-doing gap, where improvements in knowledge recall do not reliably generalize to clinical reasoning. We further observe that modest amounts of clinical data yield most of the gains on EHR-grounded tasks, while the optimal mixture ratio varies with the knowledge and clinical reasoning demands of downstream tasks. These findings suggest that medical LLM data curation should be application-driven, with higher proportions of clinical data preferred for reasoning-intensive use cases."
@@ -168,9 +168,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#UnitedNations",
-        "#Governance",
-        "#AgenticAI"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22408",
       "details": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts the Music Lab design to a market for academic attention. In the first experiment, 1,000 AI agents choose papers from the titles and abstracts of all 114 regular research articles published in the American Economic Review in 2025. The experiment has five independent-choice communities and five social-influence communities, each with 100 sequential agents. Only agents in the social-influence condition observe earlier selections within their community. Agents may select any number of papers. Social-information communities select 17.2 percent fewer papers per agent, concentrate their choices more heavily, and collectively cover 73 papers, compared with 90 independently. Between-community variation is greater under social information. In a second experiment with 200 agents across twenty social communities, randomly assigning papers five initial selections raises their subsequent selection rate by 45.55 percentage points (95% CI: 41.20 to 49.90). Choices have modest correspondence with external citations and little correspondence with download counts. The results show how a simple information rule shapes the volume, breadth and distribution of scientific attention in an artificial population."
@@ -193,6 +193,24 @@
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22410",
       "details": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell images to latent biophysical quantities and aggregates them to mean corpuscular volume, red-cell distribution width and mean corpuscular haemoglobin. The model combines shared local inference, a biophysically structured decoder for volume and haemoglobin, learned instance weighting and device-specific calibration. We formalise conditions under which aggregate observations identify restricted instance predictors, show why population agreement does not by itself identify single-cell properties or 3D geometry, and derive the dispersion penalty induced by subset mean matching. The development dataset comprises 390 specimens and 1,105 acquisitions across six devices, with reported Pearson correlations of 0.86--0.98 against a Sysmex analyser. The framework provides a testable route from 2D images and population supervision to 3D cellular biophysics without claiming explicit 3D reconstruction."
+    },
+    {
+      "id": "live-agentic_ai-know-who-spoke-when-build-real-time-mult",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "category": "agentic_ai",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-how-uk-aisi-and-evaleval-are-making-benc",
@@ -267,24 +285,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-tokenizers-v1-encode-decode-and-scaling-",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "category": "agentic_ai",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/tokenizers-v1",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-agentic_ai-show-hn-notes-on-agentic-ai-a-text-first",
       "title": "Show HN: Notes on Agentic AI \u2013 A text-first guide for practicing engineers",
       "category": "agentic_ai",
@@ -297,8 +297,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Governance"
       ],
       "sourceUrl": "https://github.com/mrsachindixit/agentixit",
       "details": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0"
@@ -376,6 +376,64 @@
       "details": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 3 # Comments: 0"
     },
     {
+      "id": "live-models-two-years-of-openai-academy",
+      "title": "Two years of OpenAI Academy",
+      "category": "models",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
+      "details": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+    },
+    {
+      "id": "live-models-openai-extends-cyber-access-to-ukraine-f",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "category": "models",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "details": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    },
+    {
+      "id": "live-models-grab-and-openai-bring-practical-ai-skill",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "category": "models",
+      "date": "2026-09-23",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "details": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+    },
+    {
       "id": "live-models-better-prompt-caching-for-gpt-6",
       "title": "Better prompt caching for GPT-6",
       "category": "models",
@@ -406,66 +464,29 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "details": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
     },
     {
-      "id": "live-models-parallel-cut-research-time-and-cost-in-h",
-      "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
-      "category": "models",
-      "date": "2026-09-23",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "details": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
-    },
-    {
-      "id": "live-models-priorities-and-principles-for-effective-",
-      "title": "Priorities and principles for effective third party assessments",
-      "category": "models",
-      "date": "2026-09-23",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "details": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
-    },
-    {
-      "id": "live-models-higgsfield-ai-ships-new-video-features-i",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "category": "models",
+      "id": "live-companies-sakeena-fiza-helps-nvidia-hardware-succe",
+      "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "category": "companies",
       "date": "2026-09-23",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. \u201cValidation engin...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "details": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+      "details": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. \u201cValidation engineers look in the shadows and shine a light into every corner,\u201d Fiza said. \u201cEvery time we get a system, our first thought is: how can it [\u2026]"
     },
     {
       "id": "live-companies-at-ai-day-singapore-nvidia-and-partners-",
@@ -544,25 +565,6 @@
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "details": "Today, Egypt\u2019s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation\u2019s rapidly growing AI ecosystem \u2014 spanning AI natives, developers, researchers, startups and enterprises \u2014 building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead [\u2026]"
-    },
-    {
-      "id": "live-companies-why-deploying-physical-ai-at-scale-deman",
-      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "category": "companies",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omd...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#Governance"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-      "details": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, [\u2026]"
     },
     {
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
@@ -662,7 +664,7 @@
       "date": "2026-09-23",
       "impact": "MODERATE",
       "company": "Defense One AI",
-      "tldr": "A look at President Donald Trump\u2019s relabel from artificial intelligence to \u2018Super intelligence,\u2019 and the phrase\u2019s original meaning",
+      "tldr": "Trump's is attempting to rebrand AI with an existing term of art.",
       "specs": {
         "source": "Defense One AI",
         "type": "Live RSS Feed"
@@ -671,7 +673,7 @@
         "#AITrend"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/09/super-intelligence-presidents-new-term-ai-explained/416153/",
-      "details": "A look at President Donald Trump\u2019s relabel from artificial intelligence to \u2018Super intelligence,\u2019 and the phrase\u2019s original meaning"
+      "details": "Trump's is attempting to rebrand AI with an existing term of art."
     },
     {
       "id": "live-military-trump-s-fbi-shut-down-investigation-into",
@@ -686,10 +688,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#UnitedNations",
         "#DefenseAI",
-        "#Governance",
-        "#AgenticAI"
+        "#Governance"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/fbi-defense-bribery-investigation/416138/",
       "details": "A CEO told agents about funneling money to U.S. lawmakers in return for Pentagon contracts worth millions of dollars. Then the probe was killed."
@@ -761,8 +763,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
@@ -873,9 +875,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#UnitedNations",
         "#EUAIAct",
-        "#AISecurity",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
@@ -894,9 +896,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#UnitedNations",
         "#EUAIAct",
-        "#AISecurity",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
@@ -934,13 +936,104 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#UnitedNations",
         "#EUAIAct",
-        "#AISecurity",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-syria-begins-new-phase-of-revival-presid",
+      "title": "Syria begins \u2018new phase of revival\u2019, President Al-Sharaa tells General Assembly",
+      "category": "multilateral",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Syrian President Ahmad Al-Sharaa told the UN General Assembly on Wednesday that his country \u201cis rising\u201d on many levels, thanks to the strength of its people.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168411",
+      "details": "Syrian President Ahmad Al-Sharaa told the UN General Assembly on Wednesday that his country \u201cis rising\u201d on many levels, thanks to the strength of its people."
+    },
+    {
+      "id": "live-multilateral-security-council-live-world-leaders-deba",
+      "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
+      "category": "multilateral",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace \u2013 though any resolution still runs up against the veto of Russia, one o...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168410",
+      "details": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace \u2013 though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, the gap between diplomatic process and battlefield reality appears to be stark."
+    },
+    {
+      "id": "live-multilateral-right-to-development-a-blueprint-for-unm",
+      "title": "Right to development: A blueprint for unmet promises",
+      "category": "multilateral",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Ahead of the 40th anniversary of the groundbreaking Declaration on the Right to Development this December, world leaders gathered at a High-Level Week meeting on Wednesday to map p...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168405",
+      "details": "Ahead of the 40th anniversary of the groundbreaking Declaration on the Right to Development this December, world leaders gathered at a High-Level Week meeting on Wednesday to map progress made and the 21st century challenges still ahead \u2013 from narrowing the digital divide to levelling the AI playing field \u2013 as the UN chief presented a \u201cblueprint\u201d to address promises that remain unfulfilled."
+    },
+    {
+      "id": "live-multilateral-un-health-agency-calls-for-investment-bo",
+      "title": "UN health agency calls for investment boost to save young lives from cancer",
+      "category": "multilateral",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More children and young people are beating cancer, but progress remains uneven across regions and age groups, highlighting the need for increased investment to boost survival rates...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168408",
+      "details": "More children and young people are beating cancer, but progress remains uneven across regions and age groups, highlighting the need for increased investment to boost survival rates."
+    },
+    {
+      "id": "live-multilateral-dr-congo-ebola-outbreak-toll-exceeds-3-7",
+      "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
+      "category": "multilateral",
+      "date": "2026-09-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up signific...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168407",
+      "details": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and \u201cthe first encouraging signs of progress\u201d are now being seen."
     }
   ]
 }
