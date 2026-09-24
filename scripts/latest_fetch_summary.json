@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-23T22:47:32.986958",
+  "timestamp": "2026-09-24T03:41:34.351122",
   "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-a-congressional-representative-just-prop",
       "title": "A congressional representative just proposed killing America\u2019s border tower program",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern bor...",
@@ -24,7 +24,7 @@
       "id": "live-overall-the-download-india-s-smart-glasses-menac",
       "title": "The Download: India\u2019s smart glasses menace and AI\u2019s trillion-dollar gamble",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already caus...",
@@ -42,7 +42,7 @@
       "id": "live-overall-the-ai-hype-index-ai-loves-cheating",
       "title": "The AI Hype Index: AI loves cheating",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigiou...",
@@ -51,10 +51,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#OpenAI",
         "#AgenticAI",
-        "#Anthropic"
+        "#OpenAI",
+        "#Anthropic",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
       "details": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians\u2019 answer sheets). Anthropic\u2019s models have also hacked into other companies\u2019 systems four times already. And that\u2019s&#8230;"
@@ -63,7 +63,7 @@
       "id": "live-overall-smart-glasses-are-already-causing-havoc-",
       "title": "Smart glasses are already causing havoc in India",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at ...",
@@ -81,7 +81,7 @@
       "id": "live-overall-roundtables-the-deadly-failures-of-the-v",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cr...",
@@ -99,7 +99,7 @@
       "id": "live-overall-didactic-knowledge-or-clinical-cases-how",
       "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient r...",
@@ -108,8 +108,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#Reasoning",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22161",
@@ -119,7 +119,7 @@
       "id": "live-overall-an-affordable-ai-integrated-smart-cane-f",
       "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.22277v1 Announce Type: new Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide ...",
@@ -139,7 +139,7 @@
       "id": "live-overall-paani-on-device-visual-evidence-fusion-a",
       "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "CRITICAL",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.22353v1 Announce Type: new Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On res...",
@@ -159,7 +159,7 @@
       "id": "live-overall-social-influence-and-the-allocation-of-s",
       "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download stat...",
@@ -168,8 +168,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AgenticAI",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.22408",
@@ -179,7 +179,7 @@
       "id": "live-overall-learning-3d-biophysical-cell-properties-",
       "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
       "category": "overall",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rath...",
@@ -198,7 +198,7 @@
       "id": "live-agentic_ai-how-to-use-nvidia-warp-and-mjwarp-to-acc",
       "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -216,7 +216,7 @@
       "id": "live-agentic_ai-how-uk-aisi-and-evaleval-are-making-benc",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -234,7 +234,7 @@
       "id": "live-agentic_ai-transformers-now-runs-llama-cpp-quants",
       "title": "Transformers now runs llama.cpp quants",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -252,7 +252,7 @@
       "id": "live-agentic_ai-jun-kim-omlx-creator-and-maintainer-join",
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -270,7 +270,7 @@
       "id": "live-agentic_ai-pruning-llms-like-a-physicist-block-remo",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -288,7 +288,7 @@
       "id": "live-agentic_ai-show-hn-notes-on-agentic-ai-a-text-first",
       "title": "Show HN: Notes on Agentic AI \u2013 A text-first guide for practicing engineers",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0",
@@ -307,7 +307,7 @@
       "id": "live-agentic_ai-investment-seer-agentic-ai-powered-stock",
       "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0",
@@ -325,7 +325,7 @@
       "id": "live-agentic_ai-i-see-the-mathematicians-panicking-at-wh",
       "title": "I see the mathematicians panicking at what we can do with agentic AI",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0",
@@ -343,7 +343,7 @@
       "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
       "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
@@ -361,7 +361,7 @@
       "id": "live-agentic_ai-agentic-ai-cringe-wars-video",
       "title": "Agentic AI cringe wars [video]",
       "category": "agentic_ai",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.youtube.com/watch?v=U-Rqv9dOB1U Comments URL: https://news.ycombinator.com/item?id=49702885 Points: 3 # Comments: 0",
@@ -379,7 +379,7 @@
       "id": "live-models-two-years-of-openai-academy",
       "title": "Two years of OpenAI Academy",
       "category": "models",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
@@ -398,7 +398,7 @@
       "id": "live-models-openai-extends-cyber-access-to-ukraine-f",
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
       "category": "models",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
@@ -407,8 +407,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "details": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
@@ -417,7 +417,7 @@
       "id": "live-models-sam-altman-s-remarks-at-the-united-natio",
       "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
       "category": "models",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
@@ -437,7 +437,7 @@
       "id": "live-models-harvey-turns-legal-context-into-stronger",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "category": "models",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
@@ -455,7 +455,7 @@
       "id": "live-models-how-invideo-improves-color-grading-3x-wi",
       "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
       "category": "models",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
@@ -473,7 +473,7 @@
       "id": "live-companies-sakeena-fiza-helps-nvidia-hardware-succe",
       "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
       "category": "companies",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. \u201cValidation engin...",
@@ -491,7 +491,7 @@
       "id": "live-companies-at-ai-day-singapore-nvidia-and-partners-",
       "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
       "category": "companies",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "CRITICAL",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessi...",
@@ -510,7 +510,7 @@
       "id": "live-companies-nvidia-isaac-ros-5-0-advances-agentic-op",
       "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
       "category": "companies",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open fr...",
@@ -519,8 +519,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#AgenticAI",
+        "#NVIDIA",
         "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
@@ -530,7 +530,7 @@
       "id": "live-companies-nvidia-launches-dsx-ready-to-qualify-pow",
       "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
       "category": "companies",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builde...",
@@ -539,8 +539,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Governance",
+        "#NVIDIA",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
@@ -550,7 +550,7 @@
       "id": "live-companies-from-enablement-to-execution-egypt-s-ai-",
       "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
       "category": "companies",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Today, Egypt\u2019s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation\u2019s rapidly growing AI ecosystem \u2014 spanning AI natives, developers, resea...",
@@ -559,8 +559,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "details": "Today, Egypt\u2019s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation\u2019s rapidly growing AI ecosystem \u2014 spanning AI natives, developers, researchers, startups and enterprises \u2014 building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead [\u2026]"
@@ -569,7 +569,7 @@
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
       "title": "Podcast: Can prosthetic limbs feel touch? (haptic feedback)",
       "category": "fellowships",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics.....",
@@ -587,7 +587,7 @@
       "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
       "category": "fellowships",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
@@ -606,7 +606,7 @@
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
       "title": "NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakt",
       "category": "fellowships",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics...",
@@ -624,7 +624,7 @@
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
       "title": "NSF launches $20M pilot to accelerate commercialization of promising deep technologies from small bu",
       "category": "fellowships",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventur...",
@@ -642,7 +642,7 @@
       "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
       "title": "Podcast: Creating thermal cloaking and new structures",
       "category": "fellowships",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
@@ -660,7 +660,7 @@
       "id": "live-military-super-intelligence-the-president-s-new-t",
       "title": "'Super Intelligence': the president\u2019s new term for AI, explained",
       "category": "military",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Trump is attempting to rebrand AI with an existing term of art.",
@@ -678,7 +678,7 @@
       "id": "live-military-trump-s-fbi-shut-down-investigation-into",
       "title": "Trump's FBI shut down investigation into defense contractor's alleged bribes",
       "category": "military",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "A CEO told agents about funneling money to U.S. lawmakers in return for Pentagon contracts worth millions of dollars. Then the probe was killed.",
@@ -687,9 +687,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AgenticAI",
         "#DefenseAI",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/fbi-defense-bribery-investigation/416138/",
@@ -699,7 +699,7 @@
       "id": "live-military-time-not-capital-is-the-constraint-on-th",
       "title": "Time, not capital, is the constraint on the defense industrial base",
       "category": "military",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Here are three changes to speed things up without lowering standards.",
@@ -717,7 +717,7 @@
       "id": "live-military-nato-s-thumbs-up-for-aws-shows-europe-st",
       "title": "NATO\u2019s thumbs-up for AWS shows Europe still needs America",
       "category": "military",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The company has become the first cloud provider to win approval to handle sensitive data for all alliance members.",
@@ -735,7 +735,7 @@
       "id": "live-military-trump-floats-ai-force-to-boost-industry",
       "title": "Trump floats \u2018AI Force\u2019 to boost industry",
       "category": "military",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "He posted on social media that \"we will cherish it, help it, and watch over it, as it grows! However, we will also be looking for BAD, and we can do that...\"",
@@ -753,7 +753,7 @@
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -762,8 +762,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
@@ -773,7 +773,7 @@
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -791,7 +791,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -809,7 +809,7 @@
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -827,7 +827,7 @@
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
       "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single ...",
@@ -845,7 +845,7 @@
       "id": "live-governance-data-union-conference",
       "title": "Data Union Conference",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
@@ -865,7 +865,7 @@
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
       "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
@@ -874,8 +874,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#EUAIAct",
+        "#AISecurity",
         "#Governance",
         "#UnitedNations"
       ],
@@ -886,7 +886,7 @@
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
       "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
@@ -895,8 +895,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#EUAIAct",
+        "#AISecurity",
         "#Governance",
         "#UnitedNations"
       ],
@@ -907,7 +907,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
@@ -926,7 +926,7 @@
       "id": "live-governance-commission-designates-chatgpt-reddit-rob",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "category": "governance",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Onli...",
@@ -935,8 +935,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#EUAIAct",
+        "#AISecurity",
         "#Governance",
         "#UnitedNations"
       ],
@@ -944,10 +944,48 @@
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
     },
     {
+      "id": "live-multilateral-venezuela-seeking-rebirth-after-politica",
+      "title": "Venezuela seeking rebirth after political crisis and devastating earthquakes, President tells UN",
+      "category": "multilateral",
+      "date": "2026-09-24",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Venezuela is seeking to rebuild after a period of political upheaval and the destruction caused by twin earthquakes earlier this year, Acting President Delcy Rodr\u00edguez told world l...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168420",
+      "details": "Venezuela is seeking to rebuild after a period of political upheaval and the destruction caused by twin earthquakes earlier this year, Acting President Delcy Rodr\u00edguez told world leaders at the United Nations on Wednesday."
+    },
+    {
+      "id": "live-multilateral-equality-ends-at-the-doors-of-the-securi",
+      "title": "Equality \u2018ends at the doors of the Security Council\u2019, Kenya\u2019s Ruto tells General Assembly",
+      "category": "multilateral",
+      "date": "2026-09-24",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Kenyan President William Ruto told the General Assembly on Wednesday that the sovereign equality the UN proclaims is contradicted by its own structures, urging Member States to ref...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168419",
+      "details": "Kenyan President William Ruto told the General Assembly on Wednesday that the sovereign equality the UN proclaims is contradicted by its own structures, urging Member States to reform the Security Council and an international financial system \u201cbuilt for another age\u201d.&nbsp;"
+    },
+    {
       "id": "live-multilateral-guterres-calls-on-countries-to-set-clear",
       "title": "Guterres calls on countries to set clear timelines for transition away from fossil fuels",
       "category": "multilateral",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "\u201cWe are the first generation with the tools to end the fossil fuel age \u2013 and the last who can avert climate catastrophe,\u201d UN Secretary-General Ant\u00f3nio Guterres said on Wednesday, c...",
@@ -965,7 +1003,7 @@
       "id": "live-multilateral-rohingya-refugees-deserve-a-future-beyon",
       "title": "Rohingya refugees deserve a future beyond survival, not endless displacement",
       "category": "multilateral",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Nine years after the mass displacement of the Rohingya from Myanmar, their situation remains one of the world's most protracted and complex refugee crises, marked by years of perse...",
@@ -984,7 +1022,7 @@
       "id": "live-multilateral-zelenskyy-urges-stronger-pressure-on-rus",
       "title": "Zelenskyy urges stronger pressure on Russia, warns war\u2019s impact is spreading beyond Ukraine",
       "category": "multilateral",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Ukrainian President Volodymyr Zelenskyy on Wednesday called for intensified pressure on Russia to end its war against Ukraine, arguing that Moscow continues to incur massive losses...",
@@ -998,47 +1036,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168416",
       "details": "Ukrainian President Volodymyr Zelenskyy on Wednesday called for intensified pressure on Russia to end its war against Ukraine, arguing that Moscow continues to incur massive losses while prolonging a conflict whose consequences are increasingly being felt far beyond the battlefield."
-    },
-    {
-      "id": "live-multilateral-live-openai-and-anthropic-brief-security",
-      "title": "LIVE: OpenAI and Anthropic brief Security Council amid \u2018real and imminent\u2019 threat posed by runaway A",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#OpenAI",
-        "#UnitedNations",
-        "#Anthropic"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168414",
-      "details": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengi, a recipient of the prestigious Turing Award and one of the godfathers of machine intelligence, said the dangers of AI beyond human control represent an unprecedented threat for countries \u201cthat none can contain alone and that does not respect the borders we defend.\u201d"
-    },
-    {
-      "id": "live-multilateral-live-climate-change-is-here-what-happens",
-      "title": "LIVE: Climate change is here - What happens next is still in our hands",
-      "category": "multilateral",
-      "date": "2026-09-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "\ud83d\udd34 LIVE NOW&nbsp; From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task i...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168372",
-      "details": "\ud83d\udd34 LIVE NOW&nbsp; From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders are meeting today to discuss how to turn those priorities into action."
     }
   ]
 }
