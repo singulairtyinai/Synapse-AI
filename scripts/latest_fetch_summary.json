@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-26T04:02:43.673494",
-  "fetched_count": 45,
+  "timestamp": "2026-09-26T12:44:15.199001",
+  "fetched_count": 40,
   "nodes": [
     {
       "id": "live-overall-the-download-the-pentagon-s-ai-powered-l",
@@ -214,8 +214,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
       "details": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
@@ -233,8 +233,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "details": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
@@ -253,8 +253,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "details": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
@@ -568,8 +568,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
@@ -660,8 +660,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -680,9 +680,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AISecurity",
         "#EUAIAct",
-        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
@@ -701,9 +701,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AISecurity",
         "#EUAIAct",
-        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
@@ -741,107 +741,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AISecurity",
         "#EUAIAct",
-        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
-    },
-    {
-      "id": "live-multilateral-haiti-at-watershed-moment-prime-minister",
-      "title": "Haiti at \u2018watershed moment\u2019, Prime Minister tells UN, urging full backing for security force",
-      "category": "multilateral",
-      "date": "2026-09-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Haiti is at a \u201cwatershed moment\u201d in its struggle against gang violence and needs sustained international support alongside stronger national security institutions, Prime Minister A...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168453",
-      "details": "Haiti is at a \u201cwatershed moment\u201d in its struggle against gang violence and needs sustained international support alongside stronger national security institutions, Prime Minister Alix Didier Fils-Aim\u00e9 told the UN General Assembly on Friday."
-    },
-    {
-      "id": "live-multilateral-pakistan-s-sharif-warns-any-diversion-of",
-      "title": "Pakistan\u2019s Sharif warns any diversion of Indus waters will be \u2018treated as an act of war\u2019",
-      "category": "multilateral",
-      "date": "2026-09-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Pakistani Prime Minister Shehbaz Sharif told the UN General Assembly on Friday that any attempt by India to stop, impede or divert Pakistan\u2019s share of the Indus River waters \u201cwill ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168452",
-      "details": "Pakistani Prime Minister Shehbaz Sharif told the UN General Assembly on Friday that any attempt by India to stop, impede or divert Pakistan\u2019s share of the Indus River waters \u201cwill be treated as an act of war\u201d.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-un-voices-grave-concern-as-fighting-spre",
-      "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
-      "category": "multilateral",
-      "date": "2026-09-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168450",
-      "details": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations."
-    },
-    {
-      "id": "live-multilateral-tuvalu-urges-decisive-global-action-as-r",
-      "title": "Tuvalu urges decisive global action as rising seas threaten its future",
-      "category": "multilateral",
-      "date": "2026-09-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168449",
-      "details": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international action are still falling far short of what vulnerable island nations need."
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-west-bank-demolition",
-      "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, ",
-      "category": "multilateral",
-      "date": "2026-09-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the \u201cmass destruction\u201d of&nbsp;Palestinian villages and forcible ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168447",
-      "details": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the \u201cmass destruction\u201d of&nbsp;Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills."
     }
   ]
 }
