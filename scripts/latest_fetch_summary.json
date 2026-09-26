@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-25T23:09:34.642014",
-  "fetched_count": 55,
+  "timestamp": "2026-09-26T04:02:43.673494",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-the-download-the-pentagon-s-ai-powered-l",
       "title": "The Download: the Pentagon\u2019s AI-powered lie detector and young organ limits",
       "category": "overall",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million...",
@@ -24,7 +24,7 @@
       "id": "live-overall-the-pentagon-wants-30-million-to-build-a",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "category": "overall",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, calle...",
@@ -42,7 +42,7 @@
       "id": "live-overall-young-organs-may-not-be-a-fountain-of-yo",
       "title": "Young organs may not be a fountain of youth for recipients",
       "category": "overall",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a...",
@@ -60,7 +60,7 @@
       "id": "live-overall-the-download-a-bid-to-scrap-the-virtual-",
       "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
       "category": "overall",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative...",
@@ -78,7 +78,7 @@
       "id": "live-overall-ai-is-dominating-the-conversation-at-cli",
       "title": "AI is dominating the conversation at Climate Week",
       "category": "overall",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "This week, world leaders descended on Manhattan for the UN General Assembly. It\u2019s also New York Climate Week\u2014investors, policymakers, advocates, and journalists are colliding at pa...",
@@ -93,114 +93,10 @@
       "details": "This week, world leaders descended on Manhattan for the UN General Assembly. It\u2019s also New York Climate Week\u2014investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;"
     },
     {
-      "id": "live-overall-when-should-forecasting-agents-reason-be",
-      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-      "category": "overall",
-      "date": "2026-09-25",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear whe...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Reasoning",
-        "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.28475",
-      "details": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasting tasks, treating the choice to retrieve, reason, defer to a market prior, or use a historical analog as an observable agent behavior rather than a hidden implementation detail. Our central finding is that mechanism choice is source-dependent: structured analogs dominate for some data-generating processes, while market/crowd-style and conservative baselines are better for others. We introduce ReliabilityRoute, a structural intervention that steers forecasting-agent behavior using reliability features such as historical coverage, market-prior availability, source-prior sharpness, evidence strength, evidence disagreement, and horizon. A fixed 2024-fitted rule closely matches a hand taxonomy without hard-coded source-name decisions, while a walk-forward self-adjusting rule refits thresholds from previously resolved vintages and obtains the best mean Brier score among our deterministic systems across 16 later LLM vintages. The gain is modest and historical/search baselines remain highly competitive. The main contribution is therefore a behavioral stress test showing that more reasoning is not always better; forecasting agents should first estimate which evidence source deserves control, routing policies should themselves adapt under auditable constraints, and reproducibility artifacts are available at https://github.com/louiswang524/forcastagent"
-    },
-    {
-      "id": "live-overall-tw3cast-a-frozen-router-of-lightly-fine-",
-      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT",
-      "category": "overall",
-      "date": "2026-09-25",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.28506v1 Announce Type: new Abstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as ...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Meta",
-        "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.28506",
-      "details": "arXiv:2609.28506v1 Announce Type: new Abstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The two entries above it belong to the leaderboard's agentic category, multi-step systems that use agents or language models to reason about, generate or select forecasts. TW3Cast runs no agent and no language model. Its selection is a table computed once on the training split and then frozen, and its experts are public foundation models lightly fine-tuned on those training splits. For each of the 97 dataset, frequency and horizon configurations, the table serves one of four modes: a specialist, which is a LoRA or full fine-tune of Chronos-2, TiRex or Toto whose training data was cleaned and enriched by explicit rules; a quantile blend that contains a specialist; a blend of base models; or a selection tournament played on a backtest carved from the training split. Every decision in the table was taken on that backtest. A specialist is admitted the moment it beats the tournament there, so a candidate costs a few megabytes and minutes of GPU time, and a failed candidate changes nothing. Three guarded mechanisms protect the selection from its own biases: a dual accuracy and calibration criterion, an asymmetric margin against candidates that saw the series during training, and conservative per-window gates. The selection rules themselves were chosen inside a temporal meta-backtest. The best base model served alone reaches a mean MASE rank of 33.8, the tournament served on every configuration reaches 38.0, and the full router reaches 19.4. The routing table, the expert index, the pinned base-model revisions, the submitted score file and the dated snapshot of the public scores are released, and every leaderboard number in this paper regenerates from them by one script."
-    },
-    {
-      "id": "live-overall-paws-policy-driven-agentic-world-simulat",
-      "title": "PAWS: Policy-driven Agentic World Simulation",
-      "category": "overall",
-      "date": "2026-09-25",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.28547v1 Announce Type: new Abstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for fi...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.28547",
-      "details": "arXiv:2609.28547v1 Announce Type: new Abstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely connect these processes to temporally aligned historical evidence. We introduce PAWS, a Policy-driven Agentic World Simulation dataset covering 36 verified U.S. financial and economic policy episodes, 12,727 policy-linked news records, and 65,291 source-grounded stakeholder actions. Each action is linked to its supporting news and represented by a multi-layer event frame capturing its interaction mode, financial-action family and subtype, semantic attributes, and conditional mappings to external taxonomies. Entities are resolved to normalized organizations, and actions are aligned with daily market-return context to support policy-agent simulation replay. On 2,522 stratified action samples, independent AI and human reviewers achieved 89.4% initial agreement on interaction mode, with disagreements subsequently adjudicated. Case studies of the 2008 short-selling ban and 2001 decimalization recover documented policy timelines and associated market patterns across both dense and sparse news settings. A replay study further shows that high accuracy can mask failure to detect rare stakeholder actions, identifying action timing and calibration as central challenges. PAWS provides an auditable substrate for evaluating agent influence, policy-response cascades, and action-outcome alignment in historically grounded financial simulations."
-    },
-    {
-      "id": "live-overall-pistis-technical-report",
-      "title": "Pistis Technical Report",
-      "category": "overall",
-      "date": "2026-09-25",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.28554v1 Announce Type: new Abstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Reasoning",
-        "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.28554",
-      "details": "arXiv:2609.28554v1 Announce Type: new Abstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a general and scalable post-training framework. The framework first establishes a strong foundation through large-scale multimodal supervised fine-tuning (SFT). Building on this SFT foundation, we propose Interleaved Distillation and Reinforcement Learning (IDRL), a novel post-training paradigm that tightly integrates on-policy distillation and reinforcement learning within a single training loop. By alternating between the two objectives, rather than optimizing either in isolation or combining them in a static joint loss, IDRL enables more effective knowledge transfer, greater optimization stability, and more precise credit assignment for long-horizon agentic trajectories, leading to stronger performance while mitigating common capability trade-offs. At both model scales, the framework produces two specialized variants: Pistis-Thinking, designed to strengthen deep multimodal reasoning, and Pistis-Agentic, which additionally incorporates agentic trajectory data to support long-horizon planning, iterative reasoning, and tool use. Pistis-Agentic is particularly strong in multimodal search. Both scales outperform their corresponding base models. Beyond model-parameter optimization, we further introduce Pistis-Auto-Harnessing (PAH), a system-level method that automatically improves the agent's inference harness through iterative optimization. Experiments demonstrate that PAH enhances the model performance without updating the model parameters or increasing the interaction budget."
-    },
-    {
-      "id": "live-overall-basecamp-an-agentic-ai-framework-for-aut",
-      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-      "category": "overall",
-      "date": "2026-09-25",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflo...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Reasoning",
-        "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.28557",
-      "details": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate established bioinformatics tools at scale. What remains manual is the decision layer surrounding that execution: selecting quality thresholds appropriate to a sample and platform, adjudicating borderline variant calls, diagnosing anomalies, and determining which findings warrant expert review. These decisions are repetitive, judgment-intensive, inconsistent across operators, and frequently undocumented. This paper introduces BaseCamp, a novel agentic AI framework for automating the decision layer of DNA sequencing pipelines. The framework decomposes the pipeline into six specialized AI agents, covering sample intake and quality control, alignment, variant calling, annotation, cross-stage monitoring, and reporting. Critically, BaseCamp agents do not perform sequence analysis: established tools execute alignment, calling, and annotation, while the agents select among them, configure them, interpret their output, and decide what follows. This confines language model reasoning to the judgment layer where it is reliable and preserves the reproducibility existing tooling guarantees. Agent reasoning is powered by a consortium of fine-tuned, domain-specialized large language models coordinated by a central reasoning LLM, executing locally so no sequencing data leaves the operating environment, under human-in-the-loop orchestration. Evaluation shows agent-generated configurations are concordant with expert practice, that an explicit filtering ledger renders inspectable what filtering otherwise removes without trace, and that cross-stage anomaly detection surfaces conditions execution monitoring misses. BaseCamp offers a generalizable blueprint for agentic automation of scientific data pipelines."
-    },
-    {
       "id": "live-agentic_ai-accelerating-vision-language-models-with",
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "category": "agentic_ai",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -218,7 +114,7 @@
       "id": "live-agentic_ai-how-to-use-nvidia-warp-and-mjwarp-to-acc",
       "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "category": "agentic_ai",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -236,7 +132,7 @@
       "id": "live-agentic_ai-how-uk-aisi-and-evaleval-are-making-benc",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "category": "agentic_ai",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -254,7 +150,7 @@
       "id": "live-agentic_ai-transformers-now-runs-llama-cpp-quants",
       "title": "Transformers now runs llama.cpp quants",
       "category": "agentic_ai",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -272,7 +168,7 @@
       "id": "live-agentic_ai-jun-kim-omlx-creator-and-maintainer-join",
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "category": "agentic_ai",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -287,101 +183,10 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-cutting-the-coordination-tax-how-agentic",
-      "title": "Cutting the 'coordination tax': How agentic AI can reshape workflows",
-      "category": "agentic_ai",
-      "date": "2026-09-25",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows Comments URL: https://news.ycombinator.c...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
-      "details": "Article URL: https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows Comments URL: https://news.ycombinator.com/item?id=49828122 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-show-hn-notes-on-agentic-ai-a-text-first",
-      "title": "Show HN: Notes on Agentic AI \u2013 A text-first guide for practicing engineers",
-      "category": "agentic_ai",
-      "date": "2026-09-25",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://github.com/mrsachindixit/agentixit",
-      "details": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-investment-seer-agentic-ai-powered-stock",
-      "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
-      "category": "agentic_ai",
-      "date": "2026-09-25",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://investmentseer.com/",
-      "details": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-i-see-the-mathematicians-panicking-at-wh",
-      "title": "I see the mathematicians panicking at what we can do with agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-09-25",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://twitter.com/lemire/status/2101684818358439959",
-      "details": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
-      "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
-      "category": "agentic_ai",
-      "date": "2026-09-25",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://geekyants.com/antflow-ai",
-      "details": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://news.ycombinator.com/item?id=49739484 Points: 1 # Comments: 0"
-    },
-    {
       "id": "live-models-proaction-boosts-sales-60-and-saves-75-h",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "category": "models",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
@@ -390,8 +195,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/proaction",
       "details": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
@@ -400,7 +205,7 @@
       "id": "live-models-two-years-of-openai-academy",
       "title": "Two years of OpenAI Academy",
       "category": "models",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
@@ -409,8 +214,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
       "details": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
@@ -419,7 +224,7 @@
       "id": "live-models-openai-extends-cyber-access-to-ukraine-f",
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
       "category": "models",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
@@ -428,8 +233,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "details": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
@@ -438,7 +243,7 @@
       "id": "live-models-sam-altman-s-remarks-at-the-united-natio",
       "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
       "category": "models",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
@@ -447,9 +252,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "details": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
@@ -458,7 +263,7 @@
       "id": "live-models-harvey-turns-legal-context-into-stronger",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "category": "models",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
@@ -476,7 +281,7 @@
       "id": "live-companies-how-open-science-can-help-researchers-pr",
       "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
       "category": "companies",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines i...",
@@ -486,8 +291,8 @@
       },
       "tags": [
         "#Google",
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/open-protein-dataset/",
       "details": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start. To help improve the odds, NVIDIA has joined a coalition of global research organizations, including Google [\u2026]"
@@ -496,7 +301,7 @@
       "id": "live-companies-contain-the-chaos-control-resonant-launc",
       "title": "Contain the Chaos: \u2018CONTROL Resonant\u2019 Launches on GeForce NOW",
       "category": "companies",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment\u2019s CONTROL Resonant brings Dylan Faden\u2019s extraordinary abilities and a paranatural crisis to GeForce NOW a...",
@@ -515,7 +320,7 @@
       "id": "live-companies-sakeena-fiza-helps-nvidia-hardware-succe",
       "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
       "category": "companies",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. \u201cValidation engin...",
@@ -533,7 +338,7 @@
       "id": "live-companies-at-ai-day-singapore-nvidia-and-partners-",
       "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
       "category": "companies",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "CRITICAL",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessi...",
@@ -552,7 +357,7 @@
       "id": "live-companies-nvidia-isaac-ros-5-0-advances-agentic-op",
       "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
       "category": "companies",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open fr...",
@@ -572,7 +377,7 @@
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
       "title": "Podcast: Can prosthetic limbs feel touch? (haptic feedback)",
       "category": "fellowships",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics.....",
@@ -590,7 +395,7 @@
       "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
       "category": "fellowships",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
@@ -599,8 +404,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -609,7 +414,7 @@
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
       "title": "NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakt",
       "category": "fellowships",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics...",
@@ -627,7 +432,7 @@
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
       "title": "NSF launches $20M pilot to accelerate commercialization of promising deep technologies from small bu",
       "category": "fellowships",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventur...",
@@ -645,7 +450,7 @@
       "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
       "title": "Podcast: Creating thermal cloaking and new structures",
       "category": "fellowships",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
@@ -660,10 +465,28 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-polish-defense-official-says-us-has-deci",
+      "title": "Polish defense official says US has decided to establish a base in Poland",
+      "category": "military",
+      "date": "2026-09-26",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "But the Pentagon declined to confirm a decision about Warsaw's longtime goal.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/09/poland-get-us-base-polish-defense-official-says/416257/",
+      "details": "But the Pentagon declined to confirm a decision about Warsaw's longtime goal."
+    },
+    {
       "id": "live-military-anthropic-loses-legal-fight-to-shed-dod-",
       "title": "Anthropic loses legal fight to shed DOD's designation as a 'supply-chain risk'",
       "category": "military",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The label is more typically assigned to companies suspected of ties to adversarial governments.",
@@ -672,8 +495,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Pentagon",
-        "#Anthropic"
+        "#Anthropic",
+        "#Pentagon"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/anthropic-lawsuit-supply-chain-risk/416252/",
       "details": "The label is more typically assigned to companies suspected of ties to adversarial governments."
@@ -682,7 +505,7 @@
       "id": "live-military-the-navy-s-public-shipyards-will-take-mo",
       "title": "The Navy\u2019s public shipyards will take more decades to repair, GAO says",
       "category": "military",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "A new report calls for more Congressional oversight of the massive construction projects.",
@@ -700,7 +523,7 @@
       "id": "live-military-defense-business-brief-here-comes-the-qu",
       "title": "Defense Business Brief: Here comes the quantum boom; GDIT\u2019s perspective; and Sec. 889",
       "category": "military",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -718,7 +541,7 @@
       "id": "live-military-stolen-fbi-data-reveals-employees-roles-",
       "title": "Stolen FBI data reveals employees\u2019 roles in intelligence and surveillance",
       "category": "military",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Exposed analysts work on areas including China, Russia, and electronic surveillance. ShinyHunters claimed responsibility for the breach this week. The FBI said it\u2019s investigating.",
@@ -733,29 +556,10 @@
       "details": "Exposed analysts work on areas including China, Russia, and electronic surveillance. ShinyHunters claimed responsibility for the breach this week. The FBI said it\u2019s investigating."
     },
     {
-      "id": "live-military-genai-mil-saw-more-than-2-million-users-",
-      "title": "GenAI.mil saw more than 2 million users in one week, top DOD official says",
-      "category": "military",
-      "date": "2026-09-25",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The Pentagon's top AI officer also said that \u201cunilateral disarmament is the wrong approach\u201d when it comes to calls for a slowdown in AI development.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Pentagon",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/09/genaimil-saw-more-2-million-users-one-week-top-dod-official-says/416186/",
-      "details": "The Pentagon's top AI officer also said that \u201cunilateral disarmament is the wrong approach\u201d when it comes to calls for a slowdown in AI development."
-    },
-    {
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -764,9 +568,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AISecurity",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -775,7 +579,7 @@
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -793,7 +597,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -811,7 +615,7 @@
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -829,7 +633,7 @@
       "id": "live-governance-nist-researchers-supersize-quantum-techn",
       "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single ...",
@@ -847,7 +651,7 @@
       "id": "live-governance-data-union-conference",
       "title": "Data Union Conference",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
@@ -856,9 +660,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -867,7 +671,7 @@
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
       "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
@@ -877,9 +681,9 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -888,7 +692,7 @@
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
       "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
@@ -898,9 +702,9 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -909,7 +713,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
@@ -918,8 +722,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -928,7 +732,7 @@
       "id": "live-governance-commission-designates-chatgpt-reddit-rob",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "category": "governance",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Onli...",
@@ -938,18 +742,37 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
         "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
     },
     {
+      "id": "live-multilateral-haiti-at-watershed-moment-prime-minister",
+      "title": "Haiti at \u2018watershed moment\u2019, Prime Minister tells UN, urging full backing for security force",
+      "category": "multilateral",
+      "date": "2026-09-26",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Haiti is at a \u201cwatershed moment\u201d in its struggle against gang violence and needs sustained international support alongside stronger national security institutions, Prime Minister A...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168453",
+      "details": "Haiti is at a \u201cwatershed moment\u201d in its struggle against gang violence and needs sustained international support alongside stronger national security institutions, Prime Minister Alix Didier Fils-Aim\u00e9 told the UN General Assembly on Friday."
+    },
+    {
       "id": "live-multilateral-pakistan-s-sharif-warns-any-diversion-of",
       "title": "Pakistan\u2019s Sharif warns any diversion of Indus waters will be \u2018treated as an act of war\u2019",
       "category": "multilateral",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Pakistani Prime Minister Shehbaz Sharif told the UN General Assembly on Friday that any attempt by India to stop, impede or divert Pakistan\u2019s share of the Indus River waters \u201cwill ...",
@@ -958,8 +781,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168452",
       "details": "Pakistani Prime Minister Shehbaz Sharif told the UN General Assembly on Friday that any attempt by India to stop, impede or divert Pakistan\u2019s share of the Indus River waters \u201cwill be treated as an act of war\u201d.&nbsp;"
@@ -968,7 +791,7 @@
       "id": "live-multilateral-un-voices-grave-concern-as-fighting-spre",
       "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
       "category": "multilateral",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and...",
@@ -977,8 +800,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168450",
       "details": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations."
@@ -987,7 +810,7 @@
       "id": "live-multilateral-tuvalu-urges-decisive-global-action-as-r",
       "title": "Tuvalu urges decisive global action as rising seas threaten its future",
       "category": "multilateral",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international...",
@@ -996,8 +819,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168449",
       "details": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international action are still falling far short of what vulnerable island nations need."
@@ -1006,7 +829,7 @@
       "id": "live-multilateral-world-news-in-brief-west-bank-demolition",
       "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, ",
       "category": "multilateral",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the \u201cmass destruction\u201d of&nbsp;Palestinian villages and forcible ...",
@@ -1019,24 +842,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168447",
       "details": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the \u201cmass destruction\u201d of&nbsp;Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills."
-    },
-    {
-      "id": "live-multilateral-no-one-speaks-on-behalf-of-lebanon-pm-sa",
-      "title": "\u2018No one speaks on behalf of Lebanon\u2019: PM Salam asserts State authority at UN",
-      "category": "multilateral",
-      "date": "2026-09-25",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Lebanon\u2019s Prime Minister, Nawaf Salam, has stressed that decisions over war and peace, and control of weapons, must rest solely with the State and its constitutional institutions.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168444",
-      "details": "Lebanon\u2019s Prime Minister, Nawaf Salam, has stressed that decisions over war and peace, and control of weapons, must rest solely with the State and its constitutional institutions."
     }
   ]
 }
