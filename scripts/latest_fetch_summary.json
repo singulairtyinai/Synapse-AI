@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-27T04:15:48.648219",
-  "fetched_count": 50,
+  "timestamp": "2026-09-27T13:37:00.713132",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-the-download-the-pentagon-s-ai-powered-l",
@@ -183,97 +183,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-cutting-the-coordination-tax-how-agentic",
-      "title": "Cutting the 'coordination tax': How agentic AI can reshape workflows",
-      "category": "agentic_ai",
-      "date": "2026-09-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows Comments URL: https://news.ycombinator.c...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
-      "details": "Article URL: https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows Comments URL: https://news.ycombinator.com/item?id=49828122 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-show-hn-notes-on-agentic-ai-a-text-first",
-      "title": "Show HN: Notes on Agentic AI \u2013 A text-first guide for practicing engineers",
-      "category": "agentic_ai",
-      "date": "2026-09-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://github.com/mrsachindixit/agentixit",
-      "details": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-investment-seer-agentic-ai-powered-stock",
-      "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
-      "category": "agentic_ai",
-      "date": "2026-09-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://investmentseer.com/",
-      "details": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-i-see-the-mathematicians-panicking-at-wh",
-      "title": "I see the mathematicians panicking at what we can do with agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-09-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://twitter.com/lemire/status/2101684818358439959",
-      "details": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
-      "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
-      "category": "agentic_ai",
-      "date": "2026-09-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://geekyants.com/antflow-ai",
-      "details": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://news.ycombinator.com/item?id=49739484 Points: 1 # Comments: 0"
-    },
-    {
       "id": "live-models-proaction-boosts-sales-60-and-saves-75-h",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "category": "models",
@@ -305,8 +214,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
       "details": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
@@ -324,8 +233,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "details": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
@@ -343,9 +252,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "details": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
@@ -381,9 +290,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Google",
+        "#UnitedNations",
         "#NVIDIA",
-        "#UnitedNations"
+        "#Google"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/open-protein-dataset/",
       "details": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start. To help improve the odds, NVIDIA has joined a coalition of global research organizations, including Google [\u2026]"
@@ -457,9 +366,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#NVIDIA",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
       "details": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of GPU-accelerated packages built on ROS, released today at [\u2026]"
@@ -495,8 +404,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -659,9 +568,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -752,8 +661,8 @@
       },
       "tags": [
         "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -771,10 +680,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
+        "#EUAIAct",
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -792,10 +701,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
+        "#EUAIAct",
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -832,13 +741,31 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
+        "#EUAIAct",
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-the-takeaway-un-general-assembly-debate-",
+      "title": "The Takeaway: UN General Assembly debate Day 5",
+      "category": "multilateral",
+      "date": "2026-09-27",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "From artificial intelligence to migration, some of the forces reshaping the twenty-first century took centre stage at the UN General Assembly on Saturday. Leaders wrestled with a c...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168462",
+      "details": "From artificial intelligence to migration, some of the forces reshaping the twenty-first century took centre stage at the UN General Assembly on Saturday. Leaders wrestled with a common dilemma: how to harness profound technological and social change without allowing it to deepen the divisions already separating countries and communities. This edition of The Takeaway distils key points from Day 5 of the annual high-level debate."
     },
     {
       "id": "live-multilateral-canada-urges-stronger-partnerships-as-gl",
@@ -914,27 +841,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168458",
       "details": "Cuba\u2019s Foreign Minister warned the UN General Assembly on Saturday that escalating military and economic pressure in Latin America and the Caribbean was threatening international law, while accusing the United States of intensifying a decades-long campaign to isolate and weaken his country."
-    },
-    {
-      "id": "live-multilateral-lavrov-issues-call-for-new-eurasian-secu",
-      "title": "Lavrov issues call for new Eurasian \u2018security architecture\u2019",
-      "category": "multilateral",
-      "date": "2026-09-27",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "Russia's Foreign Minister, Sergey Lavrov, accused Western countries of destabilising the world through \u201cforce and double standards\u201d in his address to the UN General Assembly on Sat...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#AISecurity",
-        "#DefenseAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168457",
-      "details": "Russia's Foreign Minister, Sergey Lavrov, accused Western countries of destabilising the world through \u201cforce and double standards\u201d in his address to the UN General Assembly on Saturday, vowing that Moscow's \u201cspecial military operation\u201d in Ukraine would be \u201ccarried through to the end.\u201d"
     }
   ]
 }
