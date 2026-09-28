@@ -1,7 +1,47 @@
 {
-  "timestamp": "2026-09-28T04:17:07.527954",
+  "timestamp": "2026-09-28T16:32:56.852061",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-the-download-rogue-agent-liability-and-t",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "category": "overall",
+      "date": "2026-09-28",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI age...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#OpenAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;"
+    },
+    {
+      "id": "live-overall-who-s-liable-when-ai-agents-go-rogue",
+      "title": "Who\u2019s liable when AI agents go rogue?",
+      "category": "overall",
+      "date": "2026-09-28",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. O...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#OpenAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "details": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;"
+    },
     {
       "id": "live-overall-the-download-the-pentagon-s-ai-powered-l",
       "title": "The Download: the Pentagon\u2019s AI-powered lie detector and young organ limits",
@@ -57,42 +97,6 @@
       "details": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia\u2019s and China\u2019s leaders discussing the possibility of living forever. \u201cWith the developments of biotechnology, human organs can be continuously&#8230;"
     },
     {
-      "id": "live-overall-the-download-a-bid-to-scrap-the-virtual-",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "category": "overall",
-      "date": "2026-09-28",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America\u2019s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&#8230;"
-    },
-    {
-      "id": "live-overall-ai-is-dominating-the-conversation-at-cli",
-      "title": "AI is dominating the conversation at Climate Week",
-      "category": "overall",
-      "date": "2026-09-28",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "This week, world leaders descended on Manhattan for the UN General Assembly. It\u2019s also New York Climate Week\u2014investors, policymakers, advocates, and journalists are colliding at pa...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "details": "This week, world leaders descended on Manhattan for the UN General Assembly. It\u2019s also New York Climate Week\u2014investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;"
-    },
-    {
       "id": "live-overall-bringing-ai-to-autonomous-systems-from-c",
       "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
       "category": "overall",
@@ -105,9 +109,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#AgenticAI",
         "#UnitedNations",
-        "#AgenticAI"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30291",
       "details": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluation of autonomous systems, based on a generic agent architecture that characterizes their behavior as the composition of cognitive functions organized around a long-term memory containing the agent's evolving knowledge. We address the challenges posed by the implementation of the fundamental features of the agent architecture, in particular the link between sensory data and structured data stored in memory, decision-making related to the achievement of the agent's goals and their planning, as well as the coordination of agents to combine individual and collective intelligence. We explain that agent trustworthiness, unlike that of traditional systems, is not limited to behavioral properties. It includes an essential dimension related to cognitive properties, the validity of which depends on how the agent uses its knowledge in decision-making. We present avenues for the development of methods for evaluating agent trustworthiness. We conclude with a critical assessment of the substantial gap between the aspirational vision of autonomous multi-agent systems and the current state of the art."
@@ -125,10 +129,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#AgenticAI",
         "#UnitedNations",
-        "#AISecurity",
-        "#AgenticAI"
+        "#Governance",
+        "#AISecurity"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30325",
       "details": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope adherence. We introduce ScopeBench, a benchmark of 30 dead-end agentic security tasks in which the stated objective is reachable only by violating the stated scope. Each task appears under two conditions that share an environment, verifier, and objective and differ only in scope: one instruction set has no scope and measures capability; the other has a natural-language scope to measure adherence. Scopeless trajectories are graded by a standard deterministic verifier. Scoped trajectories pass through two grading arms. First, the same deterministic verifier checks for the flag: because the flag sits behind the scope boundary, a pass proves by construction that a forbidden action occurred, yielding a high-precision lower bound on the violation rate. If the verifier does not pass the trajectory, an agentic judge estimates whether an out-of-scope call occurred. We calibrate the judge against 100 ScopeBench trajectories labeled call-by-call by human annotators, and a blinded audit of the evaluated rollouts finds its high recall holds - no false negatives among the 36 audited violations, with over-flagging its only observed error. Across 8 models in one harness, raw capability spans 12.2% to 81.1% and scope adherence spans 34.4% to 86.7%, with the judge finding 331 violations that mechanical verification misses. Opus-4-8 achieves a raw-capability score 10 percentage points higher than sonnet-4-6's while exhibiting 35.6 percentage points higher scope adherence. We release the frozen pilot benchmark, evaluation code, and all 2160 ATIF trajectories."
@@ -146,9 +150,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations",
         "#AgenticAI",
+        "#UnitedNations",
+        "#Governance",
         "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30328",
@@ -169,8 +173,8 @@
       "tags": [
         "#EUAIAct",
         "#Meta",
-        "#UnitedNations",
         "#AgenticAI",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30341",
@@ -189,14 +193,32 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#EUAIAct",
-        "#UnitedNations",
+        "#DefenseAI",
         "#AgenticAI",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30383",
       "details": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of third-party capabilities, but the openness of this skill ecosystem also opens up a new attack surface. Prior work has focused on vulnerabilities within individual skills, but little attention has been paid to risks that arise from interactions across skills. In this paper, we introduce skill cascading attacks, a threat paradigm in which a malicious objective is distributed across multiple skills so that each modification looks benign in isolation, yet their combined execution is harmful. For instance, in a prescription-review pipeline, the first skill weakens signals of recently discontinued medications in the extracted history, the second downgrades the severity of any drug interaction tied to them, and the third suppresses the resulting low-priority alert in the final summary, so that a severe drug-interaction warning silently disappears before reaching the physician. To systematically study this safety blind spot, we develop SkillCascade, an automated multi-agent red-teaming framework, and release SkillCascade-Bench, a benchmark of 213 validated cascading test cases across multiple agent systems and domains. Across representative agents (e.g., OpenClaw, Claude Code, Codex) and LLM backbones, cascaded interactions reliably induce harmful behaviors while evading existing per-skill scanners and runtime monitors. Our findings highlight a gap between component-level integrity and system-level safety, and call for defenses that reason over cross-skill interactions rather than individual skills in isolation."
+    },
+    {
+      "id": "live-agentic_ai-holo4-powering-generalist-computer-use-a",
+      "title": "Holo4: powering generalist computer-use agents",
+      "category": "agentic_ai",
+      "date": "2026-09-28",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/Hcompany/holo4",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-accelerating-vision-language-models-with",
@@ -271,24 +293,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-jun-kim-omlx-creator-and-maintainer-join",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "category": "agentic_ai",
-      "date": "2026-09-28",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/omlx",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-agentic_ai-cutting-the-coordination-tax-how-agentic",
       "title": "Cutting the 'coordination tax': How agentic AI can reshape workflows",
       "category": "agentic_ai",
@@ -319,8 +323,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Governance"
       ],
       "sourceUrl": "https://github.com/mrsachindixit/agentixit",
       "details": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0"
@@ -392,8 +396,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI"
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/proaction",
       "details": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
@@ -411,8 +415,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
       "details": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
@@ -430,8 +434,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "details": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
@@ -449,9 +453,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#OpenAI",
         "#UnitedNations",
-        "#AISecurity",
-        "#OpenAI"
+        "#AISecurity"
       ],
       "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "details": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
@@ -475,6 +479,47 @@
       "details": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
     },
     {
+      "id": "live-companies-nvidia-announces-a-150-billion-share-rep",
+      "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+      "category": "companies",
+      "date": "2026-09-28",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "NVIDIA today announced that its Board of Directors has authorized an additional $150 billion under the company\u2019s existing share repurchase program, increasing the total remaining a...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+      "details": "NVIDIA today announced that its Board of Directors has authorized an additional $150 billion under the company\u2019s existing share repurchase program, increasing the total remaining amount authorized to $235 billion."
+    },
+    {
+      "id": "live-companies-nvidia-launches-open-agent-safety-platfo",
+      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "category": "companies",
+      "date": "2026-09-28",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with ful...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA",
+        "#AISecurity",
+        "#AgenticAI",
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "details": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents."
+    },
+    {
       "id": "live-companies-how-open-science-can-help-researchers-pr",
       "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
       "category": "companies",
@@ -487,8 +532,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#UnitedNations",
+        "#NVIDIA",
         "#Google"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/open-protein-dataset/",
@@ -507,8 +552,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
       "details": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment\u2019s CONTROL Resonant brings Dylan Faden\u2019s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimate Membership Bundle. Purchase a 12-month GeForce NOW Ultimate membership through Sunday, Sept. 27, and receive [\u2026]"
@@ -530,45 +575,6 @@
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
       "details": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. \u201cValidation engineers look in the shadows and shine a light into every corner,\u201d Fiza said. \u201cEvery time we get a system, our first thought is: how can it [\u2026]"
-    },
-    {
-      "id": "live-companies-at-ai-day-singapore-nvidia-and-partners-",
-      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "category": "companies",
-      "date": "2026-09-28",
-      "impact": "CRITICAL",
-      "company": "NVIDIA Newsroom",
-      "tldr": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessi...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-      "details": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-isaac-ros-5-0-advances-agentic-op",
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "category": "companies",
-      "date": "2026-09-28",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open fr...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#Governance",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "details": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of GPU-accelerated packages built on ROS, released today at [\u2026]"
     },
     {
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
@@ -601,8 +607,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -765,8 +771,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
@@ -857,8 +863,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -877,10 +883,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#AISecurity",
-        "#EUAIAct"
+        "#Governance",
+        "#EUAIAct",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -898,10 +904,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#AISecurity",
-        "#EUAIAct"
+        "#Governance",
+        "#EUAIAct",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -938,10 +944,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#AISecurity",
-        "#EUAIAct"
+        "#Governance",
+        "#EUAIAct",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
