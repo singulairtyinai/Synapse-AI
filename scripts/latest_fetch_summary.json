@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-29T17:49:15.939646",
-  "fetched_count": 45,
+  "timestamp": "2026-09-29T23:31:36.606966",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-climate-tech-companies-to-w",
@@ -87,9 +87,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#Anthropic",
         "#UnitedNations",
-        "#Anthropic"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;"
@@ -129,8 +129,8 @@
       "tags": [
         "#Governance",
         "#UnitedNations",
-        "#AgenticAI",
-        "#AISecurity"
+        "#AISecurity",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30325",
       "details": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope adherence. We introduce ScopeBench, a benchmark of 30 dead-end agentic security tasks in which the stated objective is reachable only by violating the stated scope. Each task appears under two conditions that share an environment, verifier, and objective and differ only in scope: one instruction set has no scope and measures capability; the other has a natural-language scope to measure adherence. Scopeless trajectories are graded by a standard deterministic verifier. Scoped trajectories pass through two grading arms. First, the same deterministic verifier checks for the flag: because the flag sits behind the scope boundary, a pass proves by construction that a forbidden action occurred, yielding a high-precision lower bound on the violation rate. If the verifier does not pass the trajectory, an agentic judge estimates whether an out-of-scope call occurred. We calibrate the judge against 100 ScopeBench trajectories labeled call-by-call by human annotators, and a blinded audit of the evaluated rollouts finds its high recall holds - no false negatives among the 36 audited violations, with over-flagging its only observed error. Across 8 models in one harness, raw capability spans 12.2% to 81.1% and scope adherence spans 34.4% to 86.7%, with the judge finding 331 violations that mechanical verification misses. Opus-4-8 achieves a raw-capability score 10 percentage points higher than sonnet-4-6's while exhibiting 35.6 percentage points higher scope adherence. We release the frozen pilot benchmark, evaluation code, and all 2160 ATIF trajectories."
@@ -169,9 +169,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
         "#UnitedNations",
         "#EUAIAct",
+        "#Meta",
         "#Governance",
         "#AgenticAI"
       ],
@@ -191,8 +191,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#UnitedNations",
+        "#DefenseAI",
         "#EUAIAct",
         "#Governance",
         "#AgenticAI"
@@ -292,6 +292,82 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
+      "category": "models",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "details": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices."
+    },
+    {
+      "id": "live-models-devday-2026-recap",
+      "title": "DevDay 2026 Recap",
+      "category": "models",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#UnitedNations",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://openai.com/index/devday-2026-recap",
+      "details": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+    },
+    {
+      "id": "live-models-introducing-dots",
+      "title": "Introducing dots",
+      "category": "models",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://openai.com/index/introducing-dots",
+      "details": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+    },
+    {
+      "id": "live-models-towards-safety-cases-for-frontier-ai-tra",
+      "title": "Towards safety cases for frontier AI training",
+      "category": "models",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "details": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+    },
+    {
       "id": "live-models-how-we-will-do-better-for-australia",
       "title": "How we will do better for Australia",
       "category": "models",
@@ -308,82 +384,6 @@
       ],
       "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
       "details": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
-    },
-    {
-      "id": "live-models-towards-safety-cases-for-frontier-ai-tra",
-      "title": "Towards safety cases for frontier AI training",
-      "category": "models",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "details": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-    },
-    {
-      "id": "live-models-the-lenfest-institute-grows-landmark-pro",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "category": "models",
-      "date": "2026-09-29",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Fellowship",
-        "#UnitedNations",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "details": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-    },
-    {
-      "id": "live-models-are-you-a-codex-original",
-      "title": "Are you a Codex Original?",
-      "category": "models",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Cod...",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/form/codex-originals",
-      "details": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
-    },
-    {
-      "id": "live-models-basis-completes-a-tax-workbook-2x-faster",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "category": "models",
-      "date": "2026-09-29",
-      "impact": "CRITICAL",
-      "company": "OpenAI Newsroom",
-      "tldr": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "details": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
     },
     {
       "id": "live-companies-nvidia-announces-a-150-billion-share-rep",
@@ -417,9 +417,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#NVIDIA",
         "#AISecurity",
-        "#UnitedNations",
         "#Governance",
         "#AgenticAI"
       ],
@@ -440,8 +440,8 @@
       },
       "tags": [
         "#NVIDIA",
-        "#UnitedNations",
-        "#Google"
+        "#Google",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/open-protein-dataset/",
       "details": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start. To help improve the odds, NVIDIA has joined a coalition of global research organizations, including Google [\u2026]"
@@ -575,6 +575,24 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-after-40-days-of-combat-navy-destroyer-r",
+      "title": "After 40 days of combat, Navy destroyer returns home",
+      "category": "military",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "During its 10-month deployment, USS Frank Petersen Jr. warded off scores of Iranian missiles and drones.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/09/after-40-days-combat-navy-destroyer-returns-home/416311/",
+      "details": "During its 10-month deployment, USS Frank Petersen Jr. warded off scores of Iranian missiles and drones."
+    },
+    {
       "id": "live-military-hegseth-orders-cyber-intelligence-agenci",
       "title": "Hegseth orders cyber, intelligence agencies to prioritize election defense",
       "category": "military",
@@ -647,24 +665,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/anthropic-lawsuit-supply-chain-risk/416252/",
       "details": "The label is more typically assigned to companies suspected of ties to adversarial governments."
-    },
-    {
-      "id": "live-military-the-navy-s-public-shipyards-will-take-mo",
-      "title": "The Navy\u2019s public shipyards will take more decades to repair, GAO says",
-      "category": "military",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "A new report calls for more Congressional oversight of the massive construction projects.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/09/navys-public-shipyards-will-take-more-decades-repair-gao-says/416251/",
-      "details": "A new report calls for more Congressional oversight of the massive construction projects."
     },
     {
       "id": "live-governance-nist-provides-updates-on-national-constr",
@@ -857,6 +857,98 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-deadly-myanmar-strik",
+      "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding r",
+      "category": "multilateral",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar\u2019s Rakhine state and called for those responsible to be held...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168488",
+      "details": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar\u2019s Rakhine state and called for those responsible to be held to account."
+    },
+    {
+      "id": "live-multilateral-funding-cuts-put-8-3-million-refugees-at",
+      "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
+      "category": "multilateral",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave. He sold everything he owned and returned to Afghanistan with his five children, arriving with almost n...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168486",
+      "details": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave. He sold everything he owned and returned to Afghanistan with his five children, arriving with almost nothing."
+    },
+    {
+      "id": "live-multilateral-clean-your-plate-to-reduce-food-loss-and",
+      "title": "Clean your plate \u2013 to reduce food loss and waste",
+      "category": "multilateral",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Food waste is helping to fuel global warming, one half-eaten sandwich at a time.&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168485",
+      "details": "Food waste is helping to fuel global warming, one half-eaten sandwich at a time.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-live-weighing-nuclear-risks-amid-rising-",
+      "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
+      "category": "multilateral",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168483",
+      "details": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on Tuesday, closing out the General Assembly\u2019s High-Level Week with expected calls for greater safeguards."
+    },
+    {
+      "id": "live-multilateral-security-council-live-drc-peace-deals-fa",
+      "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+      "category": "multilateral",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The Security Council met in New York&nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168482",
+      "details": "The Security Council met in New York&nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and Rwanda, and the country\u2019s worst Ebola outbreak on record, which has killed more than 3,900 people.&nbsp;&nbsp;"
     }
   ]
 }
