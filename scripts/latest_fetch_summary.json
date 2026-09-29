@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T00:14:50.231677",
+  "timestamp": "2026-09-29T10:28:34.551225",
   "fetched_count": 50,
   "nodes": [
     {
@@ -33,9 +33,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#Anthropic",
         "#UnitedNations",
-        "#Anthropic"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;"
@@ -111,9 +111,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AgenticAI",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30291",
       "details": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluation of autonomous systems, based on a generic agent architecture that characterizes their behavior as the composition of cognitive functions organized around a long-term memory containing the agent's evolving knowledge. We address the challenges posed by the implementation of the fundamental features of the agent architecture, in particular the link between sensory data and structured data stored in memory, decision-making related to the achievement of the agent's goals and their planning, as well as the coordination of agents to combine individual and collective intelligence. We explain that agent trustworthiness, unlike that of traditional systems, is not limited to behavioral properties. It includes an essential dimension related to cognitive properties, the validity of which depends on how the agent uses its knowledge in decision-making. We present avenues for the development of methods for evaluating agent trustworthiness. We conclude with a critical assessment of the substantial gap between the aspirational vision of autonomous multi-agent systems and the current state of the art."
@@ -131,10 +131,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AgenticAI",
         "#UnitedNations",
-        "#AISecurity",
-        "#Governance"
+        "#AISecurity"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30325",
       "details": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope adherence. We introduce ScopeBench, a benchmark of 30 dead-end agentic security tasks in which the stated objective is reachable only by violating the stated scope. Each task appears under two conditions that share an environment, verifier, and objective and differ only in scope: one instruction set has no scope and measures capability; the other has a natural-language scope to measure adherence. Scopeless trajectories are graded by a standard deterministic verifier. Scoped trajectories pass through two grading arms. First, the same deterministic verifier checks for the flag: because the flag sits behind the scope boundary, a pass proves by construction that a forbidden action occurred, yielding a high-precision lower bound on the violation rate. If the verifier does not pass the trajectory, an agentic judge estimates whether an out-of-scope call occurred. We calibrate the judge against 100 ScopeBench trajectories labeled call-by-call by human annotators, and a blinded audit of the evaluated rollouts finds its high recall holds - no false negatives among the 36 audited violations, with over-flagging its only observed error. Across 8 models in one harness, raw capability spans 12.2% to 81.1% and scope adherence spans 34.4% to 86.7%, with the judge finding 331 violations that mechanical verification misses. Opus-4-8 achieves a raw-capability score 10 percentage points higher than sonnet-4-6's while exhibiting 35.6 percentage points higher scope adherence. We release the frozen pilot benchmark, evaluation code, and all 2160 ATIF trajectories."
@@ -152,10 +152,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AgenticAI",
         "#UnitedNations",
-        "#Reasoning",
-        "#Governance"
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30328",
       "details": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well when the evidence is a set of retrieved documents. We argue such methods require two things of their evidence: it must be independent of the answer under review, and it must differ between the two candidates being compared. The second condition holds automatically with retrieved documents and stops holding in code judging. Running MARCH, a published framework unmodified over 80 condition-by-cell measurements on two code judging benchmarks, we find it declares both solutions equally good on 78 to 95% of comparisons, reaching 4.4% accuracy where the same model asked directly reaches 43.7%. Neither easier problems nor a larger judge changes this. Two measurements taken from the pipeline's own logs explain it without needing labels. Gating on one of them, the pipeline declines the comparisons it cannot make and raises its accuracy from 20.7 to 36.9% while still answering half of all comparisons. The contribution is not a more accurate judge, but a label-free way to tell when a judge has no basis for its answer."
@@ -173,11 +173,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#EUAIAct",
+        "#Meta",
         "#UnitedNations",
         "#Governance",
-        "#EUAIAct",
-        "#Meta"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30341",
       "details": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP), implemented through the Eunomia Agent, to enable controlled interaction between large language model (LLM) agents and data space services. The proposed mediation layer translates data space capabilities into structured, schema-driven tools that AI agents can discover and invoke while preserving governance constraints. A prototype implementation validates end-to-end interaction across catalog discovery, metadata retrieval, and data service invocation without modifying existing data space components. Results demonstrate that protocol-based mediation enables interoperable and standards-aligned integration of AI agents into data space ecosystems. The approach provides practical guidance for organizations seeking to introduce AI-driven automation into governed data-sharing environments while maintaining compliance, interoperability, and architectural separation of concerns."
@@ -195,11 +195,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#DefenseAI",
+        "#EUAIAct",
         "#UnitedNations",
         "#Governance",
-        "#EUAIAct"
+        "#AgenticAI",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2609.30383",
       "details": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of third-party capabilities, but the openness of this skill ecosystem also opens up a new attack surface. Prior work has focused on vulnerabilities within individual skills, but little attention has been paid to risks that arise from interactions across skills. In this paper, we introduce skill cascading attacks, a threat paradigm in which a malicious objective is distributed across multiple skills so that each modification looks benign in isolation, yet their combined execution is harmful. For instance, in a prescription-review pipeline, the first skill weakens signals of recently discontinued medications in the extracted history, the second downgrades the severity of any drug interaction tied to them, and the third suppresses the resulting low-priority alert in the final summary, so that a severe drug-interaction warning silently disappears before reaching the physician. To systematically study this safety blind spot, we develop SkillCascade, an automated multi-agent red-teaming framework, and release SkillCascade-Bench, a benchmark of 213 validated cascading test cases across multiple agent systems and domains. Across representative agents (e.g., OpenClaw, Claude Code, Codex) and LLM backbones, cascaded interactions reliably induce harmful behaviors while evading existing per-skill scanners and runtime monitors. Our findings highlight a gap between component-level integrity and system-level safety, and call for defenses that reason over cross-skill interactions rather than individual skills in isolation."
@@ -295,6 +295,134 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-cutting-the-coordination-tax-how-agentic",
+      "title": "Cutting the 'coordination tax': How agentic AI can reshape workflows",
+      "category": "agentic_ai",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows Comments URL: https://news.ycombinator.c...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
+      "details": "Article URL: https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows Comments URL: https://news.ycombinator.com/item?id=49828122 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-show-hn-notes-on-agentic-ai-a-text-first",
+      "title": "Show HN: Notes on Agentic AI \u2013 A text-first guide for practicing engineers",
+      "category": "agentic_ai",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://github.com/mrsachindixit/agentixit",
+      "details": "Article URL: https://github.com/mrsachindixit/agentixit Comments URL: https://news.ycombinator.com/item?id=49805807 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-investment-seer-agentic-ai-powered-stock",
+      "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
+      "category": "agentic_ai",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://investmentseer.com/",
+      "details": "Article URL: https://investmentseer.com/ Comments URL: https://news.ycombinator.com/item?id=49783107 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-i-see-the-mathematicians-panicking-at-wh",
+      "title": "I see the mathematicians panicking at what we can do with agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://twitter.com/lemire/status/2101684818358439959",
+      "details": "Article URL: https://twitter.com/lemire/status/2101684818358439959 Comments URL: https://news.ycombinator.com/item?id=49779500 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-show-hn-antflow-ai-agentic-ai-framework-",
+      "title": "Show HN: AntFlow AI: Agentic AI Framework for Spec-Driven Development",
+      "category": "agentic_ai",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://geekyants.com/antflow-ai",
+      "details": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y'all think Comments URL: https://news.ycombinator.com/item?id=49739484 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-models-how-we-will-do-better-for-australia",
+      "title": "How we will do better for Australia",
+      "category": "models",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "details": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
+    },
+    {
+      "id": "live-models-towards-safety-cases-for-frontier-ai-tra",
+      "title": "Towards safety cases for frontier AI training",
+      "category": "models",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "details": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+    },
+    {
       "id": "live-models-the-lenfest-institute-grows-landmark-pro",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "category": "models",
@@ -352,44 +480,6 @@
       "details": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
     },
     {
-      "id": "live-models-proaction-boosts-sales-60-and-saves-75-h",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "category": "models",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://openai.com/index/proaction",
-      "details": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
-    },
-    {
-      "id": "live-models-two-years-of-openai-academy",
-      "title": "Two years of OpenAI Academy",
-      "category": "models",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
-      "details": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-    },
-    {
       "id": "live-companies-nvidia-announces-a-150-billion-share-rep",
       "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
       "category": "companies",
@@ -421,11 +511,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#NVIDIA",
-        "#UnitedNations",
         "#AISecurity",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#AgenticAI",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
       "details": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents."
@@ -443,9 +533,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Google",
         "#NVIDIA",
-        "#Google"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/open-protein-dataset/",
       "details": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start. To help improve the odds, NVIDIA has joined a coalition of global research organizations, including Google [\u2026]"
@@ -518,8 +608,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -579,6 +669,25 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-hegseth-orders-cyber-intelligence-agenci",
+      "title": "Hegseth orders cyber, intelligence agencies to prioritize election defense",
+      "category": "military",
+      "date": "2026-09-29",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "The directive comes as the administration has dismantled or reorganized offices that tracked foreign influence and reduced civilian election security support.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/09/hegseth-orders-cyber-intelligence-agencies-prioritize-election-defense/416295/",
+      "details": "The directive comes as the administration has dismantled or reorganized offices that tracked foreign influence and reduced civilian election security support."
+    },
+    {
       "id": "live-military-treat-operational-feedback-as-a-strategi",
       "title": "Treat operational feedback as a strategic resource, new paper argues",
       "category": "military",
@@ -627,8 +736,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Pentagon",
-        "#Anthropic"
+        "#Anthropic",
+        "#Pentagon"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/anthropic-lawsuit-supply-chain-risk/416252/",
       "details": "The label is more typically assigned to companies suspected of ties to adversarial governments."
@@ -650,24 +759,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/policy/2026/09/navys-public-shipyards-will-take-more-decades-repair-gao-says/416251/",
       "details": "A new report calls for more Congressional oversight of the massive construction projects."
-    },
-    {
-      "id": "live-military-defense-business-brief-here-comes-the-qu",
-      "title": "Defense Business Brief: Here comes the quantum boom; GDIT\u2019s perspective; and Sec. 889",
-      "category": "military",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-here-comes-quantum-boom-gdits-perspective-and-sec-889/416184/",
-      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-governance-nist-provides-updates-on-national-constr",
@@ -700,9 +791,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#AISecurity",
-        "#Governance"
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -774,8 +865,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -794,10 +885,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity",
         "#EUAIAct",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -815,10 +906,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity",
         "#EUAIAct",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -836,8 +927,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -855,107 +946,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity",
         "#EUAIAct",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "details": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notification of the designations, these services have four months, i.e. by January 2027, to comply with the additional DSA obligations for VLOPs and VLOSEs, such as assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users\u2019 physical and mental well-being, fundamental rights, electoral processes and public security.&nbsp; Read the full press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act \u2013 main aspects of the regulation User rights under the Digital Services Act \u2013 an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
-    },
-    {
-      "id": "live-multilateral-the-takeaway-day-6-general-debate-ends-w",
-      "title": "The Takeaway Day 6: General Debate ends with a plea to turn words into action",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "After six days of speeches from the UN General Assembly podium, one word rose above all others: peace.&nbsp; This final edition of The Takeaway distils the messages he said reverbe...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168478",
-      "details": "After six days of speeches from the UN General Assembly podium, one word rose above all others: peace.&nbsp; This final edition of The Takeaway distils the messages he said reverberated through the Assembly Hall and looks at where the 193-member body goes from here.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-un-leaders-renew-push-to-defeat-racism-2",
-      "title": "UN leaders renew push to defeat racism, 25 years after Durban",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "\u201cNo country is free of racism.\u201d That warning from US youth activist Marley Dias set the tone on Monday as UN Member States reinvigorated global efforts against racism, discriminati...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168477",
-      "details": "\u201cNo country is free of racism.\u201d That warning from US youth activist Marley Dias set the tone on Monday as UN Member States reinvigorated global efforts against racism, discrimination and xenophobia with a new declaration."
-    },
-    {
-      "id": "live-multilateral-dpr-korea-tells-un-its-nuclear-status-is",
-      "title": "DPR Korea tells UN its nuclear status is \u2018irreversible\u2019, rejects outside pressure",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "The Democratic People\u2019s Republic of Korea (DPRK) told the UN General Assembly on Monday that its status as a nuclear-armed State was irreversible, arguing that its military capabil...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168476",
-      "details": "The Democratic People\u2019s Republic of Korea (DPRK) told the UN General Assembly on Monday that its status as a nuclear-armed State was irreversible, arguing that its military capabilities were necessary to safeguard the country\u2019s sovereignty and maintain peace on the Korean Peninsula."
-    },
-    {
-      "id": "live-multilateral-ballot-must-replace-the-bullets-south-su",
-      "title": "\u2018Ballot must replace the bullets\u2019, South Sudan tells General Assembly ahead of elections",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country\u2019s Permanent Representative to the United Nations Cecilia Adout...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168475",
-      "details": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country\u2019s Permanent Representative to the United Nations Cecilia Adout Majok Adeng, told the General Assembly on Monday, calling for all sanctions, including the arms embargo to be lifted.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-sudan-tells-un-no-imposed-solutions-to-c",
-      "title": "Sudan tells UN: No imposed solutions to country\u2019s conflict",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Sudan\u2019s Foreign Minister addressed the UN General Assembly on Monday in place of de facto head of state General Abdel Fattah al-Burhan, whose visa application was rejected by Washi...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168474",
-      "details": "Sudan\u2019s Foreign Minister addressed the UN General Assembly on Monday in place of de facto head of state General Abdel Fattah al-Burhan, whose visa application was rejected by Washington."
     }
   ]
 }
