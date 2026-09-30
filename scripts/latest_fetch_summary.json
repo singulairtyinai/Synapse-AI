@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-29T23:31:36.606966",
-  "fetched_count": 50,
+  "timestamp": "2026-09-30T04:34:08.331397",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-the-download-climate-tech-companies-to-w",
       "title": "The Download: climate tech companies to watch and AI\u2019s discovery problem",
       "category": "overall",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of ...",
@@ -24,7 +24,7 @@
       "id": "live-overall-coming-soon-our-2026-list-of-climate-tec",
       "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
       "category": "overall",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Earlier this month, the UN announced the planet will tip past 1.5 \u02daC of warming, \u201clikely within the next few years,\u201d squashing any lingering hope that nations would cut emissions f...",
@@ -42,7 +42,7 @@
       "id": "live-overall-making-ai-an-asset-not-an-expense",
       "title": "Making AI an asset, not an expense",
       "category": "overall",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that ...",
@@ -60,7 +60,7 @@
       "id": "live-overall-roundtables-the-deadly-failures-of-the-v",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "category": "overall",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Listen to the session or watch below The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they wil...",
@@ -78,7 +78,7 @@
       "id": "live-overall-when-can-we-say-ai-made-a-scientific-dis",
       "title": "When can we say AI made a scientific discovery?",
       "category": "overall",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that e...",
@@ -87,124 +87,119 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
         "#UnitedNations",
+        "#Anthropic",
         "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;"
     },
     {
-      "id": "live-overall-bringing-ai-to-autonomous-systems-from-c",
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "id": "live-overall-openai-huggingface-a-reproduction-lesson",
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
       "category": "overall",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
+      "date": "2026-09-30",
+      "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, t...",
+      "tldr": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastr...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#OpenAI",
         "#Governance",
         "#UnitedNations",
         "#AgenticAI"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.30291",
-      "details": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluation of autonomous systems, based on a generic agent architecture that characterizes their behavior as the composition of cognitive functions organized around a long-term memory containing the agent's evolving knowledge. We address the challenges posed by the implementation of the fundamental features of the agent architecture, in particular the link between sensory data and structured data stored in memory, decision-making related to the achievement of the agent's goals and their planning, as well as the coordination of agents to combine individual and collective intelligence. We explain that agent trustworthiness, unlike that of traditional systems, is not limited to behavioral properties. It includes an essential dimension related to cognitive properties, the validity of which depends on how the agent uses its knowledge in decision-making. We present avenues for the development of methods for evaluating agent trustworthiness. We conclude with a critical assessment of the substantial gap between the aspirational vision of autonomous multi-agent systems and the current state of the art."
+      "sourceUrl": "https://arxiv.org/abs/2609.35799",
+      "details": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing practices have foreseen this incident? If not, what needs to change? We explore these questions. First, we identify the misaligned behaviors that caused this incident. Then, we show how to elicit these behaviors from publicly available models manually and that auditing agents can do the same if given a large compute budget. Based on our results, we propose directions to improve alignment testing. Concretely, in this project: (1) We reproduce the misaligned AI behaviors that led to the OpenAI-Hugging Face incident in an environment that simulates the original pipelines and tools, with publicly available models. (2) We demonstrate that an auditing agent can elicit similar behaviors given high-level qualitative descriptions. (3) We observe that a key ingredient for doing so is compute. The compute required to reproduce each behavior varies greatly, suggesting that the range of misaligned behaviors that can be successfully elicited scales with compute. (4) We show that a simple in-context reinforcement learning (RL) algorithm significantly reduces the compute required to elicit these behaviors. The above results motivate the need for automated alignment testing methods that scale with compute - and in light of the cost of compute, that do this efficiently. Our work indicates that RL is a promising direction to do so. We release our code and transcripts."
     },
     {
-      "id": "live-overall-scopebench-do-agents-preserve-engagement",
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "id": "live-overall-neurosymbolic-routing-for-reliable-reaso",
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
       "category": "overall",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope ...",
+      "tldr": "arXiv:2609.35833v1 Announce Type: new Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#AgenticAI",
+        "#EUAIAct",
         "#UnitedNations",
-        "#AISecurity",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2609.30325",
-      "details": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope adherence. We introduce ScopeBench, a benchmark of 30 dead-end agentic security tasks in which the stated objective is reachable only by violating the stated scope. Each task appears under two conditions that share an environment, verifier, and objective and differ only in scope: one instruction set has no scope and measures capability; the other has a natural-language scope to measure adherence. Scopeless trajectories are graded by a standard deterministic verifier. Scoped trajectories pass through two grading arms. First, the same deterministic verifier checks for the flag: because the flag sits behind the scope boundary, a pass proves by construction that a forbidden action occurred, yielding a high-precision lower bound on the violation rate. If the verifier does not pass the trajectory, an agentic judge estimates whether an out-of-scope call occurred. We calibrate the judge against 100 ScopeBench trajectories labeled call-by-call by human annotators, and a blinded audit of the evaluated rollouts finds its high recall holds - no false negatives among the 36 audited violations, with over-flagging its only observed error. Across 8 models in one harness, raw capability spans 12.2% to 81.1% and scope adherence spans 34.4% to 86.7%, with the judge finding 331 violations that mechanical verification misses. Opus-4-8 achieves a raw-capability score 10 percentage points higher than sonnet-4-6's while exhibiting 35.6 percentage points higher scope adherence. We release the frozen pilot benchmark, evaluation code, and all 2160 ATIF trajectories."
-    },
-    {
-      "id": "live-overall-when-is-a-multi-agent-code-judge-actuall",
-      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That De",
-      "category": "overall",
-      "date": "2026-09-29",
-      "impact": "HIGH",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
         "#Reasoning",
-        "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.30328",
-      "details": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well when the evidence is a set of retrieved documents. We argue such methods require two things of their evidence: it must be independent of the answer under review, and it must differ between the two candidates being compared. The second condition holds automatically with retrieved documents and stops holding in code judging. Running MARCH, a published framework unmodified over 80 condition-by-cell measurements on two code judging benchmarks, we find it declares both solutions equally good on 78 to 95% of comparisons, reaching 4.4% accuracy where the same model asked directly reaches 43.7%. Neither easier problems nor a larger judge changes this. Two measurements taken from the pipeline's own logs explain it without needing labels. Gating on one of them, the pipeline declines the comparisons it cannot make and raises its accuracy from 20.7 to 36.9% while still answering half of all comparisons. The contribution is not a more accurate judge, but a label-free way to tell when a judge has no basis for its answer."
+      "sourceUrl": "https://arxiv.org/abs/2609.35833",
+      "details": "arXiv:2609.35833v1 Announce Type: new Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on such devices are unreliable on the tasks computers are expected to handle well, such as arithmetic, algebra, and formal logic problems. We argue that much of this unreliability is avoidable. Many queries appearing to demand reasoning are in fact structurally deterministic and permit fast and exact symbolic solutions. Therefore, forcing a probabilistic model to approximate them sacrifices accuracy and energy for little benefit. We present a neurosymbolic router that classifies each incoming query and dispatches it to the cheapest correct solver, sending structured tasks to deterministic engines and reserving the small language model (SLM) for open-ended word problems. Instead of hand-coding the routing logic, we learn a deterministic finite automaton (DFA) with the L* grammatical inference algorithm, using the SLM as a membership oracle and labeled data as an equivalence oracle. On a Raspberry Pi 4B (8 GB RAM, no GPU), evaluated on 100 untested prompts from DeepMind Mathematics, GSM8K, and RuleTaker, learned routing attains 100% routing accuracy and 98.3% overall accuracy with a 512-token reasoning budget (93.3% on word problems), compared with 72.0% for the strongest agent baseline, Program-of-Thought, and 58.7% for a tool-calling agent given the same solvers. Since formatted queries never reach the model, the router answers them in 1-11 ms and, in its 30-token configuration, runs 8.8x faster and 2.8x more energy-efficient than Program-of-Thought."
     },
     {
-      "id": "live-overall-bridging-llm-agents-and-data-spaces-an-a",
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Pro",
+      "id": "live-overall-is-human-readable-text-necessary-for-eff",
+      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
       "category": "overall",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remain...",
+      "tldr": "arXiv:2609.35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#UnitedNations",
-        "#EUAIAct",
-        "#Meta",
-        "#Governance",
-        "#AgenticAI"
+        "#Reasoning",
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.30341",
-      "details": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP), implemented through the Eunomia Agent, to enable controlled interaction between large language model (LLM) agents and data space services. The proposed mediation layer translates data space capabilities into structured, schema-driven tools that AI agents can discover and invoke while preserving governance constraints. A prototype implementation validates end-to-end interaction across catalog discovery, metadata retrieval, and data service invocation without modifying existing data space components. Results demonstrate that protocol-based mediation enables interoperable and standards-aligned integration of AI agents into data space ecosystems. The approach provides practical guidance for organizations seeking to introduce AI-driven automation into governed data-sharing environments while maintaining compliance, interoperability, and architectural separation of concerns."
+      "sourceUrl": "https://arxiv.org/abs/2609.35868",
+      "details": "arXiv:2609.35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose Desired-Update-Aligned Synthetic Data (DASA), which uses activation-gradient feedback from a frozen reference model to guide the optimization of continuous synthetic input embeddings. Inspired by the role of activation gradients in local risk reduction, DASA targets useful adaptation updates rather than source-text reconstruction or linguistic fluency. The resulting embeddings are used directly for downstream fine-tuning; discrete token projections are employed only for qualitative inspection. Experiments on six models from the Llama and Qwen families, ranging from 1B to 32B parameters, cover six benchmarks spanning knowledge, mathematical reasoning, code generation, and commonsense reasoning. Under matched LoRA adaptation settings, DASA achieves performance comparable to the source natural-language data and surpasses it in multiple configurations, while outperforming GRADMM in most comparisons. Further experiments cover general-domain and task-specialized source data. Under the evaluated synthesis settings, DASA provides a $3.6$--$4.9\\times$ speedup over GRADMM with comparable peak GPU memory."
     },
     {
-      "id": "live-overall-stealth-apart-harm-together-skill-cascad",
-      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+      "id": "live-overall-the-price-of-token-boundaries-compressio",
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
       "category": "overall",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at...",
+      "tldr": "arXiv:2609.35869v1 Announce Type: new Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers ar...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#UnitedNations",
-        "#DefenseAI",
-        "#EUAIAct",
-        "#Governance",
-        "#AgenticAI"
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2609.30383",
-      "details": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of third-party capabilities, but the openness of this skill ecosystem also opens up a new attack surface. Prior work has focused on vulnerabilities within individual skills, but little attention has been paid to risks that arise from interactions across skills. In this paper, we introduce skill cascading attacks, a threat paradigm in which a malicious objective is distributed across multiple skills so that each modification looks benign in isolation, yet their combined execution is harmful. For instance, in a prescription-review pipeline, the first skill weakens signals of recently discontinued medications in the extracted history, the second downgrades the severity of any drug interaction tied to them, and the third suppresses the resulting low-priority alert in the final summary, so that a severe drug-interaction warning silently disappears before reaching the physician. To systematically study this safety blind spot, we develop SkillCascade, an automated multi-agent red-teaming framework, and release SkillCascade-Bench, a benchmark of 213 validated cascading test cases across multiple agent systems and domains. Across representative agents (e.g., OpenClaw, Claude Code, Codex) and LLM backbones, cascaded interactions reliably induce harmful behaviors while evading existing per-skill scanners and runtime monitors. Our findings highlight a gap between component-level integrity and system-level safety, and call for defenses that reason over cross-skill interactions rather than individual skills in isolation."
+      "sourceUrl": "https://arxiv.org/abs/2609.35869",
+      "details": "arXiv:2609.35869v1 Announce Type: new Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only under the same boundaries. We measure this cost by bounding the minimum token count from both sides, with and without a regular-expression boundary rule. Nonnegative prices on token occurrences yield a lower bound through shortest paths and vocabulary-budget selection; maximising over all prices recovers the linear programming relaxation, and an independent integer checker certifies the reported values. On English Wikipedia, boundaries increase the optimal token count by 28.3--36.8\\%. Byte pair encoding lies 2.1\\% above the constrained lower bound, but 10.9\\% above the unrestricted bound. Compression and prediction favour different dictionaries: at 85M non-embedding parameters and matched training-token budgets, unrestricted fitting yields higher mean held-out bits per byte under a common unrestricted decoder in all 12 languages in the paired study and 11 of 12 under independent tuning and evaluation. To study intermediate boundary policies, we introduce boundary licences, which limit the vocabulary entries permitted to cross cuts and admit the same form of certificate. On separate English and Chinese fitting corpora, licensing 10\\% of the vocabulary budget recovers 85.2\\% and 100.0\\% of the achieved token-count reduction from removing all cuts. These results quantify the compression cost of boundaries while separating it from the prediction quality of the resulting token units."
+    },
+    {
+      "id": "live-overall-more-programs-or-more-rolls-separating-c",
+      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+      "category": "overall",
+      "date": "2026-09-30",
+      "impact": "MODERATE",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2609.35873v1 Announce Type: new Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can ...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2609.35873",
+      "details": "arXiv:2609.35873v1 Announce Type: new Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the same program, making specialization difficult to identify. We introduce a controlled evaluation that separates answer coverage, repeatable task advantages, and gains from pre-execution selection. On 386 MATH-500 tasks, we compare eight generated harnesses plus a baseline with nine byte-identical baseline copies, using three executions per member. Identical programs yield 2.16 percentage points of repeat-averaged oracle headroom. Generated programs exhibit substantially more repeatable score patterns, but these chiefly reveal persistent weaknesses: losses relative to the baseline persist across all three repeats on 100 tasks, while persistent wins occur on only one task and are sensitive to answer extraction. The frozen selector gains 0.00 percentage points, and both populations reach 98.70% oracle coverage at 27 harness executions. Stable complementarity remains unresolved at three repeats. Supporting BIRD traces locate failures in mechanism implementation, activation, and output validity. Together, these findings establish why coverage and repeatability alone cannot justify claims of useful specialization. They motivate an evaluation standard for harness diversity: task advantages should persist across executions, guide usable decisions, and improve on additional fixed-program executions under matched inference budgets."
     },
     {
       "id": "live-agentic_ai-nvidia-kumo-tabular-sets-a-new-accuracy-",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "category": "agentic_ai",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -222,7 +217,7 @@
       "id": "live-agentic_ai-getting-the-source-right-not-just-the-fa",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "category": "agentic_ai",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -241,7 +236,7 @@
       "id": "live-agentic_ai-holo4-powering-generalist-computer-use-a",
       "title": "Holo4: powering generalist computer-use agents",
       "category": "agentic_ai",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -259,7 +254,7 @@
       "id": "live-agentic_ai-accelerating-vision-language-models-with",
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "category": "agentic_ai",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -277,7 +272,7 @@
       "id": "live-agentic_ai-how-uk-aisi-and-evaleval-are-making-benc",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "category": "agentic_ai",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -295,7 +290,7 @@
       "id": "live-models-introducing-gpt-6-1-sol",
       "title": "Introducing GPT-6.1 Sol",
       "category": "models",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
@@ -313,7 +308,7 @@
       "id": "live-models-devday-2026-recap",
       "title": "DevDay 2026 Recap",
       "category": "models",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
@@ -333,10 +328,10 @@
       "id": "live-models-introducing-dots",
       "title": "Introducing dots",
       "category": "models",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "tldr": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
@@ -346,13 +341,13 @@
         "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/introducing-dots",
-      "details": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+      "details": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
     },
     {
       "id": "live-models-towards-safety-cases-for-frontier-ai-tra",
       "title": "Towards safety cases for frontier AI training",
       "category": "models",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
@@ -371,7 +366,7 @@
       "id": "live-models-how-we-will-do-better-for-australia",
       "title": "How we will do better for Australia",
       "category": "models",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
@@ -389,7 +384,7 @@
       "id": "live-companies-nvidia-announces-a-150-billion-share-rep",
       "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
       "category": "companies",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA today announced that its Board of Directors has authorized an additional $150 billion under the company\u2019s existing share repurchase program, increasing the total remaining a...",
@@ -408,7 +403,7 @@
       "id": "live-companies-nvidia-launches-open-agent-safety-platfo",
       "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
       "category": "companies",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with ful...",
@@ -417,11 +412,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#AgenticAI",
+        "#UnitedNations",
         "#AISecurity",
-        "#Governance",
-        "#AgenticAI"
+        "#Governance"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
       "details": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents."
@@ -430,7 +425,7 @@
       "id": "live-companies-how-open-science-can-help-researchers-pr",
       "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
       "category": "companies",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines i...",
@@ -450,7 +445,7 @@
       "id": "live-companies-contain-the-chaos-control-resonant-launc",
       "title": "Contain the Chaos: \u2018CONTROL Resonant\u2019 Launches on GeForce NOW",
       "category": "companies",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment\u2019s CONTROL Resonant brings Dylan Faden\u2019s extraordinary abilities and a paranatural crisis to GeForce NOW a...",
@@ -469,7 +464,7 @@
       "id": "live-companies-sakeena-fiza-helps-nvidia-hardware-succe",
       "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
       "category": "companies",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. \u201cValidation engin...",
@@ -487,7 +482,7 @@
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
       "title": "Podcast: Can prosthetic limbs feel touch? (haptic feedback)",
       "category": "fellowships",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics.....",
@@ -505,7 +500,7 @@
       "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
       "category": "fellowships",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
@@ -514,8 +509,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -524,7 +519,7 @@
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
       "title": "NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakt",
       "category": "fellowships",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics...",
@@ -542,7 +537,7 @@
       "id": "live-fellowships-nsf-launches-20m-pilot-to-accelerate-com",
       "title": "NSF launches $20M pilot to accelerate commercialization of promising deep technologies from small bu",
       "category": "fellowships",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a $20 million investment to launch a two-year pilot supporting small businesses in commercializing their deep-technology ventur...",
@@ -560,7 +555,7 @@
       "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
       "title": "Podcast: Creating thermal cloaking and new structures",
       "category": "fellowships",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
@@ -575,10 +570,47 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-army-awards-counterdrone-contracts-worth",
+      "title": "Army awards counterdrone contracts worth more than $4B",
+      "category": "military",
+      "date": "2026-09-30",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "But there\u2019s room for more\u2014up to $7 billion.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.defenseone.com/business/2026/09/army-awards-more-4-billion-counterdrone-contracts-putting-pentagons-new-drone-marketplace-test/416327/",
+      "details": "But there\u2019s room for more\u2014up to $7 billion."
+    },
+    {
+      "id": "live-military-the-military-may-be-top-heavy-don-t-make",
+      "title": "The military may be top-heavy. Don't make things worse with hasty cuts.",
+      "category": "military",
+      "date": "2026-09-30",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "Congress should closely monitor Hegseth\u2019s latest effort to reduce the number of generals and admirals.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/hegseth-military-cut-generals-admirals/416326/",
+      "details": "Congress should closely monitor Hegseth\u2019s latest effort to reduce the number of generals and admirals."
+    },
+    {
       "id": "live-military-after-40-days-of-combat-navy-destroyer-r",
       "title": "After 40 days of combat, Navy destroyer returns home",
       "category": "military",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "During its 10-month deployment, USS Frank Petersen Jr. warded off scores of Iranian missiles and drones.",
@@ -596,7 +628,7 @@
       "id": "live-military-hegseth-orders-cyber-intelligence-agenci",
       "title": "Hegseth orders cyber, intelligence agencies to prioritize election defense",
       "category": "military",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The directive comes as the administration has dismantled or reorganized offices that tracked foreign influence and reduced civilian election security support.",
@@ -615,7 +647,7 @@
       "id": "live-military-treat-operational-feedback-as-a-strategi",
       "title": "Treat operational feedback as a strategic resource, new paper argues",
       "category": "military",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "And view software as a continuously developing capability, rather than a completed product.",
@@ -630,47 +662,10 @@
       "details": "And view software as a continuously developing capability, rather than a completed product."
     },
     {
-      "id": "live-military-polish-defense-official-says-us-has-deci",
-      "title": "Polish defense official says US has decided to establish a base in Poland",
-      "category": "military",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "But the Pentagon declined to confirm a decision about Warsaw's longtime goal.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/09/poland-get-us-base-polish-defense-official-says/416257/",
-      "details": "But the Pentagon declined to confirm a decision about Warsaw's longtime goal."
-    },
-    {
-      "id": "live-military-anthropic-loses-legal-fight-to-shed-dod-",
-      "title": "Anthropic loses legal fight to shed DOD's designation as a 'supply-chain risk'",
-      "category": "military",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The label is more typically assigned to companies suspected of ties to adversarial governments.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Pentagon",
-        "#Anthropic"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/09/anthropic-lawsuit-supply-chain-risk/416252/",
-      "details": "The label is more typically assigned to companies suspected of ties to adversarial governments."
-    },
-    {
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -688,7 +683,7 @@
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -697,8 +692,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
@@ -708,7 +703,7 @@
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -726,7 +721,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -744,7 +739,7 @@
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -762,7 +757,7 @@
       "id": "live-governance-targeted-consultation-to-support-a-bette",
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nb...",
@@ -771,8 +766,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
@@ -781,7 +776,7 @@
       "id": "live-governance-data-union-conference",
       "title": "Data Union Conference",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
@@ -790,9 +785,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -801,7 +796,7 @@
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
       "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
@@ -810,9 +805,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
+        "#EUAIAct",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
@@ -822,7 +817,7 @@
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
       "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
@@ -831,9 +826,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
+        "#EUAIAct",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
@@ -843,7 +838,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
@@ -852,103 +847,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-deadly-myanmar-strik",
-      "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding r",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar\u2019s Rakhine state and called for those responsible to be held...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168488",
-      "details": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar\u2019s Rakhine state and called for those responsible to be held to account."
-    },
-    {
-      "id": "live-multilateral-funding-cuts-put-8-3-million-refugees-at",
-      "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave. He sold everything he owned and returned to Afghanistan with his five children, arriving with almost n...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168486",
-      "details": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave. He sold everything he owned and returned to Afghanistan with his five children, arriving with almost nothing."
-    },
-    {
-      "id": "live-multilateral-clean-your-plate-to-reduce-food-loss-and",
-      "title": "Clean your plate \u2013 to reduce food loss and waste",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Food waste is helping to fuel global warming, one half-eaten sandwich at a time.&nbsp;",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168485",
-      "details": "Food waste is helping to fuel global warming, one half-eaten sandwich at a time.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-live-weighing-nuclear-risks-amid-rising-",
-      "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168483",
-      "details": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on Tuesday, closing out the General Assembly\u2019s High-Level Week with expected calls for greater safeguards."
-    },
-    {
-      "id": "live-multilateral-security-council-live-drc-peace-deals-fa",
-      "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
-      "category": "multilateral",
-      "date": "2026-09-29",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The Security Council met in New York&nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/09/1168482",
-      "details": "The Security Council met in New York&nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and Rwanda, and the country\u2019s worst Ebola outbreak on record, which has killed more than 3,900 people.&nbsp;&nbsp;"
     }
   ]
 }
