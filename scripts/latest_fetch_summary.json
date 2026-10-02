@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-10-02T14:32:07.782372",
-  "fetched_count": 50,
+  "timestamp": "2026-10-02T20:26:13.350228",
+  "fetched_count": 55,
   "nodes": [
+    {
+      "id": "live-overall-redefining-enterprise-intelligence-with-",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "category": "overall",
+      "date": "2026-10-02",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfor...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "details": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;"
+    },
     {
       "id": "live-overall-the-download-a-biological-de-aging-conte",
       "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
@@ -75,24 +93,6 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and&#8230;"
     },
     {
-      "id": "live-overall-an-ai-mind-reading-tool-can-reconstruct-",
-      "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at from a brain scan",
-      "category": "overall",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a pe...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "details": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they\u2019re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;"
-    },
-    {
       "id": "live-overall-heavy-tailed-memory-traces-in-long-horiz",
       "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
       "category": "overall",
@@ -105,8 +105,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00010",
@@ -125,8 +125,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00012",
@@ -145,10 +145,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#AgenticAI",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00015",
       "details": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through deterministic admission, brokered execution, external read-back, reconciliation, and reviewed promotion. We report four evidence lanes. First, an author-run repository-local audit at a pinned revision passed 1,027/1,027 unit tests and 89/89 Workerd tests, instrumented all 363 expected source files, and met four coverage floors; raw per-test transcripts and independent reproduction are unavailable. Second, in a provider-backed Terminal-Bench Core 0.1.1 pilot across 12 curated tasks, baseline and reliability-layer arms each passed 17/36 strict trials. The reliability layer used 37.49% more input and 50.73% more output tokens, so the pilot does not support superiority. Third, in a post-debug, two-order coordination-proxy development comparison, baseline and a source-authored candidate each completed 180/180 trials with equal measured accuracy, full hermetic crash recovery, and zero protected violations. The candidate used 37.11% fewer tokens, 33.84% lower estimated endpoint cost, and 11.63% fewer steps; this does not establish improved quality, latency, or production behavior. Fourth, deployed source/configuration evidence shows bounded reflection, recall accounting, memory compilation, and tool-health paths, but no production outcome lift. Praxa's supported contribution is an evidence-bound architecture that makes authority-to-effect transitions explicit and testable. Current evidence does not establish adversarial security, production safety, general specialist superiority, autonomous recursive optimization, or user benefit."
@@ -166,9 +166,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#DeepSeek",
         "#Governance",
-        "#DeepSeek"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00018",
       "details": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention diagnostic that fixes the evidence and candidate answer while varying only the rationale passed across the reasoner-to-verifier boundary. On 400 MuSiQue, HotpotQA, and 2WikiMultiHopQA examples with DeepSeek as generator and verifier, faithful rationales add almost no answer accuracy over no rationale, while corrupted rationales strongly alter support judgments. Under a blind verifier prompt, harmless paraphrases shift support by only 0--2.5%, whereas corrupted rationales shift support by 10--22%; an explicit rationale-checking prompt amplifies the same pattern to 34--55%. Final answers move less (2--30%), and only 2.9--35.3% of corrupted support flips co-occur with answer changes. Human audits show why this matters: 16/42 valid corruptions are corruption-overtrust cases, and blind humans reject or mark unclear 9/10 audited corrupted rationales that the model accepts. Cross-model and task-boundary checks show when the channel is active, amplified, inert, or folded into the task label. Rationale sharing should be evaluated as a verification-message mechanism, not merely as a route to higher answer accuracy."
@@ -186,13 +186,31 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
         "#AgenticAI",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00025",
       "details": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We build a benchmark of 4 such microtasks with fixed prompts and automatic metrics, each with a pre-specified threshold $\\tau$ anchored to a cheap non-LLM baseline and a CI-aware eligibility rule (a configuration passes only if its confidence bound clears $\\tau$). Sweeping Qwen3 0.6/1.7/4/8B at their best (FP16, greedy, one frozen prompt, no tuning), we find an eligibility gap: 0 of 16 (4 tasks $\\times$ 4 models) configurations pass (verified by checking the raw outputs and parser behavior). A logprob decision-threshold diagnostic (T1/T3/T4; T2 via a context-length/cascade probe) separates the failures into capability deficits and failures that can be addressed by changing the decoding threshold (4 regimes). Quantization to 4-bit (RTN/GPTQ/AWQ) does damage that depends on model size and moves no configuration into eligibility (certified on the reconstructable hard-label tasks T1/T3, diagnostic/windowed robustness on T2/T4), so the gap tracks model size more than precision; it replicates on Llama-3.x (12/12 ineligible) and is robust to the anchor choice (a $\\tau$-sweep) and to prompt wording (0/112 eligible across the original plus 3 neutral paraphrases per cell). The practical implication: place SLMs behind a baseline that meets the CI-backed threshold, and use the SLM only where the baseline fails to meet the threshold; e.g. a 4B re-ranker over a BM25 shortlist beats BM25 ($+0.047$ [0.020, 0.073], without itself certifying eligibility)."
+    },
+    {
+      "id": "live-agentic_ai-open-sourcing-astabrief-the-fast-report-",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "category": "agentic_ai",
+      "date": "2026-10-02",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/allenai/astabrief",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-autosynthdata-generating-training-data-f",
@@ -210,24 +228,6 @@
         "#AgenticAI"
       ],
       "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-agentic_ai-introducing-olmo-core-3-open-scalable-tr",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "category": "agentic_ai",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmocore3",
       "details": "Live news development fetched from official RSS feed."
     },
     {
@@ -286,6 +286,137 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-where-we-expect-amd-epyc-9006-cpus-in-th",
+      "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI \u2013 ServeTheHome",
+      "category": "agentic_ai",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comme...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
+      "details": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-identity-management-for-agentic-ai-pdf-2",
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "category": "agentic_ai",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 77 # Comments:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "details": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 77 # Comments: 28"
+    },
+    {
+      "id": "live-agentic_ai-why-agentic-ai-governance-can-t-be-bolte",
+      "title": "Why Agentic AI Governance Can't Be Bolted On",
+      "category": "agentic_ai",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on Comments URL: https://news.ycombinator.com/item?id=49919714 Points: 4 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on",
+      "details": "Article URL: https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on Comments URL: https://news.ycombinator.com/item?id=49919714 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-value-a-verifiable-alignment-layer-for-a",
+      "title": "Value: A Verifiable Alignment Layer for Agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act Comments URL: https://news.ycombinator.com/item?id=49911111 Points: 1 # Comments: 1",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act",
+      "details": "Article URL: https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act Comments URL: https://news.ycombinator.com/item?id=49911111 Points: 1 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-7-in-10-enterprises-expected-to-abandon-",
+      "title": "7 in 10 enterprises expected to abandon vendor-built agentic AI by 2028",
+      "category": "agentic_ai",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021 Comments URL: https://news.ycombinator...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021",
+      "details": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021 Comments URL: https://news.ycombinator.com/item?id=49909886 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-models-a-model-guide-for-the-gpt-6-family",
+      "title": "A model guide for the GPT-6 family",
+      "category": "models",
+      "date": "2026-10-02",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Reasoning",
+        "#UnitedNations",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+      "details": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+    },
+    {
+      "id": "live-models-chatham-scales-its-capital-markets-exper",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "category": "models",
+      "date": "2026-10-02",
+      "impact": "CRITICAL",
+      "company": "OpenAI Newsroom",
+      "tldr": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/chatham-financial",
+      "details": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+    },
+    {
       "id": "live-models-the-eternal-complement",
       "title": "The eternal complement",
       "category": "models",
@@ -334,50 +465,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Fellowship"
+        "#Fellowship",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/the-den-family-social",
       "details": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-    },
-    {
-      "id": "live-models-disrupting-a-coordinated-model-distillat",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "category": "models",
-      "date": "2026-10-02",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI",
-        "#Reasoning",
-        "#OpenAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "details": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
-    },
-    {
-      "id": "live-models-helping-small-businesses-put-ai-to-work",
-      "title": "Helping small businesses put AI to work",
-      "category": "models",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "details": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
     },
     {
       "id": "live-companies-nvidia-dgx-spark-64gb-gives-developers-m",
@@ -392,10 +484,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#AgenticAI",
-        "#NVIDIA"
+        "#UnitedNations",
+        "#NVIDIA",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "details": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners \u2014 Acer, [\u2026]"
@@ -414,8 +506,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#OpenAI",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#OpenAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "details": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI\u2019s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, [\u2026]"
@@ -452,8 +544,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
@@ -472,8 +564,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Fellowship",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Fellowship"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
       "details": "Bringing together the world\u2019s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th [\u2026]"
@@ -527,8 +619,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -639,8 +731,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#Governance",
+        "#DefenseAI",
         "#EUAIAct"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/pentagon-update-national-defense-strategy-cites-progress-omits-key-threats/416329/",
@@ -659,8 +751,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/09/army-awards-more-4-billion-counterdrone-contracts-putting-pentagons-new-drone-marketplace-test/416327/",
       "details": "But there\u2019s room for more\u2014up to $7 billion."
@@ -696,9 +788,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -789,8 +881,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -809,10 +901,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#EUAIAct",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -830,10 +922,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#EUAIAct",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Provide your feedback to the consultation on the EU KIDS ACT until 26 November 2026 (midnight Brussels time). Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -858,13 +950,13 @@
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
     },
     {
-      "id": "live-multilateral-gaza-who-appeals-for-massive-aid-influx-",
-      "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
+      "id": "live-multilateral-global-life-expectancy-bounces-back-to-n",
+      "title": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
       "category": "multilateral",
       "date": "2026-10-02",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-...",
+      "tldr": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -872,17 +964,17 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168508",
-      "details": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.&nbsp;"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168515",
+      "details": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO) said on Friday."
     },
     {
-      "id": "live-multilateral-i-have-not-lost-my-dreams-refugee-educat",
-      "title": "\u2018I have not lost my dreams\u2019: Refugee education funding cuts threaten millions",
+      "id": "live-multilateral-ukraine-war-a-human-rights-catastrophe-t",
+      "title": "Ukraine war \u2018a human rights catastrophe\u2019 that must end, says T\u00fcrk",
       "category": "multilateral",
       "date": "2026-10-02",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to...",
+      "tldr": "The war in Ukraine is a human rights catastrophe that is \u201cgrowing and intensifying by the week\u201d and threatening an even greater disaster across the region, UN High Commissioner for...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -890,64 +982,65 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168506",
-      "details": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168513",
+      "details": "The war in Ukraine is a human rights catastrophe that is \u201cgrowing and intensifying by the week\u201d and threatening an even greater disaster across the region, UN High Commissioner for Human Rights Volker T\u00fcrk said on Friday."
     },
     {
-      "id": "live-multilateral-un-member-states-weigh-latest-security-c",
-      "title": "UN Member States weigh latest Security Council veto, this time on Iran",
+      "id": "live-multilateral-collective-action-needed-to-tackle-globa",
+      "title": "Collective action needed to tackle global information crisis, UN-led dialogue hears",
       "category": "multilateral",
       "date": "2026-10-02",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The General Assembly met on Thursday to examine the Security Council\u2019s latest veto, cast by China and Russia over a United States-backed sanctions panel of experts on Iran nuclear ...",
+      "tldr": "Governments, UN entities, civil society, media, academia and the private sector have called for stronger cooperation and practical action to respond to a rapidly changing global in...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168505",
-      "details": "The General Assembly met on Thursday to examine the Security Council\u2019s latest veto, cast by China and Russia over a United States-backed sanctions panel of experts on Iran nuclear facilities."
-    },
-    {
-      "id": "live-multilateral-no-more-execution-attempts-on-christa-pi",
-      "title": "No more execution attempts on Christa Pike: UN rights chief",
-      "category": "multilateral",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN human rights chief and nine independent rights experts on Thursday called on authorities in Tennessee not to pursue any further attempts to execute Christa Pike, saying her ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
+        "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168504",
-      "details": "The UN human rights chief and nine independent rights experts on Thursday called on authorities in Tennessee not to pursue any further attempts to execute Christa Pike, saying her case highlights multiple concerns surrounding the death penalty."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168512",
+      "details": "Governments, UN entities, civil society, media, academia and the private sector have called for stronger cooperation and practical action to respond to a rapidly changing global information landscape."
     },
     {
-      "id": "live-multilateral-world-news-in-brief-marshall-islands-nuc",
-      "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, bre",
+      "id": "live-multilateral-world-news-in-brief-cycle-of-violence-co",
+      "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecur",
       "category": "multilateral",
       "date": "2026-10-02",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday.",
+      "tldr": "Haitians remain in the grip of lethal gang violence as it continues to \u201cadapt and expand\u201d, the UN\u2019s top rights official, Volker T\u00fcrk, said on Friday.",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#AISecurity",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168503",
-      "details": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168511",
+      "details": "Haitians remain in the grip of lethal gang violence as it continues to \u201cadapt and expand\u201d, the UN\u2019s top rights official, Volker T\u00fcrk, said on Friday."
+    },
+    {
+      "id": "live-multilateral-escalating-fighting-in-yemen-deepens-foo",
+      "title": "Escalating fighting in Yemen deepens food security crisis",
+      "category": "multilateral",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Renewed conflict in Yemen has triggered a surge in hunger that could have consequences in the wider region and beyond, the World Food Programme (WFP) warned on Friday.&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168509",
+      "details": "Renewed conflict in Yemen has triggered a surge in hunger that could have consequences in the wider region and beyond, the World Food Programme (WFP) warned on Friday.&nbsp;"
     }
   ]
 }
