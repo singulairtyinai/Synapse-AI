@@ -1,7 +1,61 @@
 {
-  "timestamp": "2026-10-02T04:36:54.985775",
+  "timestamp": "2026-10-02T14:32:07.782372",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-the-download-a-biological-de-aging-conte",
+      "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
+      "category": "overall",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth \u2014Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;"
+    },
+    {
+      "id": "live-overall-a-new-contest-pits-competitors-against-e",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "category": "overall",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "details": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors\u2019 biological ages\u2014figures that are meant to provide a better way to measure&#8230;"
+    },
+    {
+      "id": "live-overall-don-t-be-fooled-llms-don-t-reason",
+      "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
+      "category": "overall",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "details": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;"
+    },
     {
       "id": "live-overall-the-download-ai-mind-reading-and-creativ",
       "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
@@ -39,62 +93,6 @@
       "details": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they\u2019re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;"
     },
     {
-      "id": "live-overall-how-smaller-distributed-batteries-could-",
-      "title": "How smaller, distributed batteries could help the grid",
-      "category": "overall",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That\u2019s made it difficult to get large energy storage proje...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "details": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That\u2019s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-openai-s-chief-research-off",
-      "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
-      "category": "overall",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cWe\u2019re not going to shoot ours...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer Two months after OpenAI\u2019s agents hacked into the computers of AI company Hugging Face,&#8230;"
-    },
-    {
-      "id": "live-overall-we-re-not-going-to-shoot-ourselves-in-th",
-      "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research off",
-      "category": "overall",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting ou...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "details": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;"
-    },
-    {
       "id": "live-overall-heavy-tailed-memory-traces-in-long-horiz",
       "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
       "category": "overall",
@@ -108,8 +106,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00010",
       "details": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retrieval, agent memory can concentrate on a small core while leaving rare states in a long tail where prediction errors accumulate. We study this effect through a conservative tail audit and find that concentration is reproducible but policy-dependent. Random-walk agents produce log-normal-compatible retrieval artifacts, whereas semantic LLM policies yield the strongest truncated-power-law-compatible core--tail traces. Motivated by this audit, we propose Core--Tail World Model (CTWM), a rank-based memory controller that allocates prompt budget with a single exponent $\\tau$ while retaining a summarized tail. On Synthetic Graph World, CTWM preserves full state and transition coverage, reduces prompt tokens by 5.9%, and lowers bottom-half tail prediction error by 13.6% relative to a graph-memory baseline. The same paired comparison gives consistent token savings on ALFWorld and a 24.48% token reduction on LongMemEval with aggregate accuracy parity. These results suggest that heavy-tailed memory traces are not only a diagnostic of finite retrieval, but also a practical control signal for token-efficient agent world models."
@@ -128,8 +126,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00012",
       "details": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity needed for intervention-time planning: a trace may show that payment precedes shipment without identifying whether payment authorizes shipment, inventory mediates the effect, or a hidden trigger explains both. We study this gap through FedCausalCompose, a causal world-model framework for modular LLM agents in which local actions provide intervention-response evidence for cross-module interfaces. We first show that observational world models incur an irreducible interventional error under unblocked back-door paths, that interface recovery improves with intervention-response coverage, and that an oracle causal composition can beat the non-causal lower bound when coverage and local mechanism errors are controlled. We then test the resulting prediction in diagnostic agent settings. Causal interfaces help most in structured tool environments, where API signatures expose preconditions and downstream effects. In contrast, dialogue and narrative environments often ignore raw edge lists unless a short attention anchor makes the causal information decision-relevant. These results identify a concrete condition for causal world models in LLM agents: causal structure helps when cross-module interfaces are both statistically identifiable and presented in a form the agent can use at action time."
@@ -148,8 +146,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AgenticAI",
         "#Governance",
+        "#AgenticAI",
         "#AISecurity"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00015",
@@ -168,9 +166,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DeepSeek",
         "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#DeepSeek"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00018",
       "details": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention diagnostic that fixes the evidence and candidate answer while varying only the rationale passed across the reasoner-to-verifier boundary. On 400 MuSiQue, HotpotQA, and 2WikiMultiHopQA examples with DeepSeek as generator and verifier, faithful rationales add almost no answer accuracy over no rationale, while corrupted rationales strongly alter support judgments. Under a blind verifier prompt, harmless paraphrases shift support by only 0--2.5%, whereas corrupted rationales shift support by 10--22%; an explicit rationale-checking prompt amplifies the same pattern to 34--55%. Final answers move less (2--30%), and only 2.9--35.3% of corrupted support flips co-occur with answer changes. Human audits show why this matters: 16/42 valid corruptions are corruption-overtrust cases, and blind humans reject or mark unclear 9/10 audited corrupted rationales that the model accepts. Cross-model and task-boundary checks show when the channel is active, amplified, inert, or folded into the task label. Rationale sharing should be evaluated as a verification-message mechanism, not merely as a route to higher answer accuracy."
@@ -189,9 +187,9 @@
       },
       "tags": [
         "#UnitedNations",
-        "#EUAIAct",
+        "#Governance",
         "#AgenticAI",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.00025",
       "details": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We build a benchmark of 4 such microtasks with fixed prompts and automatic metrics, each with a pre-specified threshold $\\tau$ anchored to a cheap non-LLM baseline and a CI-aware eligibility rule (a configuration passes only if its confidence bound clears $\\tau$). Sweeping Qwen3 0.6/1.7/4/8B at their best (FP16, greedy, one frozen prompt, no tuning), we find an eligibility gap: 0 of 16 (4 tasks $\\times$ 4 models) configurations pass (verified by checking the raw outputs and parser behavior). A logprob decision-threshold diagnostic (T1/T3/T4; T2 via a context-length/cascade probe) separates the failures into capability deficits and failures that can be addressed by changing the decoding threshold (4 regimes). Quantization to 4-bit (RTN/GPTQ/AWQ) does damage that depends on model size and moves no configuration into eligibility (certified on the reconstructable hard-label tasks T1/T3, diagnostic/windowed robustness on T2/T4), so the gap tracks model size more than precision; it replicates on Llama-3.x (12/12 ineligible) and is robust to the anchor choice (a $\\tau$-sweep) and to prompt wording (0/112 eligible across the original plus 3 neutral paraphrases per cell). The practical implication: place SLMs behind a baseline that meets the CI-backed threshold, and use the SLM only where the baseline fails to meet the threshold; e.g. a 4B re-ranker over a BM25 shortlist beats BM25 ($+0.047$ [0.020, 0.073], without itself certifying eligibility)."
@@ -281,8 +279,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "details": "Live news development fetched from official RSS feed."
@@ -356,8 +354,8 @@
       },
       "tags": [
         "#DefenseAI",
-        "#OpenAI",
         "#Reasoning",
+        "#OpenAI",
         "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
@@ -382,6 +380,27 @@
       "details": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
     },
     {
+      "id": "live-companies-nvidia-dgx-spark-64gb-gives-developers-m",
+      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "category": "companies",
+      "date": "2026-10-02",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, ...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance",
+        "#AgenticAI",
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "details": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners \u2014 Acer, [\u2026]"
+    },
+    {
       "id": "live-companies-how-nvidia-gpus-help-accelerate-openai-s",
       "title": "How NVIDIA GPUs Help Accelerate OpenAI\u2019s GPT-6 Astra Ultrafast",
       "category": "companies",
@@ -394,9 +413,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#OpenAI",
-        "#NVIDIA",
-        "#UnitedNations"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "details": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI\u2019s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, [\u2026]"
@@ -434,8 +453,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#NVIDIA",
-        "#Governance"
+        "#Governance",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
       "details": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year [\u2026]"
@@ -453,31 +472,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#Fellowship"
+        "#Fellowship",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
       "details": "Bringing together the world\u2019s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th [\u2026]"
-    },
-    {
-      "id": "live-companies-from-training-to-production-nvidia-and-c",
-      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "category": "companies",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that\u2019s still returning on investment ac...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#NVIDIA",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-      "details": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that\u2019s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced [\u2026]"
     },
     {
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
@@ -571,6 +570,25 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-china-linked-hackers-posed-as-former-us-",
+      "title": "China-linked hackers posed as former US officials, Anthropic employee to target AI experts",
+      "category": "military",
+      "date": "2026-10-02",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "Proofpoint identified phishing campaigns that borrowed prominent figures\u2019 identities to approach U.S. policy researchers before attempting to steal access to their cloud accounts.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Anthropic"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/10/china-linked-hackers-posed-former-us-officials-anthropic-employee-target-ai-experts/416384/",
+      "details": "Proofpoint identified phishing campaigns that borrowed prominent figures\u2019 identities to approach U.S. policy researchers before attempting to steal access to their cloud accounts."
+    },
+    {
       "id": "live-military-hegseth-plans-autonomous-warfare-command",
       "title": "Hegseth plans \u2018Autonomous Warfare Command\u2019",
       "category": "military",
@@ -583,8 +601,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/policy/2026/09/hegseth-plans-autonomous-warfare-command/416358/",
       "details": "The military\u2019s 12th combatant command was among a slew of announcements in a Quantico speech Wednesday."
@@ -602,8 +620,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-end-fiscal-year-advice-founders-navy-drone-boats-powerus-go-public/416357/",
       "details": "Live news development fetched from official RSS feed."
@@ -622,8 +640,8 @@
       },
       "tags": [
         "#DefenseAI",
-        "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/pentagon-update-national-defense-strategy-cites-progress-omits-key-threats/416329/",
       "details": "The report to Congress notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense."
@@ -646,24 +664,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/09/army-awards-more-4-billion-counterdrone-contracts-putting-pentagons-new-drone-marketplace-test/416327/",
       "details": "But there\u2019s room for more\u2014up to $7 billion."
-    },
-    {
-      "id": "live-military-the-military-may-be-top-heavy-don-t-make",
-      "title": "The military may be top-heavy. Don't make things worse with hasty cuts.",
-      "category": "military",
-      "date": "2026-10-02",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "Congress should closely monitor Hegseth\u2019s latest effort to reduce the number of generals and admirals.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/ideas/2026/09/hegseth-military-cut-generals-admirals/416326/",
-      "details": "Congress should closely monitor Hegseth\u2019s latest effort to reduce the number of generals and admirals."
     },
     {
       "id": "live-governance-nist-provides-updates-on-national-constr",
@@ -790,8 +790,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -810,8 +810,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
@@ -831,12 +831,12 @@
       },
       "tags": [
         "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
-      "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
+      "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Provide your feedback to the consultation on the EU KIDS ACT until 26 November 2026 (midnight Brussels time). Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
     },
     {
       "id": "live-governance-apply-ai-summit",
@@ -856,6 +856,42 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
+    },
+    {
+      "id": "live-multilateral-gaza-who-appeals-for-massive-aid-influx-",
+      "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
+      "category": "multilateral",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168508",
+      "details": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-i-have-not-lost-my-dreams-refugee-educat",
+      "title": "\u2018I have not lost my dreams\u2019: Refugee education funding cuts threaten millions",
+      "category": "multilateral",
+      "date": "2026-10-02",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168506",
+      "details": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn."
     },
     {
       "id": "live-multilateral-un-member-states-weigh-latest-security-c",
@@ -912,44 +948,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168503",
       "details": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday."
-    },
-    {
-      "id": "live-multilateral-women-are-not-victims-t-rk-calls-for-wom",
-      "title": "\u2018Women are not victims\u2019: T\u00fcrk calls for women to be at the heart of peace and security",
-      "category": "multilateral",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Women must be at the centre of efforts to prevent conflict and build lasting peace, UN High Commissioner for Human Rights Volker T\u00fcrk said on Thursday.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168502",
-      "details": "Women must be at the centre of efforts to prevent conflict and build lasting peace, UN High Commissioner for Human Rights Volker T\u00fcrk said on Thursday."
-    },
-    {
-      "id": "live-multilateral-nepal-floods-threaten-jobs-and-livelihoo",
-      "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
-      "category": "multilateral",
-      "date": "2026-10-02",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International L...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168500",
-      "details": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday."
     }
   ]
 }
