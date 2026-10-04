@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-03T22:43:58.025132",
+  "timestamp": "2026-10-04T04:50:35.784013",
   "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-redefining-enterprise-intelligence-with-",
       "title": "Redefining enterprise intelligence with autonomous AI",
       "category": "overall",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfor...",
@@ -24,7 +24,7 @@
       "id": "live-overall-the-download-a-biological-de-aging-conte",
       "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
       "category": "overall",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors...",
@@ -42,7 +42,7 @@
       "id": "live-overall-a-new-contest-pits-competitors-against-e",
       "title": "A new contest pits competitors against each other in a race to biological youth",
       "category": "overall",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and ...",
@@ -60,7 +60,7 @@
       "id": "live-overall-don-t-be-fooled-llms-don-t-reason",
       "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
       "category": "overall",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in ...",
@@ -78,7 +78,7 @@
       "id": "live-overall-the-download-ai-mind-reading-and-creativ",
       "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
       "category": "overall",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI \u201cmind-reading\u201d tool can ...",
@@ -93,10 +93,28 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and&#8230;"
     },
     {
+      "id": "live-agentic_ai-the-agent-said-it-was-done-the-database-",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "category": "agentic_ai",
+      "date": "2026-10-04",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
       "id": "live-agentic_ai-open-sourcing-astabrief-the-fast-report-",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "category": "agentic_ai",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -114,7 +132,7 @@
       "id": "live-agentic_ai-autosynthdata-generating-training-data-f",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "category": "agentic_ai",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -132,7 +150,7 @@
       "id": "live-agentic_ai-open-tts-leaderboard-scalable-evaluation",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "category": "agentic_ai",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -150,7 +168,7 @@
       "id": "live-agentic_ai-nvidia-kumo-tabular-sets-a-new-accuracy-",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "category": "agentic_ai",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -165,29 +183,10 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-getting-the-source-right-not-just-the-fa",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "category": "agentic_ai",
-      "date": "2026-10-03",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-models-a-model-guide-for-the-gpt-6-family",
       "title": "A model guide for the GPT-6 family",
       "category": "models",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
@@ -196,9 +195,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#UnitedNations",
-        "#Reasoning"
+        "#Reasoning",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
       "details": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
@@ -207,7 +206,7 @@
       "id": "live-models-chatham-scales-its-capital-markets-exper",
       "title": "Chatham scales its capital markets expertise with OpenAI",
       "category": "models",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
@@ -216,8 +215,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/chatham-financial",
       "details": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
@@ -226,7 +225,7 @@
       "id": "live-models-the-eternal-complement",
       "title": "The eternal complement",
       "category": "models",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
@@ -244,7 +243,7 @@
       "id": "live-models-how-albertsons-companies-is-reimagining-",
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "category": "models",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
@@ -262,7 +261,7 @@
       "id": "live-models-the-den-frees-up-10-15-hours-a-week-to-g",
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
       "category": "models",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
@@ -271,8 +270,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Fellowship"
+        "#Fellowship",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/the-den-family-social",
       "details": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
@@ -281,7 +280,7 @@
       "id": "live-companies-nvidia-dgx-spark-64gb-gives-developers-m",
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "category": "companies",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, ...",
@@ -290,10 +289,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Governance",
         "#UnitedNations",
-        "#NVIDIA"
+        "#AgenticAI",
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "details": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners \u2014 Acer, [\u2026]"
@@ -302,7 +301,7 @@
       "id": "live-companies-how-nvidia-gpus-help-accelerate-openai-s",
       "title": "How NVIDIA GPUs Help Accelerate OpenAI\u2019s GPT-6 Astra Ultrafast",
       "category": "companies",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations thr...",
@@ -311,8 +310,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#UnitedNations",
+        "#OpenAI",
         "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
@@ -322,7 +321,7 @@
       "id": "live-companies-fall-into-25-new-games-on-geforce-now-th",
       "title": "Fall Into 25 New Games on GeForce NOW This October",
       "category": "companies",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play thi...",
@@ -341,7 +340,7 @@
       "id": "live-companies-productive-durable-fungible-how-nvidia-a",
       "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
       "category": "companies",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with ...",
@@ -350,9 +349,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
       "details": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year [\u2026]"
@@ -361,7 +360,7 @@
       "id": "live-companies-nvidia-opens-applications-for-2027-2028-",
       "title": "NVIDIA Opens Applications for 2027\u20132028 Graduate Fellowships With Awards Up to $60,000",
       "category": "companies",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "CRITICAL",
       "company": "NVIDIA Newsroom",
       "tldr": "Bringing together the world\u2019s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems...",
@@ -380,7 +379,7 @@
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
       "title": "Podcast: New quantum-enabled materials",
       "category": "fellowships",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices...",
@@ -398,7 +397,7 @@
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
       "title": "Podcast: Can prosthetic limbs feel touch? (haptic feedback)",
       "category": "fellowships",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics.....",
@@ -416,7 +415,7 @@
       "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
       "category": "fellowships",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
@@ -425,8 +424,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -435,7 +434,7 @@
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
       "title": "NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakt",
       "category": "fellowships",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics...",
@@ -453,7 +452,7 @@
       "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
       "title": "Podcast: Creating thermal cloaking and new structures",
       "category": "fellowships",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
@@ -471,7 +470,7 @@
       "id": "live-military-china-linked-hackers-posed-as-former-us-",
       "title": "China-linked hackers posed as former US officials, Anthropic employee to target AI experts",
       "category": "military",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "Proofpoint identified phishing campaigns that borrowed prominent figures\u2019 identities to approach U.S. policy researchers before attempting to steal access to their cloud accounts.",
@@ -480,8 +479,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Anthropic"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/china-linked-hackers-posed-former-us-officials-anthropic-employee-target-ai-experts/416384/",
       "details": "Proofpoint identified phishing campaigns that borrowed prominent figures\u2019 identities to approach U.S. policy researchers before attempting to steal access to their cloud accounts."
@@ -490,7 +489,7 @@
       "id": "live-military-hegseth-plans-autonomous-warfare-command",
       "title": "Hegseth plans \u2018Autonomous Warfare Command\u2019",
       "category": "military",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The military\u2019s 12th combatant command was among a slew of announcements in a Quantico speech Wednesday.",
@@ -509,7 +508,7 @@
       "id": "live-military-defense-business-brief-end-of-fiscal-yea",
       "title": "Defense Business Brief: End-of-fiscal-year advice for founders; Navy drone boats; Powerus to go publ",
       "category": "military",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -528,7 +527,7 @@
       "id": "live-military-pentagon-update-on-national-defense-stra",
       "title": "Pentagon update on National Defense Strategy cites progress, omits key threats",
       "category": "military",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The report to Congress notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense.",
@@ -537,9 +536,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#Governance"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/pentagon-update-national-defense-strategy-cites-progress-omits-key-threats/416329/",
       "details": "The report to Congress notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense."
@@ -548,7 +547,7 @@
       "id": "live-military-army-awards-counterdrone-contracts-worth",
       "title": "Army awards counterdrone contracts worth more than $4B",
       "category": "military",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "But there\u2019s room for more\u2014up to $7 billion.",
@@ -557,8 +556,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/09/army-awards-more-4-billion-counterdrone-contracts-putting-pentagons-new-drone-marketplace-test/416327/",
       "details": "But there\u2019s room for more\u2014up to $7 billion."
@@ -567,7 +566,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -585,7 +584,7 @@
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -594,9 +593,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -605,7 +604,7 @@
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -623,7 +622,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -641,7 +640,7 @@
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -659,7 +658,7 @@
       "id": "live-governance-targeted-consultation-to-support-a-bette",
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nb...",
@@ -668,8 +667,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
@@ -678,7 +677,7 @@
       "id": "live-governance-data-union-conference",
       "title": "Data Union Conference",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
@@ -687,9 +686,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#EUAIAct",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -698,7 +697,7 @@
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
       "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
@@ -707,10 +706,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#EUAIAct",
         "#UnitedNations",
-        "#AISecurity"
+        "#EUAIAct",
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -719,7 +718,7 @@
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
       "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
@@ -728,10 +727,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#EUAIAct",
         "#UnitedNations",
-        "#AISecurity"
+        "#EUAIAct",
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Provide your feedback to the consultation on the EU KIDS ACT until 26 November 2026 (midnight Brussels time). Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -740,7 +739,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
@@ -749,8 +748,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
@@ -759,7 +758,7 @@
       "id": "live-multilateral-uganda-s-un-supported-wildlife-forensics",
       "title": "Uganda\u2019s UN-supported wildlife forensics lab turns ivory seizures into convictions",
       "category": "multilateral",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The package originated in Entebbe, Uganda, bound for Cairo, containing 10 kilograms of thumb-sized pieces that could have been either bone or elephant ivory.",
@@ -777,7 +776,7 @@
       "id": "live-multilateral-money-alone-won-t-get-us-there-un-steps-",
       "title": "\u2018Money alone won\u2019t get us there\u2019: UN steps up aid for 12 forgotten crises",
       "category": "multilateral",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Getting aid to people in the world\u2019s most neglected emergencies takes more than money. It takes open roads, open borders and leaders willing to help it reach those in dire need.",
@@ -795,7 +794,7 @@
       "id": "live-multilateral-global-life-expectancy-bounces-back-to-n",
       "title": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
       "category": "multilateral",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO...",
@@ -813,7 +812,7 @@
       "id": "live-multilateral-ukraine-war-a-human-rights-catastrophe-t",
       "title": "Ukraine war \u2018a human rights catastrophe\u2019 that must end, says T\u00fcrk",
       "category": "multilateral",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The war in Ukraine is a human rights catastrophe that is \u201cgrowing and intensifying by the week\u201d and threatening an even greater disaster across the region, UN High Commissioner for...",
@@ -831,7 +830,7 @@
       "id": "live-multilateral-collective-action-needed-to-tackle-globa",
       "title": "Collective action needed to tackle global information crisis, UN-led dialogue hears",
       "category": "multilateral",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Governments, UN entities, civil society, media, academia and the private sector have called for stronger cooperation and practical action to respond to a rapidly changing global in...",
@@ -840,8 +839,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168512",
       "details": "Governments, UN entities, civil society, media, academia and the private sector have called for stronger cooperation and practical action to respond to a rapidly changing global information landscape."
