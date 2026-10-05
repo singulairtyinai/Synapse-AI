@@ -1,7 +1,81 @@
 {
-  "timestamp": "2026-10-05T04:38:27.649736",
-  "fetched_count": 50,
+  "timestamp": "2026-10-05T16:53:57.854815",
+  "fetched_count": 45,
   "nodes": [
+    {
+      "id": "live-overall-connecting-ai-agents-to-enterprise-knowl",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "details": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;"
+    },
+    {
+      "id": "live-overall-bringing-predictive-analytics-to-the-age",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "details": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;"
+    },
+    {
+      "id": "live-overall-the-download-ai-s-popularity-paradox-and",
+      "title": "The Download: AI\u2019s popularity paradox and EmTech Future 2026",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can\u2019t they get enough? \u2014Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;"
+    },
+    {
+      "id": "live-overall-people-really-hate-ai-so-why-can-t-they-",
+      "title": "People really hate AI, so why can\u2019t they get enough?",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the st...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "details": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that\u2019s been stuck in my head since: \u201cWe often say that we\u2019re a self-loathing AI&#8230;"
+    },
     {
       "id": "live-overall-emtech-future-2026-when-ai-meets-everyth",
       "title": "EmTech Future 2026: When AI Meets Everything",
@@ -15,84 +89,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#Google",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
       "details": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;"
-    },
-    {
-      "id": "live-overall-redefining-enterprise-intelligence-with-",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "category": "overall",
-      "date": "2026-10-05",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfor...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "details": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-a-biological-de-aging-conte",
-      "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
-      "category": "overall",
-      "date": "2026-10-05",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth \u2014Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for&#8230;"
-    },
-    {
-      "id": "live-overall-a-new-contest-pits-competitors-against-e",
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "category": "overall",
-      "date": "2026-10-05",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and ...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "details": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors\u2019 biological ages\u2014figures that are meant to provide a better way to measure&#8230;"
-    },
-    {
-      "id": "live-overall-don-t-be-fooled-llms-don-t-reason",
-      "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
-      "category": "overall",
-      "date": "2026-10-05",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in ...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "details": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;"
     },
     {
       "id": "live-overall-mintflow-minimal-trajectory-intervention",
@@ -146,9 +148,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Microsoft"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.02281",
       "details": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We test this by applying a reproducible two-stage classification pipeline to 9,821 annual reports from 1,362 UK listed companies (2020-2025, with partial 2026 data). We first validate the method against 474 human-annotated passages, finding high recall and moderate label-level agreement. We then report three empirical patterns: (i) between 2020 and 2025, the share of reports mentioning AI risk rose from 2.8% to 41.2%, while AI adoption disclosure also rose, from 13.8% to 45.2%, and named vendor mentions cluster around a small set of major providers led by Microsoft; (ii) disclosure varies substantially by Critical National Infrastructure sector and market segment: AIM reports disclose AI risk at far lower rates than Main Market reports, and sectors such as Energy and Data Infrastructure lag behind the rest in AI risk disclosure; and (iii) harm disclosures are near-absent (seven reports across the entire corpus). We develop a substantiveness classification to assess the quality of the disclosure and find that most AI risk disclosure is not substantive: in 2025, 41.2% of all reports mention AI as a risk, but only 4.3% contain AI risk disclosure we classify as substantive."
@@ -166,8 +168,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.02300",
@@ -284,96 +286,42 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-where-we-expect-amd-epyc-9006-cpus-in-th",
-      "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI \u2013 ServeTheHome",
-      "category": "agentic_ai",
+      "id": "live-models-our-approach-to-eu-text-provenance-rules",
+      "title": "Our approach to EU text provenance rules",
+      "category": "models",
       "date": "2026-10-05",
       "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comme...",
+      "company": "OpenAI Newsroom",
+      "tldr": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "specs": {
-        "source": "HackerNews Agentic AI",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI"
+        "#EUAIAct",
+        "#OpenAI",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
-      "details": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comments: 0"
+      "sourceUrl": "https://openai.com/index/eu-text-provenance",
+      "details": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
     },
     {
-      "id": "live-agentic_ai-identity-management-for-agentic-ai-pdf-2",
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "category": "agentic_ai",
+      "id": "live-models-building-advertising-for-the-way-people-",
+      "title": "Building advertising for the way people use AI",
+      "category": "models",
       "date": "2026-10-05",
       "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 82 # Comments:...",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "specs": {
-        "source": "HackerNews Agentic AI",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI"
+        "#OpenAI"
       ],
-      "sourceUrl": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "details": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 82 # Comments: 28"
-    },
-    {
-      "id": "live-agentic_ai-why-agentic-ai-governance-can-t-be-bolte",
-      "title": "Why Agentic AI Governance Can't Be Bolted On",
-      "category": "agentic_ai",
-      "date": "2026-10-05",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on Comments URL: https://news.ycombinator.com/item?id=49919714 Points: 4 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on",
-      "details": "Article URL: https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on Comments URL: https://news.ycombinator.com/item?id=49919714 Points: 4 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-value-a-verifiable-alignment-layer-for-a",
-      "title": "Value: A Verifiable Alignment Layer for Agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-10-05",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act Comments URL: https://news.ycombinator.com/item?id=49911111 Points: 1 # Comments: 1",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act",
-      "details": "Article URL: https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act Comments URL: https://news.ycombinator.com/item?id=49911111 Points: 1 # Comments: 1"
-    },
-    {
-      "id": "live-agentic_ai-7-in-10-enterprises-expected-to-abandon-",
-      "title": "7 in 10 enterprises expected to abandon vendor-built agentic AI by 2028",
-      "category": "agentic_ai",
-      "date": "2026-10-05",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021 Comments URL: https://news.ycombinator...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021",
-      "details": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021 Comments URL: https://news.ycombinator.com/item?id=49909886 Points: 2 # Comments: 0"
+      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "details": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
     },
     {
       "id": "live-models-a-model-guide-for-the-gpt-6-family",
@@ -388,8 +336,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#Reasoning",
+        "#OpenAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -433,41 +381,22 @@
       "details": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
     },
     {
-      "id": "live-models-how-albertsons-companies-is-reimagining-",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "category": "models",
+      "id": "live-companies-from-scan-to-treatment-plan-ai-helps-clo",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
+      "category": "companies",
       "date": "2026-10-05",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Breast cancer is the most commonly diagnosed cancer among American women \u2014 yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Rad...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail",
-      "details": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-    },
-    {
-      "id": "live-models-the-den-frees-up-10-15-hours-a-week-to-g",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "category": "models",
-      "date": "2026-10-05",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Fellowship",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/the-den-family-social",
-      "details": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+      "details": "Breast cancer is the most commonly diagnosed cancer among American women \u2014 yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. [\u2026]"
     },
     {
       "id": "live-companies-nvidia-dgx-spark-64gb-gives-developers-m",
@@ -482,8 +411,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#NVIDIA",
+        "#AgenticAI",
         "#Governance",
         "#UnitedNations"
       ],
@@ -503,8 +432,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#NVIDIA",
+        "#OpenAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
@@ -548,25 +477,6 @@
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
       "details": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-opens-applications-for-2027-2028-",
-      "title": "NVIDIA Opens Applications for 2027\u20132028 Graduate Fellowships With Awards Up to $60,000",
-      "category": "companies",
-      "date": "2026-10-05",
-      "impact": "CRITICAL",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Bringing together the world\u2019s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Fellowship",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-      "details": "Bringing together the world\u2019s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th [\u2026]"
     },
     {
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
@@ -660,6 +570,24 @@
       "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
+      "id": "live-military-us-spy-chief-tapped-as-white-house-ai-cz",
+      "title": "US spy chief tapped as White House AI czar",
+      "category": "military",
+      "date": "2026-10-05",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "Director of National Intelligence Jay Clayton will now helm broad domestic technology and economic policy discussions.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/10/us-intel-chief-white-house-ai-czar/416416/",
+      "details": "Director of National Intelligence Jay Clayton will now helm broad domestic technology and economic policy discussions."
+    },
+    {
       "id": "live-military-china-linked-hackers-posed-as-former-us-",
       "title": "China-linked hackers posed as former US officials, Anthropic employee to target AI experts",
       "category": "military",
@@ -729,31 +657,30 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/pentagon-update-national-defense-strategy-cites-progress-omits-key-threats/416329/",
       "details": "The report to Congress notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense."
     },
     {
-      "id": "live-military-army-awards-counterdrone-contracts-worth",
-      "title": "Army awards counterdrone contracts worth more than $4B",
-      "category": "military",
+      "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
+      "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
+      "category": "governance",
       "date": "2026-10-05",
       "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "But there\u2019s room for more\u2014up to $7 billion.",
+      "company": "NIST News",
+      "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
       "specs": {
-        "source": "Defense One AI",
+        "source": "NIST News",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/09/army-awards-more-4-billion-counterdrone-contracts-putting-pentagons-new-drone-marketplace-test/416327/",
-      "details": "But there\u2019s room for more\u2014up to $7 billion."
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/physicist-jun-ye-wins-wolf-prize-physics",
+      "details": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d"
     },
     {
       "id": "live-governance-nist-provides-updates-on-national-constr",
@@ -786,9 +713,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -830,24 +757,6 @@
       "details": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers."
     },
     {
-      "id": "live-governance-nist-developed-quantum-sensors-improve-n",
-      "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
-      "category": "governance",
-      "date": "2026-10-05",
-      "impact": "MODERATE",
-      "company": "NIST News",
-      "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
-      "specs": {
-        "source": "NIST News",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring",
-      "details": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities."
-    },
-    {
       "id": "live-governance-targeted-consultation-to-support-a-bette",
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "category": "governance",
@@ -879,8 +788,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -899,10 +808,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
         "#EUAIAct",
-        "#UnitedNations"
+        "#Governance",
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -920,10 +829,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
         "#EUAIAct",
-        "#UnitedNations"
+        "#Governance",
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Provide your feedback to the consultation on the EU KIDS ACT until 26 November 2026 (midnight Brussels time). Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
