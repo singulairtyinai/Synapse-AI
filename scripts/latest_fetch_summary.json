@@ -1,12 +1,32 @@
 {
-  "timestamp": "2026-10-04T22:51:19.364711",
-  "fetched_count": 40,
+  "timestamp": "2026-10-05T04:38:27.649736",
+  "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-emtech-future-2026-when-ai-meets-everyth",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#Google",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "details": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;"
+    },
     {
       "id": "live-overall-redefining-enterprise-intelligence-with-",
       "title": "Redefining enterprise intelligence with autonomous AI",
       "category": "overall",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfor...",
@@ -24,7 +44,7 @@
       "id": "live-overall-the-download-a-biological-de-aging-conte",
       "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
       "category": "overall",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors...",
@@ -42,7 +62,7 @@
       "id": "live-overall-a-new-contest-pits-competitors-against-e",
       "title": "A new contest pits competitors against each other in a race to biological youth",
       "category": "overall",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and ...",
@@ -60,7 +80,7 @@
       "id": "live-overall-don-t-be-fooled-llms-don-t-reason",
       "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
       "category": "overall",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in ...",
@@ -75,28 +95,109 @@
       "details": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;"
     },
     {
-      "id": "live-overall-the-download-ai-mind-reading-and-creativ",
-      "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
+      "id": "live-overall-mintflow-minimal-trajectory-intervention",
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
       "category": "overall",
-      "date": "2026-10-04",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI \u201cmind-reading\u201d tool can ...",
+      "date": "2026-10-05",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed cons...",
       "specs": {
-        "source": "MIT Tech Review AI",
+        "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#Governance",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and&#8230;"
+      "sourceUrl": "https://arxiv.org/abs/2610.02260",
+      "details": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off: \\textit{enforcing constraints can substantially displace samples from the pretrained data distribution}. To address this trade-off, we introduce \\textbf{MintFlow}, a training-free constrained sampling framework that formulates constraint enforcement as a minimal intervention on the pretrained flow trajectory. MintFlow seeks the minimal perturbation of an intermediate flow state such that its subsequent evolution under the pretrained flow field satisfies the target constraint. By minimally perturbing the flow state while keeping the pretrained flow field unchanged, MintFlow enforces the constraint while minimizing unnecessary deviation from the pretrained distribution. An adjoint formulation yields a closed-form expression for this perturbation, eliminating expensive iterative optimization. Furthermore, MintFlow adaptively selects the intervention time to balance the required perturbation magnitude with its amplification by the remaining flow. Across a range of tasks in generative vision and physical system modeling, MintFlow achieves competitive constraint satisfaction while preserving the pretrained generative distribution substantially better than state-of-the-art constrained methods."
+    },
+    {
+      "id": "live-overall-fast-models-slow-evidence-a-paired-and-s",
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevan...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.02267",
+      "details": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with class probabilities, promising large cost and latency savings over LLM calls. We present a paired evaluation of an open-weight (Laya) and a hosted (Jev) System-1 model on 11 agent decision points built from 18 public sources: 7,283 base cases plus 6,640 robustness variants, with byte-identical inputs, paired tests, and cross-hardware and cross-day reproducibility checks. Jev is significantly more accurate on 9 of 11 decision points (+10.8 to +46.0 pp). Neither model beats chance on zero-shot model routing, and they tie on RAG relevance gating. Laya changes 30% of its answers when the option order is reversed and degrades sharply with many or similar candidates (31% at 50 nearest-neighbour tools, vs. 98% for Jev on items with a unique correct tool). We also audit our own pipeline. Three analysis errors and one design confound distorted headline deployment claims: an omitted pre-screen cost (reported 23.9% saving, actual 4.3%), gate accuracy reported as end-to-end quality (58% vs. 98%), in-sample thresholds (5% target, up to 17% held-out misses), and a \"channel effect\" on injection false positives that vanishes with channel-native content. Two other suspected confounds did not change the conclusions. All cases, raw outputs and analysis code are available at https://github.com/David-DL-Space/sys1-eval."
+    },
+    {
+      "id": "live-overall-the-ai-risk-observatory-what-can-we-lear",
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resi",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual ...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Microsoft",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.02281",
+      "details": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We test this by applying a reproducible two-stage classification pipeline to 9,821 annual reports from 1,362 UK listed companies (2020-2025, with partial 2026 data). We first validate the method against 474 human-annotated passages, finding high recall and moderate label-level agreement. We then report three empirical patterns: (i) between 2020 and 2025, the share of reports mentioning AI risk rose from 2.8% to 41.2%, while AI adoption disclosure also rose, from 13.8% to 45.2%, and named vendor mentions cluster around a small set of major providers led by Microsoft; (ii) disclosure varies substantially by Critical National Infrastructure sector and market segment: AIM reports disclose AI risk at far lower rates than Main Market reports, and sectors such as Energy and Data Infrastructure lag behind the rest in AI risk disclosure; and (iii) harm disclosures are near-absent (seven reports across the entire corpus). We develop a substantiveness classification to assess the quality of the disclosure and find that most AI risk disclosure is not substantive: in 2025, 41.2% of all reports mention AI as a risk, but only 4.3% contain AI risk disclosure we classify as substantive."
+    },
+    {
+      "id": "live-overall-keep-it-calm-analyzing-the-limits-of-glo",
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global ...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.02300",
+      "details": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assumption and reveal a consistent coverage-selectivity trade-off: compact unsafe subspaces fail to cover heterogeneous unsafe semantics, whereas broader aggregation increasingly distorts safety-adjacent benign prompts. Motivated by this finding, we propose CALM (Counterfactual Adaptive Local Modulation), a training-free safeguard that replaces uniform global removal with prompt-local counterfactual correction. Using matched unsafe-benign anchors, CALM routes each prompt to active unsafe categories, minimally edits only violating token representations toward the safe side, and suppresses positively aligned unsafe residual components. Across broad evaluation, CALM significantly improves unsafe content suppression while preserving benign utility, demonstrating that local counterfactual correction provides a more selective alternative to global unsafe signal removal."
+    },
+    {
+      "id": "live-overall-choosing-before-acting-comparative-value",
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "category": "overall",
+      "date": "2026-10-05",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the t...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.02330",
+      "details": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assignment over long interaction traces. Step-level rewards can offer more targeted feedback, but obtaining reliable step supervision often requires human or LLM judgment, or additional rollouts to estimate the downstream effect of an intermediate decision. In this paper, we argue that effective tool-use agents should estimate the long-horizon value of a possible next tool invocation before executing it. This objective requires comparative supervision over alternative invocations under the same context, while logged trajectories only contain the invocation that was actually taken. Therefore, we propose Comparative Inference for Tool-use Agents (CITA). CITA trains a Comparative Inference Model (CIM) from paired signals that combine observed tool behavior, scalable supervision from a Bayesian tool-graph simulator, and semantic judgments from LLM-based comparison. The resulting CIM learns to estimate how likely a possible next tool invocation is to support final task success under the current context. Across three tool-use benchmarks and multiple backbone LLMs, CITA consistently improves Tool F1 and task success. Additional analysis shows that CIM learns accurate step-level value estimates for comparative tool choices."
     },
     {
       "id": "live-agentic_ai-the-agent-said-it-was-done-the-database-",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "category": "agentic_ai",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -114,7 +215,7 @@
       "id": "live-agentic_ai-open-sourcing-astabrief-the-fast-report-",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "category": "agentic_ai",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -132,7 +233,7 @@
       "id": "live-agentic_ai-autosynthdata-generating-training-data-f",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "category": "agentic_ai",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -150,7 +251,7 @@
       "id": "live-agentic_ai-open-tts-leaderboard-scalable-evaluation",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "category": "agentic_ai",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -168,7 +269,7 @@
       "id": "live-agentic_ai-nvidia-kumo-tabular-sets-a-new-accuracy-",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "category": "agentic_ai",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -183,10 +284,102 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-where-we-expect-amd-epyc-9006-cpus-in-th",
+      "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI \u2013 ServeTheHome",
+      "category": "agentic_ai",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comme...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
+      "details": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-identity-management-for-agentic-ai-pdf-2",
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "category": "agentic_ai",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 82 # Comments:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "details": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 82 # Comments: 28"
+    },
+    {
+      "id": "live-agentic_ai-why-agentic-ai-governance-can-t-be-bolte",
+      "title": "Why Agentic AI Governance Can't Be Bolted On",
+      "category": "agentic_ai",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on Comments URL: https://news.ycombinator.com/item?id=49919714 Points: 4 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on",
+      "details": "Article URL: https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on Comments URL: https://news.ycombinator.com/item?id=49919714 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-value-a-verifiable-alignment-layer-for-a",
+      "title": "Value: A Verifiable Alignment Layer for Agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act Comments URL: https://news.ycombinator.com/item?id=49911111 Points: 1 # Comments: 1",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act",
+      "details": "Article URL: https://asteris.ai/blog/wiai/value-gives-agents-a-second-opinion-before-they-act Comments URL: https://news.ycombinator.com/item?id=49911111 Points: 1 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-7-in-10-enterprises-expected-to-abandon-",
+      "title": "7 in 10 enterprises expected to abandon vendor-built agentic AI by 2028",
+      "category": "agentic_ai",
+      "date": "2026-10-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021 Comments URL: https://news.ycombinator...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021",
+      "details": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021 Comments URL: https://news.ycombinator.com/item?id=49909886 Points: 2 # Comments: 0"
+    },
+    {
       "id": "live-models-a-model-guide-for-the-gpt-6-family",
       "title": "A model guide for the GPT-6 family",
       "category": "models",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
@@ -206,7 +399,7 @@
       "id": "live-models-chatham-scales-its-capital-markets-exper",
       "title": "Chatham scales its capital markets expertise with OpenAI",
       "category": "models",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
@@ -225,7 +418,7 @@
       "id": "live-models-the-eternal-complement",
       "title": "The eternal complement",
       "category": "models",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
@@ -243,7 +436,7 @@
       "id": "live-models-how-albertsons-companies-is-reimagining-",
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "category": "models",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
@@ -261,7 +454,7 @@
       "id": "live-models-the-den-frees-up-10-15-hours-a-week-to-g",
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
       "category": "models",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
@@ -270,8 +463,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Fellowship"
+        "#Fellowship",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/the-den-family-social",
       "details": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
@@ -280,7 +473,7 @@
       "id": "live-companies-nvidia-dgx-spark-64gb-gives-developers-m",
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "category": "companies",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, ...",
@@ -289,8 +482,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#AgenticAI",
+        "#NVIDIA",
         "#Governance",
         "#UnitedNations"
       ],
@@ -301,7 +494,7 @@
       "id": "live-companies-how-nvidia-gpus-help-accelerate-openai-s",
       "title": "How NVIDIA GPUs Help Accelerate OpenAI\u2019s GPT-6 Astra Ultrafast",
       "category": "companies",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations thr...",
@@ -321,7 +514,7 @@
       "id": "live-companies-fall-into-25-new-games-on-geforce-now-th",
       "title": "Fall Into 25 New Games on GeForce NOW This October",
       "category": "companies",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play thi...",
@@ -340,7 +533,7 @@
       "id": "live-companies-productive-durable-fungible-how-nvidia-a",
       "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
       "category": "companies",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with ...",
@@ -360,7 +553,7 @@
       "id": "live-companies-nvidia-opens-applications-for-2027-2028-",
       "title": "NVIDIA Opens Applications for 2027\u20132028 Graduate Fellowships With Awards Up to $60,000",
       "category": "companies",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "CRITICAL",
       "company": "NVIDIA Newsroom",
       "tldr": "Bringing together the world\u2019s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems...",
@@ -369,8 +562,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#Fellowship"
+        "#Fellowship",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
       "details": "Bringing together the world\u2019s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th [\u2026]"
@@ -379,7 +572,7 @@
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
       "title": "Podcast: New quantum-enabled materials",
       "category": "fellowships",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices...",
@@ -397,7 +590,7 @@
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
       "title": "Podcast: Can prosthetic limbs feel touch? (haptic feedback)",
       "category": "fellowships",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics.....",
@@ -415,7 +608,7 @@
       "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
       "category": "fellowships",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
@@ -434,7 +627,7 @@
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
       "title": "NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakt",
       "category": "fellowships",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics...",
@@ -452,7 +645,7 @@
       "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
       "title": "Podcast: Creating thermal cloaking and new structures",
       "category": "fellowships",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
@@ -470,7 +663,7 @@
       "id": "live-military-china-linked-hackers-posed-as-former-us-",
       "title": "China-linked hackers posed as former US officials, Anthropic employee to target AI experts",
       "category": "military",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "Proofpoint identified phishing campaigns that borrowed prominent figures\u2019 identities to approach U.S. policy researchers before attempting to steal access to their cloud accounts.",
@@ -489,7 +682,7 @@
       "id": "live-military-hegseth-plans-autonomous-warfare-command",
       "title": "Hegseth plans \u2018Autonomous Warfare Command\u2019",
       "category": "military",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The military\u2019s 12th combatant command was among a slew of announcements in a Quantico speech Wednesday.",
@@ -508,7 +701,7 @@
       "id": "live-military-defense-business-brief-end-of-fiscal-yea",
       "title": "Defense Business Brief: End-of-fiscal-year advice for founders; Navy drone boats; Powerus to go publ",
       "category": "military",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -527,7 +720,7 @@
       "id": "live-military-pentagon-update-on-national-defense-stra",
       "title": "Pentagon update on National Defense Strategy cites progress, omits key threats",
       "category": "military",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The report to Congress notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense.",
@@ -536,9 +729,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#DefenseAI",
         "#Governance",
-        "#EUAIAct",
-        "#DefenseAI"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/09/pentagon-update-national-defense-strategy-cites-progress-omits-key-threats/416329/",
       "details": "The report to Congress notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense."
@@ -547,7 +740,7 @@
       "id": "live-military-army-awards-counterdrone-contracts-worth",
       "title": "Army awards counterdrone contracts worth more than $4B",
       "category": "military",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "But there\u2019s room for more\u2014up to $7 billion.",
@@ -566,7 +759,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -584,7 +777,7 @@
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -604,7 +797,7 @@
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -622,7 +815,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -640,7 +833,7 @@
       "id": "live-governance-nist-developed-quantum-sensors-improve-n",
       "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
@@ -658,7 +851,7 @@
       "id": "live-governance-targeted-consultation-to-support-a-bette",
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nb...",
@@ -677,7 +870,7 @@
       "id": "live-governance-data-union-conference",
       "title": "Data Union Conference",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
@@ -697,7 +890,7 @@
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
       "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
@@ -706,8 +899,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
+        "#AISecurity",
         "#EUAIAct",
         "#UnitedNations"
       ],
@@ -718,7 +911,7 @@
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
       "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
@@ -727,8 +920,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
+        "#AISecurity",
         "#EUAIAct",
         "#UnitedNations"
       ],
@@ -739,7 +932,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
