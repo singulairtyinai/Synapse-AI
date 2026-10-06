@@ -1,7 +1,43 @@
 {
-  "timestamp": "2026-10-06T11:04:35.881433",
+  "timestamp": "2026-10-06T18:03:23.389052",
   "fetched_count": 45,
   "nodes": [
+    {
+      "id": "live-overall-weight-loss-drugs-show-signs-of-slowing-",
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "category": "overall",
+      "date": "2026-10-06",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "details": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular \u201caging clocks.\u201d Such clocks assess a person\u2019s biological age by looking at changes to DNA that accumulate&#8230;"
+    },
+    {
+      "id": "live-overall-the-download-10-climate-tech-companies-t",
+      "title": "The Download: 10 climate tech companies to watch",
+      "category": "overall",
+      "date": "2026-10-06",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to w...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher&#8230;"
+    },
     {
       "id": "live-overall-2026-climate-tech-companies-to-watch",
       "title": "2026 Climate Tech Companies to Watch",
@@ -55,43 +91,6 @@
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
       "details": "WeLion New Energy is on a quest to make safer, better batteries. The company\u2019s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us&#8230;"
-    },
-    {
-      "id": "live-overall-form-energy-and-its-iron-batteries",
-      "title": "Form Energy and its iron batteries",
-      "category": "overall",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "details": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.&#8230;"
-    },
-    {
-      "id": "live-overall-x-energy-and-its-helium-cooled-nuclear-r",
-      "title": "X-energy and its helium-cooled nuclear reactors",
-      "category": "overall",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "X-energy is developing small modular reactors to satisfy some of the planet\u2019s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of t...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-      "details": "X-energy is developing small modular reactors to satisfy some of the planet\u2019s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry also needs is raw heat\u2014and lots of it. The manufacture&#8230;"
     },
     {
       "id": "live-agentic_ai-falcon-emirati-when-an-llm-learns-the-di",
@@ -184,6 +183,25 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-atlassian-and-openai-expand-partnership-",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "category": "models",
+      "date": "2026-10-06",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://openai.com/index/atlassian-partnership",
+      "details": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+    },
+    {
       "id": "live-models-our-approach-to-eu-text-provenance-rules",
       "title": "Our approach to EU text provenance rules",
       "category": "models",
@@ -196,9 +214,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://openai.com/index/eu-text-provenance",
       "details": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
@@ -235,8 +253,8 @@
       },
       "tags": [
         "#OpenAI",
-        "#Reasoning",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Reasoning"
       ],
       "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
       "details": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
@@ -261,22 +279,23 @@
       "details": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
     },
     {
-      "id": "live-models-the-eternal-complement",
-      "title": "The eternal complement",
-      "category": "models",
+      "id": "live-companies-why-telecom-operators-are-building-their",
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "category": "companies",
       "date": "2026-10-06",
-      "impact": "CRITICAL",
-      "company": "OpenAI Newsroom",
-      "tldr": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Telecom operators are increasingly building their AI strategies on open models \u2014 and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and cust...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/the-eternal-complement",
-      "details": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+      "sourceUrl": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "details": "Telecom operators are increasingly building their AI strategies on open models \u2014 and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads \u2014 from autonomous networks to customer care. NVIDIA\u2019s latest State of AI in Telecommunications report reflects this shift, with [\u2026]"
     },
     {
       "id": "live-companies-from-scan-to-treatment-plan-ai-helps-clo",
@@ -310,9 +329,9 @@
       },
       "tags": [
         "#AgenticAI",
-        "#NVIDIA",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "details": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners \u2014 Acer, [\u2026]"
@@ -330,9 +349,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "details": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI\u2019s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, [\u2026]"
@@ -350,31 +369,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
       "details": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant reward for Performance and Ultimate members to The Witcher 3: Wild Hunt \u2013 Remastered joining the cloud, this GFN Thursday is [\u2026]"
-    },
-    {
-      "id": "live-companies-productive-durable-fungible-how-nvidia-a",
-      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "category": "companies",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with ...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-      "details": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year [\u2026]"
     },
     {
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
@@ -480,8 +479,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/pentagon-personnel-data-breach-went-undetected-months/416421/",
       "details": "The defense breach, which exposed about 3 million people, went undetected for months."
@@ -536,8 +535,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/policy/2026/09/hegseth-plans-autonomous-warfare-command/416358/",
       "details": "The military\u2019s 12th combatant command was among a slew of announcements in a Quantico speech Wednesday."
@@ -555,8 +554,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-end-fiscal-year-advice-founders-navy-drone-boats-powerus-go-public/416357/",
       "details": "Live news development fetched from official RSS feed."
@@ -611,8 +610,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -666,8 +665,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
@@ -685,9 +684,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
       "details": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, experts and researchers together to turn Europe\u2019s data policies into more data for AI, growth and competitiveness. This high-level conference will be hosted by the European Commission. It will contribute to a wider political debate on the future of the EU data Policy. Main topics on the agenda During the conference, discussions will focus on: Digital Omnibus: Simplifying the EU data rulebook, reducing administrative burden and supporting innovation Data for industrial AI: Improving access to high-quality data through the Data Act International data flows: Promoting open and trusted data flows and securing fair treatment for EU companies abroad The agenda will be published here. Register You can express your interest in participating. Admission is subject to approval. The event is going to be live streamed. Background European companies and researchers need better access to high-quality data to develop and deploy AI. The Data Union Strategy sets out practical measures to increase data availability and strengthen Europe\u2019s data infrastructure. The Commission is also working to simplify the EU\u2019s digital rules. Building on the Data Act and other existing legislation, the aim is to reduce unnecessary burdens and make it easier for companies to use and share data. Internationally, the Commission seeks to facilitate trusted cross-border data flows and address unfair restrictions faced by EU companies in other markets. Together, these efforts aim to support AI development and strengthen Europe\u2019s competitiveness. Organiser European Commission Express your interest in participating Related topics Big data Data policy Open data Artificial intelligence"
@@ -705,10 +704,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -726,10 +725,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Provide your feedback to the consultation on the EU KIDS ACT until 26 November 2026 (midnight Brussels time). Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -747,59 +746,56 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
     },
     {
-      "id": "live-multilateral-security-sacrifice-or-opportunity-vision",
-      "title": "Security, sacrifice or opportunity: Visions differ over effective climate action",
+      "id": "live-multilateral-testing-and-monitoring-underway-in-suspe",
+      "title": "Testing and monitoring underway in suspected Russia plague death",
       "category": "multilateral",
       "date": "2026-10-06",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?&nbsp;",
+      "tldr": "The death of a lab worker in Russia\u2019s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was fo...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168526",
-      "details": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?&nbsp;"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168533",
+      "details": "The death of a lab worker in Russia\u2019s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was following the situation closely.&nbsp;&nbsp;"
     },
     {
-      "id": "live-multilateral-extreme-heat-making-pregnancy-a-new-faul",
-      "title": "Extreme heat making pregnancy a \u2018new fault line\u2019 in climate crisis",
+      "id": "live-multilateral-in-islamabad-guterres-calls-for-end-to-u",
+      "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
       "category": "multilateral",
       "date": "2026-10-06",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Pregnancy and childbirth have become a \u201cnew fault line in the global climate crisis\u201d as extreme heat worsens, the head of the UN climate action body (UNFCCC) warned on Monday, call...",
+      "tldr": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168522",
-      "details": "Pregnancy and childbirth have become a \u201cnew fault line in the global climate crisis\u201d as extreme heat worsens, the head of the UN climate action body (UNFCCC) warned on Monday, calling for maternal and newborn health to be built into countries\u2019 climate plans.&nbsp;"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168532",
+      "details": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan."
     },
     {
-      "id": "live-multilateral-icc-unseals-four-arrest-warrants-over-ta",
-      "title": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
+      "id": "live-multilateral-ebola-takes-the-people-children-depend-o",
+      "title": "\u2018Ebola takes the people children depend on\u2019: UNICEF",
       "category": "multilateral",
       "date": "2026-10-06",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The International Criminal Court (ICC) has made public four arrest warrants against senior Taliban figures, accusing them of persecuting women and girls in Afghanistan, which amoun...",
+      "tldr": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones \u2013 with some succumbing to the deadly disease themselves, the UN Chi...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -807,36 +803,35 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168521",
-      "details": "The International Criminal Court (ICC) has made public four arrest warrants against senior Taliban figures, accusing them of persecuting women and girls in Afghanistan, which amounts to a crime against humanity."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168531",
+      "details": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones \u2013 with some succumbing to the deadly disease themselves, the UN Children\u2019s Fund (UNICEF) reported on Tuesday."
     },
     {
-      "id": "live-multilateral-un-upholds-housing-as-a-human-right-on-w",
-      "title": "UN upholds housing as a human right on World Habitat Day",
+      "id": "live-multilateral-when-streets-become-pharmacies-booming-i",
+      "title": "When streets become pharmacies: Booming illicit markets in Central Africa",
       "category": "multilateral",
       "date": "2026-10-06",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Representatives from governments, civil society and academia meeting in Muscat, Oman on Monday called for urgent action to address a global housing crisis affecting nearly 3.4 bill...",
+      "tldr": "Antibiotics, malaria treatments, painkillers, opioids. More than 250 tonnes of medical products were seized over six years in Central Africa. Behind those numbers is an illicit mar...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168520",
-      "details": "Representatives from governments, civil society and academia meeting in Muscat, Oman on Monday called for urgent action to address a global housing crisis affecting nearly 3.4 billion people."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168527",
+      "details": "Antibiotics, malaria treatments, painkillers, opioids. More than 250 tonnes of medical products were seized over six years in Central Africa. Behind those numbers is an illicit market that thrives not simply despite the region\u2019s fragile health systems, but in part because of them."
     },
     {
-      "id": "live-multilateral-sudan-driver-killed-in-aerial-attack-on-",
-      "title": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
+      "id": "live-multilateral-nothing-can-justify-these-atrocities-say",
+      "title": "\u2018Nothing can justify these atrocities,\u2019 says Guterres three years on from 7 October attacks",
       "category": "multilateral",
       "date": "2026-10-06",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The World Food Programme (WFP) has strongly condemned a deadly airstrike on two clearly marked aid trucks in South Kordofan, Sudan, this past weekend.",
+      "tldr": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General Ant\u00f3nio Guterres has said nothing can justify the atrocities of 7 October \u2013 calling...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -844,8 +839,8 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168519",
-      "details": "The World Food Programme (WFP) has strongly condemned a deadly airstrike on two clearly marked aid trucks in South Kordofan, Sudan, this past weekend."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168530",
+      "details": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General Ant\u00f3nio Guterres has said nothing can justify the atrocities of 7 October \u2013 calling for an end to the suffering of Israelis and Palestinians alike."
     }
   ]
 }
