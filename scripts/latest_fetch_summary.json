@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-06T18:03:23.389052",
-  "fetched_count": 45,
+  "timestamp": "2026-10-06T23:38:37.487271",
+  "fetched_count": 40,
   "nodes": [
     {
       "id": "live-overall-weight-loss-drugs-show-signs-of-slowing-",
@@ -183,6 +183,63 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-how-jump-trading-is-scaling-quant-resear",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "category": "models",
+      "date": "2026-10-06",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/jump-trading",
+      "details": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+    },
+    {
+      "id": "live-models-sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "category": "models",
+      "date": "2026-10-06",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "details": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+    },
+    {
+      "id": "live-models-advancing-computer-use-with-ironclad",
+      "title": "Advancing computer use with Ironclad",
+      "category": "models",
+      "date": "2026-10-06",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "details": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+    },
+    {
       "id": "live-models-atlassian-and-openai-expand-partnership-",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "category": "models",
@@ -195,8 +252,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/atlassian-partnership",
       "details": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
@@ -214,69 +271,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/eu-text-provenance",
       "details": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
-    },
-    {
-      "id": "live-models-building-advertising-for-the-way-people-",
-      "title": "Building advertising for the way people use AI",
-      "category": "models",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "details": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
-    },
-    {
-      "id": "live-models-a-model-guide-for-the-gpt-6-family",
-      "title": "A model guide for the GPT-6 family",
-      "category": "models",
-      "date": "2026-10-06",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#UnitedNations",
-        "#Reasoning"
-      ],
-      "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
-      "details": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-    },
-    {
-      "id": "live-models-chatham-scales-its-capital-markets-exper",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "category": "models",
-      "date": "2026-10-06",
-      "impact": "CRITICAL",
-      "company": "OpenAI Newsroom",
-      "tldr": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://openai.com/index/chatham-financial",
-      "details": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
     },
     {
       "id": "live-companies-why-telecom-operators-are-building-their",
@@ -328,10 +328,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Governance",
         "#UnitedNations",
-        "#NVIDIA"
+        "#AgenticAI",
+        "#NVIDIA",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "details": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners \u2014 Acer, [\u2026]"
@@ -349,9 +349,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#OpenAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "details": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI\u2019s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, [\u2026]"
@@ -374,6 +374,24 @@
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
       "details": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant reward for Performance and Ultimate members to The Witcher 3: Wild Hunt \u2013 Remastered joining the cloud, this GFN Thursday is [\u2026]"
+    },
+    {
+      "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
+      "title": "Podcast: Could holographic 3D printing be real?",
+      "category": "fellowships",
+      "date": "2026-10-06",
+      "impact": "MODERATE",
+      "company": "NSF News",
+      "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
+      "specs": {
+        "source": "NSF News",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.nsf.gov/news/podcast-could-holographic-3d-printing-be-real",
+      "details": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication..."
     },
     {
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
@@ -424,8 +442,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -447,24 +465,6 @@
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative",
       "details": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics..."
-    },
-    {
-      "id": "live-fellowships-podcast-creating-thermal-cloaking-and-ne",
-      "title": "Podcast: Creating thermal cloaking and new structures",
-      "category": "fellowships",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "NSF News",
-      "tldr": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking devic...",
-      "specs": {
-        "source": "NSF News",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.nsf.gov/news/podcast-creating-thermal-cloaking-new-structures",
-      "details": "Shelly Zhang, an NSF-supported researcher, discusses her work using additive manufacturing and topology optimization to create new structures, including a 3D thermal cloaking device..."
     },
     {
       "id": "live-military-pentagon-fbi-personnel-data-breaches-rai",
@@ -516,8 +516,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Anthropic"
+        "#Anthropic",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/china-linked-hackers-posed-former-us-officials-anthropic-employee-target-ai-experts/416384/",
       "details": "Proofpoint identified phishing campaigns that borrowed prominent figures\u2019 identities to approach U.S. policy researchers before attempting to steal access to their cloud accounts."
@@ -609,8 +609,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
+        "#AISecurity",
         "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
@@ -684,8 +684,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -704,9 +704,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AISecurity",
         "#Governance",
-        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
@@ -725,9 +725,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AISecurity",
         "#Governance",
-        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
@@ -751,96 +751,6 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
       "details": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from industrial representatives, policymakers and startups \u2013 to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence Apply AI Summit"
-    },
-    {
-      "id": "live-multilateral-testing-and-monitoring-underway-in-suspe",
-      "title": "Testing and monitoring underway in suspected Russia plague death",
-      "category": "multilateral",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The death of a lab worker in Russia\u2019s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was fo...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168533",
-      "details": "The death of a lab worker in Russia\u2019s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was following the situation closely.&nbsp;&nbsp;"
-    },
-    {
-      "id": "live-multilateral-in-islamabad-guterres-calls-for-end-to-u",
-      "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
-      "category": "multilateral",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168532",
-      "details": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan."
-    },
-    {
-      "id": "live-multilateral-ebola-takes-the-people-children-depend-o",
-      "title": "\u2018Ebola takes the people children depend on\u2019: UNICEF",
-      "category": "multilateral",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones \u2013 with some succumbing to the deadly disease themselves, the UN Chi...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168531",
-      "details": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones \u2013 with some succumbing to the deadly disease themselves, the UN Children\u2019s Fund (UNICEF) reported on Tuesday."
-    },
-    {
-      "id": "live-multilateral-when-streets-become-pharmacies-booming-i",
-      "title": "When streets become pharmacies: Booming illicit markets in Central Africa",
-      "category": "multilateral",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Antibiotics, malaria treatments, painkillers, opioids. More than 250 tonnes of medical products were seized over six years in Central Africa. Behind those numbers is an illicit mar...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168527",
-      "details": "Antibiotics, malaria treatments, painkillers, opioids. More than 250 tonnes of medical products were seized over six years in Central Africa. Behind those numbers is an illicit market that thrives not simply despite the region\u2019s fragile health systems, but in part because of them."
-    },
-    {
-      "id": "live-multilateral-nothing-can-justify-these-atrocities-say",
-      "title": "\u2018Nothing can justify these atrocities,\u2019 says Guterres three years on from 7 October attacks",
-      "category": "multilateral",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General Ant\u00f3nio Guterres has said nothing can justify the atrocities of 7 October \u2013 calling...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168530",
-      "details": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General Ant\u00f3nio Guterres has said nothing can justify the atrocities of 7 October \u2013 calling for an end to the suffering of Israelis and Palestinians alike."
     }
   ]
 }
