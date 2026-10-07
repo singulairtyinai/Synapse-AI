@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-06T23:38:37.487271",
-  "fetched_count": 40,
+  "timestamp": "2026-10-07T04:53:37.676495",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-weight-loss-drugs-show-signs-of-slowing-",
       "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
       "category": "overall",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age ...",
@@ -24,7 +24,7 @@
       "id": "live-overall-the-download-10-climate-tech-companies-t",
       "title": "The Download: 10 climate tech companies to watch",
       "category": "overall",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to w...",
@@ -42,7 +42,7 @@
       "id": "live-overall-2026-climate-tech-companies-to-watch",
       "title": "2026 Climate Tech Companies to Watch",
       "category": "overall",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "",
@@ -60,7 +60,7 @@
       "id": "live-overall-here-s-how-our-climate-team-picked-10-pr",
       "title": "Here\u2019s how our climate team picked 10 promising companies to watch",
       "category": "overall",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "As the team at MIT Technology Review set out to choose companies for this year\u2019s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting tha...",
@@ -78,7 +78,7 @@
       "id": "live-overall-welion-new-energy-and-its-semi-solid-sta",
       "title": "WeLion New Energy and its semi-solid-state batteries",
       "category": "overall",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "WeLion New Energy is on a quest to make safer, better batteries. The company\u2019s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteri...",
@@ -93,10 +93,109 @@
       "details": "WeLion New Energy is on a quest to make safer, better batteries. The company\u2019s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us&#8230;"
     },
     {
+      "id": "live-overall-gamego-training-game-dev-agents-with-syn",
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "category": "overall",
+      "date": "2026-10-07",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-b...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.06910",
+      "details": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex multi-turn workflows or focus on static game evaluation benchmarks, this work targets direct end-to-end real-world game synthesis driven by coding agents. However, generating complex games directly from sparse user queries often forces coding agents to make underspecified assumptions, yielding incomplete mechanics, disconnected gameplay flows, and limited visual aesthetics. To resolve this issue, this paper presents GameGo, a scalable framework that systematically transforms brief game seeds into comprehensive Product Requirements Documents grounded in industry game-development practices. To retain core gameplay constraints without restricting design exploration, GameGo uses task-specific dynamic compression to maximize information density while preserving instruction following. Based on this pipeline, GameGoData is constructed with 55,060 development trajectories across 2D, 2.5D, and 3D games, alongside GameGoBench, a benchmark comprising 124 diverse game queries. Training GameGoCoder on GameGoData yields a model that outperforms matched baselines and is comparable to frontier models across gamedev benchmarks. All code, datasets, and models will be made publicly available."
+    },
+    {
+      "id": "live-overall-text2dashboard-a-governed-agent-architec",
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterpr",
+      "category": "overall",
+      "date": "2026-10-07",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An insta...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#Meta",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.06914",
+      "details": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persistent state, and deterministic Hooks for approval, audit, checkpointing, recovery, and failure handling. The pipeline resolves entities, discovers metadata, enforces read-only SQL, composes dashboards, and applies static checks, dynamic preflight, and browser inspection. The model proposes actions while deterministic software controls execution and records state transitions. We evaluate the workflow on frozen real-DataBrain tasks and controlled Hook faults. Strict success was 6/8 on metadata and SQL tasks: metadata selection passed 4/4, all four SQL tasks met semantic criteria, and 2/4 met the exact output-column contract. The final release passed 4/4 single-panel dashboard tasks, one two-panel task, and one existing-dashboard refinement; a parameterised task exceeded its step limit. All ten fault scenarios met their specified outcomes without unapproved external side effects. Model inference accounted for over 97\\% of observed runtime in every reported group. These small, DataBrain-specific results do not establish production readiness, general text-to-SQL accuracy, or an efficiency advantage over manual dashboard construction."
+    },
+    {
+      "id": "live-overall-fluidpd-in-place-elasticity-for-slo-awar",
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "category": "overall",
+      "date": "2026-10-07",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execut...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.06917",
+      "details": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request routing across workers. However, real-world workloads exhibit both short bursts and sustained shifts in the prefill-to-decode demand ratio. As a result, a configuration that is well provisioned at one time may quickly become mismatched, causing latency SLO violations even when idle capacity exists elsewhere. Existing autoscaling mechanisms can add capacity, but they react slowly, require spare GPUs, and do not directly address short-timescale phase imbalance. We present FluidPD, a P/D-disaggregated serving system that provides SLO-aware in-place elasticity. FluidPD introduces two complementary mechanisms. FluidToken handles transient imbalance by offloading a bounded portion of prefill computation to decode workers when decode-side slack is available. FluidRole handles sustained imbalance by reassigning running workers between prefill and decode roles in place, avoiding model reload and engine restart. Both mechanisms are guided by lightweight pressure indices that expose prefill and decode-side resource pressure before they appear as SLO violations. Across production Azure trace workloads, FluidPD improves overall SLO attainment over static SGLang by up to 94.6 percentage points, demonstrating that SLO-aware in-place P/D elasticity improves service quality without provisioning additional workers."
+    },
+    {
+      "id": "live-overall-anchor-divergence-for-semantic-geometry-",
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "category": "overall",
+      "date": "2026-10-07",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured usi...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.06919",
+      "details": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is inherently context dependent: two images may be similar because they depict the same object, share a visual style, or are relevant to the same clinical finding. We show that contrastive representations naturally encompass a family of geometries that can be specialized to particular semantic structure. The key idea is to use an interplay between contrastive learning, exponential families, and information geometry to establish a correspondence between probability distributions over \"anchors\" and Bregman geometries on the representation space. We use this correspondence to define \"Anchor Divergences\", a method for specifying context-specific semantic geometries on fixed representations. Under this correspondence, modeling the anchor distribution models the geometry itself. Experiments on retrieval show that anchor divergences provide an effective and efficient way to specify context-specific semantic similarity."
+    },
+    {
+      "id": "live-overall-radonc-agent-an-llm-orchestrated-framewo",
+      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "category": "overall",
+      "date": "2026-10-07",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, ...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.06923",
+      "details": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow from treatment decision-making through follow-up. Here we present RadOnc-Agent, an agentic artificial-intelligence framework that formalizes radiotherapy into four clinical phases and provides 26 callable functions through a conversational interface. A large-language-model controller maps clinical intent to schema-constrained calls, preserves patient and workflow context, and routes requests to specialist services. We evaluated system execution using 2,600 single-function requests (7,800 repeat executions), 200 prespecified synthetic cross-stage scenarios spanning four phases (600 executions), and 120 workflow instances from 60 de-identified patient records (360 clean executions) representing decision-to-planning and planning-to-adaptation. RadOnc-Agent selected the intended function in 98.79% of single-function executions, completed 96.50% of scripted cross-stage workflows, and completed 96.67% of real-patient workflow executions. In comparative ablations, removing longitudinal state reduced cross-stage completion from 96.50% to 84.00%, while disabling schema and identity validation increased mismatched backend dispatch from 0% to 95.28% in a replay/test evaluation. These findings establish the technical feasibility of an LLM-orchestrated architecture for coordinating heterogeneous radiotherapy capabilities and information across longitudinal workflows; they do not establish clinical correctness, clinical utility or prospective benefit."
+    },
+    {
       "id": "live-agentic_ai-falcon-emirati-when-an-llm-learns-the-di",
       "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
       "category": "agentic_ai",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -114,7 +213,7 @@
       "id": "live-agentic_ai-the-agent-said-it-was-done-the-database-",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "category": "agentic_ai",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -132,7 +231,7 @@
       "id": "live-agentic_ai-open-sourcing-astabrief-the-fast-report-",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "category": "agentic_ai",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -150,7 +249,7 @@
       "id": "live-agentic_ai-autosynthdata-generating-training-data-f",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "category": "agentic_ai",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -168,7 +267,7 @@
       "id": "live-agentic_ai-open-tts-leaderboard-scalable-evaluation",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "category": "agentic_ai",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -183,10 +282,101 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-bringing-predictive-analytics-to-the-age",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "category": "agentic_ai",
+      "date": "2026-10-07",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49975292 Po...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "details": "Article URL: https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49975292 Points: 2 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-first-agentic-ai-design-system-to-bootst",
+      "title": "First Agentic AI Design System to Bootstrap Products",
+      "category": "agentic_ai",
+      "date": "2026-10-07",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://vitadesignsystem.com/ Comments URL: https://news.ycombinator.com/item?id=49963509 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://vitadesignsystem.com/",
+      "details": "Article URL: https://vitadesignsystem.com/ Comments URL: https://news.ycombinator.com/item?id=49963509 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-where-we-expect-amd-epyc-9006-cpus-in-th",
+      "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI \u2013 ServeTheHome",
+      "category": "agentic_ai",
+      "date": "2026-10-07",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comme...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
+      "details": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-identity-management-for-agentic-ai-pdf-2",
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "category": "agentic_ai",
+      "date": "2026-10-07",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 82 # Comments:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "details": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 82 # Comments: 28"
+    },
+    {
+      "id": "live-agentic_ai-why-agentic-ai-governance-can-t-be-bolte",
+      "title": "Why Agentic AI Governance Can't Be Bolted On",
+      "category": "agentic_ai",
+      "date": "2026-10-07",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on Comments URL: https://news.ycombinator.com/item?id=49919714 Points: 4 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on",
+      "details": "Article URL: https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on Comments URL: https://news.ycombinator.com/item?id=49919714 Points: 4 # Comments: 0"
+    },
+    {
       "id": "live-models-how-jump-trading-is-scaling-quant-resear",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "category": "models",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
@@ -205,7 +395,7 @@
       "id": "live-models-sharing-ai-progress-in-mathematics",
       "title": "Sharing AI progress in mathematics",
       "category": "models",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
@@ -223,7 +413,7 @@
       "id": "live-models-advancing-computer-use-with-ironclad",
       "title": "Advancing computer use with Ironclad",
       "category": "models",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
@@ -233,8 +423,8 @@
       },
       "tags": [
         "#Governance",
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "details": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
@@ -243,7 +433,7 @@
       "id": "live-models-atlassian-and-openai-expand-partnership-",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "category": "models",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
@@ -262,7 +452,7 @@
       "id": "live-models-our-approach-to-eu-text-provenance-rules",
       "title": "Our approach to EU text provenance rules",
       "category": "models",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
@@ -272,8 +462,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#EUAIAct",
-        "#OpenAI"
+        "#OpenAI",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://openai.com/index/eu-text-provenance",
       "details": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
@@ -282,7 +472,7 @@
       "id": "live-companies-why-telecom-operators-are-building-their",
       "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
       "category": "companies",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Telecom operators are increasingly building their AI strategies on open models \u2014 and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and cust...",
@@ -291,8 +481,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
       "details": "Telecom operators are increasingly building their AI strategies on open models \u2014 and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads \u2014 from autonomous networks to customer care. NVIDIA\u2019s latest State of AI in Telecommunications report reflects this shift, with [\u2026]"
@@ -301,7 +491,7 @@
       "id": "live-companies-from-scan-to-treatment-plan-ai-helps-clo",
       "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
       "category": "companies",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Breast cancer is the most commonly diagnosed cancer among American women \u2014 yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Rad...",
@@ -319,7 +509,7 @@
       "id": "live-companies-nvidia-dgx-spark-64gb-gives-developers-m",
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "category": "companies",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, ...",
@@ -328,10 +518,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AgenticAI",
+        "#Governance",
         "#NVIDIA",
-        "#Governance"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "details": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners \u2014 Acer, [\u2026]"
@@ -340,7 +530,7 @@
       "id": "live-companies-how-nvidia-gpus-help-accelerate-openai-s",
       "title": "How NVIDIA GPUs Help Accelerate OpenAI\u2019s GPT-6 Astra Ultrafast",
       "category": "companies",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations thr...",
@@ -349,8 +539,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#OpenAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
@@ -360,7 +550,7 @@
       "id": "live-companies-fall-into-25-new-games-on-geforce-now-th",
       "title": "Fall Into 25 New Games on GeForce NOW This October",
       "category": "companies",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play thi...",
@@ -369,8 +559,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
       "details": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant reward for Performance and Ultimate members to The Witcher 3: Wild Hunt \u2013 Remastered joining the cloud, this GFN Thursday is [\u2026]"
@@ -379,7 +569,7 @@
       "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
       "title": "Podcast: Could holographic 3D printing be real?",
       "category": "fellowships",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
@@ -397,7 +587,7 @@
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
       "title": "Podcast: New quantum-enabled materials",
       "category": "fellowships",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices...",
@@ -415,7 +605,7 @@
       "id": "live-fellowships-podcast-can-prosthetic-limbs-feel-touch-",
       "title": "Podcast: Can prosthetic limbs feel touch? (haptic feedback)",
       "category": "fellowships",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics.....",
@@ -433,7 +623,7 @@
       "id": "live-fellowships-nsf-invests-in-translating-low-dimension",
       "title": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership i",
       "category": "fellowships",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. ma...",
@@ -442,8 +632,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
       "details": "The U.S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U.S. manufacturers to develop and deploy advanced microelectronics. The NSF\u2026"
@@ -452,7 +642,7 @@
       "id": "live-fellowships-nsf-announces-3-additional-topics-as-par",
       "title": "NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakt",
       "category": "fellowships",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "CRITICAL",
       "company": "NSF News",
       "tldr": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics...",
@@ -467,10 +657,28 @@
       "details": "NSF X-Labs invites proposals from teams working in AI for physical systems and announces two forthcoming topics..."
     },
     {
+      "id": "live-military-the-pentagon-s-autonomy-command-should-d",
+      "title": "The Pentagon\u2019s autonomy command should draw on lessons old and new",
+      "category": "military",
+      "date": "2026-10-07",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "AUTOWARCOM will have a big task. Luckily, it\u2019s not starting from scratch.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/10/pentagon-autonomy-command-patriot-maven/416444/",
+      "details": "AUTOWARCOM will have a big task. Luckily, it\u2019s not starting from scratch."
+    },
+    {
       "id": "live-military-pentagon-fbi-personnel-data-breaches-rai",
       "title": "Pentagon, FBI personnel-data breaches raise questions",
       "category": "military",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The defense breach, which exposed about 3 million people, went undetected for months.",
@@ -489,7 +697,7 @@
       "id": "live-military-us-spy-chief-tapped-as-white-house-ai-cz",
       "title": "US spy chief tapped as White House AI czar",
       "category": "military",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "Director of National Intelligence Jay Clayton will now helm broad domestic technology and economic policy discussions.",
@@ -507,7 +715,7 @@
       "id": "live-military-china-linked-hackers-posed-as-former-us-",
       "title": "China-linked hackers posed as former US officials, Anthropic employee to target AI experts",
       "category": "military",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "Proofpoint identified phishing campaigns that borrowed prominent figures\u2019 identities to approach U.S. policy researchers before attempting to steal access to their cloud accounts.",
@@ -516,8 +724,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Anthropic"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/china-linked-hackers-posed-former-us-officials-anthropic-employee-target-ai-experts/416384/",
       "details": "Proofpoint identified phishing campaigns that borrowed prominent figures\u2019 identities to approach U.S. policy researchers before attempting to steal access to their cloud accounts."
@@ -526,7 +734,7 @@
       "id": "live-military-hegseth-plans-autonomous-warfare-command",
       "title": "Hegseth plans \u2018Autonomous Warfare Command\u2019",
       "category": "military",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The military\u2019s 12th combatant command was among a slew of announcements in a Quantico speech Wednesday.",
@@ -542,29 +750,10 @@
       "details": "The military\u2019s 12th combatant command was among a slew of announcements in a Quantico speech Wednesday."
     },
     {
-      "id": "live-military-defense-business-brief-end-of-fiscal-yea",
-      "title": "Defense Business Brief: End-of-fiscal-year advice for founders; Navy drone boats; Powerus to go publ",
-      "category": "military",
-      "date": "2026-10-06",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-end-fiscal-year-advice-founders-navy-drone-boats-powerus-go-public/416357/",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -582,7 +771,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -600,7 +789,7 @@
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -609,9 +798,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#AISecurity",
-        "#Governance"
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -620,7 +809,7 @@
       "id": "live-governance-nist-awards-more-than-30-million-for-mep",
       "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
@@ -638,7 +827,7 @@
       "id": "live-governance-nist-finalizes-guidelines-on-protecting-",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
@@ -656,7 +845,7 @@
       "id": "live-governance-targeted-consultation-to-support-a-bette",
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nb...",
@@ -675,7 +864,7 @@
       "id": "live-governance-data-union-conference",
       "title": "Data Union Conference",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Data Union Conference Anonymous (not verified) Fri, 09/18/2026 - 09:43 &nbsp; 12 January 2027 &nbsp; Charlemagne building, Brussels, Belgium Bringing policymakers, businesses, expe...",
@@ -684,8 +873,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
@@ -695,7 +884,7 @@
       "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
       "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
@@ -704,10 +893,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations",
+        "#EUAIAct",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
@@ -716,7 +905,7 @@
       "id": "live-governance-proposal-for-eu-kids-act-eu-keeping-inte",
       "title": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors f...",
@@ -725,10 +914,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations",
+        "#EUAIAct",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy",
       "details": "Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Anonymous (not verified) Thu, 09/17/2026 - 09:21 This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online. The proposal recognises the risks that minors face on certain online social networking services and video-sharing platforms and therefore limits autonomous account creation on those specific platforms and systems by children below the age of 15 years. By providing one age across the European Union, it harmonises diverging national rules removing obstacles to the implementation of the Digital Single Market, ensuring legal certainty and a similar level of protection for all children in the European Union. The proposal and its supporting documents are available on EUR-Lex and will soon be accessible in all official EU languages: Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy' Communication accompanying the KIDS Act - An EU approach to online child safety Staff Working Document (SWD) - Analysis of Impacts accompanying the proposal for EU kids Act Provide your feedback to the consultation on the EU KIDS ACT until 26 November 2026 (midnight Brussels time). Find further information: Press release KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Press release17 September 2026EU KIDS Act to restrict social media platforms\u2019 access to children in the EUThe European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union."
@@ -737,7 +926,7 @@
       "id": "live-governance-apply-ai-summit",
       "title": "Apply AI Summit",
       "category": "governance",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Apply AI Summit Anonymous (not verified) Mon, 09/07/2026 - 15:58 &nbsp; 17 November 2026 &nbsp; The EGG (Brussels) The Apply AI Summit will gather high-level stakeholders \u2013 from in...",
