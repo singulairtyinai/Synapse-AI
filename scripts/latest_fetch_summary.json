@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T15:19:30.939124",
+  "timestamp": "2026-10-08T21:06:17.524157",
   "fetched_count": 50,
   "nodes": [
     {
@@ -69,9 +69,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
       "details": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;"
@@ -107,9 +107,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.06910",
       "details": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex multi-turn workflows or focus on static game evaluation benchmarks, this work targets direct end-to-end real-world game synthesis driven by coding agents. However, generating complex games directly from sparse user queries often forces coding agents to make underspecified assumptions, yielding incomplete mechanics, disconnected gameplay flows, and limited visual aesthetics. To resolve this issue, this paper presents GameGo, a scalable framework that systematically transforms brief game seeds into comprehensive Product Requirements Documents grounded in industry game-development practices. To retain core gameplay constraints without restricting design exploration, GameGo uses task-specific dynamic compression to maximize information density while preserving instruction following. Based on this pipeline, GameGoData is constructed with 55,060 development trajectories across 2D, 2.5D, and 3D games, alongside GameGoBench, a benchmark comprising 124 diverse game queries. Training GameGoCoder on GameGoData yields a model that outperforms matched baselines and is comparable to frontier models across gamedev benchmarks. All code, datasets, and models will be made publicly available."
@@ -127,9 +127,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#UnitedNations",
         "#Governance",
+        "#AgenticAI",
         "#Meta"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.06914",
@@ -148,8 +148,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.06917",
       "details": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request routing across workers. However, real-world workloads exhibit both short bursts and sustained shifts in the prefill-to-decode demand ratio. As a result, a configuration that is well provisioned at one time may quickly become mismatched, causing latency SLO violations even when idle capacity exists elsewhere. Existing autoscaling mechanisms can add capacity, but they react slowly, require spare GPUs, and do not directly address short-timescale phase imbalance. We present FluidPD, a P/D-disaggregated serving system that provides SLO-aware in-place elasticity. FluidPD introduces two complementary mechanisms. FluidToken handles transient imbalance by offloading a bounded portion of prefill computation to decode workers when decode-side slack is available. FluidRole handles sustained imbalance by reassigning running workers between prefill and decode roles in place, avoiding model reload and engine restart. Both mechanisms are guided by lightweight pressure indices that expose prefill and decode-side resource pressure before they appear as SLO violations. Across production Azure trace workloads, FluidPD improves overall SLO attainment over static SGLang by up to 94.6 percentage points, demonstrating that SLO-aware in-place P/D elasticity improves service quality without provisioning additional workers."
@@ -167,8 +167,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.06919",
       "details": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is inherently context dependent: two images may be similar because they depict the same object, share a visual style, or are relevant to the same clinical finding. We show that contrastive representations naturally encompass a family of geometries that can be specialized to particular semantic structure. The key idea is to use an interplay between contrastive learning, exponential families, and information geometry to establish a correspondence between probability distributions over \"anchors\" and Bregman geometries on the representation space. We use this correspondence to define \"Anchor Divergences\", a method for specifying context-specific semantic geometries on fixed representations. Under this correspondence, modeling the anchor distribution models the geometry itself. Experiments on retrieval show that anchor divergences provide an effective and efficient way to specify context-specific semantic similarity."
@@ -186,9 +186,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.06923",
       "details": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow from treatment decision-making through follow-up. Here we present RadOnc-Agent, an agentic artificial-intelligence framework that formalizes radiotherapy into four clinical phases and provides 26 callable functions through a conversational interface. A large-language-model controller maps clinical intent to schema-constrained calls, preserves patient and workflow context, and routes requests to specialist services. We evaluated system execution using 2,600 single-function requests (7,800 repeat executions), 200 prespecified synthetic cross-stage scenarios spanning four phases (600 executions), and 120 workflow instances from 60 de-identified patient records (360 clean executions) representing decision-to-planning and planning-to-adaptation. RadOnc-Agent selected the intended function in 98.79% of single-function executions, completed 96.50% of scripted cross-stage workflows, and completed 96.67% of real-patient workflow executions. In comparative ablations, removing longitudinal state reduced cross-stage completion from 96.50% to 84.00%, while disabling schema and identity validation increased mismatched backend dispatch from 0% to 95.28% in a replay/test evaluation. These findings establish the technical feasibility of an LLM-orchestrated architecture for coordinating heterogeneous radiotherapy capabilities and information across longitudinal workflows; they do not establish clinical correctness, clinical utility or prospective benefit."
@@ -284,6 +284,60 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-how-oracle-turns-days-of-work-into-minut",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "category": "models",
+      "date": "2026-10-08",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/oracle",
+      "details": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+    },
+    {
+      "id": "live-models-pollo-ai-turns-creative-ideas-into-campa",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "category": "models",
+      "date": "2026-10-08",
+      "impact": "CRITICAL",
+      "company": "OpenAI Newsroom",
+      "tldr": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/pollo-ai",
+      "details": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
+      "id": "live-models-disrupting-ai-enabled-false-front-operat",
+      "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
+      "category": "models",
+      "date": "2026-10-08",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "details": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+    },
+    {
       "id": "live-models-helping-teens-learn-plan-and-shape-the-f",
       "title": "Helping teens learn, plan, and shape the future of AI",
       "category": "models",
@@ -296,8 +350,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/teens-learn-and-plan",
       "details": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
@@ -321,62 +375,6 @@
       "details": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
     },
     {
-      "id": "live-models-gpt-6-and-intelligent-ui-for-everyone",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "category": "models",
-      "date": "2026-10-08",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://openai.com/index/gpt-6-for-everyone",
-      "details": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
-    },
-    {
-      "id": "live-models-how-jump-trading-is-scaling-quant-resear",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "category": "models",
-      "date": "2026-10-08",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://openai.com/index/jump-trading",
-      "details": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
-    },
-    {
-      "id": "live-models-sharing-ai-progress-in-mathematics",
-      "title": "Sharing AI progress in mathematics",
-      "category": "models",
-      "date": "2026-10-08",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "details": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
-    },
-    {
       "id": "live-companies-nvidia-commits-1-billion-to-advance-us-s",
       "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
       "category": "companies",
@@ -389,8 +387,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
+        "#AISecurity",
         "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
@@ -409,8 +407,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
+        "#Governance",
         "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
@@ -429,9 +427,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#Microsoft",
         "#AgenticAI",
-        "#UnitedNations",
         "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
@@ -566,6 +564,24 @@
       "details": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics..."
     },
     {
+      "id": "live-military-shield-ai-expects-to-fly-its-unmanned-fi",
+      "title": "Shield AI expects to fly its unmanned fighter jet within months",
+      "category": "military",
+      "date": "2026-10-08",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "The Navy is kicking in $150 million to further develop the X-BAT.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/business/2026/10/shield-ai-expects-fly-its-unmanned-fighter-jet-within-months/416510/",
+      "details": "The Navy is kicking in $150 million to further develop the X-BAT."
+    },
+    {
       "id": "live-military-defense-business-brief-1-1-with-gabe-cam",
       "title": "Defense Business Brief: 1:1 with Gabe Camarillo; Tariff ripple effects?, and more",
       "category": "military",
@@ -636,24 +652,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/10/anduril-wades-traditional-shipbuilding-arena-major-submarine-play/416459/",
       "details": "The defense tech company plans to build submarine components at a shipyard outside of Baltimore in which the government will have an approximate 40 percent stake, President Donald Trump said Tuesday."
-    },
-    {
-      "id": "live-military-the-pentagon-s-autonomy-command-should-d",
-      "title": "The Pentagon\u2019s autonomy command should draw on lessons old and new",
-      "category": "military",
-      "date": "2026-10-08",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "AUTOWARCOM will have a big task. Luckily, it\u2019s not starting from scratch.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/10/pentagon-autonomy-command-patriot-maven/416444/",
-      "details": "AUTOWARCOM will have a big task. Luckily, it\u2019s not starting from scratch."
     },
     {
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
@@ -740,9 +738,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -760,8 +758,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
       "details": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe. Main link https://digital-strategy.ec.europa.eu/en/policies/european-ai-innovation-month Related topics Events Artificial intelligence Apply AI Summit"
@@ -779,9 +777,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#UnitedNations",
         "#Governance",
-        "#UnitedNations"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
       "details": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Commission is seeking a procurement contract for the setup and operation of the AI Observatory for a period of three years. The European AI Observatory is a new initiative to monitor and boost the uptake of AI in key sectors across the EU. It will support the objectives of the Apply AI Strategy. The project will provide indicators to assess the impact of AI in strategic sectors. It will also monitor AI development and changes it may bring to the labour market and the economy overall, as well as support the organisation of sectorial discussions. The successful contractor will: Develop a robust monitoring framework focusing on a set of key performance indicators to track the sectoral uptake of AI. The framework should help to understand related key domains \u2013 including AI investments, AI-related patents, skills and talents, and computing infrastructure \u2013 and monitor their impact on the EU economy and society. Prepare a set of sector-specific qualitative monitoring reports identifying and assessing AI use cases accross core processes of strategic sectors. Prepare a set of reports on cross-cutting challenges identified in the Apply AI Strategy and beyond. Develop and manage the AI Observatory\u2019s website. The website should display \u2013 in an interactive and appealing way \u2013 key performance indicators, strategic sector overview fiches, a tracker of the policy actions of the Commission on AI, a selection of reports on AI, as well as links to the national AI strategies of EU countries. Learn more about this tender and apply through the EU Funding &amp; Tenders Portal. Related topics Artificial intelligence"
@@ -799,10 +797,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AISecurity",
         "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
       "details": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summarised by the European Commission and presented to the European Parliament and Council with the aim of feeding into the legislative debate. Main link https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418\u2026 Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce"
@@ -820,8 +818,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
@@ -839,13 +837,87 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AISecurity",
         "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
       "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
+    },
+    {
+      "id": "live-multilateral-overshoot-is-not-a-reason-to-surrender-u",
+      "title": "\u2018Overshoot is not a reason to surrender\u2019: UN calls for accelerated climate action ahead of COP31 sum",
+      "category": "multilateral",
+      "date": "2026-10-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "As world leaders prepare for November\u2019s major&nbsp;COP31 climate summit in T\u00fcrkiye, record-breaking heat, devastating floods and an unprecedented El Ni\u00f1o climate pattern are making...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+      "details": "As world leaders prepare for November\u2019s major&nbsp;COP31 climate summit in T\u00fcrkiye, record-breaking heat, devastating floods and an unprecedented El Ni\u00f1o climate pattern are making global climate action ever more urgent."
+    },
+    {
+      "id": "live-multilateral-un-rights-chief-legacy-of-slavery-and-co",
+      "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
+      "category": "multilateral",
+      "date": "2026-10-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker T\u00fcrk&nbsp;said on Thursday, calling f...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168554",
+      "details": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker T\u00fcrk&nbsp;said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation."
+    },
+    {
+      "id": "live-multilateral-age-must-never-diminish-rights-un-indepe",
+      "title": "\u2018Age must never diminish rights,\u2019 UN independent expert warns",
+      "category": "multilateral",
+      "date": "2026-10-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168553",
+      "details": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday."
+    },
+    {
+      "id": "live-multilateral-afghanistan-women-face-fresh-dress-code-",
+      "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+      "category": "multilateral",
+      "date": "2026-10-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168551",
+      "details": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild their lives back home."
     },
     {
       "id": "live-multilateral-myanmar-poverty-deepens-as-families-face",
@@ -864,82 +936,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168550",
       "details": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the \u201csimultaneous collapse\u201d of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday."
-    },
-    {
-      "id": "live-multilateral-ukraine-un-condemns-latest-attacks-and-c",
-      "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
-      "category": "multilateral",
-      "date": "2026-10-08",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN Humanitarian Coordinator for Ukraine on Wednesday&nbsp;called for an end to attacks against civilians following further overnight strikes by Russian forces that reportedly k...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168548",
-      "details": "The UN Humanitarian Coordinator for Ukraine on Wednesday&nbsp;called for an end to attacks against civilians following further overnight strikes by Russian forces that reportedly killed at least 19 in the Chernihiv Region."
-    },
-    {
-      "id": "live-multilateral-no-plague-case-in-siberia-russia-tells-w",
-      "title": "\u2018No plague case\u2019 in Siberia, Russia tells WHO as assessments continue",
-      "category": "multilateral",
-      "date": "2026-10-08",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Health authorities in Russia say there is \u201cno plague case\u201d in Siberia following reports last week that a lab technician had died of pneumonia of an unknown origin in the region, Wo...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168547",
-      "details": "Health authorities in Russia say there is \u201cno plague case\u201d in Siberia following reports last week that a lab technician had died of pneumonia of an unknown origin in the region, World Health Organization (WHO) officials said on Wednesday."
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-child-migrants-in-eu",
-      "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger up",
-      "category": "multilateral",
-      "date": "2026-10-08",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "New&nbsp;data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Fellowship",
-        "#EUAIAct",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168546",
-      "details": "New&nbsp;data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter."
-    },
-    {
-      "id": "live-multilateral-kenya-races-to-trace-all-contacts-after-",
-      "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
-      "category": "multilateral",
-      "date": "2026-10-08",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Kenya\u2019s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organi...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168542",
-      "details": "Kenya\u2019s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organization\u2019s (WHO) top official in the country has told UN News in her first interview on the case.&nbsp;"
     }
   ]
 }
