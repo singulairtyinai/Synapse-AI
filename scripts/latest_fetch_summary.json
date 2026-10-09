@@ -1,7 +1,79 @@
 {
-  "timestamp": "2026-10-09T05:06:50.205258",
+  "timestamp": "2026-10-09T15:03:24.644784",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-the-download-ai-s-refusal-problem-and-we",
+      "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
+      "category": "overall",
+      "date": "2026-10-09",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We\u2019re putting too much faith i...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We\u2019re putting too much faith in AI\u2019s ability to say no Today\u2019s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&#8230;"
+    },
+    {
+      "id": "live-overall-we-re-putting-too-much-faith-in-ai-s-abi",
+      "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
+      "category": "overall",
+      "date": "2026-10-09",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. Th...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "details": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn\u2019t&#8230;"
+    },
+    {
+      "id": "live-overall-job-titles-of-the-future-delivery-drone-",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "category": "overall",
+      "date": "2026-10-09",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. \u201cIt was super fascinating,\u201d he says. \u201cI just im...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "details": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. \u201cIt was super fascinating,\u201d he says. \u201cI just immediately wanted to be a part of it.\u201d Wischnewsky is now an RPIC, or \u201cremote pilot in command,\u201d at a company called FlyTrex. An RPIC is&#8230;"
+    },
+    {
+      "id": "live-overall-we-re-still-figuring-out-the-side-effect",
+      "title": "We\u2019re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "category": "overall",
+      "date": "2026-10-09",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to aff...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "details": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar&#8230;"
+    },
     {
       "id": "live-overall-roundtables-a-conversation-with-the-crea",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -21,80 +93,6 @@
       "details": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;"
     },
     {
-      "id": "live-overall-the-download-ai-roadblocks-for-humanoids",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "category": "overall",
-      "date": "2026-10-09",
-      "impact": "CRITICAL",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics w...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won\u2019t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI&#8230;"
-    },
-    {
-      "id": "live-overall-why-we-re-watching-these-climate-tech-co",
-      "title": "Why we\u2019re watching these climate tech companies",
-      "category": "overall",
-      "date": "2026-10-09",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It\u2019s an annual project that the MIT Technology Review team puts together. Our goal is to highli...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "details": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It\u2019s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. &#8230;"
-    },
-    {
-      "id": "live-overall-ai-breakthroughs-in-robotics-won-t-chang",
-      "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
-      "category": "overall",
-      "date": "2026-10-09",
-      "impact": "CRITICAL",
-      "company": "MIT Tech Review AI",
-      "tldr": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are cha...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "details": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human\u2014white with a black head and torso\u2014has been popping up on video feeds. Perhaps you\u2019ve seen it dance or&#8230;"
-    },
-    {
-      "id": "live-overall-building-a-safer-path-to-autonomous-indu",
-      "title": "Building a safer path to autonomous industrial AI",
-      "category": "overall",
-      "date": "2026-10-09",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are maki...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "details": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;"
-    },
-    {
       "id": "live-overall-an-explainable-header-centric-framework-",
       "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quali",
       "category": "overall",
@@ -108,8 +106,8 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#Meta"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.10541",
@@ -128,9 +126,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#AgenticAI",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.10549",
       "details": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a natural alternative, but its effectiveness is fundamentally limited by structural validity and schema availability, while procedure-based approaches yield the opposite weakness, typically lacking distributional fidelity without per-domain authoring. We introduce **Synthesis Through Simulation** (STS), a **schema--free** data synthesis paradigm in which an LLM agent generates data by executing operations against policy-enforcing APIs within simulated enterprise environments. Because data is generated through the same environment that defines what is valid, STS guarantees structural validity by construction while decoupling validity enforcement from distribution modeling, allowing each to be addressed independently. The **Generalist Populator** (GP), STS's domain-agnostic agent, addresses the remaining challenges of distributional fidelity and synthesis scalability: GP achieves **0.88** average marginal fidelity and **100\\% constraint satisfaction** across all ten environments *without access to DB schemas*, while statistical synthesizers are inapplicable to seven due to necessary seed data requirements, and schema-privileged agents fail 82\\% of trajectories on airline environment's tightly coupled workflows due to brittle task composition. We open-source the full framework, all ten environments, and generated datasets at https://github.com/SAP/synthesis-through-simulation."
@@ -148,9 +146,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#AgenticAI",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.10590",
       "details": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at its original position, and retains the exact original in a recoverable archive. A Python harness exposes batch archival and explicit recovery without task-specific model training, while protecting user instructions and assistant messages from these operations. In an exploratory OpenTelemetry debugging case followed by an unrelated implementation task, the method ended with 231,951 provider-reported prompt tokens versus 912,492 under retained history, used 50% fewer cumulative input tokens, and had an estimated API cost of USD 1.28-1.44 versus approximately USD 4.38. Both arms passed the two-case primary behavioral oracle; neither fully satisfied the follow-up evaluation. The method made more requests and took 17% longer. A contrasting application-development pair produced no context or cost saving, and an earlier continuation exhibited lower manually assessed quality despite reduced context. These observations demonstrate substantial resource savings in noisy tool-use trajectories and identify workload dependence as a central consideration for reversible context management."
@@ -168,9 +166,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#AgenticAI",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.10611",
       "details": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with hidden terminal randomness. A stage specifies admissible transcripts, polynomial bounds, an alternating verification protocol, and a terminal checker. Its native reach uses default support; its closure frontier permits all support already admitted by the interface. Under a uniform pointwise probability gap and task-relative soundness, these are well-defined languages. We prove that independent majority amplification preserves both languages, whereas existential acceptance over random tapes can admit incorrect outputs. Exact verification is the zero-randomness case, with placement and completeness results. The randomized-verifier classes satisfy $\\Sigma_k^{\\mathrm{P}}\\subseteq\\Sigma_k^{\\mathrm{RV}}\\subseteq\\Sigma_{k+1}^{\\mathrm{P}}$; strict enlargement and depth separation require explicit complexity assumptions, while $\\mathrm{BPP}=\\mathrm{P}$ yields exact companions with the same frontiers. Representation analysis separates invariant acceptance from core-versus-support labels that can change under refactoring. For recursive self-improvement, uniformly bounded self-modification under a common sound interpreter and fixed verification protocol remains within the same verification class. A separate conditional-error budget controls false selection across adaptively chosen candidates. A quota-enforced XOR-synthesis family separates unbounded ratios of search success from changes in the accepted languages; exact and probabilistic audits check the resulting evidence requirements. The framework ties self-improvement claims to obligations on correctness, admissible evidence, verification resources, and selection error."
@@ -189,9 +187,9 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
+        "#Governance",
         "#AgenticAI",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.10629",
       "details": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it is confined to the runtime harness (instruction text, tool-call logic and primitive composition) while model weights stay fixed, so that every adaptation is a diff with a cause and a test attached. We give a dual-loop engine built on that bound, with one admission gate that writes a hash-chained record before deployment, and we measure the gate in simulation, with a simulated agent and a seeded-search proposer rather than language models. Across three families of supervisory re-interpretation at three severities, 10 seeds each, the gated loop admitted 144 of 7,449 candidate changes, none of which worsened error on held-out history, and restored the false-positive rate to the oracle level without raising missed flags in every low- and mid-severity cell. With the gate replaced by the check an unbounded system applies (fewer errors visible in recent traces), the same loops admitted 309 harmful changes and left missed flags above 10% in 49 of 90 runs: false positives fell because the screen was loosened. Evaluated on pre-shift labels, the gate rejected every candidate, so a re-interpretation must be encoded as a rule that relabels history. Parametric and scope shifts were repaired locally, a structural one only by primitive replacement; at the highest structural severity the gate's fixed tolerance blocked the correct replacement in half the seeds. We map the mechanisms to the EU AI Act's provisions for high-risk credit scoring and note that the April 2026 US model-risk guidance excludes agentic AI from its scope."
@@ -287,6 +285,24 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-sophos-cuts-threat-investigation-time-by",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "category": "models",
+      "date": "2026-10-09",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/sophos",
+      "details": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
       "id": "live-models-how-oracle-turns-days-of-work-into-minut",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "category": "models",
@@ -360,25 +376,6 @@
       "details": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
     },
     {
-      "id": "live-models-helping-teens-learn-plan-and-shape-the-f",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "category": "models",
-      "date": "2026-10-09",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://openai.com/index/teens-learn-and-plan",
-      "details": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
-    },
-    {
       "id": "live-companies-into-the-omniverse-how-developers-turn-i",
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "category": "companies",
@@ -391,8 +388,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
       "details": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work \u2014 building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [\u2026]"
@@ -411,8 +408,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
       "details": "NVIDIA today announced commitments valued at $1 billion to build out the United States\u2019 capacity for super intelligence research and development in fields critical for U.S. leadership, including quantum computing, healthcare and energy security."
@@ -430,9 +427,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
       "details": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago\u2019s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the action is also coming: Fire TV users will soon be able to purchase GeForce NOW memberships directly through [\u2026]"
@@ -450,10 +447,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Microsoft"
+        "#Microsoft",
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "details": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. \u201cIf you look at the entire journey of [\u2026]"
@@ -471,8 +468,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
       "details": "Telecom operators are increasingly building their AI strategies on open models \u2014 and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads \u2014 from autonomous networks to customer care. NVIDIA\u2019s latest State of AI in Telecommunications report reflects this shift, with [\u2026]"
@@ -569,6 +566,24 @@
       "details": "NSF-supported researcher Jeremy Brown discusses his work developing interfaces with haptic feedback, including upper-limb prosthetics, rehabilitation tools, and surgical robotics..."
     },
     {
+      "id": "live-military-army-s-new-command-plans-to-streamline-a",
+      "title": "Army\u2019s new command plans to streamline autonomous warfare acquisition",
+      "category": "military",
+      "date": "2026-10-09",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Experts weigh in on what it will take to be successful.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/10/armys-new-command-plans-streamline-autonomous-warfare-acquisition/416523/",
+      "details": "Experts weigh in on what it will take to be successful."
+    },
+    {
       "id": "live-military-shield-ai-expects-to-fly-its-unmanned-fi",
       "title": "Shield AI expects to fly its unmanned fighter jet within months",
       "category": "military",
@@ -639,24 +654,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/recent-taiwan-simulation-highlights-us-cyberdefense-gaps-against-china-experts-warn/416487/",
       "details": "Organizers of a cyber exercise say Washington needs to prepare for attacks that both disrupt civilian services and pressure Taipei without triggering outright military conflict."
-    },
-    {
-      "id": "live-military-anduril-wades-into-traditional-shipbuild",
-      "title": "Anduril wades into traditional shipbuilding arena with major submarine play",
-      "category": "military",
-      "date": "2026-10-09",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The defense tech company plans to build submarine components at a shipyard outside of Baltimore in which the government will have an approximate 40 percent stake, President Donald ...",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/10/anduril-wades-traditional-shipbuilding-arena-major-submarine-play/416459/",
-      "details": "The defense tech company plans to build submarine components at a shipyard outside of Baltimore in which the government will have an approximate 40 percent stake, President Donald Trump said Tuesday."
     },
     {
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
@@ -744,11 +741,31 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
+    },
+    {
+      "id": "live-governance-commission-holds-special-meeting-of-scie",
+      "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+      "category": "governance",
+      "date": "2026-10-09",
+      "impact": "HIGH",
+      "company": "EU Digital Strategy",
+      "tldr": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 Today, the Commission holds a special meeting ...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct",
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "details": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 Today, the Commission holds a special meeting of the Scientific Panel on artificial intelligence (AI). The panel has been investigating recent loss-of-control incidents, and together with the Commission\u2019s AI Office, has worked on a set of questions for the companies that developed the models involved. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, will attend the meeting. The Scientific Panel brings together 60 world-leading independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. During the meeting, the panel will present recommendations to the Commission on frontier AI safety and security risks. Executive-Vice President Henna Virkkunen said: \u201cThe EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.\u201d Find out more about the Scientific Panel on artificial intelligence (AI) Related topics Artificial intelligence AI Office Scientific panel"
     },
     {
       "id": "live-governance-european-ai-innovation-month",
@@ -783,8 +800,8 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
       "details": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Commission is seeking a procurement contract for the setup and operation of the AI Observatory for a period of three years. The European AI Observatory is a new initiative to monitor and boost the uptake of AI in key sectors across the EU. It will support the objectives of the Apply AI Strategy. The project will provide indicators to assess the impact of AI in strategic sectors. It will also monitor AI development and changes it may bring to the labour market and the economy overall, as well as support the organisation of sectorial discussions. The successful contractor will: Develop a robust monitoring framework focusing on a set of key performance indicators to track the sectoral uptake of AI. The framework should help to understand related key domains \u2013 including AI investments, AI-related patents, skills and talents, and computing infrastructure \u2013 and monitor their impact on the EU economy and society. Prepare a set of sector-specific qualitative monitoring reports identifying and assessing AI use cases accross core processes of strategic sectors. Prepare a set of reports on cross-cutting challenges identified in the Apply AI Strategy and beyond. Develop and manage the AI Observatory\u2019s website. The website should display \u2013 in an interactive and appealing way \u2013 key performance indicators, strategic sector overview fiches, a tracker of the policy actions of the Commission on AI, a selection of reports on AI, as well as links to the national AI strategies of EU countries. Learn more about this tender and apply through the EU Funding &amp; Tenders Portal. Related topics Artificial intelligence"
@@ -803,9 +820,9 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
         "#AISecurity",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
       "details": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summarised by the European Commission and presented to the European Parliament and Council with the aim of feeding into the legislative debate. Main link https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418\u2026 Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce"
@@ -830,25 +847,22 @@
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
     },
     {
-      "id": "live-governance-eu-kids-act-to-restrict-social-media-pla",
-      "title": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU",
-      "category": "governance",
+      "id": "live-multilateral-former-un-human-rights-chief-navi-pillay",
+      "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
+      "category": "multilateral",
       "date": "2026-10-09",
-      "impact": "HIGH",
-      "company": "EU Digital Strategy",
-      "tldr": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to...",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize.",
       "specs": {
-        "source": "EU Digital Strategy",
+        "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations",
-        "#AISecurity",
-        "#Governance"
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/eu-kids-act-restrict-social-media-platforms-access-children-eu",
-      "details": "EU KIDS Act to restrict social media platforms\u2019 access to children in the EU Anonymous (not verified) Thu, 09/17/2026 - 09:36 The European Commission has adopted the EU KIDS Act to enhance the online safety of children throughout the Union. The proposal prohibits social media platforms from accessing children under the age of 13 and sets an EU-wide minimum age for minors to open an account of their own at the age of 15, thereby ensuring a gradual approach. The KIDS Act also reverses the burden of proof. Now, service providers will have to show that their services are age-appropriate and safe by design. Commission President, Ursula von der Leyen, said: \u201cToday, our children are engaging with the most sophisticated technologies ever created. Technology that was never created with their wellbeing in mind. Our KIDS Act is reversing the burden of proof - it is for platforms to show they are safe by design. And we put parents back in the driving seat, giving them the tools to help their children navigate a safer online world.\u201d Read the full press release and factsheet. Find further information: Kids Act - Proposal and supporting documents KIDS Act - questions and answers Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce Related content Policy and legislation17 September 2026Proposal for EU KIDS Act - 'EU Keeping Internet Digital Spaces Accountable and Trustworthy'This proposal seeks to protect minors from risky digital services and AI systems, uphold the digital single market and maintain a coherent regulatory framework and enforcement structure for the protection of minors online."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168558",
+      "details": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize."
     },
     {
       "id": "live-multilateral-world-news-in-brief-russian-attacks-cont",
@@ -900,8 +914,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168555",
       "details": "As world leaders prepare for November\u2019s major&nbsp;COP31 climate summit in T\u00fcrkiye, record-breaking heat, devastating floods and an unprecedented El Ni\u00f1o climate pattern are making global climate action ever more urgent."
@@ -919,29 +933,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168554",
       "details": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker T\u00fcrk&nbsp;said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation."
-    },
-    {
-      "id": "live-multilateral-age-must-never-diminish-rights-un-indepe",
-      "title": "\u2018Age must never diminish rights,\u2019 UN independent expert warns",
-      "category": "multilateral",
-      "date": "2026-10-09",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168553",
-      "details": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday."
     }
   ]
 }
