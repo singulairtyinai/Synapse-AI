@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-10T14:18:51.822897",
-  "fetched_count": 40,
+  "timestamp": "2026-10-10T19:52:05.209558",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-ai-s-refusal-problem-and-we",
@@ -183,6 +183,96 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-how-to-deploy-agentic-ai-in-banking-with",
+      "title": "How to Deploy Agentic AI in Banking with ZizkaDB: A Step by Step Guide",
+      "category": "agentic_ai",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa Comments URL: https://news.ycombinator.com/item?...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa",
+      "details": "Article URL: https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa Comments URL: https://news.ycombinator.com/item?id=50005601 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-human-friction-makes-agentic-ai-safer-an",
+      "title": "Human Friction Makes Agentic AI Safer and Smarter",
+      "category": "agentic_ai",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://spectrum.ieee.org/agentic-ai-humans-in-loop Comments URL: https://news.ycombinator.com/item?id=49993341 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://spectrum.ieee.org/agentic-ai-humans-in-loop",
+      "details": "Article URL: https://spectrum.ieee.org/agentic-ai-humans-in-loop Comments URL: https://news.ycombinator.com/item?id=49993341 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-bringing-predictive-analytics-to-the-age",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "category": "agentic_ai",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49975292 Po...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "details": "Article URL: https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49975292 Points: 2 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-first-agentic-ai-design-system-to-bootst",
+      "title": "First Agentic AI Design System to Bootstrap Products",
+      "category": "agentic_ai",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://vitadesignsystem.com/ Comments URL: https://news.ycombinator.com/item?id=49963509 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://vitadesignsystem.com/",
+      "details": "Article URL: https://vitadesignsystem.com/ Comments URL: https://news.ycombinator.com/item?id=49963509 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-where-we-expect-amd-epyc-9006-cpus-in-th",
+      "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI \u2013 ServeTheHome",
+      "category": "agentic_ai",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comme...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
+      "details": "Article URL: https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49924837 Points: 6 # Comments: 0"
+    },
+    {
       "id": "live-models-sophos-cuts-threat-investigation-time-by",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "category": "models",
@@ -268,8 +358,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/legalon-halves-codex-costs",
       "details": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
@@ -287,8 +377,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
       "details": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work \u2014 building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [\u2026]"
@@ -326,9 +416,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#NVIDIA",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
       "details": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago\u2019s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the action is also coming: Fire TV users will soon be able to purchase GeForce NOW memberships directly through [\u2026]"
@@ -346,9 +436,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#AgenticAI",
         "#Microsoft",
+        "#AgenticAI",
+        "#NVIDIA",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
@@ -386,8 +476,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -477,8 +567,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Pentagon",
-        "#Governance"
+        "#Governance",
+        "#Pentagon"
       ],
       "sourceUrl": "https://www.defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543/",
       "details": "Experts expressed shock at a $281 million contract that was no-bid, enormous for consulting work, and set up as an OTA deal."
@@ -640,9 +730,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -660,9 +750,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
+        "#EUAIAct",
         "#UnitedNations",
-        "#EUAIAct"
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
       "details": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 Today, the Commission holds a special meeting of the Scientific Panel on artificial intelligence (AI). The panel has been investigating recent loss-of-control incidents, and together with the Commission\u2019s AI Office, has worked on a set of questions for the companies that developed the models involved. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, will attend the meeting. The Scientific Panel brings together 60 world-leading independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. During the meeting, the panel will present recommendations to the Commission on frontier AI safety and security risks. Executive-Vice President Henna Virkkunen said: \u201cThe EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.\u201d Find out more about the Scientific Panel on artificial intelligence (AI) Related topics Artificial intelligence AI Office Scientific panel"
@@ -680,8 +770,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
       "details": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe. Main link https://digital-strategy.ec.europa.eu/en/policies/european-ai-innovation-month Related topics Events Artificial intelligence Apply AI Summit"
@@ -699,9 +789,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#EUAIAct",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
       "details": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Commission is seeking a procurement contract for the setup and operation of the AI Observatory for a period of three years. The European AI Observatory is a new initiative to monitor and boost the uptake of AI in key sectors across the EU. It will support the objectives of the Apply AI Strategy. The project will provide indicators to assess the impact of AI in strategic sectors. It will also monitor AI development and changes it may bring to the labour market and the economy overall, as well as support the organisation of sectorial discussions. The successful contractor will: Develop a robust monitoring framework focusing on a set of key performance indicators to track the sectoral uptake of AI. The framework should help to understand related key domains \u2013 including AI investments, AI-related patents, skills and talents, and computing infrastructure \u2013 and monitor their impact on the EU economy and society. Prepare a set of sector-specific qualitative monitoring reports identifying and assessing AI use cases accross core processes of strategic sectors. Prepare a set of reports on cross-cutting challenges identified in the Apply AI Strategy and beyond. Develop and manage the AI Observatory\u2019s website. The website should display \u2013 in an interactive and appealing way \u2013 key performance indicators, strategic sector overview fiches, a tracker of the policy actions of the Commission on AI, a selection of reports on AI, as well as links to the national AI strategies of EU countries. Learn more about this tender and apply through the EU Funding &amp; Tenders Portal. Related topics Artificial intelligence"
@@ -719,10 +809,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations",
+        "#Governance",
         "#EUAIAct",
-        "#Governance"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
       "details": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summarised by the European Commission and presented to the European Parliament and Council with the aim of feeding into the legislative debate. Main link https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418\u2026 Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce"
@@ -740,11 +830,102 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-horrific-attack-in-s",
+      "title": "World News in Brief: \u2018Horrific\u2019 attack in Sudan, Israeli incursions in Syria intensify, most women a",
+      "category": "multilateral",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "A suspected drone strike has left at least 40 dead in Sudan\u2019s Blue Nile State \u2013 near the Ethiopian border - according to initial reports from the ground, according to UN Spokespers...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+      "details": "A suspected drone strike has left at least 40 dead in Sudan\u2019s Blue Nile State \u2013 near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson St\u00e9phane Dujarric. Most of the casualties were women and girls.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-global-trade-reaches-record-35-trillion-",
+      "title": "Global trade reaches record $35 trillion despite conflicts",
+      "category": "multilateral",
+      "date": "2026-10-10",
+      "impact": "HIGH",
+      "company": "UN News AI",
+      "tldr": "World trade reached a record $35 trillion in 2025 \u2013 but developing countries were held back from greater participation in the global economy because of new technological and policy...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168566",
+      "details": "World trade reached a record $35 trillion in 2025 \u2013 but developing countries were held back from greater participation in the global economy because of new technological and policy barriers, the UN trade and development agency UNCTAD&nbsp;said on Friday.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-livestreaming-us-execution-would-breach-",
+      "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+      "category": "multilateral",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the ab...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168565",
+      "details": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the absolute prohibition on torture."
+    },
+    {
+      "id": "live-multilateral-security-council-live-cycle-of-escalatin",
+      "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine \u2018must end now\u2019",
+      "category": "multilateral",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168564",
+      "details": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days."
+    },
+    {
+      "id": "live-multilateral-serious-blow-guterres-condemns-new-us-sa",
+      "title": "\u2018Serious blow\u2019: Guterres condemns new US sanctions on International Criminal Court",
+      "category": "multilateral",
+      "date": "2026-10-10",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to \u201cdismantle the ICC, bri...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168562",
+      "details": "The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to \u201cdismantle the ICC, brick by brick\u201d unless it ends what Washington regards as a \u201cthreat\u201d to its citizens."
     }
   ]
 }
