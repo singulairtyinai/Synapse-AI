@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T16:45:12.542215",
+  "timestamp": "2026-10-14T23:01:24.277222",
   "fetched_count": 45,
   "nodes": [
     {
@@ -33,8 +33,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
       "details": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-\u00adrotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight. Typically, helicopters would be in a spot like&#8230;"
@@ -125,8 +125,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
       "details": "Live news development fetched from official RSS feed."
@@ -186,6 +186,43 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-amp-puts-ai-agents-to-work-beyond-code-w",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "category": "models",
+      "date": "2026-10-14",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://openai.com/index/amp-beyond-coding",
+      "details": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+      "id": "live-models-sentinelone-cuts-malware-analysis-from-w",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "category": "models",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/sentinelone",
+      "details": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+    },
+    {
       "id": "live-models-how-third-moment-research-runs-10-000-ag",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "category": "models",
@@ -198,13 +235,32 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AgenticAI",
         "#UnitedNations",
-        "#AISecurity"
+        "#OpenAI",
+        "#AISecurity",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/third-moment-research",
       "details": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+    },
+    {
+      "id": "live-models-how-block-is-building-ai-powered-securit",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "category": "models",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://openai.com/index/block-ai-powered-security",
+      "details": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
     },
     {
       "id": "live-models-the-eu-s-next-chapter-in-ai-is-agentic",
@@ -219,68 +275,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#OpenAI",
         "#EUAIAct",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "details": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value."
-    },
-    {
-      "id": "live-models-higgsfield-takes-ai-video-from-1-minute-",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "category": "models",
-      "date": "2026-10-14",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "details": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-    },
-    {
-      "id": "live-models-asana-cuts-model-costs-76x-in-browser-te",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "category": "models",
-      "date": "2026-10-14",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://openai.com/index/asana-browser-agent",
-      "details": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
-      "id": "live-models-sophos-cuts-threat-investigation-time-by",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "category": "models",
-      "date": "2026-10-14",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/sophos",
-      "details": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
     },
     {
       "id": "live-companies-nvidia-and-semiconductor-leaders-advance",
@@ -336,9 +337,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
         "#AgenticAI",
+        "#AISecurity",
         "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
@@ -358,9 +359,9 @@
       },
       "tags": [
         "#UnitedNations",
+        "#EUAIAct",
         "#AgenticAI",
-        "#NVIDIA",
-        "#EUAIAct"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
       "details": "Keeping a city running means making decisions that affect residents every day \u2014 from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make [\u2026]"
@@ -415,8 +416,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Meta"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -476,6 +477,42 @@
       "details": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices..."
     },
     {
+      "id": "live-military-hegseth-service-secretaries-discuss-gene",
+      "title": "Hegseth, service secretaries discuss \u2018generational change\u2019 of Autonomous Warfare Command",
+      "category": "military",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Each of the services will also stand up a component command, defense secretary said.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/10/hegseth-service-secretaries-discuss-generational-change-autonomous-warfare-command/416586/",
+      "details": "Each of the services will also stand up a component command, defense secretary said."
+    },
+    {
+      "id": "live-military-trump-admin-s-retreat-from-foreign-influ",
+      "title": "Trump admin's retreat from foreign-influence fight is weakening US defenses, sources say",
+      "category": "military",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "States and industry report getting less help from the federal government ahead of the midterms\u2014even as AI gives foreign operatives a boost.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/10/trump-foreign-influence-retreat/416587/",
+      "details": "States and industry report getting less help from the federal government ahead of the midterms\u2014even as AI gives foreign operatives a boost."
+    },
+    {
       "id": "live-military-army-converts-futures-and-concepts-comma",
       "title": "Army converts Futures and Concepts Command to Futures and Autonomy Command",
       "category": "military",
@@ -488,11 +525,30 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/10/army-converts-futures-and-concepts-command-futures-and-autonomy-command/416576/",
       "details": "Officials released more details about its component organization under the Defense Department\u2019s new Autonomous Warfare Command."
+    },
+    {
+      "id": "live-military-fbi-disrupts-north-korean-laptop-farms-u",
+      "title": "FBI disrupts North Korean 'laptop farms' used to fund weapons programs",
+      "category": "military",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Agents seized nearly 190 laptops across Texas in a crackdown on fraudulent remote workers.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/10/fbi-north-korea-weapons/416601/",
+      "details": "Agents seized nearly 190 laptops across Texas in a crackdown on fraudulent remote workers."
     },
     {
       "id": "live-military-army-re-evaluating-munitions-procurement",
@@ -511,61 +567,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/defense-systems/2026/10/army-munitions-procurement-iran/416567/",
       "details": "Buying more Patriot missiles is a top priority, the Army\u2019s fires acquisition boss said."
-    },
-    {
-      "id": "live-military-army-plans-rodeo-to-round-up-supply-chai",
-      "title": "Army plans \u2018rodeo\u2019 to round up supply-chain problems",
-      "category": "military",
-      "date": "2026-10-14",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The service\u2019s \u201cbiggest acquisition program\u201d is fostering new companies, acting secretary says.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/10/army-plans-rodeo-round-supply-chain-problems/416550/",
-      "details": "The service\u2019s \u201cbiggest acquisition program\u201d is fostering new companies, acting secretary says."
-    },
-    {
-      "id": "live-military-us-army-to-stage-counter-drug-training-e",
-      "title": "US Army to stage counter-drug training exercises in South America",
-      "category": "military",
-      "date": "2026-10-14",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Western Hemisphere Command is building up a \u201ctheater Army,\u201d Gen. Joe Ryan said Monday at AUSA.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/10/us-army-stage-counter-drug-training-exercises-south-america/416548/",
-      "details": "Western Hemisphere Command is building up a \u201ctheater Army,\u201d Gen. Joe Ryan said Monday at AUSA."
-    },
-    {
-      "id": "live-military-army-brings-back-night-court-audit-of-pr",
-      "title": "Army brings back \u2018night court\u2019 audit of programs, shifting more than $100M",
-      "category": "military",
-      "date": "2026-10-14",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The effort started this summer with science and tech efforts.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/10/army-brings-back-night-court-audit-programs-shifting-more-100m/416547/",
-      "details": "The effort started this summer with science and tech efforts."
     },
     {
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
@@ -652,9 +653,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#AISecurity",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -672,9 +673,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#EUAIAct",
-        "#AISecurity",
-        "#UnitedNations"
+        "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
       "details": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the Scientific Panel on artificial intelligence (AI). The panel has been investigating recent loss-of-control incidents, and together with the Commission\u2019s AI Office, has worked on a set of questions for the companies that developed the models involved. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, will attend the meeting. The Scientific Panel brings together 60 world-leading independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. During the meeting, the panel will present recommendations to the Commission on frontier AI safety and security risks. Executive-Vice President Henna Virkkunen said: \u201cThe EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.\u201d Find out more about the Scientific Panel on artificial intelligence (AI) Related topics Artificial intelligence AI Office Scientific panel Related content News article12 October 2026Special meeting of the AI Scientific PanelOn 9 October 2026, Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, and Se\u00e1n \u00d3 h\u00c9igeartaigh, Chair of the AI Scientific Panel, convened a special meeting."
@@ -692,8 +693,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
       "details": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe. Main link https://digital-strategy.ec.europa.eu/en/policies/european-ai-innovation-month Related topics Events Artificial intelligence Apply AI Summit"
@@ -711,9 +712,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
       "details": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Commission is seeking a procurement contract for the setup and operation of the AI Observatory for a period of three years. The European AI Observatory is a new initiative to monitor and boost the uptake of AI in key sectors across the EU. It will support the objectives of the Apply AI Strategy. The project will provide indicators to assess the impact of AI in strategic sectors. It will also monitor AI development and changes it may bring to the labour market and the economy overall, as well as support the organisation of sectorial discussions. The successful contractor will: Develop a robust monitoring framework focusing on a set of key performance indicators to track the sectoral uptake of AI. The framework should help to understand related key domains \u2013 including AI investments, AI-related patents, skills and talents, and computing infrastructure \u2013 and monitor their impact on the EU economy and society. Prepare a set of sector-specific qualitative monitoring reports identifying and assessing AI use cases accross core processes of strategic sectors. Prepare a set of reports on cross-cutting challenges identified in the Apply AI Strategy and beyond. Develop and manage the AI Observatory\u2019s website. The website should display \u2013 in an interactive and appealing way \u2013 key performance indicators, strategic sector overview fiches, a tracker of the policy actions of the Commission on AI, a selection of reports on AI, as well as links to the national AI strategies of EU countries. Learn more about this tender and apply through the EU Funding &amp; Tenders Portal. Related topics Artificial intelligence"
@@ -731,10 +732,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
         "#AISecurity",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
       "details": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summarised by the European Commission and presented to the European Parliament and Council with the aim of feeding into the legislative debate. Main link https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418\u2026 Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce"
@@ -752,106 +753,102 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
     },
     {
-      "id": "live-multilateral-yemen-wfp-warns-of-potential-humanitaria",
-      "title": "Yemen: WFP warns of potential \u2018humanitarian catastrophe\u2019 as fighting blocks aid delivery",
+      "id": "live-multilateral-haiti-sanctions-renewed-starving-the-gan",
+      "title": "Haiti sanctions renewed: Starving the gangs of bullets",
       "category": "multilateral",
       "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the cit...",
+      "tldr": "Haiti is living through one of the world\u2019s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168591",
-      "details": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-who-calls-for-urgent-health-action-acros",
-      "title": "WHO calls for urgent health action across the Eastern Mediterranean",
-      "category": "multilateral",
-      "date": "2026-10-14",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world\u2019s top human...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168590",
-      "details": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world\u2019s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory."
-    },
-    {
-      "id": "live-multilateral-yemen-houthi-siege-cholera-outbreak-and-",
-      "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-      "category": "multilateral",
-      "date": "2026-10-14",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Yemen\u2019s southwestern city of Taiz is facing a \u201cdevastating\u201d humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, th...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168589",
-      "details": "Yemen\u2019s southwestern city of Taiz is facing a \u201cdevastating\u201d humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday."
-    },
-    {
-      "id": "live-multilateral-800-million-young-people-face-a-future-w",
-      "title": "800 million young people face a future without jobs",
-      "category": "multilateral",
-      "date": "2026-10-14",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "Approximately 800 million young people entering the labour market in developing economies over the coming years will not find jobs unless countries act, the head of the UN Developm...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168588",
-      "details": "Approximately 800 million young people entering the labour market in developing economies over the coming years will not find jobs unless countries act, the head of the UN Development Programme (UNDP) warned on Tuesday, as the agency&nbsp;launched two initiatives to boost investment and employment."
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-west-african-migrant",
-      "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farmin",
-      "category": "multilateral",
-      "date": "2026-10-14",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "Fewer people from West Africa are reaching Europe by sea, but the journey has not become safer, the UN migration agency (IOM)&nbsp;said on Tuesday.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
         "#UnitedNations",
-        "#Fellowship"
+        "#AISecurity"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-      "details": "Fewer people from West Africa are reaching Europe by sea, but the journey has not become safer, the UN migration agency (IOM)&nbsp;said on Tuesday."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+      "details": "Haiti is living through one of the world\u2019s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting individuals and businesses."
+    },
+    {
+      "id": "live-multilateral-colombia-un-independent-experts-call-for",
+      "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed confl",
+      "category": "multilateral",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "UN independent experts welcomed on Wednesday&nbsp;a recent landmark corporate accountability ruling involving the Ecopetrol oil company by Colombia\u2019s Special Jurisdiction for Peace...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168597",
+      "details": "UN independent experts welcomed on Wednesday&nbsp;a recent landmark corporate accountability ruling involving the Ecopetrol oil company by Colombia\u2019s Special Jurisdiction for Peace, calling for reparations for victims."
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-gaza-braces-for-wint",
+      "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to ",
+      "category": "multilateral",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordina...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168596",
+      "details": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday."
+    },
+    {
+      "id": "live-multilateral-dr-congo-cholera-cases-spike-amid-fight-",
+      "title": "DR Congo: Cholera cases spike amid fight against Ebola",
+      "category": "multilateral",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168595",
+      "details": "The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday."
+    },
+    {
+      "id": "live-multilateral-health-workers-tackle-taboos-over-drinki",
+      "title": "Health workers tackle taboos over drinking with new AI tool",
+      "category": "multilateral",
+      "date": "2026-10-14",
+      "impact": "HIGH",
+      "company": "UN News AI",
+      "tldr": "A new AI-powered hub for health professionals aims to help identify alcohol-related risks and launch discussions with patients, including the link between drinking and cancer, the ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168594",
+      "details": "A new AI-powered hub for health professionals aims to help identify alcohol-related risks and launch discussions with patients, including the link between drinking and cancer, the World Health Organization (WHO) announced on Wednesday."
     }
   ]
 }
