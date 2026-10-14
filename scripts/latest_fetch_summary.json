@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-13T23:38:37.067127",
-  "fetched_count": 50,
+  "timestamp": "2026-10-14T03:59:30.378101",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-the-download-open-model-trade-offs-and-g",
       "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits...",
@@ -24,7 +24,7 @@
       "id": "live-overall-open-models-have-real-benefits-do-they-o",
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the se...",
@@ -33,8 +33,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Anthropic"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
       "details": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report\u2019s core concern is that the&#8230;"
@@ -43,7 +43,7 @@
       "id": "live-overall-ai-labs-are-buying-data-from-dead-startu",
       "title": "AI labs are buying data from dead startups to train their models",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s s...",
@@ -61,7 +61,7 @@
       "id": "live-overall-the-download-moon-city-problems-and-dron",
       "title": "The Download: moon city problems and drone traffic controllers",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but th...",
@@ -79,7 +79,7 @@
       "id": "live-overall-what-it-would-take-to-build-a-city-on-th",
       "title": "What it would take to build a city on the moon",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Welcome to the second space race. You can be forgiven for experiencing d\u00e9j\u00e0 vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. ...",
@@ -97,7 +97,7 @@
       "id": "live-overall-faithfulness-without-anchors-a-position-",
       "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Fai",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by...",
@@ -116,7 +116,7 @@
       "id": "live-overall-elitetable-self-improving-program-search",
       "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of h...",
@@ -135,7 +135,7 @@
       "id": "live-overall-equal-budget-monte-carlo-tree-search-ver",
       "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A ",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run t...",
@@ -154,7 +154,7 @@
       "id": "live-overall-know-what-you-don-t-know-agentic-data-sy",
       "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learni",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for in...",
@@ -174,7 +174,7 @@
       "id": "live-overall-spirebench-evaluating-long-horizon-strat",
       "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
       "category": "overall",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic be...",
@@ -183,11 +183,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
+        "#EUAIAct",
         "#Governance",
-        "#Reasoning",
-        "#EUAIAct"
+        "#UnitedNations",
+        "#AgenticAI",
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.12596",
       "details": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and luck. We introduce SpireBench, in which models play the complete commercial deck-builder Slay the Spire (StS), where early decisions decide long-term success. Across 20 large language models (LLMs) at the game's highest difficulty, frontier models beat heuristic baselines and match the average human player but remain far behind experts. This gap widens as the run lengthens: the strongest models win the first act as often as experts, then fall behind. What separates strong models from weak is how well they play each fight; all of them misjudge risk over a run, preserving health rather than spending it to grow stronger. A comprehensive, self-consistent renaming of every game term shows that part of their performance rests on prior knowledge of the game, and models do not improve from the memories they write across runs, which are often wrong and overly cautious. Our harness is the first to give a model the complete original game, and we compare it with existing harnesses. Overall, SpireBench offers an unsaturated long-horizon benchmark with tools to locate where and why agents fail."
@@ -196,7 +196,7 @@
       "id": "live-agentic_ai-run-fast-private-agents-on-device-with-l",
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "category": "agentic_ai",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -215,7 +215,7 @@
       "id": "live-agentic_ai-impactful-scheduling-for-gpu-clusters",
       "title": "Impactful scheduling for GPU clusters",
       "category": "agentic_ai",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -233,7 +233,7 @@
       "id": "live-agentic_ai-the-model-that-didn-t-exist-so-you-made-",
       "title": "The model that didn't exist, so you made it yourself",
       "category": "agentic_ai",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -251,7 +251,7 @@
       "id": "live-agentic_ai-introducing-falcon-asr",
       "title": "Introducing Falcon ASR",
       "category": "agentic_ai",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -269,7 +269,7 @@
       "id": "live-agentic_ai-one-model-family-two-gold-level-results-",
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "category": "agentic_ai",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -284,103 +284,10 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-agentic-ai-for-network-incident-response",
-      "title": "Agentic AI for network incident response",
-      "category": "agentic_ai",
-      "date": "2026-10-13",
-      "impact": "HIGH",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers/ Comments URL: https://news.ycombinator.com/i...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Microsoft"
-      ],
-      "sourceUrl": "https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers/",
-      "details": "Article URL: https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers/ Comments URL: https://news.ycombinator.com/item?id=50074416 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-intel-accelerates-open-infrastructure-fo",
-      "title": "Intel Accelerates Open Infrastructure for the Agentic AI Era",
-      "category": "agentic_ai",
-      "date": "2026-10-13",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html Comments URL: https://news.ycom...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html",
-      "details": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html Comments URL: https://news.ycombinator.com/item?id=50066786 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-a-modern-agentic-ai-operating-system",
-      "title": "A Modern Agentic AI Operating System",
-      "category": "agentic_ai",
-      "date": "2026-10-13",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://github.com/vahmoh25/Veda/blob/main/docs/AGENT.md Comments URL: https://news.ycombinator.com/item?id=50062619 Points: 4 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://github.com/vahmoh25/Veda/blob/main/docs/AGENT.md",
-      "details": "Article URL: https://github.com/vahmoh25/Veda/blob/main/docs/AGENT.md Comments URL: https://news.ycombinator.com/item?id=50062619 Points: 4 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-how-to-prepare-your-agentic-ai-system-fo",
-      "title": "How to Prepare Your Agentic AI System for an EU AI Act Audit with ZizkaDB",
-      "category": "agentic_ai",
-      "date": "2026-10-13",
-      "impact": "CRITICAL",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://medium.com/@MirArshadTalpur/how-to-prepare-your-agentic-ai-system-for-an-eu-ai-act-audit-with-zizkadb-7d7eb9d4c9f0 Comments URL: https://news.ycombinator.com/i...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#Governance",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://medium.com/@MirArshadTalpur/how-to-prepare-your-agentic-ai-system-for-an-eu-ai-act-audit-with-zizkadb-7d7eb9d4c9f0",
-      "details": "Article URL: https://medium.com/@MirArshadTalpur/how-to-prepare-your-agentic-ai-system-for-an-eu-ai-act-audit-with-zizkadb-7d7eb9d4c9f0 Comments URL: https://news.ycombinator.com/item?id=50054914 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-how-to-deploy-agentic-ai-in-banking-with",
-      "title": "How to Deploy Agentic AI in Banking with ZizkaDB: A Step by Step Guide",
-      "category": "agentic_ai",
-      "date": "2026-10-13",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa Comments URL: https://news.ycombinator.com/item?...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa",
-      "details": "Article URL: https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa Comments URL: https://news.ycombinator.com/item?id=50005601 Points: 1 # Comments: 0"
-    },
-    {
       "id": "live-models-higgsfield-takes-ai-video-from-1-minute-",
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "category": "models",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
@@ -398,7 +305,7 @@
       "id": "live-models-sophos-cuts-threat-investigation-time-by",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "category": "models",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
@@ -416,7 +323,7 @@
       "id": "live-models-asana-cuts-model-costs-76x-in-browser-te",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "category": "models",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
@@ -425,8 +332,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/asana-browser-agent",
       "details": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
@@ -435,7 +342,7 @@
       "id": "live-models-how-oracle-turns-days-of-work-into-minut",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "category": "models",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
@@ -453,7 +360,7 @@
       "id": "live-models-pollo-ai-turns-creative-ideas-into-campa",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "category": "models",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
@@ -471,7 +378,7 @@
       "id": "live-companies-all-systems-go-global-pc-app-ecosystem-r",
       "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
       "category": "companies",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "CRITICAL",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA RTX Spark is a new beginning for the PC \u2014 a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip....",
@@ -490,7 +397,7 @@
       "id": "live-companies-nvidia-lands-in-europe-for-gtc-berlin",
       "title": "NVIDIA Lands in Europe for GTC Berlin",
       "category": "companies",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA is in Europe, showcasing the future of technology together with the region\u2019s developers, researchers and industry leaders.",
@@ -499,8 +406,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/gtc-berlin-2026-news/",
       "details": "NVIDIA is in Europe, showcasing the future of technology together with the region\u2019s developers, researchers and industry leaders."
@@ -509,7 +416,7 @@
       "id": "live-companies-from-earth-to-orbit-france-s-ecosystem-d",
       "title": "From Earth to Orbit, France\u2019s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
       "category": "companies",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country\u2019s...",
@@ -519,8 +426,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#Governance",
         "#NVIDIA",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
@@ -530,7 +437,7 @@
       "id": "live-companies-ocp-global-summit-amid-ecosystem-adoptio",
       "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Fa",
       "category": "companies",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more eff...",
@@ -539,8 +446,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#NVIDIA",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
@@ -550,7 +457,7 @@
       "id": "live-companies-nvidia-and-cisco-introduce-new-pluggable",
       "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
       "category": "companies",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosyst...",
@@ -559,8 +466,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#NVIDIA",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
@@ -570,7 +477,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -588,7 +495,7 @@
       "id": "live-fellowships-nsf-ukri-metascience-statement",
       "title": "NSF\u2013UKRI metascience statement",
       "category": "fellowships",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the ...",
@@ -597,8 +504,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Meta"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -607,7 +514,7 @@
       "id": "live-fellowships-nsf-lays-the-foundation-for-the-next-gen",
       "title": "NSF lays the foundation for the next generation of technologies and support for American talent",
       "category": "fellowships",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golde...",
@@ -625,7 +532,7 @@
       "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
       "title": "Podcast: Could holographic 3D printing be real?",
       "category": "fellowships",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
@@ -643,7 +550,7 @@
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
       "title": "Podcast: New quantum-enabled materials",
       "category": "fellowships",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices...",
@@ -658,10 +565,29 @@
       "details": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices..."
     },
     {
+      "id": "live-military-army-converts-futures-and-concepts-comma",
+      "title": "Army converts Futures and Concepts Command to Futures and Autonomy Command",
+      "category": "military",
+      "date": "2026-10-14",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Officials released more details about its component organization under the Defense Department\u2019s new Autonomous Warfare Command.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/10/army-converts-futures-and-concepts-command-futures-and-autonomy-command/416576/",
+      "details": "Officials released more details about its component organization under the Defense Department\u2019s new Autonomous Warfare Command."
+    },
+    {
       "id": "live-military-army-re-evaluating-munitions-procurement",
       "title": "Army re-evaluating munitions procurement goals as Iran war continues",
       "category": "military",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Buying more Patriot missiles is a top priority, the Army\u2019s fires acquisition boss said.",
@@ -679,7 +605,7 @@
       "id": "live-military-army-plans-rodeo-to-round-up-supply-chai",
       "title": "Army plans \u2018rodeo\u2019 to round up supply-chain problems",
       "category": "military",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The service\u2019s \u201cbiggest acquisition program\u201d is fostering new companies, acting secretary says.",
@@ -698,7 +624,7 @@
       "id": "live-military-us-army-to-stage-counter-drug-training-e",
       "title": "US Army to stage counter-drug training exercises in South America",
       "category": "military",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Western Hemisphere Command is building up a \u201ctheater Army,\u201d Gen. Joe Ryan said Monday at AUSA.",
@@ -716,7 +642,7 @@
       "id": "live-military-army-brings-back-night-court-audit-of-pr",
       "title": "Army brings back \u2018night court\u2019 audit of programs, shifting more than $100M",
       "category": "military",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The effort started this summer with science and tech efforts.",
@@ -731,29 +657,10 @@
       "details": "The effort started this summer with science and tech efforts."
     },
     {
-      "id": "live-military-the-pentagon-awarded-350m-to-a-firm-tied",
-      "title": "The Pentagon awarded $350M to a firm tied to a senior DOD official",
-      "category": "military",
-      "date": "2026-10-13",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Experts expressed shock at a $281 million contract that was no-bid, enormous for consulting work, and set up as an OTA deal.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#Pentagon"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543/",
-      "details": "Experts expressed shock at a $281 million contract that was no-bid, enormous for consulting work, and set up as an OTA deal."
-    },
-    {
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -771,7 +678,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -789,7 +696,7 @@
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -807,7 +714,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -825,7 +732,7 @@
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -834,8 +741,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AISecurity",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
@@ -845,7 +752,7 @@
       "id": "live-governance-commission-holds-special-meeting-of-scie",
       "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the ...",
@@ -854,8 +761,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
+        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
@@ -865,7 +772,7 @@
       "id": "live-governance-european-ai-innovation-month",
       "title": "European AI Innovation Month",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by ...",
@@ -884,7 +791,7 @@
       "id": "live-governance-establishing-the-european-ai-observatory",
       "title": "Establishing the European AI Observatory: Call for tenders",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Com...",
@@ -904,7 +811,7 @@
       "id": "live-governance-consultation-on-eu-kids-act",
       "title": "Consultation on EU KIDS ACT",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summaris...",
@@ -913,8 +820,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
+        "#EUAIAct",
         "#Governance",
         "#UnitedNations"
       ],
@@ -925,7 +832,7 @@
       "id": "live-governance-targeted-consultation-to-support-a-bette",
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "category": "governance",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nb...",
