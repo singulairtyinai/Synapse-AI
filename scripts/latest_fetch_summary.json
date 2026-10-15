@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-15T16:30:56.131107",
-  "fetched_count": 50,
+  "timestamp": "2026-10-15T22:55:38.425548",
+  "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-the-download-reviving-frozen-pig-kidneys",
@@ -106,10 +106,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#UnitedNations",
+        "#AgenticAI",
         "#Governance",
-        "#AgenticAI"
+        "#Reasoning",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.14005",
       "details": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, given the observations and the previous knowledge. Levin's Kt, a computable variant of Kolmogorov complexity, puts a theoretical upper bound to that difficulty, balancing the simplest representation encoding for the mechanism and the logarithm of the time steps to run that mechanism. Previous tests derived from Levin's Kt, such as the original C-test, are based on minimalistic Universal Turing Machines (UTM), capable of very limited representations and no previous knowledge. Reasoning large language models (LLM) are UTMs that capture a compendium of human culture as knowledge, using prompts as natural language programs. This paper presents the first test based on Levin's Kt with LLMs as representational machines. Fresh test items can be produced at high difficulties, estimated in a ratio scale measured in bits, before any human or frontier model can solve them. We formalise the measure, devise a lightweight generation and certification pipeline, explore the effect of the power of the reference machine and the gap between examiner and examinee. We produce a first battery of certified items administered to twelve LLMs. The resulting agent characteristic curves decrease with difficulty, down to the uncharted high-difficulty region, the supra-intelligence window of items we can certify, yet beyond generations of frontier intelligence."
@@ -127,10 +127,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.14115",
       "details": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that these evaluations overlook the fundamental principles of data science: methodological data science- and domain knowledge. As such, only assessing downstream performance masks methodological failures such as data leakage and inappropriate validation, limiting the development of robust agentic DS systems. In this paper, we evaluate agentic DS beyond accuracy from three different angles: 1) a large-scale analysis of failure modes in common agentic DS frameworks and models across 220 data science tasks, 2) a reusable and extensible test suite with curated data science tasks that test for six specific failures in a controlled manner, and 3) a qualitative assessment of agentic DS pipelines against expert solutions on Kaggle competitions. We find that the majority of agentic solutions contain at least one failure mode despite the complexity of agentic harness or model capacity. Moreover, we identify a positive correlation between the occurrence of data leakage failures and predictive performance, confirming the necessity to evaluate agents beyond accuracy. Our qualitative analysis shows that DS agents generally lack problem solving creativity and domain knowledge, compared to competition-winning data scientists. We believe that principled failure mode analysis, as presented here, should be integral part of agentic DS evaluations, and that the insights we surface will be key in developing trustworthy agentic DS pipelines."
@@ -148,9 +148,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.14118",
       "details": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes tasks and collects trajectories, the target agent is trained once, and evaluation results are consumed by human researchers rather than fed back into the loop. Such pipelines are inherently bounded by the capability of the external model and the scope of human prior, leaving no room for self-improvement. To address these limitations, we propose ClawLoop, a framework that enables self-improving without any external teacher model and with minimal prior dependencies. ClawLoop composes three phases into a self-sustaining cycle: Task Synthesis, which generates a diverse pool of training tasks via two complementary construction routines, applies diagnosis-conditioned difficulty growth followed by both agent-free and agent-based task validation; Training, which updates the agent via SFT and/or RL; and Diagnosis and Feedback, which analyzes the agent's rollout behaviors to produce a capability analysis report that will be used as feedback for task synthesis in the next iteration. Using Qwen3.6-27B as the loop model, ClawLoop yields consistent improvements on SkillsBench, Claw-Eval-Live, and ClawGym-Bench. The iteratively refined tasks are further transferred to smaller-scale Qwen3.5-4B and 9B models with gains across all benchmarks, validating data quality independently of the loop model."
@@ -187,12 +187,30 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.14146",
       "details": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and eight task types. The extended tasks are produced through a systematic reconstruction-task pipeline. We start from a working scientific or engineering artifact, then use a parameterized reference implementation to generate multiple scenarios, reveal six as behavioral evidence, hold out three for evaluation, and use dense progress ladders to reward partial progress while preventing memorization of public outputs. We also extend the evaluation horizon from 90 minutes to three hours and record verifier checkpoints every 30 minutes, enabling direct measurement of sustained progress within a run. Across 1,145 scored model-task runs from 15 frontier models, GPT-6-astra leads with dense mean reward 0.69 and 37 tasks at R at least 0.95, followed by GPT-5.6-sol with dense mean reward 0.67 and 32 tasks at the same threshold. On the 30 reconstruction tasks, binary verifier scores average 0.221, whereas dense ladder scores average 0.653, showing that outcome-only evaluation discards substantial intermediate progress. LHTB 2.0 provides a broader, hardened, and process-aware testbed for studying reliable agent execution over hours."
+    },
+    {
+      "id": "live-agentic_ai-granite-switch-4-1-chat-decisions-and-sp",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "category": "agentic_ai",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-apertus-1-5-release-notes",
@@ -210,6 +228,24 @@
         "#AITrend"
       ],
       "sourceUrl": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
+      "id": "live-agentic_ai-welcome-muse-spark-open-open-weight-fron",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "category": "agentic_ai",
+      "date": "2026-10-15",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Meta"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/meta-muse-spark-open",
       "details": "Live news development fetched from official RSS feed."
     },
     {
@@ -249,41 +285,113 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-run-fast-private-agents-on-device-with-l",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "id": "live-agentic_ai-agentic-ai-could-transform-universities-",
+      "title": "Agentic AI Could Transform Universities, but Adoption Won't Be Easy",
       "category": "agentic_ai",
       "date": "2026-10-15",
       "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "HackerNews Agentic AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11",
+      "details": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0"
     },
     {
-      "id": "live-agentic_ai-the-model-that-didn-t-exist-so-you-made-",
-      "title": "The model that didn't exist, so you made it yourself",
+      "id": "live-agentic_ai-inside-agentic-ai-workloads",
+      "title": "Inside Agentic AI Workloads",
       "category": "agentic_ai",
       "date": "2026-10-15",
-      "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "HackerNews Agentic AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://huggingface.co/blog/building-with-ml-intern",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://gimletlabs.ai/blog/inside-agentic-ai-workloads",
+      "details": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-amd-helion-for-agentic-ai-and-enterprise",
+      "title": "AMD Helion for Agentic AI and Enterprise",
+      "category": "agentic_ai",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
+      "details": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50106243 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-amd-helion-agentic-ai-compute-at-rack-sc",
+      "title": "AMD Helion, Agentic AI Compute at Rack Scale",
+      "category": "agentic_ai",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50099622 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/",
+      "details": "Article URL: https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50099622 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-the-state-of-agentic-ai-in-chip-design-t",
+      "title": "The state of agentic AI in chip design tools in 2026",
+      "category": "agentic_ai",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engine...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
+      "details": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers Comments URL: https://news.ycombinator.com/item?id=50089558 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-models-bringing-gpt-rosalind-to-academic-resear",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "category": "models",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "details": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
     },
     {
       "id": "live-models-teaching-students-to-think-and-learn-thr",
@@ -298,8 +406,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI"
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "details": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
@@ -354,32 +462,72 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity",
         "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://openai.com/index/third-moment-research",
       "details": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
     },
     {
-      "id": "live-models-how-block-is-building-ai-powered-securit",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "category": "models",
+      "id": "live-companies-volvo-cars-and-nvidia-expand-partnership",
+      "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+      "category": "companies",
       "date": "2026-10-15",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Volvo Cars today announced it is expanding its partnership with NVIDIA to unlock new levels of safety in automated driving technology in future cars from Volvo, building on the com...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#OpenAI"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://openai.com/index/block-ai-powered-security",
-      "details": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+      "sourceUrl": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+      "details": "Volvo Cars today announced it is expanding its partnership with NVIDIA to unlock new levels of safety in automated driving technology in future cars from Volvo, building on the companies\u2019 decade-long collaboration."
+    },
+    {
+      "id": "live-companies-be-there-for-the-beginning-celebrate-the",
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "category": "companies",
+      "date": "2026-10-15",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark \u2014 one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and ...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#NVIDIA",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+      "details": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark \u2014 one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and [\u2026]"
+    },
+    {
+      "id": "live-companies-adobe-and-nvidia-expand-collaboration-to",
+      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+      "category": "companies",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announc...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#NVIDIA",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "details": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announced an expansion of their partnership to optimize Adobe\u2019s flagship tools including Adobe Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge, delivering faster AI-powered creation, production and personalization."
     },
     {
       "id": "live-companies-open-from-data-center-to-desktop-nvidia-",
@@ -394,8 +542,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
       "details": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [\u2026]"
@@ -417,67 +565,6 @@
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
       "details": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games\u2019 Enshrouded leaves early access with its 1.0 release, or let the bolts [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-expands-advanced-technology-acces",
-      "title": "NVIDIA Expands Advanced Technology Access for Europe\u2019s Scientific Community Through Open Learning Re",
-      "category": "companies",
-      "date": "2026-10-15",
-      "impact": "CRITICAL",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Much of today\u2019s scientific progress begins with computation. But turning accelerated computing\u2019s potential into scientific progress \u2014 modeling climate systems, designing molecules,...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
-      "details": "Much of today\u2019s scientific progress begins with computation. But turning accelerated computing\u2019s potential into scientific progress \u2014 modeling climate systems, designing molecules, simulating materials and more \u2014 depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: [\u2026]"
-    },
-    {
-      "id": "live-companies-the-nordics-and-nvidia-show-what-s-possi",
-      "title": "The Nordics and NVIDIA Show What\u2019s Possible When a Region Commits to Advanced Computing",
-      "category": "companies",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-      "details": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe\u2019s most consequential technology ecosystems. The many computing advancements already underway [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-and-semiconductor-leaders-advance",
-      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
-      "category": "companies",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "NVIDIA today announced semiconductor leaders are adopting NVIDIA CUDA-X\u2122 libraries \u2014 including the new NVIDIA cuPotential library, which developers can use to build AI agents that ...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations",
-        "#NVIDIA",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
-      "details": "NVIDIA today announced semiconductor leaders are adopting NVIDIA CUDA-X\u2122 libraries \u2014 including the new NVIDIA cuPotential library, which developers can use to build AI agents that simulate how atoms and molecules interact \u2014 to advance AI-defined fabs."
     },
     {
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
@@ -571,6 +658,61 @@
       "details": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices..."
     },
     {
+      "id": "live-military-defense-business-brief-wrapping-up-ausa",
+      "title": "Defense Business Brief: Wrapping up AUSA",
+      "category": "military",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/business/2026/10/defense-business-brief-wrapping-ausa/416628/",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
+      "id": "live-military-the-most-important-alliances-will-lead-t",
+      "title": "The most important alliances will lead to critical minerals",
+      "category": "military",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "In the 21st century, geopolitical and economic advantage will depend on forging new links in strong supply chains.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/ideas/2026/10/most-important-alliances-will-lead-critical-minerals/416619/",
+      "details": "In the 21st century, geopolitical and economic advantage will depend on forging new links in strong supply chains."
+    },
+    {
+      "id": "live-military-meet-the-agency-using-ai-to-screen-grant",
+      "title": "Meet the agency using AI to screen grant applicants for links to potential adversaries",
+      "category": "military",
+      "date": "2026-10-15",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "The Transportation Department is deepening its background checks on people and organizations that apply for research grants.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Fellowship",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/10/ai-grant-recipients-adversaries/416622/",
+      "details": "The Transportation Department is deepening its background checks on people and organizations that apply for research grants."
+    },
+    {
       "id": "live-military-hegseth-service-secretaries-discuss-gene",
       "title": "Hegseth, service secretaries discuss \u2018generational change\u2019 of Autonomous Warfare Command",
       "category": "military",
@@ -605,62 +747,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/trump-foreign-influence-retreat/416587/",
       "details": "States and industry report getting less help from the federal government ahead of the midterms\u2014even as AI gives foreign operatives a boost."
-    },
-    {
-      "id": "live-military-army-converts-futures-and-concepts-comma",
-      "title": "Army converts Futures and Concepts Command to Futures and Autonomy Command",
-      "category": "military",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Officials released more details about its component organization under the Defense Department\u2019s new Autonomous Warfare Command.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/10/army-converts-futures-and-concepts-command-futures-and-autonomy-command/416576/",
-      "details": "Officials released more details about its component organization under the Defense Department\u2019s new Autonomous Warfare Command."
-    },
-    {
-      "id": "live-military-fbi-disrupts-north-korean-laptop-farms-u",
-      "title": "FBI disrupts North Korean 'laptop farms' used to fund weapons programs",
-      "category": "military",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Agents seized nearly 190 laptops across Texas in a crackdown on fraudulent remote workers.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/10/fbi-north-korea-weapons/416601/",
-      "details": "Agents seized nearly 190 laptops across Texas in a crackdown on fraudulent remote workers."
-    },
-    {
-      "id": "live-military-army-re-evaluating-munitions-procurement",
-      "title": "Army re-evaluating munitions procurement goals as Iran war continues",
-      "category": "military",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Buying more Patriot missiles is a top priority, the Army\u2019s fires acquisition boss said.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/defense-systems/2026/10/army-munitions-procurement-iran/416567/",
-      "details": "Buying more Patriot missiles is a top priority, the Army\u2019s fires acquisition boss said."
     },
     {
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
@@ -806,8 +892,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
@@ -826,8 +912,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#UnitedNations",
         "#AISecurity"
       ],
@@ -854,13 +940,49 @@
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
     },
     {
-      "id": "live-multilateral-security-council-live-deaths-demolitions",
-      "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
+      "id": "live-multilateral-the-world-is-waging-a-war-on-nature-as-p",
+      "title": "The world is waging a \u2018war on nature\u2019 as progress on biodiversity targets lags",
       "category": "multilateral",
       "date": "2026-10-15",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council is holding an open debate on Thursday focusing on the current situat...",
+      "tldr": "Fewer than half of the national targets set to protect the world\u2019s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yereva...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168607",
+      "details": "Fewer than half of the national targets set to protect the world\u2019s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference."
+    },
+    {
+      "id": "live-multilateral-ai-green-energy-and-economic-transitions",
+      "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+      "category": "multilateral",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Rapid transformations \u2013 from artificial intelligence and digital technologies to renewable energy and demographic shifts \u2013 are reshaping economies worldwide, creating new opportuni...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+      "details": "Rapid transformations \u2013 from artificial intelligence and digital technologies to renewable energy and demographic shifts \u2013 are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday."
+    },
+    {
+      "id": "live-multilateral-afghanistan-faces-record-hunger-levels-a",
+      "title": "Afghanistan faces record hunger levels amid rampant rights violations",
+      "category": "multilateral",
+      "date": "2026-10-15",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in th...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -869,55 +991,17 @@
         "#UnitedNations",
         "#AISecurity"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168599",
-      "details": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council is holding an open debate on Thursday focusing on the current situation in the Occupied Palestinian Territory."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+      "details": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday."
     },
     {
-      "id": "live-multilateral-who-urges-faster-action-to-end-lead-expo",
-      "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
+      "id": "live-multilateral-ukraine-critical-health-supplies-destroy",
+      "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
       "category": "multilateral",
       "date": "2026-10-15",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168600",
-      "details": "Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday."
-    },
-    {
-      "id": "live-multilateral-haiti-sanctions-renewed-starving-the-gan",
-      "title": "Haiti sanctions renewed: Starving the gangs of bullets",
-      "category": "multilateral",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Haiti is living through one of the world\u2019s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168598",
-      "details": "Haiti is living through one of the world\u2019s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting individuals and businesses."
-    },
-    {
-      "id": "live-multilateral-colombia-un-independent-experts-call-for",
-      "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed confl",
-      "category": "multilateral",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "UN independent experts welcomed on Wednesday&nbsp;a recent landmark corporate accountability ruling involving the Ecopetrol oil company by Colombia\u2019s Special Jurisdiction for Peace...",
+      "tldr": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate ...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -925,17 +1009,17 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168597",
-      "details": "UN independent experts welcomed on Wednesday&nbsp;a recent landmark corporate accountability ruling involving the Ecopetrol oil company by Colombia\u2019s Special Jurisdiction for Peace, calling for reparations for victims."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168603",
+      "details": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.&nbsp;"
     },
     {
-      "id": "live-multilateral-world-news-in-brief-gaza-braces-for-wint",
-      "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to ",
+      "id": "live-multilateral-who-urges-vigilance-after-kenya-confirms",
+      "title": "WHO urges vigilance after Kenya confirms second Ebola case",
       "category": "multilateral",
       "date": "2026-10-15",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordina...",
+      "tldr": "The World Health Organization (WHO) continues to support Kenya\u2019s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency\u2019s representa...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -943,8 +1027,8 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168596",
-      "details": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168602",
+      "details": "The World Health Organization (WHO) continues to support Kenya\u2019s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency\u2019s representative in the country said on Thursday.&nbsp;"
     }
   ]
 }
