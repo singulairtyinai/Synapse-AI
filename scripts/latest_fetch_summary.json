@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-15T22:55:38.425548",
+  "timestamp": "2026-10-16T03:37:28.742809",
   "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-the-download-reviving-frozen-pig-kidneys",
       "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were \u201cfrozen\u201d...",
@@ -24,7 +24,7 @@
       "id": "live-overall-how-much-more-can-nuclear-power-plants-g",
       "title": "How much more can nuclear power plants give?",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there\u2019s been big news abo...",
@@ -42,7 +42,7 @@
       "id": "live-overall-six-wild-ideas-for-perpetuating-your-min",
       "title": "Six wild ideas for perpetuating your mind",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions o...",
@@ -61,7 +61,7 @@
       "id": "live-overall-pig-kidneys-that-were-frozen-for-a-year-",
       "title": "Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to ...",
@@ -79,7 +79,7 @@
       "id": "live-overall-the-download-faking-blood-and-the-future",
       "title": "The Download: faking blood and the future of batteries",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military\u2019s race to make...",
@@ -97,7 +97,7 @@
       "id": "live-overall-artificiality-s-first-exam-an-llm-refere",
       "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes...",
@@ -107,8 +107,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#Governance",
         "#Reasoning",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.14005",
@@ -118,7 +118,7 @@
       "id": "live-overall-the-silent-failures-in-agentic-data-scie",
       "title": "The Silent Failures in Agentic Data Science",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of dat...",
@@ -127,9 +127,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#AgenticAI",
         "#Governance",
-        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.14115",
@@ -139,7 +139,7 @@
       "id": "live-overall-clawloop-self-improving-agents-via-harne",
       "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where...",
@@ -159,7 +159,7 @@
       "id": "live-overall-correction-training-for-diffusion-models",
       "title": "Correction Training for Diffusion Models",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images i...",
@@ -178,7 +178,7 @@
       "id": "live-overall-long-horizon-terminal-bench-2-0-automati",
       "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent ",
       "category": "overall",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "CRITICAL",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not ...",
@@ -195,10 +195,28 @@
       "details": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and eight task types. The extended tasks are produced through a systematic reconstruction-task pipeline. We start from a working scientific or engineering artifact, then use a parameterized reference implementation to generate multiple scenarios, reveal six as behavioral evidence, hold out three for evaluation, and use dense progress ladders to reward partial progress while preventing memorization of public outputs. We also extend the evaluation horizon from 90 minutes to three hours and record verifier checkpoints every 30 minutes, enabling direct measurement of sustained progress within a run. Across 1,145 scored model-task runs from 15 frontier models, GPT-6-astra leads with dense mean reward 0.69 and 37 tasks at R at least 0.95, followed by GPT-5.6-sol with dense mean reward 0.67 and 32 tasks at the same threshold. On the 30 reconstruction tasks, binary verifier scores average 0.221, whereas dense ladder scores average 0.653, showing that outcome-only evaluation discards substantial intermediate progress. LHTB 2.0 provides a broader, hardened, and process-aware testbed for studying reliable agent execution over hours."
     },
     {
+      "id": "live-agentic_ai-scaling-indic-pretraining-2-8-trillion-t",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "category": "agentic_ai",
+      "date": "2026-10-16",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
       "id": "live-agentic_ai-granite-switch-4-1-chat-decisions-and-sp",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -213,28 +231,10 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-apertus-1-5-release-notes",
-      "title": "Apertus 1.5 Release Notes",
-      "category": "agentic_ai",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-agentic_ai-welcome-muse-spark-open-open-weight-fron",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -252,7 +252,7 @@
       "id": "live-agentic_ai-welcome-flux-3-image-klein-in-diffusers",
       "title": "Welcome FLUX.3 Image Klein in Diffusers",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -270,7 +270,7 @@
       "id": "live-agentic_ai-hiro-acev2-simulating-extreme-weather-at",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -288,7 +288,7 @@
       "id": "live-agentic_ai-agentic-ai-could-transform-universities-",
       "title": "Agentic AI Could Transform Universities, but Adoption Won't Be Easy",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0",
@@ -307,7 +307,7 @@
       "id": "live-agentic_ai-inside-agentic-ai-workloads",
       "title": "Inside Agentic AI Workloads",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0",
@@ -325,7 +325,7 @@
       "id": "live-agentic_ai-amd-helion-for-agentic-ai-and-enterprise",
       "title": "AMD Helion for Agentic AI and Enterprise",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50...",
@@ -343,7 +343,7 @@
       "id": "live-agentic_ai-amd-helion-agentic-ai-compute-at-rack-sc",
       "title": "AMD Helion, Agentic AI Compute at Rack Scale",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50099622 Points: 1 # Comments: 0",
@@ -361,7 +361,7 @@
       "id": "live-agentic_ai-the-state-of-agentic-ai-in-chip-design-t",
       "title": "The state of agentic AI in chip design tools in 2026",
       "category": "agentic_ai",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engine...",
@@ -379,7 +379,7 @@
       "id": "live-models-bringing-gpt-rosalind-to-academic-resear",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "category": "models",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
@@ -397,7 +397,7 @@
       "id": "live-models-teaching-students-to-think-and-learn-thr",
       "title": "Teaching students to think and learn through questions",
       "category": "models",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
@@ -413,10 +413,28 @@
       "details": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
     },
     {
+      "id": "live-models-sullivan-cromwell-brings-legal-expertise",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "category": "models",
+      "date": "2026-10-16",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/sullivan-cromwell",
+      "details": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+    },
+    {
       "id": "live-models-amp-puts-ai-agents-to-work-beyond-code-w",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "category": "models",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
@@ -425,8 +443,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/amp-beyond-coding",
       "details": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
@@ -435,7 +453,7 @@
       "id": "live-models-sentinelone-cuts-malware-analysis-from-w",
       "title": "SentinelOne cuts malware analysis from weeks to hours",
       "category": "models",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
@@ -450,31 +468,10 @@
       "details": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
     },
     {
-      "id": "live-models-how-third-moment-research-runs-10-000-ag",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "category": "models",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI",
-        "#UnitedNations",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://openai.com/index/third-moment-research",
-      "details": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-    },
-    {
       "id": "live-companies-volvo-cars-and-nvidia-expand-partnership",
       "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
       "category": "companies",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Volvo Cars today announced it is expanding its partnership with NVIDIA to unlock new levels of safety in automated driving technology in future cars from Volvo, building on the com...",
@@ -493,7 +490,7 @@
       "id": "live-companies-be-there-for-the-beginning-celebrate-the",
       "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
       "category": "companies",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark \u2014 one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and ...",
@@ -513,7 +510,7 @@
       "id": "live-companies-adobe-and-nvidia-expand-collaboration-to",
       "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
       "category": "companies",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announc...",
@@ -533,7 +530,7 @@
       "id": "live-companies-open-from-data-center-to-desktop-nvidia-",
       "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL an",
       "category": "companies",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Jo...",
@@ -552,7 +549,7 @@
       "id": "live-companies-dial-up-the-cloud-nvidia-dlss-4-5-contro",
       "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
       "category": "companies",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even wi...",
@@ -570,7 +567,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -588,7 +585,7 @@
       "id": "live-fellowships-nsf-ukri-metascience-statement",
       "title": "NSF\u2013UKRI metascience statement",
       "category": "fellowships",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the ...",
@@ -597,8 +594,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Meta"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -607,7 +604,7 @@
       "id": "live-fellowships-nsf-lays-the-foundation-for-the-next-gen",
       "title": "NSF lays the foundation for the next generation of technologies and support for American talent",
       "category": "fellowships",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golde...",
@@ -625,7 +622,7 @@
       "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
       "title": "Podcast: Could holographic 3D printing be real?",
       "category": "fellowships",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
@@ -643,7 +640,7 @@
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
       "title": "Podcast: New quantum-enabled materials",
       "category": "fellowships",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices...",
@@ -661,7 +658,7 @@
       "id": "live-military-defense-business-brief-wrapping-up-ausa",
       "title": "Defense Business Brief: Wrapping up AUSA",
       "category": "military",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -679,7 +676,7 @@
       "id": "live-military-the-most-important-alliances-will-lead-t",
       "title": "The most important alliances will lead to critical minerals",
       "category": "military",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "In the 21st century, geopolitical and economic advantage will depend on forging new links in strong supply chains.",
@@ -697,7 +694,7 @@
       "id": "live-military-meet-the-agency-using-ai-to-screen-grant",
       "title": "Meet the agency using AI to screen grant applicants for links to potential adversaries",
       "category": "military",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The Transportation Department is deepening its background checks on people and organizations that apply for research grants.",
@@ -716,7 +713,7 @@
       "id": "live-military-hegseth-service-secretaries-discuss-gene",
       "title": "Hegseth, service secretaries discuss \u2018generational change\u2019 of Autonomous Warfare Command",
       "category": "military",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Each of the services will also stand up a component command, defense secretary said.",
@@ -734,7 +731,7 @@
       "id": "live-military-trump-admin-s-retreat-from-foreign-influ",
       "title": "Trump admin's retreat from foreign-influence fight is weakening US defenses, sources say",
       "category": "military",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "States and industry report getting less help from the federal government ahead of the midterms\u2014even as AI gives foreign operatives a boost.",
@@ -752,7 +749,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -770,7 +767,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -788,7 +785,7 @@
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -806,7 +803,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -824,7 +821,7 @@
       "id": "live-governance-nist-awards-more-than-1-7-million-to-sup",
       "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
@@ -833,9 +830,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#Governance",
-        "#UnitedNations",
-        "#AISecurity"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
       "details": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects."
@@ -844,7 +841,7 @@
       "id": "live-governance-commission-holds-special-meeting-of-scie",
       "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the ...",
@@ -854,8 +851,8 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
       "details": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the Scientific Panel on artificial intelligence (AI). The panel has been investigating recent loss-of-control incidents, and together with the Commission\u2019s AI Office, has worked on a set of questions for the companies that developed the models involved. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, will attend the meeting. The Scientific Panel brings together 60 world-leading independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. During the meeting, the panel will present recommendations to the Commission on frontier AI safety and security risks. Executive-Vice President Henna Virkkunen said: \u201cThe EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.\u201d Find out more about the Scientific Panel on artificial intelligence (AI) Related topics Artificial intelligence AI Office Scientific panel Related content News article12 October 2026Special meeting of the AI Scientific PanelOn 9 October 2026, Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, and Se\u00e1n \u00d3 h\u00c9igeartaigh, Chair of the AI Scientific Panel, convened a special meeting."
@@ -864,7 +861,7 @@
       "id": "live-governance-european-ai-innovation-month",
       "title": "European AI Innovation Month",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by ...",
@@ -883,7 +880,7 @@
       "id": "live-governance-establishing-the-european-ai-observatory",
       "title": "Establishing the European AI Observatory: Call for tenders",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Com...",
@@ -892,8 +889,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
@@ -903,7 +900,7 @@
       "id": "live-governance-consultation-on-eu-kids-act",
       "title": "Consultation on EU KIDS ACT",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summaris...",
@@ -912,10 +909,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
       "details": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summarised by the European Commission and presented to the European Parliament and Council with the aim of feeding into the legislative debate. Main link https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418\u2026 Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce"
@@ -924,7 +921,7 @@
       "id": "live-governance-targeted-consultation-to-support-a-bette",
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "category": "governance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nb...",
@@ -940,10 +937,29 @@
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
     },
     {
+      "id": "live-multilateral-could-your-brain-data-be-used-against-yo",
+      "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+      "category": "multilateral",
+      "date": "2026-10-16",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnolog...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+      "details": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights."
+    },
+    {
       "id": "live-multilateral-the-world-is-waging-a-war-on-nature-as-p",
       "title": "The world is waging a \u2018war on nature\u2019 as progress on biodiversity targets lags",
       "category": "multilateral",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Fewer than half of the national targets set to protect the world\u2019s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yereva...",
@@ -961,7 +977,7 @@
       "id": "live-multilateral-ai-green-energy-and-economic-transitions",
       "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
       "category": "multilateral",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Rapid transformations \u2013 from artificial intelligence and digital technologies to renewable energy and demographic shifts \u2013 are reshaping economies worldwide, creating new opportuni...",
@@ -979,7 +995,7 @@
       "id": "live-multilateral-afghanistan-faces-record-hunger-levels-a",
       "title": "Afghanistan faces record hunger levels amid rampant rights violations",
       "category": "multilateral",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in th...",
@@ -988,8 +1004,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168605",
       "details": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday."
@@ -998,7 +1014,7 @@
       "id": "live-multilateral-ukraine-critical-health-supplies-destroy",
       "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
       "category": "multilateral",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate ...",
@@ -1011,24 +1027,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168603",
       "details": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-who-urges-vigilance-after-kenya-confirms",
-      "title": "WHO urges vigilance after Kenya confirms second Ebola case",
-      "category": "multilateral",
-      "date": "2026-10-15",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The World Health Organization (WHO) continues to support Kenya\u2019s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency\u2019s representa...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168602",
-      "details": "The World Health Organization (WHO) continues to support Kenya\u2019s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency\u2019s representative in the country said on Thursday.&nbsp;"
     }
   ]
 }
