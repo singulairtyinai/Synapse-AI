@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-16T22:38:52.426161",
-  "fetched_count": 45,
+  "timestamp": "2026-10-17T03:27:29.056887",
+  "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-roundtables-a-conversation-with-the-crea",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative ...",
@@ -24,7 +24,7 @@
       "id": "live-overall-the-download-failed-social-media-bans-an",
       "title": "The Download: failed social media bans, and extending pets\u2019 lives",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social me...",
@@ -42,7 +42,7 @@
       "id": "live-overall-this-implant-can-restore-sight-for-patie",
       "title": "This implant can restore sight for patients with macular degeneration",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision....",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
       "details": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-\u00adequipped eyeglasses&#8230;"
@@ -61,7 +61,7 @@
       "id": "live-overall-love-is-infrastructure",
       "title": "Love is infrastructure",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos...",
@@ -79,7 +79,7 @@
       "id": "live-overall-can-t-bear-to-say-goodbye-to-your-pet-bi",
       "title": "Can\u2019t bear to say goodbye to your pet? Biotech\u2019s got you covered.",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "I don\u2019t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in ...",
@@ -97,7 +97,7 @@
       "id": "live-overall-the-world-won-t-wait-evaluating-and-teac",
       "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously chang...",
@@ -106,11 +106,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#UnitedNations",
         "#AgenticAI",
+        "#Reasoning",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.20665",
       "details": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations show that GPT-6.1-sol outperforms the faster Jev when games are paused, but falls behind when they keep running. We propose Two-Timescale Offline Recursive Self-Improvement (TORSI): a slow teacher studies failures and tests corrections in paused games between attempts, then writes reusable instructions for a fast student. The student acts without teacher calls during gameplay, and validation scores determine which updates are adopted. Two rounds raise Jev's average test score from 13.51 to 24.19 on a 0--100 progress scale, improving all six game types. The instructions also improve average scores for three other models without retuning. These findings point toward real-time intelligence: enabling powerful LLM agents to remain effective in a continuously changing world by organizing deliberation, learning, and action across timescales."
@@ -119,7 +119,7 @@
       "id": "live-overall-evaluating-model-capabilities-after-benc",
       "title": "Evaluating Model Capabilities After Benchmark Saturation",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses...",
@@ -128,9 +128,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.20667",
       "details": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Yet benchmark items produce far more information than the scores we typically extract from them: a full transcript of how each model solved the task. We investigate whether these transcripts can be used to assess model capabilities even after benchmark scores have saturated. We simulate saturation retrospectively using historical benchmark and model releases, and test whether protocols that access only correctly solved transcripts from saturated benchmarks can predict capabilities measured on held-out, unsaturated items. We evaluate representative contemporary approaches for extracting information from model transcripts: pairwise judging, single-transcript absolute scoring, and predictions from deterministic transcript features or embeddings. We find that saturated transcripts retain capability information beyond benchmark accuracy. Amongst our evaluated protocols, pairwise judging performs best, reducing prediction error by 5.3 times compared to a baseline using only saturated benchmark scores. This capability-relevant information is distributed across transcript sections, but concentrated in specific channels of information such as reasoning and tool-calls. However, the predictive power of protocols does not always generalise across distribution shifts -- for example by underestimating the capabilities of the first reasoning models introduced in early 2025. Saturated benchmarks thus retain capability-predicting signal in their task transcripts, but extending the lifetime of existing benchmarks requires methods designed to extract these signals robustly."
@@ -139,7 +139,7 @@
       "id": "live-overall-value-informed-schedule-trimming-for-acc",
       "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusi",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) g...",
@@ -148,9 +148,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.20669",
       "details": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluations and, for gradient-based proposals, value-gradient computations. Sparse guidance reduces this cost by guiding only a subset of timesteps, but commonly used schedules are fixed heuristics whose effectiveness can vary substantially across tasks. We propose VISTA, a training-free method that automatically selects guided timesteps under a fixed budget. VISTA formulates sparse guidance as approximation of the ideal full-guidance probability path and derives an estimable upper bound on \\(\\ell_1\\) path deviation. Using value statistics collected from a small number of full-guidance warmup generations, VISTA optimizes the resulting empirical surrogate exactly via dynamic programming. The warmup generations can be retained as model outputs, and after schedule selection VISTA has the same per-generation guidance complexity as other sparse schedules with the same budget. Across text, biological sequence, and image generation tasks, VISTA discovers task-dependent schedules and outperforms hand-designed sparse schedules in most tested settings, while approaching or exceeding full-guidance performance on several task metrics. In toxic-text generation, for example, VISTA attains a 0.99 unique-toxic ratio compared with 1.00 for full guidance while reducing post-selection per-generation latency from 204.23 s to 38.16 s, a 5.35$\\times$ speedup."
@@ -159,7 +159,7 @@
       "id": "live-overall-alphadiana-a-measurement-system-for-agen",
       "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in...",
@@ -168,11 +168,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#UnitedNations",
         "#AgenticAI",
+        "#Reasoning",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.20675",
       "details": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use. We introduce AlphaDiana, a measurement system with modular interfaces for datasets, agents, environments, and scorers. It preserves harness-native control loops while controlling file reuse and memory retention separately. AlphaDiana supports macro analyses of complete agents and micro interventions on agent components such as tools, skills, and memory under matched conditions. We study three open-source models and three open-source harnesses on five answer-based benchmarks, with two models also tested on two interactive benchmarks. We find that harnesses do not consistently improve the accuracy of reasoning: gains on questions unsolved by the model alone can be outweighed by losses on questions it answers correctly without tools. This inconsistency extends to component interventions: neither skill guidance nor retained history reliably improves accuracy. Behavior and output-token use must be assessed with correctness: low token entropy can accompany wrong answers, and less output per execution can mean more output tokens per correct answer when accuracy falls. AlphaDiana links answer correctness and execution status to traces and resource records for comparing agents and diagnosing failures under shared task and resource policies."
@@ -181,7 +181,7 @@
       "id": "live-overall-when-correctness-feedback-erases-evidenc",
       "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
       "category": "overall",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that sat...",
@@ -190,9 +190,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.20676",
       "details": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks across four model families under matched call budgets. Independent no-feedback discovery more than doubles certified-witness yield relative to IntentShield's corrective-feedback loop (59.0% versus 27.1%). A format-matched iterative control places the larger share of this gap in feedback content, not independent restarts. The advantage holds in every model family and survives parser repair. A separate phase-separated execution matches the aggregate yield without reusing responses; most certified witnesses also fail held-out cases. Preserving these witnesses delivers stronger specification repair: Phase-Revised contracts achieve 81.3% implementation success, versus 62.5% for IS-Revised, with Direct-Revised close behind. Both no-feedback witness sources substantially outperform weakened contracts. The effect does not reproduce in the available Dafny and Lean evaluations, establishing an empirical boundary around the studied Verus/Rust workflow. Completeness auditing and correctness repair have opposing immediate objectives. Preserve and certify the admitted failure before repairing it."
@@ -201,7 +201,7 @@
       "id": "live-agentic_ai-scaling-indic-pretraining-2-8-trillion-t",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "category": "agentic_ai",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -219,7 +219,7 @@
       "id": "live-agentic_ai-welcome-beam-a-501b-open-model-you-can-o",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "category": "agentic_ai",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -237,7 +237,7 @@
       "id": "live-agentic_ai-granite-switch-4-1-chat-decisions-and-sp",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "category": "agentic_ai",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -255,7 +255,7 @@
       "id": "live-agentic_ai-welcome-muse-spark-open-open-weight-fron",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "category": "agentic_ai",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -273,7 +273,7 @@
       "id": "live-agentic_ai-welcome-flux-3-image-klein-in-diffusers",
       "title": "Welcome FLUX.3 Image Klein in Diffusers",
       "category": "agentic_ai",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -288,10 +288,121 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-american-medical-association-releases-go",
+      "title": "American Medical Association releases governance framework for agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/ Comments URL: https://news.ycombinator.com/item?id=50122055 ...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+      "details": "Article URL: https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/ Comments URL: https://news.ycombinator.com/item?id=50122055 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-could-transform-universities-",
+      "title": "Agentic AI Could Transform Universities, but Adoption Won't Be Easy",
+      "category": "agentic_ai",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11",
+      "details": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-inside-agentic-ai-workloads",
+      "title": "Inside Agentic AI Workloads",
+      "category": "agentic_ai",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://gimletlabs.ai/blog/inside-agentic-ai-workloads",
+      "details": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-amd-helion-for-agentic-ai-and-enterprise",
+      "title": "AMD Helion for Agentic AI and Enterprise",
+      "category": "agentic_ai",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
+      "details": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50106243 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-amd-helion-agentic-ai-compute-at-rack-sc",
+      "title": "AMD Helion, Agentic AI Compute at Rack Scale",
+      "category": "agentic_ai",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50099622 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/",
+      "details": "Article URL: https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50099622 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-models-how-ita-is-building-generative-ai-for-it",
+      "title": "How Ita\u00fa is building generative AI for its entire customer base",
+      "category": "models",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated secto...",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://openai.com/index/itau-generative-ai",
+      "details": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
+    },
+    {
       "id": "live-models-stack-overflow-for-agents-triples-signup",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "category": "models",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
@@ -300,8 +411,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "details": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation."
@@ -310,7 +421,7 @@
       "id": "live-models-bringing-gpt-rosalind-to-academic-resear",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "category": "models",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
@@ -328,7 +439,7 @@
       "id": "live-models-teaching-students-to-think-and-learn-thr",
       "title": "Teaching students to think and learn through questions",
       "category": "models",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
@@ -337,8 +448,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI"
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "details": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
@@ -347,7 +458,7 @@
       "id": "live-models-sullivan-cromwell-brings-legal-expertise",
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
       "category": "models",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
@@ -362,29 +473,10 @@
       "details": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
     },
     {
-      "id": "live-models-amp-puts-ai-agents-to-work-beyond-code-w",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "category": "models",
-      "date": "2026-10-16",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/amp-beyond-coding",
-      "details": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
       "id": "live-companies-nvidia-rtx-spark-pcs-available-today-a-n",
       "title": "NVIDIA RTX Spark PCs Available Today \u2014 A New Beginning for Windows PCs",
       "category": "companies",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA today announced the availability of NVIDIA RTX Spark\u2122 laptops, bringing together RTX graphics and NVIDIA\u2019s full-stack AI platform in slim, premium Windows PCs for accelerate...",
@@ -393,9 +485,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Microsoft",
         "#NVIDIA",
-        "#UnitedNations",
-        "#Microsoft"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
       "details": "NVIDIA today announced the availability of NVIDIA RTX Spark\u2122 laptops, bringing together RTX graphics and NVIDIA\u2019s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u2014 rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI."
@@ -404,7 +496,7 @@
       "id": "live-companies-mercedes-benz-and-nvidia-expand-strategi",
       "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in th",
       "category": "companies",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems.",
@@ -423,7 +515,7 @@
       "id": "live-companies-volvo-cars-and-nvidia-expand-partnership",
       "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
       "category": "companies",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Volvo Cars today announced it is expanding its partnership with NVIDIA to unlock new levels of safety in automated driving technology in future cars from Volvo, building on the com...",
@@ -442,7 +534,7 @@
       "id": "live-companies-be-there-for-the-beginning-celebrate-the",
       "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
       "category": "companies",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark \u2014 one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and ...",
@@ -451,9 +543,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#NVIDIA",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
       "details": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark \u2014 one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and [\u2026]"
@@ -462,7 +554,7 @@
       "id": "live-companies-adobe-and-nvidia-expand-collaboration-to",
       "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
       "category": "companies",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announc...",
@@ -471,9 +563,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#NVIDIA",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
       "details": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announced an expansion of their partnership to optimize Adobe\u2019s flagship tools including Adobe Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge, delivering faster AI-powered creation, production and personalization."
@@ -482,7 +574,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -500,7 +592,7 @@
       "id": "live-fellowships-nsf-ukri-metascience-statement",
       "title": "NSF\u2013UKRI metascience statement",
       "category": "fellowships",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the ...",
@@ -509,8 +601,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Meta"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -519,7 +611,7 @@
       "id": "live-fellowships-nsf-lays-the-foundation-for-the-next-gen",
       "title": "NSF lays the foundation for the next generation of technologies and support for American talent",
       "category": "fellowships",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golde...",
@@ -537,7 +629,7 @@
       "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
       "title": "Podcast: Could holographic 3D printing be real?",
       "category": "fellowships",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
@@ -555,7 +647,7 @@
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
       "title": "Podcast: New quantum-enabled materials",
       "category": "fellowships",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices...",
@@ -573,7 +665,7 @@
       "id": "live-military-marines-fielding-new-tech-for-prolonged-",
       "title": "Marines fielding new tech for prolonged medical care on the battlefield",
       "category": "military",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Mobile blood refrigeration, ultrasounds, and power generation will keep troops alive beyond the \u201cgolden hour.\u201d",
@@ -591,7 +683,7 @@
       "id": "live-military-the-real-job-of-the-army-s-new-robotics-",
       "title": "The real job of the Army\u2019s new \u2018robotics technicians\u2019 is constant adaptation",
       "category": "military",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The age of battlefield autonomy demands more than just drone pilots and mechanics, Special Forces\u2019 training chief says.",
@@ -609,7 +701,7 @@
       "id": "live-military-the-lack-of-a-shared-lexicon-is-undermin",
       "title": "The lack of a shared lexicon is undermining responsible AI-military integration",
       "category": "military",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "We need a common way to talk about military AI\u2014across services, agencies, and indeed, the world.",
@@ -628,7 +720,7 @@
       "id": "live-military-fast-flying-shahed-drones-spur-new-class",
       "title": "Fast-flying Shahed drones spur new class of interceptors",
       "category": "military",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Drone tech company Powerus eyes rocket or jet-powered interceptors as the next product target.",
@@ -646,7 +738,7 @@
       "id": "live-military-defense-business-brief-wrapping-up-ausa",
       "title": "Defense Business Brief: Wrapping up AUSA",
       "category": "military",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -664,7 +756,7 @@
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -683,7 +775,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -701,7 +793,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -719,7 +811,7 @@
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -737,7 +829,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -755,7 +847,7 @@
       "id": "live-governance-commission-holds-special-meeting-of-scie",
       "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the ...",
@@ -765,8 +857,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
       "details": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the Scientific Panel on artificial intelligence (AI). The panel has been investigating recent loss-of-control incidents, and together with the Commission\u2019s AI Office, has worked on a set of questions for the companies that developed the models involved. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, will attend the meeting. The Scientific Panel brings together 60 world-leading independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. During the meeting, the panel will present recommendations to the Commission on frontier AI safety and security risks. Executive-Vice President Henna Virkkunen said: \u201cThe EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.\u201d Find out more about the Scientific Panel on artificial intelligence (AI) Related topics Artificial intelligence AI Office Scientific panel Related content News article12 October 2026Special meeting of the AI Scientific PanelOn 9 October 2026, Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, and Se\u00e1n \u00d3 h\u00c9igeartaigh, Chair of the AI Scientific Panel, convened a special meeting."
@@ -775,7 +867,7 @@
       "id": "live-governance-european-ai-innovation-month",
       "title": "European AI Innovation Month",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by ...",
@@ -784,8 +876,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
       "details": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe. Main link https://digital-strategy.ec.europa.eu/en/policies/european-ai-innovation-month Related topics Events Artificial intelligence Apply AI Summit"
@@ -794,7 +886,7 @@
       "id": "live-governance-establishing-the-european-ai-observatory",
       "title": "Establishing the European AI Observatory: Call for tenders",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Com...",
@@ -803,9 +895,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
       "details": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Commission is seeking a procurement contract for the setup and operation of the AI Observatory for a period of three years. The European AI Observatory is a new initiative to monitor and boost the uptake of AI in key sectors across the EU. It will support the objectives of the Apply AI Strategy. The project will provide indicators to assess the impact of AI in strategic sectors. It will also monitor AI development and changes it may bring to the labour market and the economy overall, as well as support the organisation of sectorial discussions. The successful contractor will: Develop a robust monitoring framework focusing on a set of key performance indicators to track the sectoral uptake of AI. The framework should help to understand related key domains \u2013 including AI investments, AI-related patents, skills and talents, and computing infrastructure \u2013 and monitor their impact on the EU economy and society. Prepare a set of sector-specific qualitative monitoring reports identifying and assessing AI use cases accross core processes of strategic sectors. Prepare a set of reports on cross-cutting challenges identified in the Apply AI Strategy and beyond. Develop and manage the AI Observatory\u2019s website. The website should display \u2013 in an interactive and appealing way \u2013 key performance indicators, strategic sector overview fiches, a tracker of the policy actions of the Commission on AI, a selection of reports on AI, as well as links to the national AI strategies of EU countries. Learn more about this tender and apply through the EU Funding &amp; Tenders Portal. Related topics Artificial intelligence"
@@ -814,7 +906,7 @@
       "id": "live-governance-consultation-on-eu-kids-act",
       "title": "Consultation on EU KIDS ACT",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summaris...",
@@ -824,9 +916,9 @@
       },
       "tags": [
         "#AISecurity",
-        "#UnitedNations",
+        "#EUAIAct",
         "#Governance",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
       "details": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summarised by the European Commission and presented to the European Parliament and Council with the aim of feeding into the legislative debate. Main link https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418\u2026 Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce"
@@ -835,7 +927,7 @@
       "id": "live-governance-targeted-consultation-to-support-a-bette",
       "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
       "category": "governance",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nb...",
@@ -844,11 +936,104 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
+    },
+    {
+      "id": "live-multilateral-as-disasters-mount-next-un-climate-summi",
+      "title": "As disasters mount, next UN climate summit faces a test of trust",
+      "category": "multilateral",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Less than a month before the UN climate conference COP31 opens in Antalya, T\u00fcrkiye, representatives of three successive summit presidencies gathered to address a pressing question:...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168617",
+      "details": "Less than a month before the UN climate conference COP31 opens in Antalya, T\u00fcrkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?"
+    },
+    {
+      "id": "live-multilateral-ukraine-civilian-casualty-rates-among-de",
+      "title": "Ukraine: Civilian casualty rates among \u2018deadliest\u2019 in years, as energy attacks intensify",
+      "category": "multilateral",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Civilian casualties in Ukraine&nbsp;remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN hum...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168614",
+      "details": "Civilian casualties in Ukraine&nbsp;remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN human rights monitors in Ukraine said on Friday."
+    },
+    {
+      "id": "live-multilateral-who-scales-up-ebola-readiness-in-22-coun",
+      "title": "WHO scales up Ebola readiness in 22 countries across three continents",
+      "category": "multilateral",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The World Health Organization (WHO) is strengthening Ebola preparedness amid conflict and displacement affecting millions of lives in a region that spans parts of Africa, Asia and ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168613",
+      "details": "The World Health Organization (WHO) is strengthening Ebola preparedness amid conflict and displacement affecting millions of lives in a region that spans parts of Africa, Asia and Europe."
+    },
+    {
+      "id": "live-multilateral-security-council-live-sudan-s-war-spread",
+      "title": "Security Council LIVE: Sudan\u2019s war spreads as drones and hunger take a deadly toll",
+      "category": "multilateral",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan \u2013 the world\u2019s largest hunger and ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+      "details": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan \u2013 the world\u2019s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling the brutal conflict.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-gaza-340-children-killed-despite-ceasefi",
+      "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+      "category": "multilateral",
+      "date": "2026-10-17",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+      "details": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children\u2019s Fund (UNICEF) said on Friday.&nbsp;"
     }
   ]
 }
