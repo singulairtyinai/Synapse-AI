@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-18T18:29:40.337947",
-  "fetched_count": 45,
+  "timestamp": "2026-10-18T22:16:33.913662",
+  "fetched_count": 40,
   "nodes": [
     {
       "id": "live-overall-roundtables-a-conversation-with-the-crea",
@@ -290,8 +290,8 @@
       },
       "tags": [
         "#NVIDIA",
-        "#UnitedNations",
-        "#Microsoft"
+        "#Microsoft",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
       "details": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [\u2026]"
@@ -310,8 +310,8 @@
       },
       "tags": [
         "#NVIDIA",
-        "#UnitedNations",
-        "#Microsoft"
+        "#Microsoft",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
       "details": "NVIDIA today announced the availability of NVIDIA RTX Spark\u2122 laptops, bringing together RTX graphics and NVIDIA\u2019s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u2014 rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI."
@@ -367,9 +367,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#NVIDIA",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
       "details": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark \u2014 one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and [\u2026]"
@@ -405,8 +405,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -550,8 +550,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/ideas/2026/10/data-fragmentation-challenge-ai-military/416632/",
       "details": "We need a common way to talk about military AI\u2014across services, agencies, and indeed, the world."
@@ -719,9 +719,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#AISecurity",
         "#UnitedNations",
-        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
@@ -745,99 +745,6 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
       "details": "Targeted consultation to support a better copyright environment for creativity and innovation Anonymous (not verified) Tue, 09/29/2026 - 10:15 &nbsp; Opening: 29 September 2026 &nbsp; Closing: 03 November 2026 The Commission has launched a targeted consultation in preparation of a possible initiative for a better copyright environment for creativity and innovation. \u00a9 anyaberkut Main link https://ec.europa.eu/eusurvey/runner/targetedconsultationcopyright Related topics Research and Innovation Copyright Artificial intelligence"
-    },
-    {
-      "id": "live-multilateral-cop17-the-world-has-a-plan-to-save-natur",
-      "title": "COP17: The world has a plan to save nature. Is it working?",
-      "category": "multilateral",
-      "date": "2026-10-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN Secretary-General has called for an end to the \u201cwar on nature\u201d. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are th...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-      "details": "The UN Secretary-General has called for an end to the \u201cwar on nature\u201d. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world\u2019s biodiversity goals back on track?"
-    },
-    {
-      "id": "live-multilateral-flour-sacks-turned-flood-barriers-gaza-f",
-      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-      "category": "multilateral",
-      "date": "2026-10-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to surv...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-      "details": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings."
-    },
-    {
-      "id": "live-multilateral-as-disasters-mount-next-un-climate-summi",
-      "title": "As disasters mount, next UN climate summit faces a test of trust",
-      "category": "multilateral",
-      "date": "2026-10-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Less than a month before the UN climate conference COP31 opens in Antalya, T\u00fcrkiye, representatives of three successive summit presidencies gathered to address a pressing question:...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168617",
-      "details": "Less than a month before the UN climate conference COP31 opens in Antalya, T\u00fcrkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?"
-    },
-    {
-      "id": "live-multilateral-ukraine-civilian-casualty-rates-among-de",
-      "title": "Ukraine: Civilian casualty rates among \u2018deadliest\u2019 in years, as energy attacks intensify",
-      "category": "multilateral",
-      "date": "2026-10-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Civilian casualties in Ukraine&nbsp;remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN hum...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168614",
-      "details": "Civilian casualties in Ukraine&nbsp;remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN human rights monitors in Ukraine said on Friday."
-    },
-    {
-      "id": "live-multilateral-who-scales-up-ebola-readiness-in-22-coun",
-      "title": "WHO scales up Ebola readiness in 22 countries across three continents",
-      "category": "multilateral",
-      "date": "2026-10-18",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The World Health Organization (WHO) is strengthening Ebola preparedness amid conflict and displacement affecting millions of lives in a region that spans parts of Africa, Asia and ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168613",
-      "details": "The World Health Organization (WHO) is strengthening Ebola preparedness amid conflict and displacement affecting millions of lives in a region that spans parts of Africa, Asia and Europe."
     }
   ]
 }
