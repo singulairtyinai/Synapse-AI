@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T08:39:52.217999",
+  "timestamp": "2026-10-18T15:32:30.265822",
   "fetched_count": 50,
   "nodes": [
     {
@@ -381,9 +381,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
         "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Microsoft"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
       "details": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [\u2026]"
@@ -401,9 +401,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
         "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Microsoft"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
       "details": "NVIDIA today announced the availability of NVIDIA RTX Spark\u2122 laptops, bringing together RTX graphics and NVIDIA\u2019s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u2014 rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI."
@@ -459,8 +459,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#NVIDIA",
+        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
@@ -558,6 +558,24 @@
       "details": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices..."
     },
     {
+      "id": "live-military-russia-has-moved-past-hybrid-war-why-has",
+      "title": "Russia has moved past \u2018hybrid war.\u2019 Why hasn\u2019t Washington?",
+      "category": "military",
+      "date": "2026-10-18",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Europe is adapting to Moscow\u2019s increasingly brazen and kinetic operations. The US should catch up.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://www.defenseone.com/ideas/2026/10/russia-has-moved-past-hybrid-war-why-hasnt-washington/416629/",
+      "details": "Europe is adapting to Moscow\u2019s increasingly brazen and kinetic operations. The US should catch up."
+    },
+    {
       "id": "live-military-us-withdrawal-won-t-end-the-region-s-isi",
       "title": "US withdrawal won\u2019t end the region\u2019s ISIS dilemma",
       "category": "military",
@@ -631,24 +649,6 @@
       "details": "We need a common way to talk about military AI\u2014across services, agencies, and indeed, the world."
     },
     {
-      "id": "live-military-fast-flying-shahed-drones-spur-new-class",
-      "title": "Fast-flying Shahed drones spur new class of interceptors",
-      "category": "military",
-      "date": "2026-10-18",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Drone tech company Powerus eyes rocket or jet-powered interceptors as the next product target.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/10/fast-flying-shahed-drones-spur-new-class-interceptors/416643/",
-      "details": "Drone tech company Powerus eyes rocket or jet-powered interceptors as the next product target."
-    },
-    {
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
@@ -661,8 +661,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -791,9 +791,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
       "details": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Commission is seeking a procurement contract for the setup and operation of the AI Observatory for a period of three years. The European AI Observatory is a new initiative to monitor and boost the uptake of AI in key sectors across the EU. It will support the objectives of the Apply AI Strategy. The project will provide indicators to assess the impact of AI in strategic sectors. It will also monitor AI development and changes it may bring to the labour market and the economy overall, as well as support the organisation of sectorial discussions. The successful contractor will: Develop a robust monitoring framework focusing on a set of key performance indicators to track the sectoral uptake of AI. The framework should help to understand related key domains \u2013 including AI investments, AI-related patents, skills and talents, and computing infrastructure \u2013 and monitor their impact on the EU economy and society. Prepare a set of sector-specific qualitative monitoring reports identifying and assessing AI use cases accross core processes of strategic sectors. Prepare a set of reports on cross-cutting challenges identified in the Apply AI Strategy and beyond. Develop and manage the AI Observatory\u2019s website. The website should display \u2013 in an interactive and appealing way \u2013 key performance indicators, strategic sector overview fiches, a tracker of the policy actions of the Commission on AI, a selection of reports on AI, as well as links to the national AI strategies of EU countries. Learn more about this tender and apply through the EU Funding &amp; Tenders Portal. Related topics Artificial intelligence"
@@ -851,8 +851,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168618",
       "details": "The UN Secretary-General has called for an end to the \u201cwar on nature\u201d. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world\u2019s biodiversity goals back on track?"
@@ -888,8 +888,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168617",
       "details": "Less than a month before the UN climate conference COP31 opens in Antalya, T\u00fcrkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?"
