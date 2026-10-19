@@ -1,7 +1,26 @@
 {
-  "timestamp": "2026-10-19T18:28:41.902489",
+  "timestamp": "2026-10-19T23:25:09.882369",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-making-the-internet-better-for-ai-agents",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "category": "overall",
+      "date": "2026-10-19",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide inte...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;"
+    },
     {
       "id": "live-overall-we-were-looking-at-it-wrong-the-explosiv",
       "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
@@ -76,24 +95,6 @@
       "details": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014copies of Claude Opus 4.7 nicknamed Eko\u2014were able to&#8230;"
     },
     {
-      "id": "live-overall-how-far-can-we-push-computing",
-      "title": "How far can we push computing?",
-      "category": "overall",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the se...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-      "details": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called \u201cThere\u2019s&#8230;"
-    },
-    {
       "id": "live-overall-structured-authority-injection-persisten",
       "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
       "category": "overall",
@@ -106,8 +107,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.22373",
@@ -126,8 +127,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Meta",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.22400",
@@ -146,9 +147,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
         "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.22403",
@@ -167,10 +168,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Reasoning",
         "#Governance",
-        "#AgenticAI"
+        "#UnitedNations",
+        "#AgenticAI",
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.22408",
       "details": "arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, undermining long-horizon reliability. We propose ECHOES, which leverages training-time privileged information to guide textual history compression and strengthen long-horizon reasoning. Specifically, ECHOES adopts a Compression-Think-Action (CTA) format to recursively update a textual history state and reason. The same model, given privileged multi-image inputs, serves as a teacher that provides dense token-level on-policy distillation on student-generated CTA rollouts. Our Perception-Memory Fidelity (PMF) Gap-guided OPD-RL framework dynamically balances privileged distillation and task-reward optimization, with periodic teacher updates supporting continued improvement. We further introduce ECHOESBMK, a fine-grained diagnostic benchmark derived from real GUI agent failure trajectories to jointly evaluate visual perception and cross-modal state retention. Experiments on four GUI benchmarks and ECHOESBMK demonstrate substantial gains in task performance and memory fidelity. Without retaining historical screenshots at deployment, ECHOES achieves competitive performance with a favorable performance-inference-cost trade-off and exhibits positive zero-shot transfer to unseen visual planning tasks."
@@ -188,12 +189,31 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.22420",
       "details": "arXiv:2610.22420v1 Announce Type: new Abstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into actionable insight requires identifying which decisions actually drive the behaviours. In such a context, sensitivity analysis stumbles upon a structural feature of many complex systems: the parameters are not a flat vector but a decision tree in which many parameters appear only when a higher-level choice activates them. Classical global sensitivity analysis presupposes independent inputs over a fixed Cartesian product and is ill-posed on such a branched space and biased by construction. We instead treat the structure of the decisions as a first-class modelling object. Using advanced surrogate modelling techniques, we encode the crop-management itinerary of the high-resolution agro-ecological modelling platform MAELIA as a hierarchical design space featuring both categorical and numerical variables. We propose a novel dedicated method to analyse this kind of hierarchical space, a random-forest-supervised HSIC-ANOVA, which ranks main effects and interactions natively on the tree while placing rarely and always active decisions on an equal footing. We show how, when applied to simulation outputs such as nitrogen leaching, soil organic carbon variation, and yield predictions, it can deliver an interpretable, decision-oriented reading."
+    },
+    {
+      "id": "live-agentic_ai-torchneuron-running-hf-models-on-aws-tra",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "category": "agentic_ai",
+      "date": "2026-10-19",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/hf-torchneuron",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-scaling-indic-pretraining-2-8-trillion-t",
@@ -268,22 +288,114 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-welcome-muse-spark-open-open-weight-fron",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "id": "live-agentic_ai-vertick-built-with-dominokit-and-agentic",
+      "title": "Vertick \u2013 built with DominoKit and agentic AI",
       "category": "agentic_ai",
       "date": "2026-10-19",
-      "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://dominokit.com/vertick/ Comments URL: https://news.ycombinator.com/item?id=50142478 Points: 1 # Comments: 0",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "HackerNews Agentic AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta"
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://huggingface.co/blog/meta-muse-spark-open",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://dominokit.com/vertick/",
+      "details": "Article URL: https://dominokit.com/vertick/ Comments URL: https://news.ycombinator.com/item?id=50142478 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-american-medical-association-releases-go",
+      "title": "American Medical Association releases governance framework for agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-10-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/ Comments URL: https://news.ycombinator.com/item?id=50122055 ...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+      "details": "Article URL: https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/ Comments URL: https://news.ycombinator.com/item?id=50122055 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-could-transform-universities-",
+      "title": "Agentic AI Could Transform Universities, but Adoption Won't Be Easy",
+      "category": "agentic_ai",
+      "date": "2026-10-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11",
+      "details": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-inside-agentic-ai-workloads",
+      "title": "Inside Agentic AI Workloads",
+      "category": "agentic_ai",
+      "date": "2026-10-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://gimletlabs.ai/blog/inside-agentic-ai-workloads",
+      "details": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-amd-helion-for-agentic-ai-and-enterprise",
+      "title": "AMD Helion for Agentic AI and Enterprise",
+      "category": "agentic_ai",
+      "date": "2026-10-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
+      "details": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50106243 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-models-advancing-coding-in-low-resource-program",
+      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "category": "models",
+      "date": "2026-10-19",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/low-resource-programming-languages",
+      "details": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
     },
     {
       "id": "live-models-how-ita-is-building-generative-ai-for-it",
@@ -298,29 +410,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/itau-generative-ai",
       "details": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
-    },
-    {
-      "id": "live-models-benefit-street-partners-answers-question",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "category": "models",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/benefit-street-partners",
-      "details": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
       "id": "live-models-stack-overflow-for-agents-triples-signup",
@@ -342,6 +436,24 @@
       "details": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation."
     },
     {
+      "id": "live-models-benefit-street-partners-answers-question",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "category": "models",
+      "date": "2026-10-19",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/benefit-street-partners",
+      "details": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+    },
+    {
       "id": "live-models-bringing-gpt-rosalind-to-academic-resear",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "category": "models",
@@ -360,23 +472,23 @@
       "details": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
     },
     {
-      "id": "live-models-teaching-students-to-think-and-learn-thr",
-      "title": "Teaching students to think and learn through questions",
-      "category": "models",
+      "id": "live-companies-germany-wants-to-lead-the-world-in-indus",
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "category": "companies",
       "date": "2026-10-19",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany\u2019s AI road...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "details": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+      "sourceUrl": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "details": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany\u2019s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA\u2019s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive [\u2026]"
     },
     {
       "id": "live-companies-nvidia-runs-record-simulation-of-fault-t",
@@ -411,11 +523,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#EUAIAct",
-        "#NVIDIA",
         "#UnitedNations",
-        "#AgenticAI"
+        "#EUAIAct",
+        "#AgenticAI",
+        "#AISecurity",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
       "details": "At a creative industry event that took place today in Berlin \u2014 hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA \u2014 the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration [\u2026]"
@@ -461,25 +573,6 @@
       "details": "NVIDIA today announced the availability of NVIDIA RTX Spark\u2122 laptops, bringing together RTX graphics and NVIDIA\u2019s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI \u2014 rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI."
     },
     {
-      "id": "live-companies-mercedes-benz-and-nvidia-expand-strategi",
-      "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in th",
-      "category": "companies",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems.",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
-      "details": "Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems."
-    },
-    {
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
@@ -510,8 +603,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -583,8 +676,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/senator-warns-hundreds-federal-web-addresses-may-lack-key-spying-protection/416671/",
       "details": "The list includes sites for FBI tips, intelligence job applications, and the Veterans Crisis Line."
@@ -765,9 +858,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#EUAIAct",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
       "details": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act. Its publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard. EN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS standard with a presumption of conformity. It is mapped to Article 17 of the AI Act, built around the AI system lifecycle \u2013 rather than the organisation \u2013 and designed to be layered on top of the existing international standards \u2013 such as ISO/IEC 42001, ISO 9001 or a sectoral QMS (e.g. ISO 13485) \u2013 rather than replace them.&nbsp; EN 18286 explicitly allows providers in regulated sectors to integrate management systems, rather than run separate ones. Organisations without ISO/IEC 42001 that plan to place or put into service high-risk AI systems in the EU market can use EN 18286 to expand an existing QMS or build one that fulfills the requirements of article 17 requirements. The publication of this standard marks an important milestone in implementing the AI Act, ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow. Find further information about the Standardisation of the AI Act. Related topics Artificial intelligence"
@@ -824,9 +917,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#EUAIAct",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
       "details": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Commission is seeking a procurement contract for the setup and operation of the AI Observatory for a period of three years. The European AI Observatory is a new initiative to monitor and boost the uptake of AI in key sectors across the EU. It will support the objectives of the Apply AI Strategy. The project will provide indicators to assess the impact of AI in strategic sectors. It will also monitor AI development and changes it may bring to the labour market and the economy overall, as well as support the organisation of sectorial discussions. The successful contractor will: Develop a robust monitoring framework focusing on a set of key performance indicators to track the sectoral uptake of AI. The framework should help to understand related key domains \u2013 including AI investments, AI-related patents, skills and talents, and computing infrastructure \u2013 and monitor their impact on the EU economy and society. Prepare a set of sector-specific qualitative monitoring reports identifying and assessing AI use cases accross core processes of strategic sectors. Prepare a set of reports on cross-cutting challenges identified in the Apply AI Strategy and beyond. Develop and manage the AI Observatory\u2019s website. The website should display \u2013 in an interactive and appealing way \u2013 key performance indicators, strategic sector overview fiches, a tracker of the policy actions of the Commission on AI, a selection of reports on AI, as well as links to the national AI strategies of EU countries. Learn more about this tender and apply through the EU Funding &amp; Tenders Portal. Related topics Artificial intelligence"
@@ -844,105 +937,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
         "#EUAIAct",
-        "#Governance",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
       "details": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summarised by the European Commission and presented to the European Parliament and Council with the aim of feeding into the legislative debate. Main link https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418\u2026 Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce"
-    },
-    {
-      "id": "live-multilateral-guterres-honours-indonesian-troops-who-p",
-      "title": "Guterres honours Indonesian troops who paid \u2018ultimate sacrifice\u2019",
-      "category": "multilateral",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "UN Secretary-General Ant\u00f3nio Guterres&nbsp;paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offerin...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-      "details": "UN Secretary-General Ant\u00f3nio Guterres&nbsp;paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called \u201ctesting times for peace\u201d."
-    },
-    {
-      "id": "live-multilateral-gaza-funding-cuts-leave-half-a-million-w",
-      "title": "Gaza: Funding cuts leave half a million without food assistance",
-      "category": "multilateral",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third \u2013 a move that will affect some 500,000 pe...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-      "details": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third \u2013 a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday."
-    },
-    {
-      "id": "live-multilateral-protecting-earth-s-fragile-biodiversity-",
-      "title": "Protecting Earth\u2019s fragile biodiversity takes spotlight at Armenia talks",
-      "category": "multilateral",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official l...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168620",
-      "details": "Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the&nbsp;UN Biodiversity Conference in Yerevan, said on Monday."
-    },
-    {
-      "id": "live-multilateral-inside-the-new-york-time-machine-racing-",
-      "title": "Inside the New York \u2018time machine\u2019 racing to save a century of sound and film",
-      "category": "multilateral",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "\u201cI tell my kids I work in a time machine,\u201d said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past. \u201cI go back in ti...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168608",
-      "details": "\u201cI tell my kids I work in a time machine,\u201d said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past. \u201cI go back in time, and I grab elements, and I make them available for people today.\u201d"
-    },
-    {
-      "id": "live-multilateral-cop17-the-world-has-a-plan-to-save-natur",
-      "title": "COP17: The world has a plan to save nature. Is it working?",
-      "category": "multilateral",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN Secretary-General has called for an end to the \u201cwar on nature\u201d. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are th...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-      "details": "The UN Secretary-General has called for an end to the \u201cwar on nature\u201d. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world\u2019s biodiversity goals back on track?"
     }
   ]
 }
