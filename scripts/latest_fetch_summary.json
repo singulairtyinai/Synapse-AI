@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-10-20T16:30:45.744263",
-  "fetched_count": 40,
+  "timestamp": "2026-10-20T22:58:44.357565",
+  "fetched_count": 50,
   "nodes": [
     {
-      "id": "live-overall-the-new-economics-of-enterprise-ai",
-      "title": "The new economics of enterprise AI",
+      "id": "live-overall-it-s-a-bird-it-s-a-plane-it-s-a-robo-puf",
+      "title": "It\u2019s a bird, it\u2019s a plane \u2026 it\u2019s a robo-puffin?",
       "category": "overall",
       "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But onc...",
+      "tldr": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plu...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
@@ -17,55 +17,35 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "details": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;"
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "details": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have&#8230;"
     },
     {
-      "id": "live-overall-the-download-the-claim-shaking-up-ai-and",
-      "title": "The Download: the claim shaking up AI and the internet\u2019s agent problem",
+      "id": "live-overall-here-s-the-tea",
+      "title": "Here\u2019s the tea",
       "category": "overall",
       "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cWe were looking at it wrong\u201d:...",
+      "tldr": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. De...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#AgenticAI"
+        "#AITrend"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world \u201cI think I have good news about the nature of neural networks.\u201d With those simple words of&#8230;"
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "details": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into&#8230;"
     },
     {
-      "id": "live-overall-ai-adoption-by-industry-shows-what-other",
-      "title": "AI adoption by industry shows what other sectors can learn",
+      "id": "live-overall-melt-it-spin-it-use-it-again",
+      "title": "Melt it, spin it, use it again",
       "category": "overall",
       "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in tec...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "details": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption\u2013tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;"
-    },
-    {
-      "id": "live-overall-how-to-study-a-swiftly-melting-climate-d",
-      "title": "How to study a swiftly melting climate disaster",
-      "category": "overall",
-      "date": "2026-10-20",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska\u2019s Denali National Park and t...",
+      "tldr": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new ...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
@@ -73,27 +53,62 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-      "details": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska\u2019s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;"
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "details": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those&#8230;"
     },
     {
-      "id": "live-overall-a-visit-to-samsung-s-massive-new-semicon",
-      "title": "A visit to Samsung\u2019s massive new semiconductor hub",
+      "id": "live-overall-a-reason-to-eat-carbs",
+      "title": "A reason to eat carbs",
       "category": "overall",
       "date": "2026-10-20",
-      "impact": "HIGH",
+      "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung...",
+      "tldr": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketog...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#AITrend"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "details": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;"
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "details": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty acids instead&#8230;"
+    },
+    {
+      "id": "live-overall-robotic-therapy-for-stroke-patients",
+      "title": "Robotic therapy for stroke patients",
+      "category": "overall",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "details": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes Lachner, a former MIT postdoc who is now an assistant professor&#8230;"
+    },
+    {
+      "id": "live-agentic_ai-nvidia-cosmos3-h-dreams-bringing-clinica",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "category": "agentic_ai",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-fairstress-a-deeper-evaluation-of-fairne",
@@ -168,22 +183,132 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-mps-in-pytorch-2-15",
-      "title": "MPS in PyTorch 2.15",
+      "id": "live-agentic_ai-agentic-ai-has-potential-uses-in-prior-a",
+      "title": "Agentic AI has potential uses in prior-authorization protocols",
       "category": "agentic_ai",
       "date": "2026-10-20",
       "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=50170755 Points: 1 # Comments: ...",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "HackerNews Agentic AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html",
+      "details": "Article URL: https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=50170755 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-time-to-rethink-shift-left-accessibility",
+      "title": "Time to rethink Shift Left accessibility with agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://wagtail.org/blog/time-to-rethink-shift-left-accessibility-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50166800 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://wagtail.org/blog/time-to-rethink-shift-left-accessibility-with-agentic-ai/",
+      "details": "Article URL: https://wagtail.org/blog/time-to-rethink-shift-left-accessibility-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50166800 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-documents-reveal-military-plan-for-agent",
+      "title": "Documents Reveal Military Plan for Agentic AI That Hacks U.S. Adversaries",
+      "category": "agentic_ai",
+      "date": "2026-10-20",
+      "impact": "HIGH",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957 Comments URL: https://news.ycombinator.com/item?id=50165546 Poi...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957",
+      "details": "Article URL: https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957 Comments URL: https://news.ycombinator.com/item?id=50165546 Points: 3 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-show-hn-a-practical-framework-for-evalua",
+      "title": "Show HN: A practical framework for evaluating agentic AI systems",
+      "category": "agentic_ai",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "details": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-vertick-built-with-dominokit-and-agentic",
+      "title": "Vertick \u2013 built with DominoKit and agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://dominokit.com/vertick/ Comments URL: https://news.ycombinator.com/item?id=50142478 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://dominokit.com/vertick/",
+      "details": "Article URL: https://dominokit.com/vertick/ Comments URL: https://news.ycombinator.com/item?id=50142478 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-models-franchisee-reconciles-cash-in-94-less-ti",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "category": "models",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/ted-taylor-restaurant",
+      "details": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+    },
+    {
+      "id": "live-models-openai-acquires-orchestra-bio",
+      "title": "OpenAI acquires Orchestra Bio",
+      "category": "models",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "details": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
     },
     {
       "id": "live-models-advancing-coding-in-low-resource-program",
@@ -241,43 +366,6 @@
       "details": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
-      "id": "live-models-stack-overflow-for-agents-triples-signup",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "category": "models",
-      "date": "2026-10-20",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "details": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation."
-    },
-    {
-      "id": "live-models-bringing-gpt-rosalind-to-academic-resear",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "category": "models",
-      "date": "2026-10-20",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "details": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
       "id": "live-companies-spain-based-startups-advance-regional-in",
       "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
       "category": "companies",
@@ -328,8 +416,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
+        "#EUAIAct",
         "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
@@ -348,11 +436,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#NVIDIA",
         "#EUAIAct",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#NVIDIA",
+        "#AgenticAI",
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
       "details": "At a creative industry event that took place today in Berlin \u2014 hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA \u2014 the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration [\u2026]"
@@ -376,6 +464,24 @@
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
       "details": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [\u2026]"
+    },
+    {
+      "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
+      "title": "Podcast: Can America's most powerful laser unlock the universe?",
+      "category": "fellowships",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "NSF News",
+      "tldr": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser ...",
+      "specs": {
+        "source": "NSF News",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.nsf.gov/news/podcast-can-americas-most-powerful-laser-unlock-universe",
+      "details": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser System, how it's being used to advance science, and how it will become\u2026"
     },
     {
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
@@ -451,22 +557,40 @@
       "details": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication..."
     },
     {
-      "id": "live-fellowships-podcast-new-quantum-enabled-materials",
-      "title": "Podcast: New quantum-enabled materials",
-      "category": "fellowships",
+      "id": "live-military-pentagon-to-start-expanding-greenland-ba",
+      "title": "Pentagon to start expanding Greenland bases next year: official",
+      "category": "military",
       "date": "2026-10-20",
       "impact": "MODERATE",
-      "company": "NSF News",
-      "tldr": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices...",
+      "company": "Defense One AI",
+      "tldr": "The U.S. is looking at upgrades to support cargo, fighter aircraft, and more troops.",
       "specs": {
-        "source": "NSF News",
+        "source": "Defense One AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#AITrend"
       ],
-      "sourceUrl": "https://www.nsf.gov/news/podcast-new-quantum-enabled-materials",
-      "details": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices..."
+      "sourceUrl": "https://www.defenseone.com/policy/2026/10/pentagon-expand-greenland-bases/416706/",
+      "details": "The U.S. is looking at upgrades to support cargo, fighter aircraft, and more troops."
+    },
+    {
+      "id": "live-military-state-department-orders-staff-to-call-ai",
+      "title": "State Department orders staff to call AI \u2018super intelligence\u2019",
+      "category": "military",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "An internal cable from the agency extends Trump\u2019s terminology change to emails, speeches, websites and official titles.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/10/state-department-super-intelligence/416705/",
+      "details": "An internal cable from the agency extends Trump\u2019s terminology change to emails, speeches, websites and official titles."
     },
     {
       "id": "live-military-trump-appointees-asked-a-federal-cyberse",
@@ -499,8 +623,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/senator-warns-hundreds-federal-web-addresses-may-lack-key-spying-protection/416671/",
       "details": "The list includes sites for FBI tips, intelligence job applications, and the Veterans Crisis Line."
@@ -522,42 +646,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/ideas/2026/10/russia-has-moved-past-hybrid-war-why-hasnt-washington/416629/",
       "details": "Europe is adapting to Moscow\u2019s increasingly brazen and kinetic operations. The US should catch up."
-    },
-    {
-      "id": "live-military-us-withdrawal-won-t-end-the-region-s-isi",
-      "title": "US withdrawal won\u2019t end the region\u2019s ISIS dilemma",
-      "category": "military",
-      "date": "2026-10-20",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Iraq, Syria, and their regional partners must cooperate to replace what U.S. troops once provided.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/ideas/2026/10/us-withdrawal-isis-dilemma/416631/",
-      "details": "Iraq, Syria, and their regional partners must cooperate to replace what U.S. troops once provided."
-    },
-    {
-      "id": "live-military-marines-fielding-new-tech-for-prolonged-",
-      "title": "Marines fielding new tech for prolonged medical care on the battlefield",
-      "category": "military",
-      "date": "2026-10-20",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Mobile blood refrigeration, ultrasounds, and power generation will keep troops alive beyond the \u201cgolden hour.\u201d",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/10/marines-fielding-new-tech-prolonged-medical-care-battlefield/416656/",
-      "details": "Mobile blood refrigeration, ultrasounds, and power generation will keep troops alive beyond the \u201cgolden hour.\u201d"
     },
     {
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
@@ -663,9 +751,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
       "details": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of online financial scams, platform features scammers exploit, their impact on users and society and measures platforms can take to stop them. Online financial scams \u2013 fraudulent schemes whose primary aim is to extract money from victims \u2013 have grown into a pervasive crime in the digital age. They are present across all types of online intermediary services, including Very Large Online Platforms (VLOPs) and Very Large Search Engines (VLOSEs). The European Commission has procured this study in 2025 to support its supervisory and enforcement tasks under the Digital Services Act (DSA). It provides a typological mapping of financial scam formats across online platforms and assesses existing and emerging mitigation strategies to curb financial scams online. The study was carried out by Open Evidence and Spark Legal and Policy Consulting. It does not evaluate compliance by providers of VLOPs and VLOSEs. Read the study. Key insights A diverse typology of scams The study maps different types of online financial scams and categorises them in six broad categories: investment scams romance scams e-commerce scams employment and collaboration scams unexpected gain scams disaster relief scams The study finds that investment scams and romance scams are the most common and fastest-growing forms of scams in Europe. It also finds that the scam landscape is increasingly being redefined by overlapping methods across different categories. Online platforms features and financial scams The study presents information on relevant features related to scams on online platforms including: advertising systems recommender systems content moderation of organic content monetisation systems app store content and private messaging functions inauthentic identities and account manipulation deceptive commercial content generative AI The study also shows how financial scams operate across different platforms and are facilitated by organised criminal networks that sell tools and services, effectively lowering the barrier to entry. Identifying effective countermeasures The study identifies relevant countermeasures across 4 categories: Access and gatekeeping measures, such as know your business customer and identity requirements are the first line of defence against online financial scams; Detection and removal measures, including automated and human-review based measures, can neutralise scam content; User facing measures \u2013 such as reporting tools and information on redress \u2013 can equip end users with tools and information to identify and report online scams; Platform-level policies and cooperation with third parties can help platforms identify, prevent and address online scams. Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -683,9 +771,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
       "details": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act. Its publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard. EN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS standard with a presumption of conformity. It is mapped to Article 17 of the AI Act, built around the AI system lifecycle \u2013 rather than the organisation \u2013 and designed to be layered on top of the existing international standards \u2013 such as ISO/IEC 42001, ISO 9001 or a sectoral QMS (e.g. ISO 13485) \u2013 rather than replace them.&nbsp; EN 18286 explicitly allows providers in regulated sectors to integrate management systems, rather than run separate ones. Organisations without ISO/IEC 42001 that plan to place or put into service high-risk AI systems in the EU market can use EN 18286 to expand an existing QMS or build one that fulfills the requirements of article 17 requirements. The publication of this standard marks an important milestone in implementing the AI Act, ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow. Find further information about the Standardisation of the AI Act. Related topics Artificial intelligence"
@@ -703,9 +791,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
       "details": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the Scientific Panel on artificial intelligence (AI). The panel has been investigating recent loss-of-control incidents, and together with the Commission\u2019s AI Office, has worked on a set of questions for the companies that developed the models involved. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, will attend the meeting. The Scientific Panel brings together 60 world-leading independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. During the meeting, the panel will present recommendations to the Commission on frontier AI safety and security risks. Executive-Vice President Henna Virkkunen said: \u201cThe EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.\u201d Find out more about the Scientific Panel on artificial intelligence (AI) Related topics Artificial intelligence AI Office Scientific panel Related content News article12 October 2026Special meeting of the AI Scientific PanelOn 9 October 2026, Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, and Se\u00e1n \u00d3 h\u00c9igeartaigh, Chair of the AI Scientific Panel, convened a special meeting."
@@ -723,8 +811,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
       "details": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe. Main link https://digital-strategy.ec.europa.eu/en/policies/european-ai-innovation-month Related topics Events Artificial intelligence Apply AI Summit"
@@ -742,12 +830,103 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
       "details": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Commission is seeking a procurement contract for the setup and operation of the AI Observatory for a period of three years. The European AI Observatory is a new initiative to monitor and boost the uptake of AI in key sectors across the EU. It will support the objectives of the Apply AI Strategy. The project will provide indicators to assess the impact of AI in strategic sectors. It will also monitor AI development and changes it may bring to the labour market and the economy overall, as well as support the organisation of sectorial discussions. The successful contractor will: Develop a robust monitoring framework focusing on a set of key performance indicators to track the sectoral uptake of AI. The framework should help to understand related key domains \u2013 including AI investments, AI-related patents, skills and talents, and computing infrastructure \u2013 and monitor their impact on the EU economy and society. Prepare a set of sector-specific qualitative monitoring reports identifying and assessing AI use cases accross core processes of strategic sectors. Prepare a set of reports on cross-cutting challenges identified in the Apply AI Strategy and beyond. Develop and manage the AI Observatory\u2019s website. The website should display \u2013 in an interactive and appealing way \u2013 key performance indicators, strategic sector overview fiches, a tracker of the policy actions of the Commission on AI, a selection of reports on AI, as well as links to the national AI strategies of EU countries. Learn more about this tender and apply through the EU Funding &amp; Tenders Portal. Related topics Artificial intelligence"
+    },
+    {
+      "id": "live-multilateral-ai-on-track-to-crowd-out-human-decision-",
+      "title": "AI on track to \u2018crowd out\u2019 human decision-making in warfare",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "HIGH",
+      "company": "UN News AI",
+      "tldr": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN\u2019s independen...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168636",
+      "details": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN\u2019s independent disarmament research institute warned on Tuesday.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-as-sudan-war-spills-into-central-african",
+      "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168630",
+      "details": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR)."
+    },
+    {
+      "id": "live-multilateral-bangladesh-unicef-chief-calls-for-an-end",
+      "title": "Bangladesh: UNICEF chief calls for an end to child marriage",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "At 14, Bushra faced being married off \u2013 until community leaders at a UNICEF-supported child protection hub worked with her father to prevent her from being given away against her w...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168632",
+      "details": "At 14, Bushra faced being married off \u2013 until community leaders at a UNICEF-supported child protection hub worked with her father to prevent her from being given away against her will."
+    },
+    {
+      "id": "live-multilateral-one-step-away-from-famine-inside-afghani",
+      "title": "\u2018One step away from famine\u2019: Inside Afghanistan\u2019s hunger crisis",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Following extreme hunger warnings, a bitter reality is unfolding across Afghanistan: food is available, but remains inaccessible for millions of people.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168631",
+      "details": "Following extreme hunger warnings, a bitter reality is unfolding across Afghanistan: food is available, but remains inaccessible for millions of people."
+    },
+    {
+      "id": "live-multilateral-yemen-war-continues-to-force-families-fr",
+      "title": "Yemen war continues to force families from homes amid hunger and disease",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wi...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+      "details": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is \u201cessentially blocked\u201d."
     }
   ]
 }
