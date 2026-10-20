@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-19T23:25:09.882369",
+  "timestamp": "2026-10-20T03:55:45.538739",
   "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-making-the-internet-better-for-ai-agents",
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide inte...",
@@ -25,7 +25,7 @@
       "id": "live-overall-we-were-looking-at-it-wrong-the-explosiv",
       "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-wo...",
@@ -43,7 +43,7 @@
       "id": "live-overall-the-download-preserving-the-arctic-perma",
       "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arc...",
@@ -62,7 +62,7 @@
       "id": "live-overall-inside-the-quest-to-combat-arctic-fires-",
       "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Ala...",
@@ -80,7 +80,7 @@
       "id": "live-overall-ai-researchers-stranded-claude-on-a-virt",
       "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in ...",
@@ -98,7 +98,7 @@
       "id": "live-overall-structured-authority-injection-persisten",
       "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains...",
@@ -118,7 +118,7 @@
       "id": "live-overall-rethinking-user-encoders-routing-diffusi",
       "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static repres...",
@@ -127,9 +127,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#Meta",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.22400",
       "details": "arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through autoregressive (AR) prediction. However, their unidirectional constraint limits bidirectional information flow, hindering cross-modal interactions and the joint preservation of multi-source signals. Consequently, the learned static representations struggle to accommodate the distinct evidence requirements of diverse downstream scenarios. We address these limitations by unlocking the iterative denoising process of diffusion language models (dLLMs) as a multi-granularity reconstruction space. Based on this insight, we propose FINDERS (FactorIzatioN of Diffusion statEs for Routing across Scenarios), a router-equipped dLLM framework comprising four operations: denoise, factorize, route, and compress. Learnable meta-slots organize complementary denoising states into transferable cross-modal semantics and modality-specific behavioral factors. To provide grounded supervision, we construct BehaviorQA, a large-scale corpus containing explicit behavioral rationales. Guided by scenario queries, a lightweight router dynamically emphasizes relevant slot directions via an input-level residual pathway before cross-source fusion and final compression. Extensive experiments and online A/B tests across ten industrial scenarios demonstrate that FINDERS consistently outperforms state-of-the-art methods in both unified and scenario-adaptive settings. This work effectively pushes the boundaries of dLLMs beyond language generation, demonstrating their immense potential as powerful user representation learners."
@@ -138,7 +138,7 @@
       "id": "live-overall-from-events-to-reasoning-hierarchical-ru",
       "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.22403v1 Announce Type: new Abstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be admissi...",
@@ -147,10 +147,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#Reasoning",
         "#UnitedNations",
         "#EUAIAct",
-        "#Reasoning"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.22403",
       "details": "arXiv:2610.22403v1 Announce Type: new Abstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be admissible on the facts actually available, the dependencies of intermediate results to survive to the end of the path, and the path to be revised when a premise changes. We present the Event Reasoning System (ERS), in which the reasoning state is an explicit event graph. Semantic features nominate candidate objects and rule bindings, and declared rule and task conditions decide which may execute, so candidates that violate the represented period, unit, or evidence constraints cannot enter an accepted reasoning path. Low-level rules provide reusable local transformations, and recursively composable high-level control rules organize subgoals and legal paths under the current goal, information gaps, and budget; a finite library is thereby rebound into paths never stored as complete solutions. We formalize admissible transitions, task-dependent control, compositional expressivity, dependency-preserving revision, and the gap between reachable solutions and those a budgeted controller finds. On structured-event graphs, ERS builds dependency chains of up to twelve steps, cuts irrelevant executed domain operations from 32 to 0 as lookahead grows to 16, and produces no unsupported target output across 24 negative cases; with rules frozen, it passes 12/12 focused checks comprising nine accepted derivations involving unseen input/path combinations and three justified refusals, as well as 6/6 fact-change cases. On fourteen jointly solved development tasks, the recorded dynamic subgoal configuration uses 51.6% less inference wall-clock time than single-level global control under their respective frozen settings."
@@ -159,7 +159,7 @@
       "id": "live-overall-echoes-seeing-beyond-the-current-image-v",
       "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy D",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token ...",
@@ -168,10 +168,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Reasoning",
         "#Governance",
         "#UnitedNations",
-        "#AgenticAI",
-        "#Reasoning"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.22408",
       "details": "arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, undermining long-horizon reliability. We propose ECHOES, which leverages training-time privileged information to guide textual history compression and strengthen long-horizon reasoning. Specifically, ECHOES adopts a Compression-Think-Action (CTA) format to recursively update a textual history state and reason. The same model, given privileged multi-image inputs, serves as a teacher that provides dense token-level on-policy distillation on student-generated CTA rollouts. Our Perception-Memory Fidelity (PMF) Gap-guided OPD-RL framework dynamically balances privileged distillation and task-reward optimization, with periodic teacher updates supporting continued improvement. We further introduce ECHOESBMK, a fine-grained diagnostic benchmark derived from real GUI agent failure trajectories to jointly evaluate visual perception and cross-modal state retention. Experiments on four GUI benchmarks and ECHOESBMK demonstrate substantial gains in task performance and memory fidelity. Without retaining historical screenshots at deployment, ECHOES achieves competitive performance with a favorable performance-inference-cost trade-off and exhibits positive zero-shot transfer to unseen visual planning tasks."
@@ -180,7 +180,7 @@
       "id": "live-overall-sensitivity-analysis-of-decision-rules-i",
       "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
       "category": "overall",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.22420v1 Announce Type: new Abstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into act...",
@@ -200,7 +200,7 @@
       "id": "live-agentic_ai-torchneuron-running-hf-models-on-aws-tra",
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "category": "agentic_ai",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -219,7 +219,7 @@
       "id": "live-agentic_ai-scaling-indic-pretraining-2-8-trillion-t",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "category": "agentic_ai",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -237,7 +237,7 @@
       "id": "live-agentic_ai-welcome-beam-a-501b-open-model-you-can-o",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "category": "agentic_ai",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -255,7 +255,7 @@
       "id": "live-agentic_ai-granite-switch-4-1-chat-decisions-and-sp",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "category": "agentic_ai",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -273,7 +273,7 @@
       "id": "live-agentic_ai-apertus-1-5-release-notes",
       "title": "Apertus 1.5 Release Notes",
       "category": "agentic_ai",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -288,102 +288,10 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-vertick-built-with-dominokit-and-agentic",
-      "title": "Vertick \u2013 built with DominoKit and agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://dominokit.com/vertick/ Comments URL: https://news.ycombinator.com/item?id=50142478 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://dominokit.com/vertick/",
-      "details": "Article URL: https://dominokit.com/vertick/ Comments URL: https://news.ycombinator.com/item?id=50142478 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-american-medical-association-releases-go",
-      "title": "American Medical Association releases governance framework for agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/ Comments URL: https://news.ycombinator.com/item?id=50122055 ...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
-      "details": "Article URL: https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/ Comments URL: https://news.ycombinator.com/item?id=50122055 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-could-transform-universities-",
-      "title": "Agentic AI Could Transform Universities, but Adoption Won't Be Easy",
-      "category": "agentic_ai",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11",
-      "details": "Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-inside-agentic-ai-workloads",
-      "title": "Inside Agentic AI Workloads",
-      "category": "agentic_ai",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://gimletlabs.ai/blog/inside-agentic-ai-workloads",
-      "details": "Article URL: https://gimletlabs.ai/blog/inside-agentic-ai-workloads Comments URL: https://news.ycombinator.com/item?id=50107596 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-amd-helion-for-agentic-ai-and-enterprise",
-      "title": "AMD Helion for Agentic AI and Enterprise",
-      "category": "agentic_ai",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
-      "details": "Article URL: https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale Comments URL: https://news.ycombinator.com/item?id=50106243 Points: 3 # Comments: 0"
-    },
-    {
       "id": "live-models-advancing-coding-in-low-resource-program",
-      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "title": "Advancing coding in low\u2011resource programming languages",
       "category": "models",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
@@ -401,7 +309,7 @@
       "id": "live-models-how-ita-is-building-generative-ai-for-it",
       "title": "How Ita\u00fa is building generative AI for its entire customer base",
       "category": "models",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated secto...",
@@ -410,17 +318,35 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#OpenAI"
+        "#OpenAI",
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/itau-generative-ai",
       "details": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
     },
     {
+      "id": "live-models-benefit-street-partners-answers-question",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "category": "models",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/benefit-street-partners",
+      "details": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+    },
+    {
       "id": "live-models-stack-overflow-for-agents-triples-signup",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "category": "models",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
@@ -436,28 +362,10 @@
       "details": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation."
     },
     {
-      "id": "live-models-benefit-street-partners-answers-question",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "category": "models",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/benefit-street-partners",
-      "details": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
-    },
-    {
       "id": "live-models-bringing-gpt-rosalind-to-academic-resear",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "category": "models",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
@@ -475,7 +383,7 @@
       "id": "live-companies-germany-wants-to-lead-the-world-in-indus",
       "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
       "category": "companies",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany\u2019s AI road...",
@@ -494,7 +402,7 @@
       "id": "live-companies-nvidia-runs-record-simulation-of-fault-t",
       "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at J\u00fclich Supercomputing Centre",
       "category": "companies",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "CRITICAL",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA today announced a record-breaking quantum computing simulation on JUPITER, Europe\u2019s first exascale supercomputer, allowing researchers to fully explore and validate magic st...",
@@ -514,7 +422,7 @@
       "id": "live-companies-nvidia-advances-agentic-security-for-med",
       "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Cont",
       "category": "companies",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "At a creative industry event that took place today in Berlin \u2014 hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA \u2014 the latest advancements in intelligent media were o...",
@@ -523,11 +431,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
-        "#AgenticAI",
         "#AISecurity",
-        "#NVIDIA"
+        "#UnitedNations",
+        "#AgenticAI",
+        "#NVIDIA",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
       "details": "At a creative industry event that took place today in Berlin \u2014 hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA \u2014 the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration [\u2026]"
@@ -536,7 +444,7 @@
       "id": "live-companies-rtx-spark-ignites-global-celebration-as-",
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
       "category": "companies",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Star...",
@@ -545,8 +453,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Microsoft",
+        "#UnitedNations",
         "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
@@ -556,7 +464,7 @@
       "id": "live-companies-nvidia-rtx-spark-pcs-available-today-a-n",
       "title": "NVIDIA RTX Spark PCs Available Today \u2014 A New Beginning for Windows PCs",
       "category": "companies",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA today announced the availability of NVIDIA RTX Spark\u2122 laptops, bringing together RTX graphics and NVIDIA\u2019s full-stack AI platform in slim, premium Windows PCs for accelerate...",
@@ -565,8 +473,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Microsoft",
+        "#UnitedNations",
         "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
@@ -576,7 +484,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -594,7 +502,7 @@
       "id": "live-fellowships-nsf-ukri-metascience-statement",
       "title": "NSF\u2013UKRI metascience statement",
       "category": "fellowships",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the ...",
@@ -613,7 +521,7 @@
       "id": "live-fellowships-nsf-lays-the-foundation-for-the-next-gen",
       "title": "NSF lays the foundation for the next generation of technologies and support for American talent",
       "category": "fellowships",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golde...",
@@ -631,7 +539,7 @@
       "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
       "title": "Podcast: Could holographic 3D printing be real?",
       "category": "fellowships",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
@@ -649,7 +557,7 @@
       "id": "live-fellowships-podcast-new-quantum-enabled-materials",
       "title": "Podcast: New quantum-enabled materials",
       "category": "fellowships",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices...",
@@ -664,10 +572,28 @@
       "details": "NSF-supported researcher Morteza Kayyalha discusses his work developing quantum-enabled materials and devices..."
     },
     {
+      "id": "live-military-trump-appointees-asked-a-federal-cyberse",
+      "title": "Trump appointees asked a federal cybersecurity agency to secretly hack a voting machine",
+      "category": "military",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "The request shocked staffers, who feared they were being asked to take part in political interference.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/10/trump-appointees-cybersecurity-agency-hack-voting-machine/416692/",
+      "details": "The request shocked staffers, who feared they were being asked to take part in political interference."
+    },
+    {
       "id": "live-military-hundreds-of-federal-websites-lack-key-de",
       "title": "Hundreds of federal websites lack key defense against spies, senator says",
       "category": "military",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The list includes sites for FBI tips, intelligence job applications, and the Veterans Crisis Line.",
@@ -686,7 +612,7 @@
       "id": "live-military-russia-has-moved-past-hybrid-war-why-has",
       "title": "Russia has moved past \u2018hybrid war.\u2019 Why hasn\u2019t Washington?",
       "category": "military",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Europe is adapting to Moscow\u2019s increasingly brazen and kinetic operations. The US should catch up.",
@@ -704,7 +630,7 @@
       "id": "live-military-us-withdrawal-won-t-end-the-region-s-isi",
       "title": "US withdrawal won\u2019t end the region\u2019s ISIS dilemma",
       "category": "military",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Iraq, Syria, and their regional partners must cooperate to replace what U.S. troops once provided.",
@@ -722,7 +648,7 @@
       "id": "live-military-marines-fielding-new-tech-for-prolonged-",
       "title": "Marines fielding new tech for prolonged medical care on the battlefield",
       "category": "military",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Mobile blood refrigeration, ultrasounds, and power generation will keep troops alive beyond the \u201cgolden hour.\u201d",
@@ -737,28 +663,10 @@
       "details": "Mobile blood refrigeration, ultrasounds, and power generation will keep troops alive beyond the \u201cgolden hour.\u201d"
     },
     {
-      "id": "live-military-the-real-job-of-the-army-s-new-robotics-",
-      "title": "The real job of the Army\u2019s new \u2018robotics technicians\u2019 is constant adaptation",
-      "category": "military",
-      "date": "2026-10-19",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The age of battlefield autonomy demands more than just drone pilots and mechanics, Special Forces\u2019 training chief says.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/10/army-robotics-technician--adaptation/416651/",
-      "details": "The age of battlefield autonomy demands more than just drone pilots and mechanics, Special Forces\u2019 training chief says."
-    },
-    {
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -767,8 +675,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -777,7 +685,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -795,7 +703,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -813,7 +721,7 @@
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -831,7 +739,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -849,7 +757,7 @@
       "id": "live-governance-first-harmonised-standard-supporting-the",
       "title": "First harmonised standard supporting the AI Act published in the Official Journal",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "CRITICAL",
       "company": "EU Digital Strategy",
       "tldr": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the referen...",
@@ -869,7 +777,7 @@
       "id": "live-governance-commission-holds-special-meeting-of-scie",
       "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the ...",
@@ -878,9 +786,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#UnitedNations",
-        "#EUAIAct",
-        "#AISecurity"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
       "details": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the Scientific Panel on artificial intelligence (AI). The panel has been investigating recent loss-of-control incidents, and together with the Commission\u2019s AI Office, has worked on a set of questions for the companies that developed the models involved. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, will attend the meeting. The Scientific Panel brings together 60 world-leading independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. During the meeting, the panel will present recommendations to the Commission on frontier AI safety and security risks. Executive-Vice President Henna Virkkunen said: \u201cThe EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.\u201d Find out more about the Scientific Panel on artificial intelligence (AI) Related topics Artificial intelligence AI Office Scientific panel Related content News article12 October 2026Special meeting of the AI Scientific PanelOn 9 October 2026, Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, and Se\u00e1n \u00d3 h\u00c9igeartaigh, Chair of the AI Scientific Panel, convened a special meeting."
@@ -889,7 +797,7 @@
       "id": "live-governance-european-ai-innovation-month",
       "title": "European AI Innovation Month",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by ...",
@@ -908,7 +816,7 @@
       "id": "live-governance-establishing-the-european-ai-observatory",
       "title": "Establishing the European AI Observatory: Call for tenders",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Establishing the European AI Observatory: Call for tenders Anonymous (not verified) Mon, 10/05/2026 - 09:22 &nbsp; Opening: 05 October 2026 &nbsp; Closing: 03 November 2026 The Com...",
@@ -928,7 +836,7 @@
       "id": "live-governance-consultation-on-eu-kids-act",
       "title": "Consultation on EU KIDS ACT",
       "category": "governance",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summaris...",
@@ -937,13 +845,104 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#AISecurity",
         "#UnitedNations",
         "#EUAIAct",
-        "#AISecurity"
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
       "details": "Consultation on EU KIDS ACT Anonymous (not verified) Fri, 10/02/2026 - 12:26 &nbsp; Opening: 02 October 2026 &nbsp; Closing: 03 December 2026 All feedback received will be summarised by the European Commission and presented to the European Parliament and Council with the aim of feeding into the legislative debate. Main link https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418\u2026 Related topics Better Internet for Children Strengthening trust and security Online platforms and e-commerce"
+    },
+    {
+      "id": "live-multilateral-un-condemns-deadly-wave-of-drone-strikes",
+      "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+      "details": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger."
+    },
+    {
+      "id": "live-multilateral-hunger-is-an-avoidable-tragedy-in-a-worl",
+      "title": "Hunger is \u2018an avoidable tragedy\u2019 in a world of plenty: T\u00fcrk",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More than a quarter of humanity struggles to get enough food, even though the world produces enough for everyone, UN human rights chief Volker T\u00fcrk said on Monday, blaming injustic...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168627",
+      "details": "More than a quarter of humanity struggles to get enough food, even though the world produces enough for everyone, UN human rights chief Volker T\u00fcrk said on Monday, blaming injustice and the denial of human rights for hunger in a world of plenty.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-haiti-elections-on-hold-as-gangs-adapt-t",
+      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Securit...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+      "details": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday."
+    },
+    {
+      "id": "live-multilateral-season-of-fear-escalating-israeli-attack",
+      "title": "\u2018Season of fear\u2019: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+      "details": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers."
+    },
+    {
+      "id": "live-multilateral-guterres-honours-indonesian-troops-who-p",
+      "title": "Guterres honours Indonesian troops who paid \u2018ultimate sacrifice\u2019",
+      "category": "multilateral",
+      "date": "2026-10-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "UN Secretary-General Ant\u00f3nio Guterres&nbsp;paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offerin...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "details": "UN Secretary-General Ant\u00f3nio Guterres&nbsp;paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called \u201ctesting times for peace\u201d."
     }
   ]
 }
