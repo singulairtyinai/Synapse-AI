@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-21T16:48:11.451070",
-  "fetched_count": 40,
+  "timestamp": "2026-10-21T23:03:19.737722",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-introducing-the-impossible-",
@@ -106,10 +106,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Reasoning",
         "#AgenticAI",
-        "#Governance",
-        "#Reasoning"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.26887",
       "details": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numerical reasoning, but expert task authoring is costly, while direct LLM synthesis struggles to produce challenging tasks with reliable answers. We introduce Navalia, a framework for Cowork Agents that combines verifiable task synthesis with long-horizon post-training. Using corporate financial reports as its data source, Navalia semantically selects supporting evidence from complete fact sets and constructs executable computation chains to generate analytical tasks with traceable evidence and actual data dependencies between steps. We further use independent LLM review and programmatic checks to verify evidence consistency and answer correctness. The verified tasks are then used for trajectory collection, cold-start supervised fine-tuning (SFT), and reinforcement learning (RL) to improve long-horizon task execution. Navalia, initialized from Qwen3.6-35B-A3B, achieves consistent gains over the base model across all five benchmarks: OfficeQA Pro, FinSearchComp, Finance Agent Benchmark, APEX-Agents-AA, and Workspace-Bench-Lite. These results demonstrate that Navalia improves evidence integration, tool use, and long-horizon task execution capabilities and generalizes to broader Cowork settings, including general office tasks."
@@ -165,8 +165,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AgenticAI",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.26913",
@@ -185,13 +185,49 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Reasoning",
         "#AgenticAI",
-        "#Governance",
-        "#Reasoning"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.26924",
       "details": "arXiv:2610.26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challenging tasks. However, generating tasks directly from raw data often overlooks deeper questions that emerge through analysis and provides limited evidence for verification. To address these limitations, we introduce DataPraxis, an analytics task synthesis framework based on verified workspace evolution. The framework progressively enriches workspaces with validated findings and artifacts, then inherits and combines these workspaces to uncover deeper questions. It constructs tasks from accumulated findings and their dependencies, verifying analytical results both during evolution and after task assembly. Using this framework, we construct DataPraxis-5K, a dataset of 5,000 verified trajectories spanning diverse domains and output formats, to train DataPraxis-27B and DataPraxis-35B-A3B. DataPraxis-27B achieves 55.11 on DABStep and 51.9 on JobBench, matching or surpassing frontier models such as GLM-5.2. DataPraxis-5K is available at huggingface.co/datasets/stargazerhust/DataPraxis-5k"
+    },
+    {
+      "id": "live-agentic_ai-nvidia-kumo-relational-outperforms-super",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Requi",
+      "category": "agentic_ai",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
+      "id": "live-agentic_ai-how-specializing-the-vocabulary-of-slms-",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "category": "agentic_ai",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-profiling-torchneuron-part-1-system-leve",
@@ -230,24 +266,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-nvidia-kumo-forecast-combines-pretrained",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retriev",
-      "category": "agentic_ai",
-      "date": "2026-10-21",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-agentic_ai-fairstress-a-deeper-evaluation-of-fairne",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "category": "agentic_ai",
@@ -266,22 +284,133 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-altk-evolve-how-learned-memory-tops-the-",
-      "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a fr",
+      "id": "live-agentic_ai-mining-architectural-quality-under-agent",
+      "title": "Mining Architectural Quality Under Agentic AI Adoption",
       "category": "agentic_ai",
       "date": "2026-10-21",
-      "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "HackerNews Agentic AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#AgenticAI",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://arxiv.org/abs/2606.13298",
+      "details": "Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-has-potential-uses-in-prior-a",
+      "title": "Agentic AI has potential uses in prior-authorization protocols",
+      "category": "agentic_ai",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=50170755 Points: 1 # Comments: ...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html",
+      "details": "Article URL: https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=50170755 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-time-to-rethink-shift-left-accessibility",
+      "title": "Time to rethink Shift Left accessibility with agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://wagtail.org/blog/time-to-rethink-shift-left-accessibility-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50166800 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://wagtail.org/blog/time-to-rethink-shift-left-accessibility-with-agentic-ai/",
+      "details": "Article URL: https://wagtail.org/blog/time-to-rethink-shift-left-accessibility-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50166800 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-documents-reveal-military-plan-for-agent",
+      "title": "Documents Reveal Military Plan for Agentic AI That Hacks U.S. Adversaries",
+      "category": "agentic_ai",
+      "date": "2026-10-21",
+      "impact": "HIGH",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957 Comments URL: https://news.ycombinator.com/item?id=50165546 Poi...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957",
+      "details": "Article URL: https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957 Comments URL: https://news.ycombinator.com/item?id=50165546 Points: 3 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-show-hn-a-practical-framework-for-evalua",
+      "title": "Show HN: A practical framework for evaluating agentic AI systems",
+      "category": "agentic_ai",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "details": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-models-how-at-t-is-rethinking-in-house-legal-wo",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "category": "models",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/att-legal",
+      "details": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+    },
+    {
+      "id": "live-models-broad-access-through-consistent-standard",
+      "title": "Broad access through consistent standards",
+      "category": "models",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/broad-access-through-consistent-standards",
+      "details": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
     },
     {
       "id": "live-models-openai-models-are-coming-to-google-cloud",
@@ -296,8 +425,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Google",
-        "#OpenAI"
+        "#OpenAI",
+        "#Google"
       ],
       "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
       "details": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace."
@@ -315,10 +444,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AISecurity",
+        "#OpenAI",
         "#AgenticAI",
-        "#OpenAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "details": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
@@ -336,50 +465,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "details": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "id": "live-models-using-thousands-of-ai-agents-to-uncover-",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "category": "models",
-      "date": "2026-10-21",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AgenticAI",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "details": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
-    },
-    {
-      "id": "live-models-how-we-built-chatgpt-s-novel-ad-stack-fo",
-      "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
-      "category": "models",
-      "date": "2026-10-21",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/building-chatgpt-ad-stack",
-      "details": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
     },
     {
       "id": "live-companies-bringing-the-spark-to-europe-local-intel",
@@ -394,10 +484,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#NVIDIA",
         "#EUAIAct",
         "#AgenticAI",
-        "#NVIDIA"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
       "details": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: [\u2026]"
@@ -415,10 +505,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Google",
+        "#NVIDIA",
         "#EUAIAct",
-        "#NVIDIA"
+        "#Google",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
       "details": "General availability of the instances is coming next month, with planned expansion of availability to Europe \u2014 bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud\u2019s fourth-generation advanced liquid-cooling technology for demanding [\u2026]"
@@ -436,9 +526,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#UnitedNations",
-        "#Governance",
-        "#NVIDIA"
+        "#Governance"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
       "details": "NVIDIA today announced plans with a group of supply chain partners to expand global manufacturing capacity to meet growing demand for its accelerated computing and full-stack AI factory platform."
@@ -456,9 +546,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#EUAIAct",
-        "#AgenticAI",
-        "#NVIDIA"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
       "details": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for [\u2026]"
@@ -476,10 +566,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#NVIDIA",
         "#EUAIAct",
-        "#Governance",
-        "#NVIDIA"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
       "details": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe\u2019s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle. Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in [\u2026]"
@@ -533,8 +623,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -574,6 +664,24 @@
       ],
       "sourceUrl": "https://www.nsf.gov/news/podcast-could-holographic-3d-printing-be-real",
       "details": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication..."
+    },
+    {
+      "id": "live-military-critical-flaws-in-ubiquitous-website-sof",
+      "title": "Critical flaws in ubiquitous website software draw urgent warning from NSA, FBI",
+      "category": "military",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Organizations should immediately update to the latest version of PHP or take systems offline, agencies say.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/10/critical-flaws-php-warning/416727/",
+      "details": "Organizations should immediately update to the latest version of PHP or take systems offline, agencies say."
     },
     {
       "id": "live-military-add-post-ai-encryption-to-your-to-do-lis",
@@ -648,24 +756,6 @@
       "details": "An internal cable from the agency extends Trump\u2019s terminology change to emails, speeches, websites and official titles."
     },
     {
-      "id": "live-military-trump-appointees-asked-a-federal-cyberse",
-      "title": "Trump appointees asked a federal cybersecurity agency to secretly hack a voting machine",
-      "category": "military",
-      "date": "2026-10-21",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The request shocked staffers, who feared they were being asked to take part in political interference.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/10/trump-appointees-cybersecurity-agency-hack-voting-machine/416692/",
-      "details": "The request shocked staffers, who feared they were being asked to take part in political interference."
-    },
-    {
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
@@ -678,8 +768,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -755,6 +845,98 @@
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities",
       "details": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts."
+    },
+    {
+      "id": "live-multilateral-fate-unknown-of-many-returned-to-dpr-kor",
+      "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+      "category": "multilateral",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People\u2019s Republic of Korea (DPRK) from China, serious concerns persist ab...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168645",
+      "details": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People\u2019s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts."
+    },
+    {
+      "id": "live-multilateral-ominous-start-to-west-bank-olive-harvest",
+      "title": "\u2018Ominous start\u2019 to West Bank olive harvest amid settler attacks",
+      "category": "multilateral",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The use of&nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year\u2019s harvest in the occupied West Bank.",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168644",
+      "details": "The use of&nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year\u2019s harvest in the occupied West Bank."
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-aid-for-ethiopia-aby",
+      "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn healt",
+      "category": "multilateral",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The World Health Organization (WHO) is&nbsp;scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health ne...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168643",
+      "details": "The World Health Organization (WHO) is&nbsp;scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health needs resulting from ongoing hostilities."
+    },
+    {
+      "id": "live-multilateral-migrants-paid-up-to-500-million-in-smugg",
+      "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+      "category": "multilateral",
+      "date": "2026-10-21",
+      "impact": "HIGH",
+      "company": "UN News AI",
+      "tldr": "The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, report...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct",
+        "#UnitedNations",
+        "#Fellowship"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168642",
+      "details": "The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday."
+    },
+    {
+      "id": "live-multilateral-summit-in-samarkand-a-boon-for-child-wel",
+      "title": "Summit in Samarkand, a boon for child wellbeing and health",
+      "category": "multilateral",
+      "date": "2026-10-21",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Representatives from across the international community are meeting in Samarkand, Uzbekistan, to ensure that children everywhere can thrive in a world marred by war, climate chaos ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168640",
+      "details": "Representatives from across the international community are meeting in Samarkand, Uzbekistan, to ensure that children everywhere can thrive in a world marred by war, climate chaos and other fundamental challenges."
     }
   ]
 }
