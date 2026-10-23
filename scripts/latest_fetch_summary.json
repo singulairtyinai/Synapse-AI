@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T16:39:47.785920",
+  "timestamp": "2026-10-23T22:56:39.555253",
   "fetched_count": 45,
   "nodes": [
     {
@@ -303,6 +303,24 @@
       "details": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT."
     },
     {
+      "id": "live-models-securing-our-frontier-model-training-env",
+      "title": "Securing our frontier model training environment",
+      "category": "models",
+      "date": "2026-10-23",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "details": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+    },
+    {
       "id": "live-models-openai-and-poland-s-nask-partner-to-adva",
       "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
       "category": "models",
@@ -315,8 +333,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AISecurity"
+        "#AISecurity",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "details": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
@@ -358,24 +376,6 @@
       "details": "What forward deployed engineering means at OpenAI"
     },
     {
-      "id": "live-models-uber-brings-chatgpt-work-to-all-employee",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "category": "models",
-      "date": "2026-10-23",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "details": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-    },
-    {
       "id": "live-companies-kazakhstan-expands-compute-for-its-ai-fu",
       "title": "Kazakhstan Expands Compute for Its AI Future",
       "category": "companies",
@@ -388,8 +388,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#UnitedNations",
+        "#NVIDIA",
         "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
@@ -408,9 +408,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [\u2026]"
@@ -428,9 +428,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
       "details": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [\u2026]"
@@ -448,8 +448,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#UnitedNations",
+        "#NVIDIA",
         "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
@@ -468,9 +468,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
       "details": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open [\u2026]"
@@ -524,8 +524,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -748,13 +748,13 @@
       "details": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts."
     },
     {
-      "id": "live-multilateral-burden-and-loss-builds-in-dr-congo-as-ke",
-      "title": "\u2018Burden and loss\u2019 builds in DR Congo, as Kenya strengthens Ebola containment",
+      "id": "live-multilateral-world-news-in-brief-iran-nuclear-inspect",
+      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher \u2013 one year ",
       "category": "multilateral",
       "date": "2026-10-23",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Frida...",
+      "tldr": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nucl...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -762,36 +762,35 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168655",
-      "details": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Friday."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "details": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime."
     },
     {
-      "id": "live-multilateral-yemen-deepening-concerns-for-taiz-city-a",
-      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+      "id": "live-multilateral-blood-brothers-who-chief-joins-enhypen-t",
+      "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
       "category": "multilateral",
       "date": "2026-10-23",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops...",
+      "tldr": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person.",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-      "details": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country\u2019s west coast."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168662",
+      "details": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person."
     },
     {
-      "id": "live-multilateral-world-news-in-brief-russian-attacks-inte",
-      "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, \u2018unlawful\u2019 elderly deaths",
+      "id": "live-multilateral-west-bank-guterres-alarmed-as-israel-imp",
+      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
       "category": "multilateral",
       "date": "2026-10-23",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue ...",
+      "tldr": "The UN said on Friday it was \u201cextremely alarmed\u201d by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its sold...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -799,17 +798,17 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168648",
-      "details": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue to provide aid."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "details": "The UN said on Friday it was \u201cextremely alarmed\u201d by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron."
     },
     {
-      "id": "live-multilateral-first-human-case-of-shamonda-virus-repor",
-      "title": "First human case of Shamonda virus reported in France as patient dies",
+      "id": "live-multilateral-sudan-drone-strikes-killed-at-least-306-",
+      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
       "category": "multilateral",
       "date": "2026-10-23",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "A patient in France has died after being infected with Shamonda virus, the first recorded human case of the disease.",
+      "tldr": "UN human rights chief Volker T\u00fcrk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -817,17 +816,17 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168652",
-      "details": "A patient in France has died after being infected with Shamonda virus, the first recorded human case of the disease."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+      "details": "UN human rights chief Volker T\u00fcrk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone."
     },
     {
-      "id": "live-multilateral-nepal-s-deadly-glacier-flood-a-defining-",
-      "title": "Nepal\u2019s deadly glacier flood a \u2018defining moment\u2019 for the international community",
+      "id": "live-multilateral-soil-mapping-aims-to-boost-agricultural-",
+      "title": "Soil mapping aims to boost agricultural production in Kenya",
       "category": "multilateral",
       "date": "2026-10-23",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The deadly flash flood that tore through Nepal in August is a \u201cdefining moment\u201d for both the country and the international community, according to the head of the UN field agency w...",
+      "tldr": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -835,8 +834,8 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168651",
-      "details": "The deadly flash flood that tore through Nepal in August is a \u201cdefining moment\u201d for both the country and the international community, according to the head of the UN field agency which builds roads, schools and clinics in crisis zones."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+      "details": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks."
     }
   ]
 }
