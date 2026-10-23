@@ -1,7 +1,43 @@
 {
-  "timestamp": "2026-10-23T09:10:28.820018",
+  "timestamp": "2026-10-23T16:39:47.785920",
   "fetched_count": 45,
   "nodes": [
+    {
+      "id": "live-overall-the-download-testing-six-tech-promises-a",
+      "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
+      "category": "overall",
+      "date": "2026-10-23",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality ch...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls and yips? Absolutely. Scrubbing&#8230;"
+    },
+    {
+      "id": "live-overall-in-the-biotech-world-you-can-t-see-every",
+      "title": "In the biotech world, you can\u2019t see everything",
+      "category": "overall",
+      "date": "2026-10-23",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really k...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "details": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;"
+    },
     {
       "id": "live-overall-designing-an-ai-serving-harness-built-to",
       "title": "Designing an AI serving harness built to last",
@@ -15,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Reasoning"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "details": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;"
@@ -34,9 +70,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "details": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;"
@@ -58,43 +94,6 @@
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called \u201cThere\u2019s Plenty of Room at the Bottom.\u201d There is no physical&#8230;"
-    },
-    {
-      "id": "live-overall-making-the-case-for-context-aware-ai",
-      "title": "Making the case for context-aware AI",
-      "category": "overall",
-      "date": "2026-10-23",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even pow...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "details": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;"
-    },
-    {
-      "id": "live-overall-three-things-you-should-know-about-perma",
-      "title": "Three things you should know about permafrost",
-      "category": "overall",
-      "date": "2026-10-23",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "How much do you know about permafrost? Maybe, like me, you\u2019ve been aware that this layer of frozen soil is thawing, that it\u2019s important in the global puzzle of climate change \u2026 and...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-      "details": "How much do you know about permafrost? Maybe, like me, you\u2019ve been aware that this layer of frozen soil is thawing, that it\u2019s important in the global puzzle of climate change \u2026 and that\u2019s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just published two&#8230;"
     },
     {
       "id": "live-overall-a-small-model-asks-better-fine-tuning-qu",
@@ -128,9 +127,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.28698",
       "details": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of continued pre-training (CPT) across three axes: data volume, diversity, and model size. Our 120 training configurations span four model sizes from 0.8B to 27B, six data budgets from 50 to 1,600 hours, and five mixtures ranging from Minecraft-only data to diverse multi-world corpora. We assess performance and generalization using three-level validation losses and gameplay benchmarks from in-corpus worlds to unseen worlds. Our results show: (1) more data improves in-corpus performance, diversity improves transfer to related worlds with limited gains in distant worlds, and model size improves data efficiency but generalizes worse to distant worlds under single-world training; (2) we observe an early interface phase with broad cross-world benefits and a later world phase with gains narrowed to in-corpus and related worlds, and fit an empirical scaling law relating validation loss to data volume, diversity and model size; and (3) our models are competitive with Minecraft specialists and frontier models in 3D worlds, and perform best in real-time settings. However, the limits of imitation and persistent gaps in distant worlds suggest that building generalist embodied agents requires richer training stages beyond continued pre-training."
@@ -148,9 +147,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.28706",
       "details": "arXiv:2610.28706v1 Announce Type: new Abstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly while underusing evidence from failed, redundant, and saturated trials. We introduce Speculative Evolution (SpecEvo), a multi-LLM framework that coordinates lightweight and frontier models through continual consolidation of search evidence. Lightweight models power both parallel Speculators, which generate and refine candidate programs, and an Advisor, which distills accumulated successes, failures, and saturated directions into persistent guidance for subsequent exploration. At sparse checkpoints, a frontier-model Navigator inspects the evolving population and intervenes through synthesis, surgical refinement, or reframing according to search stagnation. This speculate-then-consolidate workflow delegates routine exploration and evidence consolidation to inexpensive models while reserving frontier reasoning for strategic interventions whose benefits extend across many subsequent low-cost evaluations. Across 176 tasks spanning four scientific and algorithmic discovery domains, SpecEvo matches or outperforms frontier-model baselines while reducing API cost by up to 80%, achieves up to 1.5x greater evaluation efficiency than cost-efficient baselines on equation discovery, and improves over the strongest CO-Bench baseline by 3.8%. These results support trajectory-conditioned model coordination as an effective approach to cost-efficient scientific discovery."
@@ -168,9 +167,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.28763",
       "details": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insight beyond routine ML engineering. We introduce Agent4Sci, a long-horizon testbed for measuring how far today's agents can improve the published best models on scientific ML benchmarks, spanning 20 benchmarks across 11 domains. Rather than ranking agents on a leaderboard, Agent4Sci asks what kinds of progress agents can make on these tasks under in-the-wild conditions, and where they fall short. Empirically, today's frontier agents advance the published best on every benchmark, with Claude Opus reaching 10.4% mean relative improvement and no run flagged for academic misconduct. These gains, however, come almost entirely from a bag of ML-engineering tricks rather than research-level insight. Trajectory analysis surfaces three recurring limitations in this setting: novelty miscalibration, resource under-utilization, and rapid collapse into local engineering sweeps. Lightweight plug-in skills for research ideation, experiment management, and scheduled checklists raise Claude Opus from 10.4% to 20.1% and Codex from 4.4% to 8.1%, while yielding more diverse, domain-relevant interventions. Agent4Sci gives the community a way to track and push frontier agents from ML engineering toward domain insight on real-world ML-for-science problems. Code and data are available on GitHub (https://github.com/maszhongming/agent4sci) and Hugging Face (https://huggingface.co/datasets/MingZhong/agent4sci)."
@@ -188,12 +187,48 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.28815",
       "details": "arXiv:2610.28815v1 Announce Type: new Abstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. While more evolution tasks should intuitively improve performance, our preliminary study reveals a paradoxical failure mode: the performance of existing methods degrades as the task pool expands. Our further analysis demonstrates that this degradation stems from suboptimal evidence selection during optimization, as different evidence combinations lead to substantially different evolution outcomes. To address this issue, we propose Successive Scale Racing (SSR), a framework that adaptively searches for optimal evidence combinations in each evolution round. SSR constructs diverse evidence combinations based on the corresponding task quality and coverage, and efficiently races the resulting candidate harnesses under a small compute budget. Empirically, across three distinct benchmarks, SSR achieves state-of-the-art results in all six configurations. Notably, as the task pool grows from 40 to 200, SSR steadily improves the pass rate from 64.3% to 68.3%, while the baselines' performances all drop. Furthermore, its racing mechanism identifies near-optimal candidates while reducing validation executions by 60%."
+    },
+    {
+      "id": "live-agentic_ai-litpivot-developing-research-ideas-throu",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscap",
+      "category": "agentic_ai",
+      "date": "2026-10-23",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/allenai/litpivot",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
+      "id": "live-agentic_ai-does-your-model-run-on-aws-trainium-look",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "category": "agentic_ai",
+      "date": "2026-10-23",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-turning-database-grading-into-rl-rewards",
@@ -211,24 +246,6 @@
         "#AgenticAI"
       ],
       "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-agentic_ai-olmoearth-v1-3-state-of-the-art-embeddin",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "category": "agentic_ai",
-      "date": "2026-10-23",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "details": "Live news development fetched from official RSS feed."
     },
     {
@@ -268,22 +285,22 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-how-specializing-the-vocabulary-of-slms-",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "category": "agentic_ai",
+      "id": "live-models-rapidly-scaling-online-storage-to-serve-",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "category": "models",
       "date": "2026-10-23",
       "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "company": "OpenAI Newsroom",
+      "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#OpenAI"
       ],
-      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "details": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT."
     },
     {
       "id": "live-models-openai-and-poland-s-nask-partner-to-adva",
@@ -357,24 +374,6 @@
       ],
       "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
       "details": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-    },
-    {
-      "id": "live-models-how-at-t-is-rethinking-in-house-legal-wo",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "category": "models",
-      "date": "2026-10-23",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/att-legal",
-      "details": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
     },
     {
       "id": "live-companies-kazakhstan-expands-compute-for-its-ai-fu",
@@ -525,8 +524,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Meta"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -670,8 +669,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -749,6 +748,43 @@
       "details": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts."
     },
     {
+      "id": "live-multilateral-burden-and-loss-builds-in-dr-congo-as-ke",
+      "title": "\u2018Burden and loss\u2019 builds in DR Congo, as Kenya strengthens Ebola containment",
+      "category": "multilateral",
+      "date": "2026-10-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Frida...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+      "details": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Friday."
+    },
+    {
+      "id": "live-multilateral-yemen-deepening-concerns-for-taiz-city-a",
+      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+      "category": "multilateral",
+      "date": "2026-10-23",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+      "details": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country\u2019s west coast."
+    },
+    {
       "id": "live-multilateral-world-news-in-brief-russian-attacks-inte",
       "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, \u2018unlawful\u2019 elderly deaths",
       "category": "multilateral",
@@ -801,42 +837,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168651",
       "details": "The deadly flash flood that tore through Nepal in August is a \u201cdefining moment\u201d for both the country and the international community, according to the head of the UN field agency which builds roads, schools and clinics in crisis zones."
-    },
-    {
-      "id": "live-multilateral-mothers-get-nearly-eight-times-more-paid",
-      "title": "Mothers get nearly eight times more paid leave than fathers \u2013 and women pay the price",
-      "category": "multilateral",
-      "date": "2026-10-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Mothers around the world get nearly eight times as much paid leave as fathers, leaving women to shoulder most of the care burden \u2013 at a cost to families, children and economies, ac...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168650",
-      "details": "Mothers around the world get nearly eight times as much paid leave as fathers, leaving women to shoulder most of the care burden \u2013 at a cost to families, children and economies, according to new UN data published on Thursday."
-    },
-    {
-      "id": "live-multilateral-dr-congo-ebola-responders-under-pressure",
-      "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-      "category": "multilateral",
-      "date": "2026-10-23",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168647",
-      "details": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the disease spreading in Nigeria."
     }
   ]
 }
