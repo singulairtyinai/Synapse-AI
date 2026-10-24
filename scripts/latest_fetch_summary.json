@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-23T22:56:39.555253",
-  "fetched_count": 45,
+  "timestamp": "2026-10-24T03:44:02.722528",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-testing-six-tech-promises-a",
       "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality ch...",
@@ -24,7 +24,7 @@
       "id": "live-overall-in-the-biotech-world-you-can-t-see-every",
       "title": "In the biotech world, you can\u2019t see everything",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really k...",
@@ -42,7 +42,7 @@
       "id": "live-overall-designing-an-ai-serving-harness-built-to",
       "title": "Designing an AI serving harness built to last",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years...",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Reasoning"
+        "#Reasoning",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "details": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;"
@@ -61,7 +61,7 @@
       "id": "live-overall-the-foundations-of-scalable-ai",
       "title": "The Foundations of Scalable AI",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Rev...",
@@ -70,9 +70,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "details": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;"
@@ -81,7 +81,7 @@
       "id": "live-overall-the-download-computing-s-next-leap-and-p",
       "title": "The Download: computing\u2019s next leap and permafrost\u2019s climate threat",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing?...",
@@ -99,7 +99,7 @@
       "id": "live-overall-a-small-model-asks-better-fine-tuning-qu",
       "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.28686v1 Announce Type: new Abstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider mult...",
@@ -118,7 +118,7 @@
       "id": "live-overall-scaling-in-games-continued-pre-training-",
       "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain...",
@@ -127,9 +127,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.28698",
       "details": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of continued pre-training (CPT) across three axes: data volume, diversity, and model size. Our 120 training configurations span four model sizes from 0.8B to 27B, six data budgets from 50 to 1,600 hours, and five mixtures ranging from Minecraft-only data to diverse multi-world corpora. We assess performance and generalization using three-level validation losses and gameplay benchmarks from in-corpus worlds to unseen worlds. Our results show: (1) more data improves in-corpus performance, diversity improves transfer to related worlds with limited gains in distant worlds, and model size improves data efficiency but generalizes worse to distant worlds under single-world training; (2) we observe an early interface phase with broad cross-world benefits and a later world phase with gains narrowed to in-corpus and related worlds, and fit an empirical scaling law relating validation loss to data volume, diversity and model size; and (3) our models are competitive with Minecraft specialists and frontier models in 3D worlds, and perform best in real-time settings. However, the limits of imitation and persistent gaps in distant worlds suggest that building generalist embodied agents requires richer training stages beyond continued pre-training."
@@ -138,7 +138,7 @@
       "id": "live-overall-specevo-speculative-evolution-with-large",
       "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.28706v1 Announce Type: new Abstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often ...",
@@ -147,9 +147,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Reasoning",
         "#Governance",
-        "#UnitedNations",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.28706",
       "details": "arXiv:2610.28706v1 Announce Type: new Abstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly while underusing evidence from failed, redundant, and saturated trials. We introduce Speculative Evolution (SpecEvo), a multi-LLM framework that coordinates lightweight and frontier models through continual consolidation of search evidence. Lightweight models power both parallel Speculators, which generate and refine candidate programs, and an Advisor, which distills accumulated successes, failures, and saturated directions into persistent guidance for subsequent exploration. At sparse checkpoints, a frontier-model Navigator inspects the evolving population and intervenes through synthesis, surgical refinement, or reframing according to search stagnation. This speculate-then-consolidate workflow delegates routine exploration and evidence consolidation to inexpensive models while reserving frontier reasoning for strategic interventions whose benefits extend across many subsequent low-cost evaluations. Across 176 tasks spanning four scientific and algorithmic discovery domains, SpecEvo matches or outperforms frontier-model baselines while reducing API cost by up to 80%, achieves up to 1.5x greater evaluation efficiency than cost-efficient baselines on equation discovery, and improves over the strongest CO-Bench baseline by 3.8%. These results support trajectory-conditioned model coordination as an effective approach to cost-efficient scientific discovery."
@@ -158,7 +158,7 @@
       "id": "live-overall-automating-ml-for-science-can-frontier-a",
       "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of th...",
@@ -167,9 +167,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.28763",
       "details": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insight beyond routine ML engineering. We introduce Agent4Sci, a long-horizon testbed for measuring how far today's agents can improve the published best models on scientific ML benchmarks, spanning 20 benchmarks across 11 domains. Rather than ranking agents on a leaderboard, Agent4Sci asks what kinds of progress agents can make on these tasks under in-the-wild conditions, and where they fall short. Empirically, today's frontier agents advance the published best on every benchmark, with Claude Opus reaching 10.4% mean relative improvement and no run flagged for academic misconduct. These gains, however, come almost entirely from a bag of ML-engineering tricks rather than research-level insight. Trajectory analysis surfaces three recurring limitations in this setting: novelty miscalibration, resource under-utilization, and rapid collapse into local engineering sweeps. Lightweight plug-in skills for research ideation, experiment management, and scheduled checklists raise Claude Opus from 10.4% to 20.1% and Codex from 4.4% to 8.1%, while yielding more diverse, domain-relevant interventions. Agent4Sci gives the community a way to track and push frontier agents from ML engineering toward domain insight on real-world ML-for-science problems. Code and data are available on GitHub (https://github.com/maszhongming/agent4sci) and Hugging Face (https://huggingface.co/datasets/MingZhong/agent4sci)."
@@ -178,7 +178,7 @@
       "id": "live-overall-forging-more-tasks-into-better-harnesses",
       "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
       "category": "overall",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "arXiv CS.AI",
       "tldr": "arXiv:2610.28815v1 Announce Type: new Abstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evol...",
@@ -187,9 +187,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.28815",
       "details": "arXiv:2610.28815v1 Announce Type: new Abstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. While more evolution tasks should intuitively improve performance, our preliminary study reveals a paradoxical failure mode: the performance of existing methods degrades as the task pool expands. Our further analysis demonstrates that this degradation stems from suboptimal evidence selection during optimization, as different evidence combinations lead to substantially different evolution outcomes. To address this issue, we propose Successive Scale Racing (SSR), a framework that adaptively searches for optimal evidence combinations in each evolution round. SSR constructs diverse evidence combinations based on the corresponding task quality and coverage, and efficiently races the resulting candidate harnesses under a small compute budget. Empirically, across three distinct benchmarks, SSR achieves state-of-the-art results in all six configurations. Notably, as the task pool grows from 40 to 200, SSR steadily improves the pass rate from 64.3% to 68.3%, while the baselines' performances all drop. Furthermore, its racing mechanism identifies near-optimal candidates while reducing validation executions by 60%."
@@ -198,7 +198,7 @@
       "id": "live-agentic_ai-litpivot-developing-research-ideas-throu",
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscap",
       "category": "agentic_ai",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -216,7 +216,7 @@
       "id": "live-agentic_ai-does-your-model-run-on-aws-trainium-look",
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "category": "agentic_ai",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -234,7 +234,7 @@
       "id": "live-agentic_ai-turning-database-grading-into-rl-rewards",
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "category": "agentic_ai",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -252,7 +252,7 @@
       "id": "live-agentic_ai-ensemble-forecasting-with-ibm-granite-ti",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "category": "agentic_ai",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -270,7 +270,7 @@
       "id": "live-agentic_ai-nvidia-kumo-relational-outperforms-super",
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Requi",
       "category": "agentic_ai",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -285,10 +285,105 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-donating-agent-skills-to-the-agentic-ai-",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=50198911 Points: 5 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI",
+        "#Anthropic"
+      ],
+      "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "details": "Article URL: https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=50198911 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-doesn-t-usually-back-up-befor",
+      "title": "Agentic AI doesn't usually back up before acting",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/ Comments URL: https://news.ycombinator.com/item?id=50197779 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/",
+      "details": "Article URL: https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/ Comments URL: https://news.ycombinator.com/item?id=50197779 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-the-new-big-ball-of-mud-why-agentic-ai-s",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.nngroup.com/articles/big-ball-of-mud-ai/ Comments URL: https://news.ycombinator.com/item?id=50194116 Points: 3 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.nngroup.com/articles/big-ball-of-mud-ai/",
+      "details": "Article URL: https://www.nngroup.com/articles/big-ball-of-mud-ai/ Comments URL: https://news.ycombinator.com/item?id=50194116 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-a-framework-for-evaluating-agentic-ai-sy",
+      "title": "A framework for evaluating agentic AI systems",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50192356 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "details": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50192356 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-mining-architectural-quality-under-agent",
+      "title": "Mining Architectural Quality Under Agentic AI Adoption",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2606.13298",
+      "details": "Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0"
+    },
+    {
       "id": "live-models-rapidly-scaling-online-storage-to-serve-",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "category": "models",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
@@ -306,7 +401,7 @@
       "id": "live-models-securing-our-frontier-model-training-env",
       "title": "Securing our frontier model training environment",
       "category": "models",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
@@ -324,7 +419,7 @@
       "id": "live-models-openai-and-poland-s-nask-partner-to-adva",
       "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
       "category": "models",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
@@ -333,8 +428,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#OpenAI"
+        "#OpenAI",
+        "#AISecurity"
       ],
       "sourceUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "details": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
@@ -343,7 +438,7 @@
       "id": "live-models-build-more-responsive-apps-with-the-deci",
       "title": "Build more responsive apps with the Decisions API",
       "category": "models",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Fast, focused, low-cost decisions for any application.",
@@ -361,7 +456,7 @@
       "id": "live-models-what-fde-means-at-openai",
       "title": "What FDE means at OpenAI",
       "category": "models",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "What forward deployed engineering means at OpenAI",
@@ -379,7 +474,7 @@
       "id": "live-companies-kazakhstan-expands-compute-for-its-ai-fu",
       "title": "Kazakhstan Expands Compute for Its AI Future",
       "category": "companies",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Kazakhstan\u2019s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack \u2014 from infrastructure to models to applications. Together...",
@@ -388,8 +483,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
@@ -399,7 +494,7 @@
       "id": "live-companies-nvidia-unveils-minerva-to-bring-end-to-e",
       "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
       "category": "companies",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and...",
@@ -409,8 +504,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [\u2026]"
@@ -419,7 +514,7 @@
       "id": "live-companies-cloud-deployment-incoming-call-of-duty-m",
       "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
       "category": "companies",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction...",
@@ -429,8 +524,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
       "details": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [\u2026]"
@@ -439,7 +534,7 @@
       "id": "live-companies-leading-european-financial-services-orga",
       "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intellige",
       "category": "companies",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by o...",
@@ -448,8 +543,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
@@ -459,7 +554,7 @@
       "id": "live-companies-nvidia-cosmos-opens-new-tools-to-train-e",
       "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
       "category": "companies",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tool...",
@@ -469,8 +564,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
       "details": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open [\u2026]"
@@ -479,7 +574,7 @@
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
       "title": "Podcast: Can America's most powerful laser unlock the universe?",
       "category": "fellowships",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser ...",
@@ -497,7 +592,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -515,7 +610,7 @@
       "id": "live-fellowships-nsf-ukri-metascience-statement",
       "title": "NSF\u2013UKRI metascience statement",
       "category": "fellowships",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the ...",
@@ -524,8 +619,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Meta"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -534,7 +629,7 @@
       "id": "live-fellowships-nsf-lays-the-foundation-for-the-next-gen",
       "title": "NSF lays the foundation for the next generation of technologies and support for American talent",
       "category": "fellowships",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golde...",
@@ -552,7 +647,7 @@
       "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
       "title": "Podcast: Could holographic 3D printing be real?",
       "category": "fellowships",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
@@ -570,7 +665,7 @@
       "id": "live-military-are-yearlong-deployments-the-navy-s-new-",
       "title": "Are yearlong deployments the Navy\u2019s new normal?",
       "category": "military",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "That's what officials are telling sailors' families in Japan, where two destroyers are slated for 12- and 14-month cruises.",
@@ -588,7 +683,7 @@
       "id": "live-military-defense-business-brief-a-little-bit-of-m",
       "title": "Defense Business Brief: A little bit of MOSA; Netherlands-U.S. industry days, and more",
       "category": "military",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -606,7 +701,7 @@
       "id": "live-military-qatar-looks-to-bolster-its-military-powe",
       "title": "Qatar looks to bolster its military power with new hub, partnerships",
       "category": "military",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The Kingdom has spent decades cultivating its reputation as a place where enemies can sit down and talk. Apparently, even that requires an air-defense system.",
@@ -624,7 +719,7 @@
       "id": "live-military-critical-flaws-in-ubiquitous-website-sof",
       "title": "Critical flaws in ubiquitous website software draw urgent warning from NSA, FBI",
       "category": "military",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Organizations should immediately update to the latest version of PHP or take systems offline, agencies say.",
@@ -642,7 +737,7 @@
       "id": "live-military-add-post-ai-encryption-to-your-to-do-lis",
       "title": "Add \u2018post-AI\u2019 encryption to your to-do list",
       "category": "military",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "OpenAI\u2019s trove of 400+ math results suggests traditional encryption may be at risk.",
@@ -660,7 +755,7 @@
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -669,8 +764,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -679,7 +774,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -697,7 +792,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -715,7 +810,7 @@
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -733,7 +828,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -751,7 +846,7 @@
       "id": "live-multilateral-world-news-in-brief-iran-nuclear-inspect",
       "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher \u2013 one year ",
       "category": "multilateral",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nucl...",
@@ -769,7 +864,7 @@
       "id": "live-multilateral-blood-brothers-who-chief-joins-enhypen-t",
       "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
       "category": "multilateral",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person.",
@@ -787,7 +882,7 @@
       "id": "live-multilateral-west-bank-guterres-alarmed-as-israel-imp",
       "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
       "category": "multilateral",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The UN said on Friday it was \u201cextremely alarmed\u201d by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its sold...",
@@ -805,7 +900,7 @@
       "id": "live-multilateral-sudan-drone-strikes-killed-at-least-306-",
       "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
       "category": "multilateral",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "UN human rights chief Volker T\u00fcrk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in...",
@@ -823,7 +918,7 @@
       "id": "live-multilateral-soil-mapping-aims-to-boost-agricultural-",
       "title": "Soil mapping aims to boost agricultural production in Kenya",
       "category": "multilateral",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
