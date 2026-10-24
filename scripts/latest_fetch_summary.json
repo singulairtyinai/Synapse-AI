@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-24T15:33:38.098844",
-  "fetched_count": 40,
+  "timestamp": "2026-10-24T18:38:22.990199",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-the-download-testing-six-tech-promises-a",
@@ -71,8 +71,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "details": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;"
@@ -186,6 +186,101 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-donating-agent-skills-to-the-agentic-ai-",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=50198911 Points: 5 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI",
+        "#Anthropic"
+      ],
+      "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "details": "Article URL: https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=50198911 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-doesn-t-usually-back-up-befor",
+      "title": "Agentic AI doesn't usually back up before acting",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/ Comments URL: https://news.ycombinator.com/item?id=50197779 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/",
+      "details": "Article URL: https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/ Comments URL: https://news.ycombinator.com/item?id=50197779 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-the-new-big-ball-of-mud-why-agentic-ai-s",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.nngroup.com/articles/big-ball-of-mud-ai/ Comments URL: https://news.ycombinator.com/item?id=50194116 Points: 3 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.nngroup.com/articles/big-ball-of-mud-ai/",
+      "details": "Article URL: https://www.nngroup.com/articles/big-ball-of-mud-ai/ Comments URL: https://news.ycombinator.com/item?id=50194116 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-a-framework-for-evaluating-agentic-ai-sy",
+      "title": "A framework for evaluating agentic AI systems",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50192356 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "details": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50192356 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-mining-architectural-quality-under-agent",
+      "title": "Mining Architectural Quality Under Agentic AI Adoption",
+      "category": "agentic_ai",
+      "date": "2026-10-24",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2606.13298",
+      "details": "Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0"
+    },
+    {
       "id": "live-models-rapidly-scaling-online-storage-to-serve-",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "category": "models",
@@ -234,8 +329,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AISecurity"
+        "#AISecurity",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "details": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
