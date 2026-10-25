@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-25T03:42:03.134870",
-  "fetched_count": 45,
+  "timestamp": "2026-10-25T09:00:11.768540",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-testing-six-tech-promises-a",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Reasoning"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "details": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;"
@@ -70,9 +70,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "details": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;"
@@ -199,8 +199,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#Anthropic",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Anthropic"
       ],
       "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
       "details": "Article URL: https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=50198911 Points: 5 # Comments: 0"
@@ -218,9 +218,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/",
       "details": "Article URL: https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/ Comments URL: https://news.ycombinator.com/item?id=50197779 Points: 2 # Comments: 0"
@@ -384,9 +384,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#NVIDIA",
         "#UnitedNations",
-        "#NVIDIA"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "details": "Kazakhstan\u2019s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack \u2014 from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation\u2019s increasing supply of accelerated computing \u2014 along with its growing demand for what comes next. Read All NVIDIA in Europe [\u2026]"
@@ -404,9 +404,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#NVIDIA",
         "#UnitedNations",
-        "#NVIDIA"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [\u2026]"
@@ -424,9 +424,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#NVIDIA",
         "#UnitedNations",
-        "#NVIDIA"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
       "details": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [\u2026]"
@@ -444,9 +444,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#NVIDIA",
         "#UnitedNations",
-        "#NVIDIA"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
       "details": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF [\u2026]"
@@ -464,9 +464,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#NVIDIA",
         "#UnitedNations",
-        "#NVIDIA"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
       "details": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open [\u2026]"
@@ -520,8 +520,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -665,8 +665,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -742,6 +742,106 @@
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities",
       "details": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts."
+    },
+    {
+      "id": "live-governance-commission-to-investigate-how-booking-co",
+      "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
+      "category": "governance",
+      "date": "2026-10-25",
+      "impact": "MODERATE",
+      "company": "EU Digital Strategy",
+      "tldr": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
+      "details": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams. The platform may also have breached the DSA when it comes to transparency because it did not clearly label as ads those listings whose providers paid for a higher ranking in search results shown to users. The investigation will focus on the following areas: Fraudulent and non-compliant listings on Booking.com Phishing scams exploiting Booking.com's reservation and guest data Paid-for boosted listings not clearly identifiable as advertisements Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-governance-digital-services-act-study-on-financial-",
+      "title": "Digital Services Act study on financial scams on online platforms and ways to counter them",
+      "category": "governance",
+      "date": "2026-10-25",
+      "impact": "HIGH",
+      "company": "EU Digital Strategy",
+      "tldr": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of onlin...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
+      "details": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of online financial scams, platform features scammers exploit, their impact on users and society and measures platforms can take to stop them. Online financial scams \u2013 fraudulent schemes whose primary aim is to extract money from victims \u2013 have grown into a pervasive crime in the digital age. They are present across all types of online intermediary services, including Very Large Online Platforms (VLOPs) and Very Large Search Engines (VLOSEs). The European Commission has procured this study in 2025 to support its supervisory and enforcement tasks under the Digital Services Act (DSA). It provides a typological mapping of financial scam formats across online platforms and assesses existing and emerging mitigation strategies to curb financial scams online. The study was carried out by Open Evidence and Spark Legal and Policy Consulting. It does not evaluate compliance by providers of VLOPs and VLOSEs. Read the study and the executive summary in (French and English). Key insights A diverse typology of scams The study maps different types of online financial scams and categorises them in six broad categories: investment scams romance scams e-commerce scams employment and collaboration scams unexpected gain scams disaster relief scams The study finds that investment scams and romance scams are the most common and fastest-growing forms of scams in Europe. It also finds that the scam landscape is increasingly being redefined by overlapping methods across different categories. Online platforms features and financial scams The study presents information on relevant features related to scams on online platforms including: advertising systems recommender systems content moderation of organic content monetisation systems app store content and private messaging functions inauthentic identities and account manipulation deceptive commercial content generative AI The study also shows how financial scams operate across different platforms and are facilitated by organised criminal networks that sell tools and services, effectively lowering the barrier to entry. Identifying effective countermeasures The study identifies relevant countermeasures across 4 categories: Access and gatekeeping measures, such as know your business customer and identity requirements are the first line of defence against online financial scams; Detection and removal measures, including automated and human-review based measures, can neutralise scam content; User facing measures \u2013 such as reporting tools and information on redress \u2013 can equip end users with tools and information to identify and report online scams; Platform-level policies and cooperation with third parties can help platforms identify, prevent and address online scams. Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-governance-first-harmonised-standard-supporting-the",
+      "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+      "category": "governance",
+      "date": "2026-10-25",
+      "impact": "CRITICAL",
+      "company": "EU Digital Strategy",
+      "tldr": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the referen...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "details": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act. Its publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard. EN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS standard with a presumption of conformity. It is mapped to Article 17 of the AI Act, built around the AI system lifecycle \u2013 rather than the organisation \u2013 and designed to be layered on top of the existing international standards \u2013 such as ISO/IEC 42001, ISO 9001 or a sectoral QMS (e.g. ISO 13485) \u2013 rather than replace them.&nbsp; EN 18286 explicitly allows providers in regulated sectors to integrate management systems, rather than run separate ones. Organisations without ISO/IEC 42001 that plan to place or put into service high-risk AI systems in the EU market can use EN 18286 to expand an existing QMS or build one that fulfills the requirements of article 17 requirements. The publication of this standard marks an important milestone in implementing the AI Act, ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow. Find further information about the Standardisation of the AI Act. Related topics Artificial intelligence"
+    },
+    {
+      "id": "live-governance-commission-holds-special-meeting-of-scie",
+      "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+      "category": "governance",
+      "date": "2026-10-25",
+      "impact": "HIGH",
+      "company": "EU Digital Strategy",
+      "tldr": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the ...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct",
+        "#Governance",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "details": "Commission holds special meeting of Scientific panel on frontier AI safety and risks Anonymous (not verified) Fri, 10/09/2026 - 09:16 The Commission holds a special meeting of the Scientific Panel on artificial intelligence (AI). The panel has been investigating recent loss-of-control incidents, and together with the Commission\u2019s AI Office, has worked on a set of questions for the companies that developed the models involved. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, will attend the meeting. The Scientific Panel brings together 60 world-leading independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. During the meeting, the panel will present recommendations to the Commission on frontier AI safety and security risks. Executive-Vice President Henna Virkkunen said: \u201cThe EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.\u201d Find out more about the Scientific Panel on artificial intelligence (AI) Related topics Artificial intelligence AI Act scientific panel Related content News article12 October 2026Special meeting of the AI Scientific PanelOn 9 October 2026, Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, and Se\u00e1n \u00d3 h\u00c9igeartaigh, Chair of the AI Scientific Panel, convened a special meeting."
+    },
+    {
+      "id": "live-governance-european-ai-innovation-month",
+      "title": "European AI Innovation Month",
+      "category": "governance",
+      "date": "2026-10-25",
+      "impact": "MODERATE",
+      "company": "EU Digital Strategy",
+      "tldr": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by ...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
+      "details": "European AI Innovation Month Anonymous (not verified) Thu, 10/08/2026 - 09:00 &nbsp; 14 October 2026 - 17 November 2026 From 14 October to 17 November 2026, this initiative led by the European Commission in partnership with the upcoming Irish Presidency of the Council will promote a series of online and in-person events showcasing AI innovation and adoption across Europe. Main link https://digital-strategy.ec.europa.eu/en/policies/european-ai-innovation-month Related topics Events Artificial intelligence Apply AI Summit"
     },
     {
       "id": "live-multilateral-women-first-to-suffer-under-siege-first-",
