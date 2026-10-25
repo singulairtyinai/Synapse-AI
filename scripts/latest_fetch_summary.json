@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-25T18:46:17.041312",
-  "fetched_count": 35,
+  "timestamp": "2026-10-25T22:21:37.006391",
+  "fetched_count": 40,
   "nodes": [
     {
       "id": "live-overall-the-download-testing-six-tech-promises-a",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Reasoning"
+        "#Reasoning",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "details": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;"
@@ -70,9 +70,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#AgenticAI",
         "#Governance",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "details": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;"
@@ -186,6 +186,101 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-ask-hn-what-is-the-main-bottleneck-facin",
+      "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
+      "category": "agentic_ai",
+      "date": "2026-10-25",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me. At the same time I saw anoth...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.ycombinator.com/item?id=50234108",
+      "details": "Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me. At the same time I saw another statistic that showed only 10% of agents built, actually get into production. These two statistics seemed ironic to me. So I wondered to myself what is the major bottleneck that is causing a lot of the agents that are being built not get into production and what is the infrastructure missing to make Agentic traffic to thrive even more? Comments URL: https://news.ycombinator.com/item?id=50234108 Points: 7 # Comments: 14"
+    },
+    {
+      "id": "live-agentic_ai-donating-agent-skills-to-the-agentic-ai-",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "category": "agentic_ai",
+      "date": "2026-10-25",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=50198911 Points: 5 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Anthropic",
+        "#AgenticAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "details": "Article URL: https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=50198911 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-doesn-t-usually-back-up-befor",
+      "title": "Agentic AI doesn't usually back up before acting",
+      "category": "agentic_ai",
+      "date": "2026-10-25",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/ Comments URL: https://news.ycombinator.com/item?id=50197779 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/",
+      "details": "Article URL: https://www.unite.ai/agentic-ai-doesnt-usually-back-up-before-acting/ Comments URL: https://news.ycombinator.com/item?id=50197779 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-the-new-big-ball-of-mud-why-agentic-ai-s",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "category": "agentic_ai",
+      "date": "2026-10-25",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.nngroup.com/articles/big-ball-of-mud-ai/ Comments URL: https://news.ycombinator.com/item?id=50194116 Points: 3 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.nngroup.com/articles/big-ball-of-mud-ai/",
+      "details": "Article URL: https://www.nngroup.com/articles/big-ball-of-mud-ai/ Comments URL: https://news.ycombinator.com/item?id=50194116 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-a-framework-for-evaluating-agentic-ai-sy",
+      "title": "A framework for evaluating agentic AI systems",
+      "category": "agentic_ai",
+      "date": "2026-10-25",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50192356 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "details": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50192356 Points: 2 # Comments: 0"
+    },
+    {
       "id": "live-models-rapidly-scaling-online-storage-to-serve-",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "category": "models",
@@ -289,9 +384,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "details": "Kazakhstan\u2019s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack \u2014 from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation\u2019s increasing supply of accelerated computing \u2014 along with its growing demand for what comes next. Read All NVIDIA in Europe [\u2026]"
@@ -309,9 +404,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#NVIDIA",
-        "#Governance"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [\u2026]"
@@ -329,9 +424,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#NVIDIA",
-        "#Governance"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
       "details": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [\u2026]"
@@ -349,9 +444,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
       "details": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF [\u2026]"
@@ -369,9 +464,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#NVIDIA",
-        "#Governance"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
       "details": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open [\u2026]"
@@ -425,8 +520,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -570,8 +665,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
