@@ -1,7 +1,62 @@
 {
-  "timestamp": "2026-10-26T09:52:14.666556",
+  "timestamp": "2026-10-26T18:24:43.721239",
   "fetched_count": 45,
   "nodes": [
+    {
+      "id": "live-overall-will-the-real-anthropic-please-stand-up",
+      "title": "Will the real Anthropic please stand up",
+      "category": "overall",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthr...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Anthropic",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;"
+    },
+    {
+      "id": "live-overall-the-download-everyday-ai-harms-and-the-r",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "category": "overall",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safet...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms \u2014Sam Hiner, cofounder of the Young People\u2019s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;"
+    },
+    {
+      "id": "live-overall-the-focus-on-ai-safety-disasters-ignores",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "category": "overall",
+      "date": "2026-10-26",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for child...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "details": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;"
+    },
     {
       "id": "live-overall-the-download-testing-six-tech-promises-a",
       "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
@@ -39,63 +94,6 @@
       "details": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;"
     },
     {
-      "id": "live-overall-designing-an-ai-serving-harness-built-to",
-      "title": "Designing an AI serving harness built to last",
-      "category": "overall",
-      "date": "2026-10-26",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Reasoning",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "details": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;"
-    },
-    {
-      "id": "live-overall-the-foundations-of-scalable-ai",
-      "title": "The Foundations of Scalable AI",
-      "category": "overall",
-      "date": "2026-10-26",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Rev...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "details": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-computing-s-next-leap-and-p",
-      "title": "The Download: computing\u2019s next leap and permafrost\u2019s climate threat",
-      "category": "overall",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing?...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called \u201cThere\u2019s Plenty of Room at the Bottom.\u201d There is no physical&#8230;"
-    },
-    {
       "id": "live-overall-tradeoff-aware-territory-design-a-multi-",
       "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller",
       "category": "overall",
@@ -129,8 +127,8 @@
       "tags": [
         "#UnitedNations",
         "#AgenticAI",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.31789",
       "details": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedly rediscover solutions rather than retain and reuse knowledge from prior executions. We introduce Phronix, a capability-centric learning paradigm that enables agentic harnesses to acquire, validate, and refine reusable capabilities from their own executions. Phronix operates through a predictor-validator-corrector loop: MCP tools and associated skills propose solutions, tool executions validate them, and observed outcomes refine the stored capabilities. It distills every observed interaction into a capability store and researches a failing task rather than abandoning it. First, such learned capabilities solve a recurring task on the first attempt in 93-95% of cases across every model, significantly reducing solution non-determinism and improving reliability. Second, Phronix turns an agent's own execution into 7.6-30.8 durable capabilities per task without user instruction, and creation falls below two once the needed capability exists. Third, warm-start runs consume only 0.38-0.40 million tokens per task, which is three to four times less than a single baseline attempt, while a cold-start costs no more than the baseline. On the 1000 Genome Pegasus workflow, instrumenting a production application for I/O performance analysis, Phronix passes all 11 correctness checks against six for the baseline harness, and also lifts the task solving rates of two cheaper models from 29% and 27% of SWE-bench tasks solved to 91% and 87%, respectively, matching the performance of the most expensive evaluated model."
@@ -149,8 +147,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.31808",
       "details": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper proposes a system for the automated detection of PCL. Our first approach uses static word embeddings and a convolutional neural network for classification, while our second approach uses pre-trained BERT embeddings fine-tuned for the PCL task. Our second approach was considerably more successful, and achieved an F1 score of 0.528 over the development set."
@@ -170,8 +168,8 @@
       "tags": [
         "#UnitedNations",
         "#AgenticAI",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.31810",
       "details": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statements, audits each statement in natural language for faithfulness, ambiguity and correctness, and then formalizes and proves the statements in Lean against Mathlib, optional domain libraries and the author's personal toolkit. Only the author knows what a statement is meant to say and how a formalization gap in a result is best fixed. The pipeline therefore stops and asks the author whenever a statement admits more than one reading, presents every repair, in natural language and TeX symbols, as a proposal that the author can accept, decline or redirect, and leaves to the author every decision that could potentially change what the paper claims. The output is an annotated and revised version of the paper, a report of the changes, and Lean code in which each declaration is linked to the statement it formalizes. The author's toolkit grows as more papers are formalized, and authors can share their verified papers so that researchers who build on them can reuse their Lean code. By making verified papers practical to produce, PaperFormalizer aims to make research that rests on mathematical proofs more robust. PaperFormalizer runs inside a coding agent (Claude Code or Codex) and is available at https://github.com/Jiyuan-Tan/PaperFormalizer. Papers with Lean code shared by users are available at https://paperformalizer.org."
@@ -287,6 +285,44 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-chatgpt-s-expanding-world-of-work",
+      "title": "ChatGPT\u2019s expanding world of work",
+      "category": "models",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#OpenAI",
+        "#Governance"
+      ],
+      "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "details": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+    },
+    {
+      "id": "live-models-how-fanatics-and-openai-streamline-the-f",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "category": "models",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "details": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+    },
+    {
       "id": "live-models-rapidly-scaling-online-storage-to-serve-",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "category": "models",
@@ -342,42 +378,6 @@
       "details": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
     },
     {
-      "id": "live-models-build-more-responsive-apps-with-the-deci",
-      "title": "Build more responsive apps with the Decisions API",
-      "category": "models",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Fast, focused, low-cost decisions for any application.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/decisions-api",
-      "details": "Fast, focused, low-cost decisions for any application."
-    },
-    {
-      "id": "live-models-what-fde-means-at-openai",
-      "title": "What FDE means at OpenAI",
-      "category": "models",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "What forward deployed engineering means at OpenAI",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/forward-deployed-engineering-means",
-      "details": "What forward deployed engineering means at OpenAI"
-    },
-    {
       "id": "live-companies-kazakhstan-expands-compute-for-its-ai-fu",
       "title": "Kazakhstan Expands Compute for Its AI Future",
       "category": "companies",
@@ -391,8 +391,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#NVIDIA",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "details": "Kazakhstan\u2019s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack \u2014 from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation\u2019s increasing supply of accelerated computing \u2014 along with its growing demand for what comes next. Read All NVIDIA in Europe [\u2026]"
@@ -451,8 +451,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#NVIDIA",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
       "details": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF [\u2026]"
@@ -526,8 +526,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Meta"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -671,8 +671,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -750,8 +750,62 @@
       "details": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts."
     },
     {
+      "id": "live-multilateral-ukraine-investigators-find-russia-commit",
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "category": "multilateral",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Top human rights experts investigating Russia\u2019s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "details": "Top human rights experts investigating Russia\u2019s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law."
+    },
+    {
+      "id": "live-multilateral-in-egypt-guterres-warns-against-iran-us-",
+      "title": "In Egypt, Guterres warns against Iran-US escalation",
+      "category": "multilateral",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "UN Secretary-General Ant\u00f3nio Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "details": "UN Secretary-General Ant\u00f3nio Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-ebola-un-officials-condemn-killing-of-nu",
+      "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
+      "category": "multilateral",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN\u2019s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Repu...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168667",
+      "details": "The UN\u2019s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Republic of the Congo (DRC).&nbsp;"
+    },
+    {
       "id": "live-multilateral-why-do-planes-keep-circling-before-landi",
-      "title": "Why do planes keep circling before landing? The UN has a plan to fix it",
+      "title": "Why do planes keep circling before landing? UN has a plan to fix it",
       "category": "multilateral",
       "date": "2026-10-26",
       "impact": "MODERATE",
@@ -785,60 +839,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168663",
       "details": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army."
-    },
-    {
-      "id": "live-multilateral-un-marks-81-years-of-global-cooperation",
-      "title": "UN marks 81 years of global cooperation",
-      "category": "multilateral",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work to advance peace, human rights and development around the world.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168665",
-      "details": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work to advance peace, human rights and development around the world."
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-iran-nuclear-inspect",
-      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher \u2013 one year ",
-      "category": "multilateral",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nucl...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-      "details": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime."
-    },
-    {
-      "id": "live-multilateral-blood-brothers-who-chief-joins-enhypen-t",
-      "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-      "category": "multilateral",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person.",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168662",
-      "details": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person."
     }
   ]
 }
