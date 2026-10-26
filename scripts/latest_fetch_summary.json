@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T18:24:43.721239",
+  "timestamp": "2026-10-26T23:37:33.867228",
   "fetched_count": 45,
   "nodes": [
     {
@@ -106,8 +106,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.31701",
       "details": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed. Yet the process often remains manual, making it difficult to compare opportunities, value continuity, and evaluate tradeoffs among growth, balance, capacity, and feasibility. We present a production decision system for tradeoff-aware customer-to-seller allocation in enterprise GTM planning. It integrates three components: a multidimensional account-value layer that combines predictive signals to score opportunity; an observational continuity-valuation layer that estimates the cost of breaking seller-account relationships using a synthetic-control-style counterfactual framework; and a multi-objective optimization layer that allocates coverage to high-value accounts while considering continuity, opportunity balance, and operational constraints. Deployed as a scenario-based decision-support system, the framework enables planners to inspect and compare allocation tradeoffs. Historical backtesting shows that optimizer-generated scenarios substantially improve assignment compliance while maintaining comparable seller-level opportunity distribution. In production planning, adopted scenarios improved both assignment compliance and opportunity balance relative to the previous baseline. Directing scarce seller capacity toward higher-value accounts also offers incremental revenue potential at enterprise scale. The key contribution is an integrated, inspectable framework that turns territory carving into a governable decision process."
@@ -125,10 +125,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AgenticAI",
-        "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.31789",
       "details": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedly rediscover solutions rather than retain and reuse knowledge from prior executions. We introduce Phronix, a capability-centric learning paradigm that enables agentic harnesses to acquire, validate, and refine reusable capabilities from their own executions. Phronix operates through a predictor-validator-corrector loop: MCP tools and associated skills propose solutions, tool executions validate them, and observed outcomes refine the stored capabilities. It distills every observed interaction into a capability store and researches a failing task rather than abandoning it. First, such learned capabilities solve a recurring task on the first attempt in 93-95% of cases across every model, significantly reducing solution non-determinism and improving reliability. Second, Phronix turns an agent's own execution into 7.6-30.8 durable capabilities per task without user instruction, and creation falls below two once the needed capability exists. Third, warm-start runs consume only 0.38-0.40 million tokens per task, which is three to four times less than a single baseline attempt, while a cold-start costs no more than the baseline. On the 1000 Genome Pegasus workflow, instrumenting a production application for I/O performance analysis, Phronix passes all 11 correctness checks against six for the baseline harness, and also lifts the task solving rates of two cheaper models from 29% and 27% of SWE-bench tasks solved to 91% and 87%, respectively, matching the performance of the most expensive evaluated model."
@@ -146,9 +146,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#EUAIAct",
-        "#Governance"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.31808",
       "details": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper proposes a system for the automated detection of PCL. Our first approach uses static word embeddings and a convolutional neural network for classification, while our second approach uses pre-trained BERT embeddings fine-tuned for the PCL task. Our second approach was considerably more successful, and achieved an F1 score of 0.528 over the development set."
@@ -166,10 +166,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AgenticAI",
-        "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.31810",
       "details": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statements, audits each statement in natural language for faithfulness, ambiguity and correctness, and then formalizes and proves the statements in Lean against Mathlib, optional domain libraries and the author's personal toolkit. Only the author knows what a statement is meant to say and how a formalization gap in a result is best fixed. The pipeline therefore stops and asks the author whenever a statement admits more than one reading, presents every repair, in natural language and TeX symbols, as a proposal that the author can accept, decline or redirect, and leaves to the author every decision that could potentially change what the paper claims. The output is an annotated and revised version of the paper, a report of the changes, and Lean code in which each declaration is linked to the statement it formalizes. The author's toolkit grows as more papers are formalized, and authors can share their verified papers so that researchers who build on them can reuse their Lean code. By making verified papers practical to produce, PaperFormalizer aims to make research that rests on mathematical proofs more robust. PaperFormalizer runs inside a coding agent (Claude Code or Codex) and is available at https://github.com/Jiyuan-Tan/PaperFormalizer. Papers with Lean code shared by users are available at https://paperformalizer.org."
@@ -187,9 +187,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.31846",
       "details": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fine-tuning is expensive and can interfere with existing capabilities. We introduce Self-Direction, a mechanism for agents to learn from mistakes that combines the benefits of temporary in-context retries and policy updates. When an agent fails a task, it reflects on its own trajectory in order to extract a lesson and immediately distills it into a lightweight low-rank adapter. By keeping the original weights frozen, Self-Direction prevents adapter training from overwriting base-model parameters while training additional parameters equivalent to ~0.02% of the base model's parameter count for each adapter. The agent then saves these adapters in a persistent library of lessons, automatically routing them to solve related problems later. Experiments with agents based on open-weight models from the Qwen family across open-ended research (GAIA), tool-use workflows (Claw-Eval), and terminal tasks (Terminal-Bench 2.1) show that our method improves overall success rates by 8.9 to 17.0 percentage points and performs competitively with frontier systems. We find that Self-Direction reduces repeated mistakes across future encounters of a task, nearly doubling the reliability of an agent's corrections. Learned lessons also transfer: a handful of adapters generalize to dozens of new tasks without additional training. Ultimately, this self-directed repair transforms everyday mistakes into lasting lessons."
@@ -285,6 +285,64 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-models-greptile-takes-bug-detection-beyond-code",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "category": "models",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://openai.com/index/greptile-code-review-codex-astra",
+      "details": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+    },
+    {
+      "id": "live-models-working-with-academic-communities-to-bui",
+      "title": "Working with academic communities to build scientific understanding",
+      "category": "models",
+      "date": "2026-10-26",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "details": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+    },
+    {
+      "id": "live-models-gpt-6-1-sol-helps-coderabbit-strengthen-",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "category": "models",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#AgenticAI",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "details": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+    },
+    {
       "id": "live-models-chatgpt-s-expanding-world-of-work",
       "title": "ChatGPT\u2019s expanding world of work",
       "category": "models",
@@ -297,9 +355,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "details": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
@@ -323,61 +381,6 @@
       "details": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
     },
     {
-      "id": "live-models-rapidly-scaling-online-storage-to-serve-",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "category": "models",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "details": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT."
-    },
-    {
-      "id": "live-models-securing-our-frontier-model-training-env",
-      "title": "Securing our frontier model training environment",
-      "category": "models",
-      "date": "2026-10-26",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "details": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-    },
-    {
-      "id": "live-models-openai-and-poland-s-nask-partner-to-adva",
-      "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
-      "category": "models",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "details": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-    },
-    {
       "id": "live-companies-kazakhstan-expands-compute-for-its-ai-fu",
       "title": "Kazakhstan Expands Compute for Its AI Future",
       "category": "companies",
@@ -390,9 +393,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#UnitedNations",
-        "#EUAIAct",
-        "#NVIDIA"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "details": "Kazakhstan\u2019s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack \u2014 from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation\u2019s increasing supply of accelerated computing \u2014 along with its growing demand for what comes next. Read All NVIDIA in Europe [\u2026]"
@@ -410,9 +413,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#NVIDIA",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [\u2026]"
@@ -430,9 +433,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#NVIDIA",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
       "details": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [\u2026]"
@@ -450,9 +453,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#UnitedNations",
-        "#EUAIAct",
-        "#NVIDIA"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
       "details": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF [\u2026]"
@@ -470,9 +473,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#NVIDIA",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
       "details": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open [\u2026]"
@@ -569,6 +572,24 @@
       "details": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication..."
     },
     {
+      "id": "live-military-at-last-army-seeing-progress-in-pacific-",
+      "title": "At last, Army seeing progress in Pacific network",
+      "category": "military",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Recent exercises suggest the service and its foreign partners are moving closer to a single-screen data system.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/10/death-swivel-chair-how-army-indopacom-bridge-comms-allies/416826/",
+      "details": "Recent exercises suggest the service and its foreign partners are moving closer to a single-screen data system."
+    },
+    {
       "id": "live-military-funding-force-structure-issues-could-hin",
       "title": "Funding, force-structure issues could hinder Hegseth\u2019s new autonomous command",
       "category": "military",
@@ -641,24 +662,6 @@
       "details": "The Kingdom has spent decades cultivating its reputation as a place where enemies can sit down and talk. Apparently, even that requires an air-defense system."
     },
     {
-      "id": "live-military-critical-flaws-in-ubiquitous-website-sof",
-      "title": "Critical flaws in ubiquitous website software draw urgent warning from NSA, FBI",
-      "category": "military",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Organizations should immediately update to the latest version of PHP or take systems offline, agencies say.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/10/critical-flaws-php-warning/416727/",
-      "details": "Organizations should immediately update to the latest version of PHP or take systems offline, agencies say."
-    },
-    {
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
@@ -671,8 +674,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -750,6 +753,42 @@
       "details": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts."
     },
     {
+      "id": "live-multilateral-west-bank-hebron-crackdown-displaces-tho",
+      "title": "West Bank: Hebron crackdown displaces thousands, T\u00fcrk warns of ethnic cleansing",
+      "category": "multilateral",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Israel\u2019s \u201caggressive operation\u201d in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker T\u00fcrk warned on Monday, as the number of Pa...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168672",
+      "details": "Israel\u2019s \u201caggressive operation\u201d in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker T\u00fcrk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections."
+    },
+    {
+      "id": "live-multilateral-women-and-girls-share-of-civilian-war-de",
+      "title": "Women and girls\u2019 share of civilian war deaths doubles since 2021",
+      "category": "multilateral",
+      "date": "2026-10-26",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year \u2013 double their share in 2021 \u2013 accor...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168673",
+      "details": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year \u2013 double their share in 2021 \u2013 according to major UN report released Monday.&nbsp;"
+    },
+    {
       "id": "live-multilateral-ukraine-investigators-find-russia-commit",
       "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
       "category": "multilateral",
@@ -802,43 +841,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168667",
       "details": "The UN\u2019s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Republic of the Congo (DRC).&nbsp;"
-    },
-    {
-      "id": "live-multilateral-why-do-planes-keep-circling-before-landi",
-      "title": "Why do planes keep circling before landing? UN has a plan to fix it",
-      "category": "multilateral",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions \u2013 an...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168666",
-      "details": "Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions \u2013 and the UN\u2019s aviation agency wants the rest of the world to follow."
-    },
-    {
-      "id": "live-multilateral-women-first-to-suffer-under-siege-first-",
-      "title": "Women \u2018first to suffer\u2019 under siege, first to step up as frontline responders in Sudan",
-      "category": "multilateral",
-      "date": "2026-10-26",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-      "details": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army."
     }
   ]
 }
