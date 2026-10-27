@@ -1,7 +1,62 @@
 {
-  "timestamp": "2026-10-27T04:08:44.925589",
+  "timestamp": "2026-10-27T14:06:31.339623",
   "fetched_count": 45,
   "nodes": [
+    {
+      "id": "live-overall-the-download-anthropic-s-ipo-smarter-pow",
+      "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
+      "category": "overall",
+      "date": "2026-10-27",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Anthropic"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;"
+    },
+    {
+      "id": "live-overall-industrial-intelligence-the-next-growth-",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "category": "overall",
+      "date": "2026-10-27",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "details": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;"
+    },
+    {
+      "id": "live-overall-how-solid-state-transformers-could-help-",
+      "title": "How solid-state transformers could help power the AI boom",
+      "category": "overall",
+      "date": "2026-10-27",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they\u2019re complicated and in short supply. And gi...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "details": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they\u2019re complicated and in short supply. And given that their basic design hasn\u2019t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;"
+    },
     {
       "id": "live-overall-will-the-real-anthropic-please-stand-up",
       "title": "Will the real Anthropic please stand up",
@@ -9,17 +64,17 @@
       "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
-      "tldr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthr...",
+      "tldr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, ...",
       "specs": {
         "source": "MIT Tech Review AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Anthropic"
+        "#Anthropic",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;"
+      "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;"
     },
     {
       "id": "live-overall-the-download-everyday-ai-harms-and-the-r",
@@ -40,60 +95,6 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms \u2014Sam Hiner, cofounder of the Young People\u2019s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230;"
     },
     {
-      "id": "live-overall-the-focus-on-ai-safety-disasters-ignores",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "category": "overall",
-      "date": "2026-10-27",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for child...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "details": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-testing-six-tech-promises-a",
-      "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
-      "category": "overall",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality ch...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls and yips? Absolutely. Scrubbing&#8230;"
-    },
-    {
-      "id": "live-overall-in-the-biotech-world-you-can-t-see-every",
-      "title": "In the biotech world, you can\u2019t see everything",
-      "category": "overall",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really k...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-      "details": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;"
-    },
-    {
       "id": "live-overall-inverse-modeling-for-laser-pulse-shape-d",
       "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
       "category": "overall",
@@ -106,8 +107,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.33096",
       "details": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical factor in the success of Inertial Confinement Fusion (ICF) is the design of a Laser Pulse Shape (LP) that can optimally drive implosions under stringent physical constraints. Traditional LP design relies on computationally expensive simulations and manual iterative refinement. We introduce the ICF Laser Pulse Shape Design System (LPDS), a generative inverse modeling framework that maps desired outcomes and target pellet configurations directly to optimized LPs. Crucially, we design a multi-objective loss function to ensure the generated LPs satisfy fundamental physical constraints and experimental requirements. Furthermore, we present constraint-conditioning, inpainting, and gradient-based LP editing mechanisms for fine-grained control over specific pulse characteristics during generation. Moreover, we study the transfer of our framework to a limited set of real experimental shots. Our method establishes a data-driven inverse design framework for LP design in ICF, contributing to the advancement of practical and sustainable fusion energy."
@@ -125,9 +126,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.33097",
       "details": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack theoretical grounding. Both approaches treat narrative categories in isolation and focus exclusively on moral portrayals of identity. To address these limitations, we introduce a framework grounded in social science theories, encompassing three categories: social identities (such as gender, politics, and ethnicity), viewpoints (ingroup and outgroup perspectives), and narrative roles (moral character, intelligence, status, and power). Building on this framework, we present IRON-Meme, a human-annotated benchmark comprising 1,110 political memes across substantially more templates than existing benchmarks. Our analysis of IRON-Meme shows that most memes assign derogatory roles and that identities, roles, and templates are systematically interconnected. Evaluation of nine vision-language models indicates that frontier-scale and reasoning models achieve the highest performance, while accuracy on social identities and narrative roles decreases for less frequent labels. Incorporating template background knowledge does not enhance narrative role classification, suggesting that meme interpretation relies on how memes are adapted for specific communicative purposes. We make IRON-Meme and our code publicly available."
@@ -146,8 +147,8 @@
       },
       "tags": [
         "#Meta",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.33103",
       "details": "arXiv:2610.33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses weigh twice as much as gains), diminishing sensitivity to the size of outcomes (i.e., the curvature and linearity of the value function), and the nonlinear weighting of probabilities. I examined whether Large Language Models (LLMs) display the same properties as people by meta-analyzing 102 fitted estimates from 11 studies covering 32 language models. The three components emerge differently. Loss aversion is modest: the pooled $\\lambda$ is 1.26 (95% CI 1.06 to 1.46), far below the strongest human meta-analytic estimate ($\\lambda = 1.96$) and compatible with more conservative ones (1.07 and 1.31). Matched by design, LLMs are compatible with people when gains and losses are symmetric ($\\lambda = 1.15$ against 1.07), but well below them when losses are smaller than gains (1.46 against 2.3), where human loss aversion is strongest. Value functions are close to linear rather than concave under the Tversky-Kahneman method (1.01, against a human value of 0.67), but more concave than in people under the Tanaka method (0.52, against 0.67), so diminishing sensitivity depends on how it is measured. Probability weighting shows a human-like inverse S shape ($\\gamma = 0.81$ under Tversky-Kahneman and 0.84 under the Tanaka method), though on few studies. In sum, LLMs show little loss aversion and little diminishing sensitivity, but retain human-like probability distortion, yet these generalizations shift when looking at specific model families and fitting methods."
@@ -165,10 +166,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#UnitedNations",
         "#Governance",
-        "#AgenticAI"
+        "#UnitedNations",
+        "#AgenticAI",
+        "#Reasoning"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.33105",
       "details": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engineering (COBEM 2025), this article presents a structured perspective for the Brazilian and international ME communities. Rather than an exhaustive survey, it examines how AI can enhance engineering practice without compromising scientific rigor. We distinguish statistical learning from human cognition and discuss the capabilities, limitations, and emerging agentic forms of AI. We then consider industrial adoption, workforce changes, and AI-assisted scientific discovery, alongside the energy and infrastructure demands of AI computation and their implications for sustainability and thermal management. The discussion emphasizes the integration of physical knowledge, structured reasoning, and domain expertise into AI systems, particularly in safety-relevant applications. Topics include physics-informed and hybrid learning, physically constrained modeling, validation, uncertainty quantification, and certification. We also examine educational, epistemological, and ethical challenges, including curriculum reform, human-agent collaboration, professional accountability, and the preservation of engineering knowledge. We conclude with principles for responsible AI adoption in ME: physical consistency, rigorous validation, explicit treatment of uncertainty, energy sustainability, human oversight, and ethical responsibility. AI should complement, not replace, engineering judgment."
@@ -186,9 +187,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.33112",
       "details": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded by a scope and subject to expiry. We take the delegation contract of earlier work (frozen configuration, scoped claim, executable revision rule) and study it under strategic play between a deployer, an auditor, and an enforcement point. We ask whether a declared context mixture can be made truthful; whether an audit can be unbiased against a system that detects evaluation traffic; whether a certification error budget can sustain a long-lived deployment; whether an aggregate audit can support a per-subgroup guarantee; and whether an incident metric that counts system failures but not fallback costs ranks arrangements correctly. For each we give a mechanism and a proposition: a proper-scoring penalty on the declared mixture bounds the excess failure of a best-responding deployer by $O(\\lambda^{-1/2})$ in the penalty weight; a commit-reveal audit drawn from live traffic is unbiased by construction and grades the evaluator with the same sample; a halving error budget drives certification coverage below $(1-p)^n$ while $\\alpha$-investing sustains it under a marginal false-certification guarantee; a per-subgroup guarantee costs audit size scaling as $1/m$ in subgroup mass; and any failure-only incident metric prefers withdrawal at every fallback cost, even when total loss ranks the arrangements oppositely. Five preregistered synthetic studies test each claim; no language model or production system is evaluated. Enforcement sits at distribution, capability-access, monetization and risk-transfer choke points, expiry of the conformance record is a standard of care, and conformance-as-a-rate is set against the EU AI Act's static conformity assessment."
@@ -335,8 +336,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "details": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
@@ -354,9 +355,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#OpenAI",
-        "#Governance"
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "details": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
@@ -380,6 +381,27 @@
       "details": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
     },
     {
+      "id": "live-companies-nvidia-and-meta-to-expand-collaboration-",
+      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+      "category": "companies",
+      "date": "2026-10-27",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular deman...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Meta",
+        "#UnitedNations",
+        "#AgenticAI",
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "details": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents."
+    },
+    {
       "id": "live-companies-kazakhstan-expands-compute-for-its-ai-fu",
       "title": "Kazakhstan Expands Compute for Its AI Future",
       "category": "companies",
@@ -392,9 +414,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#UnitedNations",
-        "#NVIDIA",
-        "#EUAIAct"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "details": "Kazakhstan\u2019s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack \u2014 from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation\u2019s increasing supply of accelerated computing \u2014 along with its growing demand for what comes next. Read All NVIDIA in Europe [\u2026]"
@@ -412,9 +434,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#NVIDIA",
-        "#Governance"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [\u2026]"
@@ -432,9 +454,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
         "#UnitedNations",
-        "#NVIDIA",
-        "#Governance"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
       "details": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [\u2026]"
@@ -452,32 +474,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#EUAIAct",
         "#UnitedNations",
-        "#NVIDIA",
-        "#EUAIAct"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
       "details": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-cosmos-opens-new-tools-to-train-e",
-      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "category": "companies",
-      "date": "2026-10-27",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tool...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#NVIDIA",
-        "#Governance"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "details": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open [\u2026]"
     },
     {
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
@@ -589,6 +591,24 @@
       "details": "Recent exercises suggest the service and its foreign partners are moving closer to a single-screen data system."
     },
     {
+      "id": "live-military-policy-proposal-would-require-firms-to-d",
+      "title": "Policy proposal would require firms to disclose how they use AI to develop new models",
+      "category": "military",
+      "date": "2026-10-27",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "The framework from Americans for Responsible Innovation would give Washington a closer look at AI\u2019s role in developing new models as Jay Clayton\u2019s task force shapes the government\u2019...",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/10/policy-proposal-would-require-firms-disclose-how-they-use-ai-develop-new-models/416833/",
+      "details": "The framework from Americans for Responsible Innovation would give Washington a closer look at AI\u2019s role in developing new models as Jay Clayton\u2019s task force shapes the government\u2019s relationship with developers."
+    },
+    {
       "id": "live-military-funding-force-structure-issues-could-hin",
       "title": "Funding, force-structure issues could hinder Hegseth\u2019s new autonomous command",
       "category": "military",
@@ -605,6 +625,24 @@
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/10/funding-hegseth-autonomous-command/416800/",
       "details": "The money to start AUTOWARCOM is to come from a reconciliation bill whose passage is in doubt."
+    },
+    {
+      "id": "live-military-navy-s-tech-playbook-serves-as-toolkit-f",
+      "title": "Navy\u2019s tech playbook serves as \u2018toolkit\u2019 for rest of government",
+      "category": "military",
+      "date": "2026-10-27",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "The U.S. Navy dramatically upped its use of pilot tech programs, shuttered old technology systems and moved into the modern tech arena\u2014and it is sharing its lessons learned from al...",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/10/navys-tech-playbook-serves-toolkit-rest-government/416832/",
+      "details": "The U.S. Navy dramatically upped its use of pilot tech programs, shuttered old technology systems and moved into the modern tech arena\u2014and it is sharing its lessons learned from along the way."
     },
     {
       "id": "live-military-are-yearlong-deployments-the-navy-s-new-",
@@ -625,40 +663,22 @@
       "details": "That's what officials are telling sailors' families in Japan, where two destroyers are slated for 12- and 14-month cruises."
     },
     {
-      "id": "live-military-defense-business-brief-a-little-bit-of-m",
-      "title": "Defense Business Brief: A little bit of MOSA; Netherlands-U.S. industry days, and more",
-      "category": "military",
+      "id": "live-governance-nist-report-provides-guidelines-for-tran",
+      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "category": "governance",
       "date": "2026-10-27",
       "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "",
+      "company": "NIST News",
+      "tldr": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing...",
       "specs": {
-        "source": "Defense One AI",
+        "source": "NIST News",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI"
+        "#Governance"
       ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/10/defense-business-brief-little-bit-mosa-netherlands-us-industry-days-and-more/416776/",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-military-qatar-looks-to-bolster-its-military-powe",
-      "title": "Qatar looks to bolster its military power with new hub, partnerships",
-      "category": "military",
-      "date": "2026-10-27",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "The Kingdom has spent decades cultivating its reputation as a place where enemies can sit down and talk. Apparently, even that requires an air-defense system.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/10/qatar-looks-bolster-its-military-power-new-hub-partnerships/416775/",
-      "details": "The Kingdom has spent decades cultivating its reputation as a place where enemies can sit down and talk. Apparently, even that requires an air-defense system."
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+      "details": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps."
     },
     {
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
@@ -734,22 +754,61 @@
       "details": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d"
     },
     {
-      "id": "live-governance-nist-provides-updates-on-national-constr",
-      "title": "NIST Provides Updates on National Construction Safety Team Activities",
-      "category": "governance",
+      "id": "live-multilateral-record-carbon-dioxide-levels-will-impact",
+      "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
+      "category": "multilateral",
       "date": "2026-10-27",
       "impact": "MODERATE",
-      "company": "NIST News",
-      "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
+      "company": "UN News AI",
+      "tldr": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warm...",
       "specs": {
-        "source": "NIST News",
+        "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities",
-      "details": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168677",
+      "details": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday."
+    },
+    {
+      "id": "live-multilateral-kenya-20-ebola-contacts-released-from-qu",
+      "title": "Kenya: 20 Ebola contacts released from quarantine",
+      "category": "multilateral",
+      "date": "2026-10-27",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Twenty people associated with Kenya\u2019s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168676",
+      "details": "Twenty people associated with Kenya\u2019s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion of the mandatory 21-day monitoring period.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-ethiopians-flee-to-k",
+      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN\u2019s food program",
+      "category": "multilateral",
+      "date": "2026-10-27",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+      "details": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.&nbsp;"
     },
     {
       "id": "live-multilateral-west-bank-hebron-crackdown-displaces-tho",
@@ -786,60 +845,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168673",
       "details": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year \u2013 double their share in 2021 \u2013 according to major UN report released Monday.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-ukraine-investigators-find-russia-commit",
-      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-      "category": "multilateral",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Top human rights experts investigating Russia\u2019s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168670",
-      "details": "Top human rights experts investigating Russia\u2019s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law."
-    },
-    {
-      "id": "live-multilateral-in-egypt-guterres-warns-against-iran-us-",
-      "title": "In Egypt, Guterres warns against Iran-US escalation",
-      "category": "multilateral",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "UN Secretary-General Ant\u00f3nio Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&nbsp;",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-      "details": "UN Secretary-General Ant\u00f3nio Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-ebola-un-officials-condemn-killing-of-nu",
-      "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
-      "category": "multilateral",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN\u2019s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Repu...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168667",
-      "details": "The UN\u2019s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Republic of the Congo (DRC).&nbsp;"
     }
   ]
 }
