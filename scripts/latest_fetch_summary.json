@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-27T14:06:31.339623",
-  "fetched_count": 45,
+  "timestamp": "2026-10-27T20:29:17.790345",
+  "fetched_count": 40,
   "nodes": [
     {
       "id": "live-overall-the-download-anthropic-s-ipo-smarter-pow",
@@ -126,9 +126,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Reasoning",
         "#Governance",
-        "#UnitedNations",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.33097",
       "details": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack theoretical grounding. Both approaches treat narrative categories in isolation and focus exclusively on moral portrayals of identity. To address these limitations, we introduce a framework grounded in social science theories, encompassing three categories: social identities (such as gender, politics, and ethnicity), viewpoints (ingroup and outgroup perspectives), and narrative roles (moral character, intelligence, status, and power). Building on this framework, we present IRON-Meme, a human-annotated benchmark comprising 1,110 political memes across substantially more templates than existing benchmarks. Our analysis of IRON-Meme shows that most memes assign derogatory roles and that identities, roles, and templates are systematically interconnected. Evaluation of nine vision-language models indicates that frontier-scale and reasoning models achieve the highest performance, while accuracy on social identities and narrative roles decreases for less frequent labels. Incorporating template background knowledge does not enhance narrative role classification, suggesting that meme interpretation relies on how memes are adapted for specific communicative purposes. We make IRON-Meme and our code publicly available."
@@ -146,8 +146,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
         "#Governance",
+        "#Meta",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.33103",
@@ -166,10 +166,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Reasoning",
         "#Governance",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.33105",
       "details": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engineering (COBEM 2025), this article presents a structured perspective for the Brazilian and international ME communities. Rather than an exhaustive survey, it examines how AI can enhance engineering practice without compromising scientific rigor. We distinguish statistical learning from human cognition and discuss the capabilities, limitations, and emerging agentic forms of AI. We then consider industrial adoption, workforce changes, and AI-assisted scientific discovery, alongside the energy and infrastructure demands of AI computation and their implications for sustainability and thermal management. The discussion emphasizes the integration of physical knowledge, structured reasoning, and domain expertise into AI systems, particularly in safety-relevant applications. Topics include physics-informed and hybrid learning, physically constrained modeling, validation, uncertainty quantification, and certification. We also examine educational, epistemological, and ethical challenges, including curriculum reform, human-agent collaboration, professional accountability, and the preservation of engineering knowledge. We conclude with principles for responsible AI adoption in ME: physical consistency, rigorous validation, explicit treatment of uncertainty, energy sustainability, human oversight, and ethical responsibility. AI should complement, not replace, engineering judgment."
@@ -195,8 +195,26 @@
       "details": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded by a scope and subject to expiry. We take the delegation contract of earlier work (frozen configuration, scoped claim, executable revision rule) and study it under strategic play between a deployer, an auditor, and an enforcement point. We ask whether a declared context mixture can be made truthful; whether an audit can be unbiased against a system that detects evaluation traffic; whether a certification error budget can sustain a long-lived deployment; whether an aggregate audit can support a per-subgroup guarantee; and whether an incident metric that counts system failures but not fallback costs ranks arrangements correctly. For each we give a mechanism and a proposition: a proper-scoring penalty on the declared mixture bounds the excess failure of a best-responding deployer by $O(\\lambda^{-1/2})$ in the penalty weight; a commit-reveal audit drawn from live traffic is unbiased by construction and grades the evaluator with the same sample; a halving error budget drives certification coverage below $(1-p)^n$ while $\\alpha$-investing sustains it under a marginal false-certification guarantee; a per-subgroup guarantee costs audit size scaling as $1/m$ in subgroup mass; and any failure-only incident metric prefers withdrawal at every fallback cost, even when total loss ranks the arrangements oppositely. Five preregistered synthetic studies test each claim; no language model or production system is evaluated. Enforcement sits at distribution, capability-access, monetization and risk-transfer choke points, expiry of the conformance record is a standard of care, and conformance-as-a-rate is set against the EU AI Act's static conformity assessment."
     },
     {
-      "id": "live-agentic_ai-litpivot-developing-research-ideas-throu",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscap",
+      "id": "live-agentic_ai-build-specialized-multimodal-models-with",
+      "title": "Build specialized multimodal models with LFM3",
+      "category": "agentic_ai",
+      "date": "2026-10-27",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
+      "id": "live-agentic_ai-can-we-trust-llms-to-judge-whether-a-res",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
       "category": "agentic_ai",
       "date": "2026-10-27",
       "impact": "MODERATE",
@@ -209,7 +227,7 @@
       "tags": [
         "#AITrend"
       ],
-      "sourceUrl": "https://huggingface.co/blog/allenai/litpivot",
+      "sourceUrl": "https://huggingface.co/blog/allenai/novelty-bench",
       "details": "Live news development fetched from official RSS feed."
     },
     {
@@ -267,22 +285,43 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-nvidia-kumo-relational-outperforms-super",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Requi",
-      "category": "agentic_ai",
+      "id": "live-models-openai-expands-partnership-with-oracle-t",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "category": "models",
       "date": "2026-10-27",
       "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA"
+        "#AgenticAI",
+        "#OpenAI"
       ],
-      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "details": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+    },
+    {
+      "id": "live-models-how-check-point-accelerates-vulnerabilit",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "category": "models",
+      "date": "2026-10-27",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#OpenAI",
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://openai.com/index/check-point-daybreak",
+      "details": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
     },
     {
       "id": "live-models-greptile-takes-bug-detection-beyond-code",
@@ -335,50 +374,50 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#AgenticAI",
+        "#AISecurity",
         "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "details": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
     },
     {
-      "id": "live-models-chatgpt-s-expanding-world-of-work",
-      "title": "ChatGPT\u2019s expanding world of work",
-      "category": "models",
+      "id": "live-companies-nvidia-and-oracle-expand-nvidia-vera-rub",
+      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Orac",
+      "category": "companies",
       "date": "2026-10-27",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing c...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#NVIDIA",
         "#UnitedNations",
-        "#OpenAI"
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "details": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+      "details": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing customer demand for AI training, inference and agentic applications."
     },
     {
-      "id": "live-models-how-fanatics-and-openai-streamline-the-f",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "category": "models",
+      "id": "live-companies-how-ai-is-changing-the-pace-of-discovery",
+      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "category": "companies",
       "date": "2026-10-27",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn\u2019t a lack of effort \u2014 it\u2019s too much data, too few expert...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "details": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+      "sourceUrl": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "details": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn\u2019t a lack of effort \u2014 it\u2019s too much data, too few experts to synthesize it and a pace of discovery that can\u2019t keep up with the disease. The Consortium for Biomedical Research and AI in [\u2026]"
     },
     {
       "id": "live-companies-nvidia-and-meta-to-expand-collaboration-",
@@ -393,10 +432,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#Meta",
         "#UnitedNations",
-        "#AgenticAI",
-        "#NVIDIA"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
       "details": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents."
@@ -415,8 +454,8 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "details": "Kazakhstan\u2019s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack \u2014 from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation\u2019s increasing supply of accelerated computing \u2014 along with its growing demand for what comes next. Read All NVIDIA in Europe [\u2026]"
@@ -435,51 +474,29 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [\u2026]"
     },
     {
-      "id": "live-companies-cloud-deployment-incoming-call-of-duty-m",
-      "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
-      "category": "companies",
+      "id": "live-fellowships-new-dwarf-planet-candidate-discovered-by",
+      "title": "New dwarf planet candidate discovered by NSF\u2013DOE Rubin Observatory",
+      "category": "fellowships",
       "date": "2026-10-27",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction...",
+      "impact": "MODERATE",
+      "company": "NSF News",
+      "tldr": "NSF\u2013DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet. A preliminary data analysis shows that the object is orbiting...",
       "specs": {
-        "source": "NVIDIA Newsroom",
+        "source": "NSF News",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-      "details": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [\u2026]"
-    },
-    {
-      "id": "live-companies-leading-european-financial-services-orga",
-      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intellige",
-      "category": "companies",
-      "date": "2026-10-27",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by o...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-      "details": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF [\u2026]"
+      "sourceUrl": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
+      "details": "NSF\u2013DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet. A preliminary data analysis shows that the object is orbiting in the outer reaches of the solar system beyond Pluto and may be one\u2026"
     },
     {
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
@@ -553,24 +570,6 @@
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-lays-foundation-next-generation-technologies-support",
       "details": "The U.S. National Science Foundation today announced a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golden Age..."
-    },
-    {
-      "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
-      "title": "Podcast: Could holographic 3D printing be real?",
-      "category": "fellowships",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "NSF News",
-      "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
-      "specs": {
-        "source": "NSF News",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.nsf.gov/news/podcast-could-holographic-3d-printing-be-real",
-      "details": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication..."
     },
     {
       "id": "live-military-at-last-army-seeing-progress-in-pacific-",
@@ -752,99 +751,6 @@
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/physicist-jun-ye-wins-wolf-prize-physics",
       "details": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d"
-    },
-    {
-      "id": "live-multilateral-record-carbon-dioxide-levels-will-impact",
-      "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
-      "category": "multilateral",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warm...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168677",
-      "details": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday."
-    },
-    {
-      "id": "live-multilateral-kenya-20-ebola-contacts-released-from-qu",
-      "title": "Kenya: 20 Ebola contacts released from quarantine",
-      "category": "multilateral",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Twenty people associated with Kenya\u2019s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168676",
-      "details": "Twenty people associated with Kenya\u2019s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion of the mandatory 21-day monitoring period.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-ethiopians-flee-to-k",
-      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN\u2019s food program",
-      "category": "multilateral",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.&nbsp;",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168674",
-      "details": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-west-bank-hebron-crackdown-displaces-tho",
-      "title": "West Bank: Hebron crackdown displaces thousands, T\u00fcrk warns of ethnic cleansing",
-      "category": "multilateral",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Israel\u2019s \u201caggressive operation\u201d in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker T\u00fcrk warned on Monday, as the number of Pa...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-      "details": "Israel\u2019s \u201caggressive operation\u201d in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker T\u00fcrk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections."
-    },
-    {
-      "id": "live-multilateral-women-and-girls-share-of-civilian-war-de",
-      "title": "Women and girls\u2019 share of civilian war deaths doubles since 2021",
-      "category": "multilateral",
-      "date": "2026-10-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year \u2013 double their share in 2021 \u2013 accor...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168673",
-      "details": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year \u2013 double their share in 2021 \u2013 according to major UN report released Monday.&nbsp;"
     }
   ]
 }
