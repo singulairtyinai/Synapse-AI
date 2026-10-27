@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-26T23:37:33.867228",
+  "timestamp": "2026-10-27T04:08:44.925589",
   "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-will-the-real-anthropic-please-stand-up",
       "title": "Will the real Anthropic please stand up",
       "category": "overall",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthr...",
@@ -15,8 +15,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Anthropic",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Anthropic"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;"
@@ -25,7 +25,7 @@
       "id": "live-overall-the-download-everyday-ai-harms-and-the-r",
       "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
       "category": "overall",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safet...",
@@ -43,7 +43,7 @@
       "id": "live-overall-the-focus-on-ai-safety-disasters-ignores",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "category": "overall",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for child...",
@@ -61,7 +61,7 @@
       "id": "live-overall-the-download-testing-six-tech-promises-a",
       "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
       "category": "overall",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality ch...",
@@ -79,7 +79,7 @@
       "id": "live-overall-in-the-biotech-world-you-can-t-see-every",
       "title": "In the biotech world, you can\u2019t see everything",
       "category": "overall",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really k...",
@@ -94,111 +94,110 @@
       "details": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;"
     },
     {
-      "id": "live-overall-tradeoff-aware-territory-design-a-multi-",
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller",
+      "id": "live-overall-inverse-modeling-for-laser-pulse-shape-d",
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
       "category": "overall",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation dec...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2610.31701",
-      "details": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed. Yet the process often remains manual, making it difficult to compare opportunities, value continuity, and evaluate tradeoffs among growth, balance, capacity, and feasibility. We present a production decision system for tradeoff-aware customer-to-seller allocation in enterprise GTM planning. It integrates three components: a multidimensional account-value layer that combines predictive signals to score opportunity; an observational continuity-valuation layer that estimates the cost of breaking seller-account relationships using a synthetic-control-style counterfactual framework; and a multi-objective optimization layer that allocates coverage to high-value accounts while considering continuity, opportunity balance, and operational constraints. Deployed as a scenario-based decision-support system, the framework enables planners to inspect and compare allocation tradeoffs. Historical backtesting shows that optimizer-generated scenarios substantially improve assignment compliance while maintaining comparable seller-level opportunity distribution. In production planning, adopted scenarios improved both assignment compliance and opportunity balance relative to the previous baseline. Directing scarce seller capacity toward higher-value accounts also offers incremental revenue potential at enterprise scale. The key contribution is an integrated, inspectable framework that turns territory carving into a governable decision process."
-    },
-    {
-      "id": "live-overall-phronix-the-capability-centric-learning-",
-      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-      "category": "overall",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentat...",
+      "tldr": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implication...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Governance",
         "#UnitedNations",
-        "#EUAIAct"
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2610.31789",
-      "details": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedly rediscover solutions rather than retain and reuse knowledge from prior executions. We introduce Phronix, a capability-centric learning paradigm that enables agentic harnesses to acquire, validate, and refine reusable capabilities from their own executions. Phronix operates through a predictor-validator-corrector loop: MCP tools and associated skills propose solutions, tool executions validate them, and observed outcomes refine the stored capabilities. It distills every observed interaction into a capability store and researches a failing task rather than abandoning it. First, such learned capabilities solve a recurring task on the first attempt in 93-95% of cases across every model, significantly reducing solution non-determinism and improving reliability. Second, Phronix turns an agent's own execution into 7.6-30.8 durable capabilities per task without user instruction, and creation falls below two once the needed capability exists. Third, warm-start runs consume only 0.38-0.40 million tokens per task, which is three to four times less than a single baseline attempt, while a cold-start costs no more than the baseline. On the 1000 Genome Pegasus workflow, instrumenting a production application for I/O performance analysis, Phronix passes all 11 correctness checks against six for the baseline harness, and also lifts the task solving rates of two cheaper models from 29% and 27% of SWE-bench tasks solved to 91% and 87%, respectively, matching the performance of the most expensive evaluated model."
+      "sourceUrl": "https://arxiv.org/abs/2610.33096",
+      "details": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical factor in the success of Inertial Confinement Fusion (ICF) is the design of a Laser Pulse Shape (LP) that can optimally drive implosions under stringent physical constraints. Traditional LP design relies on computationally expensive simulations and manual iterative refinement. We introduce the ICF Laser Pulse Shape Design System (LPDS), a generative inverse modeling framework that maps desired outcomes and target pellet configurations directly to optimized LPs. Crucially, we design a multi-objective loss function to ensure the generated LPs satisfy fundamental physical constraints and experimental requirements. Furthermore, we present constraint-conditioning, inpainting, and gradient-based LP editing mechanisms for fine-grained control over specific pulse characteristics during generation. Moreover, we study the transfer of our framework to a limited set of real experimental shots. Our method establishes a data-driven inverse design framework for LP design in ICF, contributing to the advancement of practical and sustainable fusion energy."
     },
     {
-      "id": "live-overall-patronizing-and-condescending-language-d",
-      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "id": "live-overall-iron-meme-a-benchmark-for-structured-und",
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narrative",
       "category": "overall",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, re...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2610.31808",
-      "details": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper proposes a system for the automated detection of PCL. Our first approach uses static word embeddings and a convolutional neural network for classification, while our second approach uses pre-trained BERT embeddings fine-tuned for the PCL task. Our second approach was considerably more successful, and achieved an F1 score of 0.528 over the development set."
-    },
-    {
-      "id": "live-overall-paperformalizer-author-in-the-loop-autof",
-      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-      "category": "overall",
-      "date": "2026-10-26",
-      "impact": "MODERATE",
-      "company": "arXiv CS.AI",
-      "tldr": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-...",
-      "specs": {
-        "source": "arXiv CS.AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://arxiv.org/abs/2610.31810",
-      "details": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statements, audits each statement in natural language for faithfulness, ambiguity and correctness, and then formalizes and proves the statements in Lean against Mathlib, optional domain libraries and the author's personal toolkit. Only the author knows what a statement is meant to say and how a formalization gap in a result is best fixed. The pipeline therefore stops and asks the author whenever a statement admits more than one reading, presents every repair, in natural language and TeX symbols, as a proposal that the author can accept, decline or redirect, and leaves to the author every decision that could potentially change what the paper claims. The output is an annotated and revised version of the paper, a report of the changes, and Lean code in which each declaration is linked to the statement it formalizes. The author's toolkit grows as more papers are formalized, and authors can share their verified papers so that researchers who build on them can reuse their Lean code. By making verified papers practical to produce, PaperFormalizer aims to make research that rests on mathematical proofs more robust. PaperFormalizer runs inside a coding agent (Claude Code or Codex) and is available at https://github.com/Jiyuan-Tan/PaperFormalizer. Papers with Lean code shared by users are available at https://paperformalizer.org."
-    },
-    {
-      "id": "live-overall-don-t-forget-what-you-just-learned-self-",
-      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-      "category": "overall",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover f...",
+      "tldr": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. ...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Governance",
-        "#UnitedNations"
+        "#Reasoning",
+        "#UnitedNations",
+        "#Governance"
       ],
-      "sourceUrl": "https://arxiv.org/abs/2610.31846",
-      "details": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fine-tuning is expensive and can interfere with existing capabilities. We introduce Self-Direction, a mechanism for agents to learn from mistakes that combines the benefits of temporary in-context retries and policy updates. When an agent fails a task, it reflects on its own trajectory in order to extract a lesson and immediately distills it into a lightweight low-rank adapter. By keeping the original weights frozen, Self-Direction prevents adapter training from overwriting base-model parameters while training additional parameters equivalent to ~0.02% of the base model's parameter count for each adapter. The agent then saves these adapters in a persistent library of lessons, automatically routing them to solve related problems later. Experiments with agents based on open-weight models from the Qwen family across open-ended research (GAIA), tool-use workflows (Claw-Eval), and terminal tasks (Terminal-Bench 2.1) show that our method improves overall success rates by 8.9 to 17.0 percentage points and performs competitively with frontier systems. We find that Self-Direction reduces repeated mistakes across future encounters of a task, nearly doubling the reliability of an agent's corrections. Learned lessons also transfer: a handful of adapters generalize to dozens of new tasks without additional training. Ultimately, this self-directed repair transforms everyday mistakes into lasting lessons."
+      "sourceUrl": "https://arxiv.org/abs/2610.33097",
+      "details": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack theoretical grounding. Both approaches treat narrative categories in isolation and focus exclusively on moral portrayals of identity. To address these limitations, we introduce a framework grounded in social science theories, encompassing three categories: social identities (such as gender, politics, and ethnicity), viewpoints (ingroup and outgroup perspectives), and narrative roles (moral character, intelligence, status, and power). Building on this framework, we present IRON-Meme, a human-annotated benchmark comprising 1,110 political memes across substantially more templates than existing benchmarks. Our analysis of IRON-Meme shows that most memes assign derogatory roles and that identities, roles, and templates are systematically interconnected. Evaluation of nine vision-language models indicates that frontier-scale and reasoning models achieve the highest performance, while accuracy on social identities and narrative roles decreases for less frequent labels. Incorporating template background knowledge does not enhance narrative role classification, suggesting that meme interpretation relies on how memes are adapted for specific communicative purposes. We make IRON-Meme and our code publicly available."
+    },
+    {
+      "id": "live-overall-prospect-theory-in-large-language-models",
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity,",
+      "category": "overall",
+      "date": "2026-10-27",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Meta",
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.33103",
+      "details": "arXiv:2610.33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses weigh twice as much as gains), diminishing sensitivity to the size of outcomes (i.e., the curvature and linearity of the value function), and the nonlinear weighting of probabilities. I examined whether Large Language Models (LLMs) display the same properties as people by meta-analyzing 102 fitted estimates from 11 studies covering 32 language models. The three components emerge differently. Loss aversion is modest: the pooled $\\lambda$ is 1.26 (95% CI 1.06 to 1.46), far below the strongest human meta-analytic estimate ($\\lambda = 1.96$) and compatible with more conservative ones (1.07 and 1.31). Matched by design, LLMs are compatible with people when gains and losses are symmetric ($\\lambda = 1.15$ against 1.07), but well below them when losses are smaller than gains (1.46 against 2.3), where human loss aversion is strongest. Value functions are close to linear rather than concave under the Tversky-Kahneman method (1.01, against a human value of 0.67), but more concave than in people under the Tanaka method (0.52, against 0.67), so diminishing sensitivity depends on how it is measured. Probability weighting shows a human-like inverse S shape ($\\gamma = 0.81$ under Tversky-Kahneman and 0.84 under the Tanaka method), though on few studies. In sum, LLMs show little loss aversion and little diminishing sensitivity, but retain human-like probability distortion, yet these generalizations shift when looking at specific model families and fitting methods."
+    },
+    {
+      "id": "live-overall-artificial-intelligence-in-mechanical-en",
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Respo",
+      "category": "overall",
+      "date": "2026-10-27",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, d...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Reasoning",
+        "#UnitedNations",
+        "#Governance",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.33105",
+      "details": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engineering (COBEM 2025), this article presents a structured perspective for the Brazilian and international ME communities. Rather than an exhaustive survey, it examines how AI can enhance engineering practice without compromising scientific rigor. We distinguish statistical learning from human cognition and discuss the capabilities, limitations, and emerging agentic forms of AI. We then consider industrial adoption, workforce changes, and AI-assisted scientific discovery, alongside the energy and infrastructure demands of AI computation and their implications for sustainability and thermal management. The discussion emphasizes the integration of physical knowledge, structured reasoning, and domain expertise into AI systems, particularly in safety-relevant applications. Topics include physics-informed and hybrid learning, physically constrained modeling, validation, uncertainty quantification, and certification. We also examine educational, epistemological, and ethical challenges, including curriculum reform, human-agent collaboration, professional accountability, and the preservation of engineering knowledge. We conclude with principles for responsible AI adoption in ME: physical consistency, rigorous validation, explicit treatment of uncertainty, energy sustainability, human oversight, and ethical responsibility. AI should complement, not replace, engineering judgment."
+    },
+    {
+      "id": "live-overall-conformance-as-a-distribution-delegation",
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation",
+      "category": "overall",
+      "date": "2026-10-27",
+      "impact": "CRITICAL",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.33112",
+      "details": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded by a scope and subject to expiry. We take the delegation contract of earlier work (frozen configuration, scoped claim, executable revision rule) and study it under strategic play between a deployer, an auditor, and an enforcement point. We ask whether a declared context mixture can be made truthful; whether an audit can be unbiased against a system that detects evaluation traffic; whether a certification error budget can sustain a long-lived deployment; whether an aggregate audit can support a per-subgroup guarantee; and whether an incident metric that counts system failures but not fallback costs ranks arrangements correctly. For each we give a mechanism and a proposition: a proper-scoring penalty on the declared mixture bounds the excess failure of a best-responding deployer by $O(\\lambda^{-1/2})$ in the penalty weight; a commit-reveal audit drawn from live traffic is unbiased by construction and grades the evaluator with the same sample; a halving error budget drives certification coverage below $(1-p)^n$ while $\\alpha$-investing sustains it under a marginal false-certification guarantee; a per-subgroup guarantee costs audit size scaling as $1/m$ in subgroup mass; and any failure-only incident metric prefers withdrawal at every fallback cost, even when total loss ranks the arrangements oppositely. Five preregistered synthetic studies test each claim; no language model or production system is evaluated. Enforcement sits at distribution, capability-access, monetization and risk-transfer choke points, expiry of the conformance record is a standard of care, and conformance-as-a-rate is set against the EU AI Act's static conformity assessment."
     },
     {
       "id": "live-agentic_ai-litpivot-developing-research-ideas-throu",
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscap",
       "category": "agentic_ai",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -216,7 +215,7 @@
       "id": "live-agentic_ai-does-your-model-run-on-aws-trainium-look",
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "category": "agentic_ai",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -234,7 +233,7 @@
       "id": "live-agentic_ai-turning-database-grading-into-rl-rewards",
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "category": "agentic_ai",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -252,7 +251,7 @@
       "id": "live-agentic_ai-ensemble-forecasting-with-ibm-granite-ti",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "category": "agentic_ai",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -270,7 +269,7 @@
       "id": "live-agentic_ai-nvidia-kumo-relational-outperforms-super",
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Requi",
       "category": "agentic_ai",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -288,7 +287,7 @@
       "id": "live-models-greptile-takes-bug-detection-beyond-code",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "category": "models",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
@@ -297,8 +296,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AISecurity"
+        "#AISecurity",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/greptile-code-review-codex-astra",
       "details": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
@@ -307,7 +306,7 @@
       "id": "live-models-working-with-academic-communities-to-bui",
       "title": "Working with academic communities to build scientific understanding",
       "category": "models",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
@@ -316,8 +315,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "details": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
@@ -326,7 +325,7 @@
       "id": "live-models-gpt-6-1-sol-helps-coderabbit-strengthen-",
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
       "category": "models",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
@@ -335,9 +334,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#OpenAI",
-        "#AgenticAI",
-        "#AISecurity"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "details": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
@@ -346,7 +345,7 @@
       "id": "live-models-chatgpt-s-expanding-world-of-work",
       "title": "ChatGPT\u2019s expanding world of work",
       "category": "models",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
@@ -355,9 +354,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#OpenAI",
-        "#Governance",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "details": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
@@ -366,7 +365,7 @@
       "id": "live-models-how-fanatics-and-openai-streamline-the-f",
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "category": "models",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
@@ -384,7 +383,7 @@
       "id": "live-companies-kazakhstan-expands-compute-for-its-ai-fu",
       "title": "Kazakhstan Expands Compute for Its AI Future",
       "category": "companies",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Kazakhstan\u2019s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack \u2014 from infrastructure to models to applications. Together...",
@@ -393,8 +392,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#UnitedNations",
+        "#NVIDIA",
         "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
@@ -404,7 +403,7 @@
       "id": "live-companies-nvidia-unveils-minerva-to-bring-end-to-e",
       "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
       "category": "companies",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and...",
@@ -413,9 +412,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#NVIDIA",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast [\u2026]"
@@ -424,7 +423,7 @@
       "id": "live-companies-cloud-deployment-incoming-call-of-duty-m",
       "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
       "category": "companies",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction...",
@@ -433,9 +432,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#NVIDIA",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
       "details": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [\u2026]"
@@ -444,7 +443,7 @@
       "id": "live-companies-leading-european-financial-services-orga",
       "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intellige",
       "category": "companies",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like \u2014 built on NVIDIA accelerated computing, powered by o...",
@@ -453,8 +452,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#UnitedNations",
+        "#NVIDIA",
         "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
@@ -464,7 +463,7 @@
       "id": "live-companies-nvidia-cosmos-opens-new-tools-to-train-e",
       "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
       "category": "companies",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tool...",
@@ -473,9 +472,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#UnitedNations",
         "#NVIDIA",
-        "#UnitedNations"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
       "details": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open [\u2026]"
@@ -484,7 +483,7 @@
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
       "title": "Podcast: Can America's most powerful laser unlock the universe?",
       "category": "fellowships",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser ...",
@@ -502,7 +501,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -520,7 +519,7 @@
       "id": "live-fellowships-nsf-ukri-metascience-statement",
       "title": "NSF\u2013UKRI metascience statement",
       "category": "fellowships",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the ...",
@@ -529,8 +528,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -539,7 +538,7 @@
       "id": "live-fellowships-nsf-lays-the-foundation-for-the-next-gen",
       "title": "NSF lays the foundation for the next generation of technologies and support for American talent",
       "category": "fellowships",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The U.S. National Science Foundation today announced a series of programs and initiatives to support the ambitious vision articulated in the White House report Science: A New Golde...",
@@ -557,7 +556,7 @@
       "id": "live-fellowships-podcast-could-holographic-3d-printing-be",
       "title": "Podcast: Could holographic 3D printing be real?",
       "category": "fellowships",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Rajesh Menon discusses his work combining optical systems with cutting-edge nanofabrication...",
@@ -575,7 +574,7 @@
       "id": "live-military-at-last-army-seeing-progress-in-pacific-",
       "title": "At last, Army seeing progress in Pacific network",
       "category": "military",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Recent exercises suggest the service and its foreign partners are moving closer to a single-screen data system.",
@@ -593,7 +592,7 @@
       "id": "live-military-funding-force-structure-issues-could-hin",
       "title": "Funding, force-structure issues could hinder Hegseth\u2019s new autonomous command",
       "category": "military",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The money to start AUTOWARCOM is to come from a reconciliation bill whose passage is in doubt.",
@@ -611,7 +610,7 @@
       "id": "live-military-are-yearlong-deployments-the-navy-s-new-",
       "title": "Are yearlong deployments the Navy\u2019s new normal?",
       "category": "military",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "That's what officials are telling sailors' families in Japan, where two destroyers are slated for 12- and 14-month cruises.",
@@ -629,7 +628,7 @@
       "id": "live-military-defense-business-brief-a-little-bit-of-m",
       "title": "Defense Business Brief: A little bit of MOSA; Netherlands-U.S. industry days, and more",
       "category": "military",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -647,7 +646,7 @@
       "id": "live-military-qatar-looks-to-bolster-its-military-powe",
       "title": "Qatar looks to bolster its military power with new hub, partnerships",
       "category": "military",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The Kingdom has spent decades cultivating its reputation as a place where enemies can sit down and talk. Apparently, even that requires an air-defense system.",
@@ -665,7 +664,7 @@
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -684,7 +683,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -702,7 +701,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -720,7 +719,7 @@
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -738,7 +737,7 @@
       "id": "live-governance-nist-provides-updates-on-national-constr",
       "title": "NIST Provides Updates on National Construction Safety Team Activities",
       "category": "governance",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
@@ -756,7 +755,7 @@
       "id": "live-multilateral-west-bank-hebron-crackdown-displaces-tho",
       "title": "West Bank: Hebron crackdown displaces thousands, T\u00fcrk warns of ethnic cleansing",
       "category": "multilateral",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Israel\u2019s \u201caggressive operation\u201d in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker T\u00fcrk warned on Monday, as the number of Pa...",
@@ -774,7 +773,7 @@
       "id": "live-multilateral-women-and-girls-share-of-civilian-war-de",
       "title": "Women and girls\u2019 share of civilian war deaths doubles since 2021",
       "category": "multilateral",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year \u2013 double their share in 2021 \u2013 accor...",
@@ -792,7 +791,7 @@
       "id": "live-multilateral-ukraine-investigators-find-russia-commit",
       "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
       "category": "multilateral",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "Top human rights experts investigating Russia\u2019s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity...",
@@ -810,7 +809,7 @@
       "id": "live-multilateral-in-egypt-guterres-warns-against-iran-us-",
       "title": "In Egypt, Guterres warns against Iran-US escalation",
       "category": "multilateral",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "UN Secretary-General Ant\u00f3nio Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&nbsp;",
@@ -828,7 +827,7 @@
       "id": "live-multilateral-ebola-un-officials-condemn-killing-of-nu",
       "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
       "category": "multilateral",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "impact": "MODERATE",
       "company": "UN News AI",
       "tldr": "The UN\u2019s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Repu...",
