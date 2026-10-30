@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-30T14:53:55.339513",
-  "fetched_count": 55,
+  "timestamp": "2026-10-30T20:30:04.767448",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-glp-1s-and-eating-disorders",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI&#8230;"
@@ -70,11 +70,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance",
-        "#OpenAI",
         "#AISecurity",
-        "#AgenticAI"
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "details": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It\u2019s a problem&#8230;"
@@ -96,6 +96,24 @@
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
       "details": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models\u2014or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of&#8230;"
+    },
+    {
+      "id": "live-agentic_ai-nemotron-halloween",
+      "title": "nemotron-halloween",
+      "category": "agentic_ai",
+      "date": "2026-10-30",
+      "impact": "MODERATE",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-granite-switch-4-1-1-update-models-like-",
@@ -167,24 +185,6 @@
         "#AITrend"
       ],
       "sourceUrl": "https://huggingface.co/blog/anydecisionmodel",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-agentic_ai-nvidia-nemotron-3-5-transcribe-and-grana",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt",
-      "category": "agentic_ai",
-      "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
       "details": "Live news development fetched from official RSS feed."
     },
     {
@@ -280,6 +280,44 @@
       "details": "Article URL: https://techstrong.ai/building-with-ai/featured/agentic-ai-foundation-adds-four-new-open-agent-projects/ Comments URL: https://news.ycombinator.com/item?id=50262308 Points: 1 # Comments: 0"
     },
     {
+      "id": "live-models-making-it-easier-for-websites-to-express",
+      "title": "Making it easier for websites to express AI training preferences",
+      "category": "models",
+      "date": "2026-10-30",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "details": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    },
+    {
+      "id": "live-models-community-safety-report-and-new-protecti",
+      "title": "Community safety report and new protections for teens",
+      "category": "models",
+      "date": "2026-10-30",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "details": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    },
+    {
       "id": "live-models-an-updated-model-spec-for-more-capable-a",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "category": "models",
@@ -292,8 +330,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/updated-model-spec",
       "details": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
@@ -311,9 +349,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "details": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
@@ -331,48 +369,30 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/ropes-gray-ai-diligence",
       "details": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
     },
     {
-      "id": "live-models-openai-and-servicenow-expand-partnership",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "category": "models",
-      "date": "2026-10-30",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "details": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
-    },
-    {
-      "id": "live-models-the-future-of-the-firm",
-      "title": "The future of the firm",
-      "category": "models",
+      "id": "live-companies-things-that-go-beep-in-the-night-agentic",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "category": "companies",
       "date": "2026-10-30",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "How AI might enter the org chart\u2014beneath, beside, and between us.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the sear...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#NVIDIA",
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://openai.com/index/the-future-of-the-firm",
-      "details": "How AI might enter the org chart\u2014beneath, beside, and between us."
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "details": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents [\u2026]"
     },
     {
       "id": "live-companies-slice-into-gfn-thursday-phantom-blade-ze",
@@ -424,10 +444,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#Microsoft",
         "#NVIDIA",
-        "#UnitedNations",
-        "#Microsoft"
+        "#AgenticAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
       "details": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [\u2026]"
@@ -445,30 +465,33 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#NVIDIA",
+        "#AgenticAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
       "details": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing customer demand for AI training, inference and agentic applications."
     },
     {
-      "id": "live-companies-how-ai-is-changing-the-pace-of-discovery",
-      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "category": "companies",
+      "id": "live-security-cisa-adds-two-known-exploited-vulnerabil",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "category": "security",
       "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn\u2019t a lack of effort \u2014 it\u2019s too much data, too few expert...",
+      "impact": "HIGH",
+      "company": "CISA Cybersecurity",
+      "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing...",
       "specs": {
-        "source": "NVIDIA Newsroom",
+        "source": "CISA Cybersecurity",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA"
+        "#AISecurity",
+        "#Fellowship",
+        "#Governance",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-      "details": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn\u2019t a lack of effort \u2014 it\u2019s too much data, too few experts to synthesize it and a pace of discovery that can\u2019t keep up with the disease. The Consortium for Biomedical Research and AI in [\u2026]"
+      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
     },
     {
       "id": "live-security-hitachi-energy-coretec-product",
@@ -483,35 +506,14 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations",
         "#AISecurity",
         "#Governance",
-        "#DefenseAI"
+        "#UnitedNations",
+        "#DefenseAI",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "details": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/&lt;=3.4.0, 5.0.0 (CVE-2026-13162, CVE-2026-43284) CoreTec4 vers:CoreTec4/&lt;=3.4.0 (CVE-2026-13162) CVSS Vendor Equipment v3 8.8 Hitachi Energy CoreTec5 2 Vulnerabilities Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'), Write-what-where Condition Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-13162 An OS command vulnerability exists in CoreTec product that allows authenticated users with certain roles to execute arbitrary system commands with full control over the device. The vulnerability exists in the configuration daemon's time synchronization handler, which is responsible for setting the system timezone. When processing timezone configuration updates, the daemon constructs a shell command by concatenating user-supplied input without any sanitization or validation. Read More 2 Affected Products CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 CoreTec4 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpgrade to CoreTec5 version 5.0.0 MitigationFollow general mitigation factors Additional Metrics Relevant CWE: CWE-78 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H 4.0 7.7 HIGH CVSS:4.0/AV:N/AC:H/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details CVE-2026-43284 A vulnerability exists in the IPsec ESP subsystem (esp4) of the Linux kernel used in CoreTec5 that allows a local unprivileged user to escalate privileges to root. The flaw exists in how the kernel handles memory pages when processing ESP encrypted network packets. An attacker can craft a packet that causes the kernel to decrypt data directly into memory pages it does not own, including cached copies of privileged operating system binaries. When one of those binaries is executed, the attacker's injected code runs with root privileges. In CoreTec5, the vulnerable ESP component is compiled in kernel as a built-in and is present at boot time allowing a local user to exploit it. Read More 3 Affected Products CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 CoreTec4 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 Additional Metrics Relevant CWE: CWE-123 Write-what-where Condition CVSS Version Base Score Base Severity Vector String 3.1 8.8 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H View CVE Details Acknowledgments Ritesh Kumar Kalle, Subhojeet Mukherjee, Hishamudeen of the Cybersecurity Research group, Hitachi India R&amp;D Center reported these vulnerabilities to CISA. Notice The information in this document is subject to change without notice and should not be construed as a commitment by Hitachi Energy. Hitachi Energy provides no warranty, express or implied, including warranties of merchantability and fitness for a particular purpose, for the information contained in this document, and assumes no responsibility for any errors that may appear in this document. In no event shall Hitachi Energy or any of its suppliers be liable for direct, indirect, special, incidental or consequential damages of any nature or kind arising from the use of this document, or from the use of any hardware or software described in this document, even if Hitachi Energy or its suppliers have been advised of the possibility of such damages. This document and parts hereof must not be reproduced or copied without written permission from Hitachi Energy and the contents hereof must not be imparted to a third party nor used for any unauthorized purpose. All rights to registrations and trademarks reside with their respective owners. Support For additional information and support please contact your product provider or Hitachi Energy service organization. For contact information, see https://www.hitachienergy.com/contact-us/ for Hitachi Energy contact-centers. General Mitigation Factors Recommended security practices and firewall configurations can help protect a process control network from attacks that originate from outside the network. Such practices include that process control systems are physically protected from direct access by unauthorized personnel, have no direct connections to the Internet, and are separated from other networks by means of a firewall system that has a minimal number of ports exposed, and others that have to be evaluated case by case. Process control systems should not be used for Internet surfing, instant messaging, or receiving e-mails. Portable computers and removable storage media should be carefully scanned for viruses before they are connected to a control system. Proper password policies and processes should be followed. Additional information on Industrial Control Systems Cybersecurity Best Practices can be found in the Hitachi Energy \u201cIndustrial Control Systems Cybersecurity Best Practices\u201d Cybersecurity Notification. [1] SSVC SSVCv2/E:N/A:N/2026-10-26T15:17:24Z/ Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Hitachi Energy PSIRT 8DBD000258 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Hitachi Energy PSIRT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-27 Date Revision Summary 2026-10-27 1 Initial public release 2026-10-29 2 Initial CISA Republication of Hitachi Energy PSIRT 8DBD000258 advisory Legal Notice and Terms of Use"
-    },
-    {
-      "id": "live-security-cisa-adds-two-known-exploited-vulnerabil",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "category": "security",
-      "date": "2026-10-30",
-      "impact": "HIGH",
-      "company": "CISA Cybersecurity",
-      "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and E...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#Fellowship",
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
     },
     {
       "id": "live-security-hitachi-energy-tro600-series-products",
@@ -527,9 +529,9 @@
       },
       "tags": [
         "#AISecurity",
+        "#Governance",
         "#DefenseAI",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
       "details": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to the Recommended Immediate Actions section for information about the mitigation/remediation. The following versions of Hitachi Energy TRO600 series products are affected: TRO600 vers:TRO600/&lt;=9.2.1.6, vers:TRO600/&lt;=9.1.1.0, 9.2.2.1, 9.1.2.0 (CVE-2026-10756, CVE-2026-106087) CVSS Vendor Equipment v3 7.5 Hitachi Energy TRO600 2 Vulnerabilities Improper Restriction of Communication Channel to Intended Endpoints, Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-10756 TRO600 contains a vulnerability that allows an authenticated attacker to bypass network access restrictions and access services intended to be reachable only from localhost. By leveraging port forwarding, an attacker can interact with locally bound ports and services, resulting in unauthorized access to sensitive functionality and confidential information, and causing availability impact. Read More 1 Affected Product TRO600 version 9.2.1.6 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to version 9.2.2.1 Additional Metrics Relevant CWE: CWE-923 Improper Restriction of Communication Channel to Intended Endpoints CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H 4.0 7.7 HIGH CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details CVE-2026-106087 TRO600 contains an arbitrary file read vulnerability. An unauthenticated attacker can exploit this vulnerability to read or download arbitrary files on the affected device, including sensitive configuration files and password data, resulting in the disclosure of sensitive information. Read More 2 Affected Products TRO600 version 9.2.1.6 and prior Product Status: fixed, known_affected, recommended Remediations TRO600 version 9.1.1.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixFixed in version 9.1.2.0. Update to the latest version 9.2.2.1. Additional Metrics Relevant CWE: CWE-306 Missing Authentication for Critical Function CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N 4.0 8.7 HIGH CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N View CVE Details Acknowledgments Hitachi Energy Internal Team reported these vulnerabilities to CISA. Notice The information in this document is subject to change without notice and should not be construed as a commitment by Hitachi Energy. Hitachi Energy provides no warranty, express or implied, including warranties of merchantability and fitness for a particular purpose, for the information contained in this document, and assumes no responsibility for any errors that may appear in this document. In no event shall Hitachi Energy or any of its suppliers be liable for direct, indirect, special, incidental or consequential damages of any nature or kind arising from the use of this document, or from the use of any hardware or software described in this document, even if Hitachi Energy or its suppliers have been advised of the possibility of such damages. This document and parts hereof must not be reproduced or copied without written permission from Hitachi Energy and the contents hereof must not be imparted to a third party nor used for any unauthorized purpose. All rights to registrations and trademarks reside with their respective owners. Support For additional information and support please contact your product provider or Hitachi Energy service organization. For contact information, see https://www.hitachienergy.com/contact-us/ for Hitachi Energy contact-centers. General Mitigation Factors Recommended security practices and firewall configurations can help protect an industrial control system network from attacks that originate from outside the network. Such practices include that process control systems are physically protected from direct access by unauthorized personnel, have no direct connections to the Internet, and are separated from other networks by means of a firewall system that has a minimal number of ports exposed, and others that have to be evaluated case by case. Industrial control systems should not be used for Internet surfing, instant messaging, or receiving e-mails. Portable computers and removable storage media should be carefully scanned for viruses before they are connected to a control system. Additional information on Industrial Control Systems Cybersecurity Best Practices can be found in the Hitachi Energy\u2019s \u201cIndustrial Control Systems Cybersecurity Best Practices\u201d Cybersecurity Notification. [1] SSVC SSVCv2/E:N/A:N/2026-10-26T14:54:19Z/ Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Hitachi Energy PSIRT 8DBD000224 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Hitachi Energy PSIRT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-27 Date Revision Summary 2026-10-27 1 Initial Public release 2026-10-29 2 Initial CISA Republication of Hitachi Energy PSIRT 8DBD000224 advisory Legal Notice and Terms of Use"
@@ -548,9 +550,9 @@
       },
       "tags": [
         "#AISecurity",
+        "#Governance",
         "#DefenseAI",
-        "#UnitedNations",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
       "details": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix SAML Module are affected: Mendix SAML (Mendix 10 compatible) vers:intdot/&lt;4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 11 compatible) vers:intdot/&lt;4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 9 compatible) vers:intdot/&lt;3.6.29 (CVE-2026-89209) CVSS Vendor Equipment v3 6.8 Siemens Mendix SAML (Mendix 10 compatible) 1 Vulnerability Authentication Bypass by Capture-replay Background Critical Infrastructure Sectors: Critical Manufacturing, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-89209 Affected versions of the module do not properly protect against SAML assertion replay in IdP-initiated authentication flows. This could allow unauthenticated remote attackers to gain unauthorized access to the application by replaying a valid SAML response. Read More 3 Affected Products Mendix SAML (Mendix 10 compatible) &lt; V4.2.4 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V4.2.4 or later version Mendix SAML (Mendix 11 compatible) &lt; V4.2.4 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V4.2.4 or later version Mendix SAML (Mendix 9 compatible) &lt; V3.6.29 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V3.6.29 or later version Additional Metrics Relevant CWE: CWE-294 Authentication Bypass by Capture-replay CVSS Version Base Score Base Severity Vector String 3.1 6.8 MEDIUM CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:N View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-137528 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-26 Date Revision Summary 2026-10-26 1 Publication Date 2026-10-29 2 Initial CISA Republication of Siemens ProductCERT SSA-137528 advisory Legal Notice and Terms of Use"
@@ -562,7 +564,7 @@
       "date": "2026-10-30",
       "impact": "HIGH",
       "company": "CISA Cybersecurity",
-      "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficie...",
+      "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and E...",
       "specs": {
         "source": "CISA Cybersecurity",
         "type": "Live RSS Feed"
@@ -570,10 +572,11 @@
       "tags": [
         "#AISecurity",
         "#Fellowship",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
+      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
     },
     {
       "id": "live-fellowships-podcast-the-future-of-electronics-goes-b",
@@ -660,8 +663,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -946,96 +949,6 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
       "details": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act. Its publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard. EN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS standard with a presumption of conformity. It is mapped to Article 17 of the AI Act, built around the AI system lifecycle \u2013 rather than the organisation \u2013 and designed to be layered on top of the existing international standards \u2013 such as ISO/IEC 42001, ISO 9001 or a sectoral QMS (e.g. ISO 13485) \u2013 rather than replace them.&nbsp; EN 18286 explicitly allows providers in regulated sectors to integrate management systems, rather than run separate ones. Organisations without ISO/IEC 42001 that plan to place or put into service high-risk AI systems in the EU market can use EN 18286 to expand an existing QMS or build one that fulfills the requirements of article 17 requirements. The publication of this standard marks an important milestone in implementing the AI Act, ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow. Find further information about the Standardisation of the AI Act. Related topics Artificial intelligence"
-    },
-    {
-      "id": "live-multilateral-un-rights-office-warns-of-deepening-disp",
-      "title": "UN rights office warns of deepening displacement \u2018nightmare\u2019 in Gaza",
-      "category": "multilateral",
-      "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human right...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168707",
-      "details": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-yemen-war-makes-reaching-assistance-too-",
-      "title": "Yemen war makes reaching assistance too dangerous for many",
-      "category": "multilateral",
-      "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "details": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday."
-    },
-    {
-      "id": "live-multilateral-myanmar-s-illicit-economy-fuels-escalati",
-      "title": "Myanmar\u2019s illicit economy fuels escalating violence, with civilians bearing the brunt",
-      "category": "multilateral",
-      "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Myanmar\u2019s human rights situation is \u201ccatastrophic\u201d, the&nbsp;UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.&nbsp...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "details": "Myanmar\u2019s human rights situation is \u201ccatastrophic\u201d, the&nbsp;UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-ai-is-changing-the-way-we-think-the-ques",
-      "title": "AI is changing the way we think. The question is whether we\u2019ll notice in time",
-      "category": "multilateral",
-      "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds. For man...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168704",
-      "details": "Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds. For many people, it feels like a technological leap on par with the arrival of the internet itself."
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-5-children-killed-in",
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "category": "multilateral",
-      "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan\u2019s South Darfur state, on Monday, the UN Children\u2019s Fund (UNICEF) said on ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "details": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan\u2019s South Darfur state, on Monday, the UN Children\u2019s Fund (UNICEF) said on Thursday."
     }
   ]
 }
