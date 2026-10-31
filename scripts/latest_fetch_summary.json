@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-31T19:46:00.127219",
-  "fetched_count": 55,
+  "timestamp": "2026-10-31T23:08:58.499144",
+  "fetched_count": 60,
   "nodes": [
     {
       "id": "live-overall-the-download-glp-1s-and-eating-disorders",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI&#8230;"
@@ -70,9 +70,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#UnitedNations",
         "#OpenAI",
+        "#Governance",
         "#AISecurity",
         "#AgenticAI"
       ],
@@ -110,8 +110,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.37720",
       "details": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet additional expert copies compete with token-related buffers for limited GPU memory. We present LRMoE, a memory-aware MoE training system that jointly recalibrates backward demand and balances the retained workload. During forward execution, it plans retention quotas and expert placement under resource constraints while preserving all routed computations. During backpropagation, a load recalibration metric estimates each token-expert pair's contribution to the expert update and selects pairs within these quotas. A capacity-aware routing algorithm distributes retained pairs among eligible instances of their original experts. Physical compaction then forms smaller communication payloads and variable-size grouped GEMMs, reducing backward traffic, computation, and execution-buffer demand. Experiments on Qwen3-30B-A3B and GLM4.5-106B-A12B show that LRMoE reduces cumulative MoE-layer training time to fixed-loss targets by 21.2-44.8% relative to SYMI."
@@ -129,8 +129,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.37731",
       "details": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We construct a family of localized posteriors by weighting observation likelihoods according to their proximity to a target context. Gaussian localization weights incorporate context uncertainty through covariance inflation, with reflection at domain boundaries and an optional correction for uneven context sampling. A conditional normalizing flow approximates the family of posteriors through amortized variational inference. Integrating the localized posteriors under a prescribed context measure gives the marginalized parameter distribution. In a twin experiment with the Branin-Hoo model, we compare global and localized inference under uniform and skewed context distributions. Localization reduces the reported aggregate predictive errors relative to the global posterior. An application to the k-$\\epsilon$ turbulence closure in a single-column ocean model, with atmospheric surface forcing as context, shows that localized posterior calibration reduces temperature and zonal-velocity errors relative to deterministic and global-posterior calibration. Both twin experiments are constructed to admit local compensation."
@@ -148,8 +148,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.37732",
       "details": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as arithmetic, counting, and date comparison. Letting the model think first fixes most of these errors, but costs seconds per decision instead of milliseconds. To pay for thinking only where it helps, ThinkJev builds a fast and a slow system from one open hybrid-thinking model that can answer directly or after a thought. System 1 reads the model's probabilities for the option letters when it answers directly; System 2 reads the same letters after the model has thought on the same cached prompt, so escalating repeats no work and both systems give probabilities over the same options. Because the letters can be read after any number of thought tokens, one sampled thought also gives the answer under every thinking budget. Without training, ThinkJev lets System 1 answer alone only where a statistical test on labeled dev data guarantees that its accepted answers stay under a target error rate. At a 5% target, Qwen3.5-27B answers 24.5% of 8359 test decisions this way with a realized error of 3.9% (Qwen3.5-4B and 9B: 6.5% and 0.0%). For the rest, stopping each thought as soon as its answer is confident reaches 81.6% accuracy, against 82.7% for always thinking, with 72% of the thought tokens. Choosing when to think from System 1's confidence alone saves less, because the decisions System 1 is least sure of are often not the ones thinking fixes. On the public items of JevBench, an independent benchmark of typed-decision services, Qwen3.5-27B thinks on 29.4% and is not distinguishable in accuracy from the two thinking APIs listed (exploratory). Code and data generators are available at https://github.com/ding-xiaolu/ThinkJev."
@@ -167,9 +167,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#Governance",
         "#UnitedNations",
-        "#Governance"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.37739",
       "details": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other information for 12,151 problems. The benchmark contains 200 problems, 110 resolved in 2026 and 90 still open, each with a Lean~4 statement checked by automated probes and two independent reviews; a subset HQ-50 further filters based on quality score, etc. Our evaluation protocol grades formal proofs with two independent checkers in an isolated sandbox under closed-book, frozen-retrieval, and live-web conditions. Evaluating seven LLM agents on the HQ-50 subset under a standardized budget, we find that closed-book rediscovery is rare, at most 7 of 40 resolved problems, whereas live-web success mostly reflects retrieval of published solutions. By linking a broad research-problem corpus to a formally graded evaluation subset with documented solutions, OpenFrontiers provides a foundation for measuring research-level rediscovery and studying progress toward solving currently open scientific problems. The dataset and benchmark could be found in https://huggingface.co/collections/FlippyDora/openfrontiers."
@@ -188,8 +188,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://arxiv.org/abs/2610.37786",
@@ -286,6 +286,98 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-intc-and-orcl-to-collab-around-agentic-a",
+      "title": "INTC and ORCL to Collab Around Agentic AI on OCI",
+      "category": "agentic_ai",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html Comments URL: https://news.ycombinator.com/i...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html",
+      "details": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=50310875 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-serving-prefill-and-decode-for-agentic-a",
+      "title": "Serving Prefill and Decode for Agentic AI (On Tenstorrent Blackhole)",
+      "category": "agentic_ai",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://tenstorrent.com/en/developers/blog/serving-prefill-and-decode-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50291045 Points: 2 # Comments: ...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://tenstorrent.com/en/developers/blog/serving-prefill-and-decode-for-agentic-ai",
+      "details": "Article URL: https://tenstorrent.com/en/developers/blog/serving-prefill-and-decode-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50291045 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-control-planes-of-agentic-ai-infrastruct",
+      "title": "Control Planes of Agentic AI Infrastructure for Reliable Software Delivery",
+      "category": "agentic_ai",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/ Comments URL: https://news.ycombinator.com/item?id=50287073...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/",
+      "details": "Article URL: https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/ Comments URL: https://news.ycombinator.com/item?id=50287073 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-c-and-nats-io-for-agentic-ai-orchestrati",
+      "title": "C# and NATS.io for agentic AI orchestration",
+      "category": "agentic_ai",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://nats.io/blog/nats-native-protocol-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50278414 Points: 2 # Comments: 1",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://nats.io/blog/nats-native-protocol-for-ai-agents/",
+      "details": "Article URL: https://nats.io/blog/nats-native-protocol-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50278414 Points: 2 # Comments: 1"
+    },
+    {
+      "id": "live-agentic_ai-the-rise-of-the-lone-scientist-under-age",
+      "title": "The Rise of the Lone Scientist Under Agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50272870 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/",
+      "details": "Article URL: https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50272870 Points: 1 # Comments: 0"
+    },
+    {
       "id": "live-models-making-it-easier-for-websites-to-express",
       "title": "Making it easier for websites to express AI training preferences",
       "category": "models",
@@ -298,8 +390,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "details": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
@@ -317,8 +409,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "details": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
@@ -354,8 +446,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/updated-model-spec",
       "details": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
@@ -373,9 +465,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#OpenAI",
         "#UnitedNations",
-        "#OpenAI"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "details": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
@@ -393,8 +485,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
       "details": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents [\u2026]"
@@ -412,8 +504,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
       "details": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There\u2019s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, [\u2026]"
@@ -449,10 +541,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
+        "#Microsoft",
         "#NVIDIA",
-        "#Microsoft"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
       "details": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [\u2026]"
@@ -470,9 +562,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
+        "#NVIDIA",
         "#UnitedNations",
-        "#NVIDIA"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
       "details": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing customer demand for AI training, inference and agentic applications."
@@ -490,10 +582,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Fellowship",
-        "#UnitedNations",
+        "#AISecurity",
         "#Governance",
-        "#AISecurity"
+        "#Fellowship",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -511,10 +603,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#EUAIAct",
-        "#Governance",
         "#UnitedNations",
+        "#EUAIAct",
+        "#DefenseAI",
+        "#Governance",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
@@ -533,10 +625,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI",
         "#AISecurity",
-        "#Governance"
+        "#DefenseAI",
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
       "details": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to the Recommended Immediate Actions section for information about the mitigation/remediation. The following versions of Hitachi Energy TRO600 series products are affected: TRO600 vers:TRO600/&lt;=9.2.1.6, vers:TRO600/&lt;=9.1.1.0, 9.2.2.1, 9.1.2.0 (CVE-2026-10756, CVE-2026-106087) CVSS Vendor Equipment v3 7.5 Hitachi Energy TRO600 2 Vulnerabilities Improper Restriction of Communication Channel to Intended Endpoints, Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-10756 TRO600 contains a vulnerability that allows an authenticated attacker to bypass network access restrictions and access services intended to be reachable only from localhost. By leveraging port forwarding, an attacker can interact with locally bound ports and services, resulting in unauthorized access to sensitive functionality and confidential information, and causing availability impact. Read More 1 Affected Product TRO600 version 9.2.1.6 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to version 9.2.2.1 Additional Metrics Relevant CWE: CWE-923 Improper Restriction of Communication Channel to Intended Endpoints CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H 4.0 7.7 HIGH CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details CVE-2026-106087 TRO600 contains an arbitrary file read vulnerability. An unauthenticated attacker can exploit this vulnerability to read or download arbitrary files on the affected device, including sensitive configuration files and password data, resulting in the disclosure of sensitive information. Read More 2 Affected Products TRO600 version 9.2.1.6 and prior Product Status: fixed, known_affected, recommended Remediations TRO600 version 9.1.1.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixFixed in version 9.1.2.0. Update to the latest version 9.2.2.1. Additional Metrics Relevant CWE: CWE-306 Missing Authentication for Critical Function CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N 4.0 8.7 HIGH CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N View CVE Details Acknowledgments Hitachi Energy Internal Team reported these vulnerabilities to CISA. Notice The information in this document is subject to change without notice and should not be construed as a commitment by Hitachi Energy. Hitachi Energy provides no warranty, express or implied, including warranties of merchantability and fitness for a particular purpose, for the information contained in this document, and assumes no responsibility for any errors that may appear in this document. In no event shall Hitachi Energy or any of its suppliers be liable for direct, indirect, special, incidental or consequential damages of any nature or kind arising from the use of this document, or from the use of any hardware or software described in this document, even if Hitachi Energy or its suppliers have been advised of the possibility of such damages. This document and parts hereof must not be reproduced or copied without written permission from Hitachi Energy and the contents hereof must not be imparted to a third party nor used for any unauthorized purpose. All rights to registrations and trademarks reside with their respective owners. Support For additional information and support please contact your product provider or Hitachi Energy service organization. For contact information, see https://www.hitachienergy.com/contact-us/ for Hitachi Energy contact-centers. General Mitigation Factors Recommended security practices and firewall configurations can help protect an industrial control system network from attacks that originate from outside the network. Such practices include that process control systems are physically protected from direct access by unauthorized personnel, have no direct connections to the Internet, and are separated from other networks by means of a firewall system that has a minimal number of ports exposed, and others that have to be evaluated case by case. Industrial control systems should not be used for Internet surfing, instant messaging, or receiving e-mails. Portable computers and removable storage media should be carefully scanned for viruses before they are connected to a control system. Additional information on Industrial Control Systems Cybersecurity Best Practices can be found in the Hitachi Energy\u2019s \u201cIndustrial Control Systems Cybersecurity Best Practices\u201d Cybersecurity Notification. [1] SSVC SSVCv2/E:N/A:N/2026-10-26T14:54:19Z/ Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Hitachi Energy PSIRT 8DBD000224 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Hitachi Energy PSIRT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-27 Date Revision Summary 2026-10-27 1 Initial Public release 2026-10-29 2 Initial CISA Republication of Hitachi Energy PSIRT 8DBD000224 advisory Legal Notice and Terms of Use"
@@ -554,10 +646,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI",
         "#AISecurity",
-        "#Governance"
+        "#DefenseAI",
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
       "details": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix SAML Module are affected: Mendix SAML (Mendix 10 compatible) vers:intdot/&lt;4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 11 compatible) vers:intdot/&lt;4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 9 compatible) vers:intdot/&lt;3.6.29 (CVE-2026-89209) CVSS Vendor Equipment v3 6.8 Siemens Mendix SAML (Mendix 10 compatible) 1 Vulnerability Authentication Bypass by Capture-replay Background Critical Infrastructure Sectors: Critical Manufacturing, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-89209 Affected versions of the module do not properly protect against SAML assertion replay in IdP-initiated authentication flows. This could allow unauthenticated remote attackers to gain unauthorized access to the application by replaying a valid SAML response. Read More 3 Affected Products Mendix SAML (Mendix 10 compatible) &lt; V4.2.4 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V4.2.4 or later version Mendix SAML (Mendix 11 compatible) &lt; V4.2.4 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V4.2.4 or later version Mendix SAML (Mendix 9 compatible) &lt; V3.6.29 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V3.6.29 or later version Additional Metrics Relevant CWE: CWE-294 Authentication Bypass by Capture-replay CVSS Version Base Score Base Severity Vector String 3.1 6.8 MEDIUM CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:N View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-137528 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-26 Date Revision Summary 2026-10-26 1 Publication Date 2026-10-29 2 Initial CISA Republication of Siemens ProductCERT SSA-137528 advisory Legal Notice and Terms of Use"
@@ -575,10 +667,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Fellowship",
-        "#UnitedNations",
+        "#AISecurity",
         "#Governance",
-        "#AISecurity"
+        "#Fellowship",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
@@ -668,8 +760,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -795,8 +887,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -868,8 +960,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026",
@@ -888,8 +980,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
@@ -908,8 +1000,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
@@ -928,8 +1020,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
@@ -948,12 +1040,49 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
       "details": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act. Its publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard. EN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS standard with a presumption of conformity. It is mapped to Article 17 of the AI Act, built around the AI system lifecycle \u2013 rather than the organisation \u2013 and designed to be layered on top of the existing international standards \u2013 such as ISO/IEC 42001, ISO 9001 or a sectoral QMS (e.g. ISO 13485) \u2013 rather than replace them.&nbsp; EN 18286 explicitly allows providers in regulated sectors to integrate management systems, rather than run separate ones. Organisations without ISO/IEC 42001 that plan to place or put into service high-risk AI systems in the EU market can use EN 18286 to expand an existing QMS or build one that fulfills the requirements of article 17 requirements. The publication of this standard marks an important milestone in implementing the AI Act, ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow. Find further information about the Standardisation of the AI Act. Related topics Artificial intelligence"
+    },
+    {
+      "id": "live-multilateral-they-deserve-to-know-the-truth-un-rights",
+      "title": "\u2018They deserve to know the truth\u2019: UN rights chief demands probe into staffer\u2019s death in Houthi custo",
+      "category": "multilateral",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned o...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+      "details": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
+    },
+    {
+      "id": "live-multilateral-samarkand-a-living-museum-on-the-silk-ro",
+      "title": "Samarkand: A \u2018living museum\u2019 on the Silk Road grapples with a tourism boom",
+      "category": "multilateral",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "As the sun sets over Samarkand\u2019s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for c...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168711",
+      "details": "As the sun sets over Samarkand\u2019s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries."
     },
     {
       "id": "live-multilateral-dpr-korea-isolation-deepens-even-as-the-",
@@ -968,8 +1097,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168690",
       "details": "The Democratic People\u2019s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But its people are more cut off from the outside world than at any point in the country\u2019s history."
@@ -1009,43 +1138,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
       "details": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is&nbsp;\u201cfar from over,\u201d according to the UN\u2019s aid coordination office (OCHA)."
-    },
-    {
-      "id": "live-multilateral-ukraine-oleshky-ceasefire-offers-hope-fo",
-      "title": "Ukraine: Oleshky ceasefire offers \u2018hope\u2019 for civilians as attacks on aid vehicles continue",
-      "category": "multilateral",
-      "date": "2026-10-31",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN\u2019s top humanitarian official said, stressing that those wishing to leave must be able to do so s...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-      "details": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN\u2019s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily."
-    },
-    {
-      "id": "live-multilateral-dr-congo-hunger-deepens-for-millions-ami",
-      "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
-      "category": "multilateral",
-      "date": "2026-10-31",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168708",
-      "details": "More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.&nbsp;"
     }
   ]
 }
