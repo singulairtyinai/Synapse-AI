@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-30T20:30:04.767448",
-  "fetched_count": 50,
+  "timestamp": "2026-10-31T04:36:30.542443",
+  "fetched_count": 60,
   "nodes": [
     {
       "id": "live-overall-the-download-glp-1s-and-eating-disorders",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "category": "overall",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "CRITICAL",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the ri...",
@@ -24,7 +24,7 @@
       "id": "live-overall-eating-disorders-are-on-the-rise-glp-1s-",
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
       "category": "overall",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "CRITICAL",
       "company": "MIT Tech Review AI",
       "tldr": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister\u2014a potential ...",
@@ -42,7 +42,7 @@
       "id": "live-overall-the-download-ai-agent-tracking-and-clima",
       "title": "The Download: AI agent tracking and climate feedback loops",
       "category": "overall",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to m...",
@@ -61,7 +61,7 @@
       "id": "live-overall-we-urgently-need-to-monitor-ai-agents-ac",
       "title": "We urgently need to monitor AI agents\u2019 actions in real time",
       "category": "overall",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they belie...",
@@ -71,10 +71,10 @@
       },
       "tags": [
         "#AISecurity",
-        "#Governance",
         "#UnitedNations",
-        "#AgenticAI",
-        "#OpenAI"
+        "#Governance",
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "details": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It\u2019s a problem&#8230;"
@@ -83,7 +83,7 @@
       "id": "live-overall-our-climate-models-have-a-big-dangerous-",
       "title": "Our climate models have a big, dangerous blind spot",
       "category": "overall",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops tha...",
@@ -98,10 +98,108 @@
       "details": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models\u2014or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of&#8230;"
     },
     {
+      "id": "live-overall-lrmoe-demand-side-load-re-calibration-fo",
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "category": "overall",
+      "date": "2026-10-31",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and comm...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.37720",
+      "details": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet additional expert copies compete with token-related buffers for limited GPU memory. We present LRMoE, a memory-aware MoE training system that jointly recalibrates backward demand and balances the retained workload. During forward execution, it plans retention quotas and expert placement under resource constraints while preserving all routed computations. During backpropagation, a load recalibration metric estimates each token-expert pair's contribution to the expert update and selects pairs within these quotas. A capacity-aware routing algorithm distributes retained pairs among eligible instances of their original experts. Physical compaction then forms smaller communication payloads and variable-size grouped GEMMs, reducing backward traffic, computation, and execution-buffer demand. Experiments on Qwen3-30B-A3B and GLM4.5-106B-A12B show that LRMoE reduces cumulative MoE-layer training time to fixed-loss targets by 21.2-44.8% relative to SYMI."
+    },
+    {
+      "id": "live-overall-amortized-localized-posterior-inference-",
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulenc",
+      "category": "overall",
+      "date": "2026-10-31",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addi...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.37731",
+      "details": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We construct a family of localized posteriors by weighting observation likelihoods according to their proximity to a target context. Gaussian localization weights incorporate context uncertainty through covariance inflation, with reflection at domain boundaries and an optional correction for uneven context sampling. A conditional normalizing flow approximates the family of posteriors through amortized variational inference. Integrating the localized posteriors under a prescribed context measure gives the marginalized parameter distribution. In a twin experiment with the Branin-Hoo model, we compare global and localized inference under uniform and skewed context distributions. Localization reduces the reported aggregate predictive errors relative to the global posterior. An application to the k-$\\epsilon$ turbulence closure in a single-column ocean model, with atmospheric surface forcing as context, shows that localized posterior calibration reduces temperature and zonal-velocity errors relative to deterministic and global-posterior calibration. Both twin experiments are constructed to admit local compensation."
+    },
+    {
+      "id": "live-overall-thinkjev-one-thought-every-budget-for-ca",
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "category": "overall",
+      "date": "2026-10-31",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. R...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.37732",
+      "details": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as arithmetic, counting, and date comparison. Letting the model think first fixes most of these errors, but costs seconds per decision instead of milliseconds. To pay for thinking only where it helps, ThinkJev builds a fast and a slow system from one open hybrid-thinking model that can answer directly or after a thought. System 1 reads the model's probabilities for the option letters when it answers directly; System 2 reads the same letters after the model has thought on the same cached prompt, so escalating repeats no work and both systems give probabilities over the same options. Because the letters can be read after any number of thought tokens, one sampled thought also gives the answer under every thinking budget. Without training, ThinkJev lets System 1 answer alone only where a statistical test on labeled dev data guarantees that its accepted answers stay under a target error rate. At a 5% target, Qwen3.5-27B answers 24.5% of 8359 test decisions this way with a realized error of 3.9% (Qwen3.5-4B and 9B: 6.5% and 0.0%). For the rest, stopping each thought as soon as its answer is confident reaches 81.6% accuracy, against 82.7% for always thinking, with 72% of the thought tokens. Choosing when to think from System 1's confidence alone saves less, because the decisions System 1 is least sure of are often not the ones thinking fixes. On the public items of JevBench, an independent benchmark of typed-decision services, Qwen3.5-27B thinks on 29.4% and is not distinguishable in accuracy from the two thinking APIs listed (exploratory). Code and data generators are available at https://github.com/ding-xiaolu/ThinkJev."
+    },
+    {
+      "id": "live-overall-openfrontiers-a-collection-of-open-resea",
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "category": "overall",
+      "date": "2026-10-31",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.37739",
+      "details": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other information for 12,151 problems. The benchmark contains 200 problems, 110 resolved in 2026 and 90 still open, each with a Lean~4 statement checked by automated probes and two independent reviews; a subset HQ-50 further filters based on quality score, etc. Our evaluation protocol grades formal proofs with two independent checkers in an isolated sandbox under closed-book, frozen-retrieval, and live-web conditions. Evaluating seven LLM agents on the HQ-50 subset under a standardized budget, we find that closed-book rediscovery is rare, at most 7 of 40 resolved problems, whereas live-web success mostly reflects retrieval of published solutions. By linking a broad research-problem corpus to a formally graded evaluation subset with documented solutions, OpenFrontiers provides a foundation for measuring research-level rediscovery and studying progress toward solving currently open scientific problems. The dataset and benchmark could be found in https://huggingface.co/collections/FlippyDora/openfrontiers."
+    },
+    {
+      "id": "live-overall-webanything-from-the-wild-web-to-scalabl",
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "category": "overall",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#EUAIAct",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2610.37786",
+      "details": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-and-replay preserves observations, with interaction coverage constrained by captured content and replay capabilities. We present WebAnything, a fully automated framework that reconstructs source-grounded, reusable Web environments from real URLs without per-site manual implementation or repair after initial setup and authorization. An Explorer-Builder collects browser-observable structures, resources, and interaction outcomes; an independent verifier checks frozen candidates and guides local repair or targeted source recapture. We construct 244 website artifacts across 14 application domains and 53 categories, supporting 12,984 executed and accepted tasks. Compared with human-assisted WebHarbor, WebAnything achieves higher aggregate scores on three fidelity metrics, with 12 wins, two ties, and no losses in a blind audit. Fine-tuning Qwen3.5-9B on 5,856 interaction trajectories improves REAL success by 9.9 percentage points, Odysseys-Easy Rubric Avg and Task Avg by 6.25 and 6.32 percentage points, and WebArena-Verified Overall success by 13.33 percentage points under the fixed harness. Code: https://github.com/china-qijizhifeng/Web-Anything"
+    },
+    {
       "id": "live-agentic_ai-nemotron-halloween",
       "title": "nemotron-halloween",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -119,7 +217,7 @@
       "id": "live-agentic_ai-granite-switch-4-1-1-update-models-like-",
       "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -137,7 +235,7 @@
       "id": "live-agentic_ai-announcing-project-protostar-making-publ",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -155,7 +253,7 @@
       "id": "live-agentic_ai-welcome-le-chonk-mistral-large-4-on-hugg",
       "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -173,7 +271,7 @@
       "id": "live-agentic_ai-introducing-anyspeechrecognizer-and-anyd",
       "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple ",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -188,10 +286,29 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-intc-and-orcl-to-collab-around-agentic-a",
+      "title": "INTC and ORCL to Collab Around Agentic AI on OCI",
+      "category": "agentic_ai",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html Comments URL: https://news.ycombinator.com/i...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html",
+      "details": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=50310875 Points: 1 # Comments: 0"
+    },
+    {
       "id": "live-agentic_ai-serving-prefill-and-decode-for-agentic-a",
       "title": "Serving Prefill and Decode for Agentic AI (On Tenstorrent Blackhole)",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://tenstorrent.com/en/developers/blog/serving-prefill-and-decode-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50291045 Points: 2 # Comments: ...",
@@ -209,7 +326,7 @@
       "id": "live-agentic_ai-control-planes-of-agentic-ai-infrastruct",
       "title": "Control Planes of Agentic AI Infrastructure for Reliable Software Delivery",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/ Comments URL: https://news.ycombinator.com/item?id=50287073...",
@@ -227,7 +344,7 @@
       "id": "live-agentic_ai-c-and-nats-io-for-agentic-ai-orchestrati",
       "title": "C# and NATS.io for agentic AI orchestration",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://nats.io/blog/nats-native-protocol-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50278414 Points: 2 # Comments: 1",
@@ -245,7 +362,7 @@
       "id": "live-agentic_ai-the-rise-of-the-lone-scientist-under-age",
       "title": "The Rise of the Lone Scientist Under Agentic AI",
       "category": "agentic_ai",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50272870 Points: 1 # Comments: 0",
@@ -254,36 +371,17 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/",
       "details": "Article URL: https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50272870 Points: 1 # Comments: 0"
     },
     {
-      "id": "live-agentic_ai-agentic-ai-foundation-adds-four-new-open",
-      "title": "Agentic AI Foundation Adds Four New Open Agent Projects",
-      "category": "agentic_ai",
-      "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://techstrong.ai/building-with-ai/featured/agentic-ai-foundation-adds-four-new-open-agent-projects/ Comments URL: https://news.ycombinator.com/item?id=50262308 Po...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://techstrong.ai/building-with-ai/featured/agentic-ai-foundation-adds-four-new-open-agent-projects/",
-      "details": "Article URL: https://techstrong.ai/building-with-ai/featured/agentic-ai-foundation-adds-four-new-open-agent-projects/ Comments URL: https://news.ycombinator.com/item?id=50262308 Points: 1 # Comments: 0"
-    },
-    {
       "id": "live-models-making-it-easier-for-websites-to-express",
       "title": "Making it easier for websites to express AI training preferences",
       "category": "models",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
@@ -302,7 +400,7 @@
       "id": "live-models-community-safety-report-and-new-protecti",
       "title": "Community safety report and new protections for teens",
       "category": "models",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
@@ -318,10 +416,28 @@
       "details": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
     },
     {
+      "id": "live-models-fair-use-benefits-everyone",
+      "title": "Fair use benefits everyone",
+      "category": "models",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
+      "details": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    },
+    {
       "id": "live-models-an-updated-model-spec-for-more-capable-a",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "category": "models",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
@@ -340,7 +456,7 @@
       "id": "live-models-how-we-detect-frontier-model-misalignmen",
       "title": "How we detect frontier model misalignment",
       "category": "models",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
@@ -349,37 +465,18 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
         "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "details": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
     },
     {
-      "id": "live-models-how-ropes-gray-is-developing-ai-for-tran",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "category": "models",
-      "date": "2026-10-30",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/ropes-gray-ai-diligence",
-      "details": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
-    },
-    {
       "id": "live-companies-things-that-go-beep-in-the-night-agentic",
       "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
       "category": "companies",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the sear...",
@@ -388,8 +485,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
       "details": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents [\u2026]"
@@ -398,7 +495,7 @@
       "id": "live-companies-slice-into-gfn-thursday-phantom-blade-ze",
       "title": "Slice Into GFN Thursday: \u2018Phantom Blade Zero\u2019 Launches on GeForce NOW",
       "category": "companies",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringi...",
@@ -407,8 +504,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
       "details": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There\u2019s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, [\u2026]"
@@ -417,7 +514,7 @@
       "id": "live-companies-nvidia-sets-conference-call-for-third-qu",
       "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
       "category": "companies",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA will host a conference call on Tuesday, November 17, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the third quarter of fiscal year 2027, which ended October...",
@@ -435,7 +532,7 @@
       "id": "live-companies-nvidia-rtx-spark-windows-laptops-gain-ne",
       "title": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
       "category": "companies",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Micros...",
@@ -445,9 +542,9 @@
       },
       "tags": [
         "#Microsoft",
-        "#NVIDIA",
+        "#UnitedNations",
         "#AgenticAI",
-        "#UnitedNations"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
       "details": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [\u2026]"
@@ -456,7 +553,7 @@
       "id": "live-companies-nvidia-and-oracle-expand-nvidia-vera-rub",
       "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Orac",
       "category": "companies",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing c...",
@@ -465,9 +562,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
+        "#UnitedNations",
         "#AgenticAI",
-        "#UnitedNations"
+        "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
       "details": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing customer demand for AI training, inference and agentic applications."
@@ -476,7 +573,7 @@
       "id": "live-security-cisa-adds-two-known-exploited-vulnerabil",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "category": "security",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "CISA Cybersecurity",
       "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing...",
@@ -485,10 +582,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#Fellowship",
         "#Governance",
-        "#UnitedNations"
+        "#AISecurity",
+        "#UnitedNations",
+        "#Fellowship"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -497,7 +594,7 @@
       "id": "live-security-hitachi-energy-coretec-product",
       "title": "Hitachi Energy CoreTec Product",
       "category": "security",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitati...",
@@ -506,11 +603,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#Governance",
-        "#UnitedNations",
+        "#EUAIAct",
         "#DefenseAI",
-        "#EUAIAct"
+        "#AISecurity",
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "details": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/&lt;=3.4.0, 5.0.0 (CVE-2026-13162, CVE-2026-43284) CoreTec4 vers:CoreTec4/&lt;=3.4.0 (CVE-2026-13162) CVSS Vendor Equipment v3 8.8 Hitachi Energy CoreTec5 2 Vulnerabilities Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'), Write-what-where Condition Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-13162 An OS command vulnerability exists in CoreTec product that allows authenticated users with certain roles to execute arbitrary system commands with full control over the device. The vulnerability exists in the configuration daemon's time synchronization handler, which is responsible for setting the system timezone. When processing timezone configuration updates, the daemon constructs a shell command by concatenating user-supplied input without any sanitization or validation. Read More 2 Affected Products CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 CoreTec4 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpgrade to CoreTec5 version 5.0.0 MitigationFollow general mitigation factors Additional Metrics Relevant CWE: CWE-78 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H 4.0 7.7 HIGH CVSS:4.0/AV:N/AC:H/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details CVE-2026-43284 A vulnerability exists in the IPsec ESP subsystem (esp4) of the Linux kernel used in CoreTec5 that allows a local unprivileged user to escalate privileges to root. The flaw exists in how the kernel handles memory pages when processing ESP encrypted network packets. An attacker can craft a packet that causes the kernel to decrypt data directly into memory pages it does not own, including cached copies of privileged operating system binaries. When one of those binaries is executed, the attacker's injected code runs with root privileges. In CoreTec5, the vulnerable ESP component is compiled in kernel as a built-in and is present at boot time allowing a local user to exploit it. Read More 3 Affected Products CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 CoreTec4 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 Additional Metrics Relevant CWE: CWE-123 Write-what-where Condition CVSS Version Base Score Base Severity Vector String 3.1 8.8 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H View CVE Details Acknowledgments Ritesh Kumar Kalle, Subhojeet Mukherjee, Hishamudeen of the Cybersecurity Research group, Hitachi India R&amp;D Center reported these vulnerabilities to CISA. Notice The information in this document is subject to change without notice and should not be construed as a commitment by Hitachi Energy. Hitachi Energy provides no warranty, express or implied, including warranties of merchantability and fitness for a particular purpose, for the information contained in this document, and assumes no responsibility for any errors that may appear in this document. In no event shall Hitachi Energy or any of its suppliers be liable for direct, indirect, special, incidental or consequential damages of any nature or kind arising from the use of this document, or from the use of any hardware or software described in this document, even if Hitachi Energy or its suppliers have been advised of the possibility of such damages. This document and parts hereof must not be reproduced or copied without written permission from Hitachi Energy and the contents hereof must not be imparted to a third party nor used for any unauthorized purpose. All rights to registrations and trademarks reside with their respective owners. Support For additional information and support please contact your product provider or Hitachi Energy service organization. For contact information, see https://www.hitachienergy.com/contact-us/ for Hitachi Energy contact-centers. General Mitigation Factors Recommended security practices and firewall configurations can help protect a process control network from attacks that originate from outside the network. Such practices include that process control systems are physically protected from direct access by unauthorized personnel, have no direct connections to the Internet, and are separated from other networks by means of a firewall system that has a minimal number of ports exposed, and others that have to be evaluated case by case. Process control systems should not be used for Internet surfing, instant messaging, or receiving e-mails. Portable computers and removable storage media should be carefully scanned for viruses before they are connected to a control system. Proper password policies and processes should be followed. Additional information on Industrial Control Systems Cybersecurity Best Practices can be found in the Hitachi Energy \u201cIndustrial Control Systems Cybersecurity Best Practices\u201d Cybersecurity Notification. [1] SSVC SSVCv2/E:N/A:N/2026-10-26T15:17:24Z/ Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Hitachi Energy PSIRT 8DBD000258 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Hitachi Energy PSIRT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-27 Date Revision Summary 2026-10-27 1 Initial public release 2026-10-29 2 Initial CISA Republication of Hitachi Energy PSIRT 8DBD000258 advisory Legal Notice and Terms of Use"
@@ -519,7 +616,7 @@
       "id": "live-security-hitachi-energy-tro600-series-products",
       "title": "Hitachi Energy TRO600 series products",
       "category": "security",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited...",
@@ -528,9 +625,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
         "#DefenseAI",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
@@ -540,7 +637,7 @@
       "id": "live-security-siemens-mendix-saml-module",
       "title": "Siemens Mendix SAML Module",
       "category": "security",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a ...",
@@ -549,9 +646,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
         "#DefenseAI",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
@@ -561,7 +658,7 @@
       "id": "live-security-cisa-adds-two-known-exploited-vulnerabil",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "category": "security",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "CISA Cybersecurity",
       "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and E...",
@@ -570,10 +667,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#Fellowship",
         "#Governance",
-        "#UnitedNations"
+        "#AISecurity",
+        "#UnitedNations",
+        "#Fellowship"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
@@ -582,7 +679,7 @@
       "id": "live-fellowships-podcast-the-future-of-electronics-goes-b",
       "title": "Podcast: The future of electronics goes beyond circuit boards",
       "category": "fellowships",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Ethan Secor discusses a specialized additive manufacturing technique, the materials involved, and the resulting circuits that can be customized for complex...",
@@ -600,7 +697,7 @@
       "id": "live-fellowships-new-dwarf-planet-candidate-discovered-by",
       "title": "New dwarf planet candidate discovered by NSF\u2013DOE Rubin Observatory",
       "category": "fellowships",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF\u2013DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet. A preliminary data analysis shows that the object is orbiting...",
@@ -618,7 +715,7 @@
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
       "title": "Podcast: Can America's most powerful laser unlock the universe?",
       "category": "fellowships",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser ...",
@@ -636,7 +733,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -654,7 +751,7 @@
       "id": "live-fellowships-nsf-ukri-metascience-statement",
       "title": "NSF\u2013UKRI metascience statement",
       "category": "fellowships",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the ...",
@@ -673,7 +770,7 @@
       "id": "live-military-six-military-freezers-went-bad-in-august",
       "title": "Six military freezers went bad in August. Was it a cyber attack?",
       "category": "military",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "After food spoiled at commissaries, Pentagon investigators are looking at similar incidents in France.",
@@ -691,7 +788,7 @@
       "id": "live-military-army-pilots-are-trying-virtual-reality-t",
       "title": "Army pilots are trying virtual reality to stay more alert in flight",
       "category": "military",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The 101st Combat Aviation Brigade is testing the NeuroTrainer as a possible readiness tool for their aviators.",
@@ -709,7 +806,7 @@
       "id": "live-military-can-inertial-navigation-make-ground-robo",
       "title": "Can inertial navigation make ground-robot swarms real?",
       "category": "military",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Two startups are equipping small wheeled robots with a GPS-free nav package.",
@@ -727,7 +824,7 @@
       "id": "live-military-defense-business-brief-tech-at-the-edge-",
       "title": "Defense Business Brief: Tech at the edge; PACFLEET talks cyber; and more",
       "category": "military",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -745,7 +842,7 @@
       "id": "live-military-the-us-space-industry-will-suffer-for-uk",
       "title": "The US space industry will suffer for Ukraine\u2019s Starlink outage, experts say",
       "category": "military",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "US allies aren\u2019t happy: \u201cWe naturally insist that it works if we're paying for it.\"",
@@ -763,7 +860,7 @@
       "id": "live-governance-nist-report-provides-guidelines-for-tran",
       "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing...",
@@ -781,7 +878,7 @@
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -800,7 +897,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -818,7 +915,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -836,7 +933,7 @@
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -854,7 +951,7 @@
       "id": "live-governance-local-digital-twins-citiverse-edic-joins",
       "title": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 &nbsp; 03 November 2026 - 05 November 2026 &nbsp; Fira...",
@@ -864,8 +961,8 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026",
       "details": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 &nbsp; 03 November 2026 - 05 November 2026 &nbsp; Fira de Barcelona, Hall 3, Stand D71 Explore human-centric AI solutions for smart cities with the LDT CiTiVERSE EDIC at Smart City Expo World Congress 2026. The Local Digital Twin (LDT) CiTiVERSE European Digital Infrastructure Consortium (EDIC) is \u2013 together with city, regional and industrial stakeholders \u2013 showcasing AI solutions for liveable cities and communities in a pavilion at Smart City Expo World Congress 2026. There, visitors can see and experience how digital twins, data and immersive technologies work in practice. Aligned with the Apply AI Strategy, these solutions show how responsible AI can strengthen governance, public services and quality of life. This event is part of the European AI Innovation Month, an initiative promoting a series of events showcasing AI innovation and adoption across Europe. Find more details about the LDT CiTiVERSE EDIC at the Smart City Expo World Congress 2026. The LDT CiTiVERSE EDIC is building an EU ecosystem of advanced AI solutions for cities. It brings cities and communities together to explore AI resources to improve decision-making and address major shared societal challenges.Anchored in a balanced and empowered social fabric, this initiative showcaseshow human-centric AI and Local Digital Twins can be translated into practical, replicable solutions for cities. Find out more about the EU work on AI for liveable cities. Related topics Events Artificial intelligence Europe's Digital Decade European Digital Infrastructure Consortium"
@@ -874,7 +971,7 @@
       "id": "live-governance-commission-accepts-temu-s-action-plan-to",
       "title": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act Anonymous (not verified) Mon, 10/26/2026 - 10:28 The European Commission has accepted Temu's ...",
@@ -884,8 +981,8 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
       "details": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act Anonymous (not verified) Mon, 10/26/2026 - 10:28 The European Commission has accepted Temu's action plan to comply with the Digital Services Act (DSA) and tackle the availability of illegal products online. Temu's plan focuses on five measures to remedy its breach of the DSA. The company will carry out a platform-specific risk analysis. It will also use reliable metrics to evaluate the effectiveness of the mitigation measures put in place in reducing the risk of dissemination of illegal content. The platform will assess the limitations of its content moderation and analyse whether, and how, its recommender systems may amplify the spread of illegal goods. Additionally, Temu will examine the influence of intentional manipulation and amplification of illegal items, including by sellers exploiting Temu's features to spread potentially illegal listings. The company now has four months to conduct an interim risk assessment that covers a six-month period, until 30 November 2026, to ensure the implementation of the measures of the action plan. The action plan is another example of how the DSA is enhancing consumer protection online and limiting the spread of illegal products in Europe. The action plan was submitted following a non-compliance decision in May 2026, in which the Commission found that Temu had failed to comply with its risk assessment obligations, and issued a \u20ac200 million fine. Read more about Temu's corrective measures to terminate breach of the DSA. Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act Related content News article26 October 2026Commission accepts Temu's corrective measures to terminate breach of the Digital Services ActThe European Commission has accepted Temu\u2019s action plan to remedy its infringements of the Digital Services Act (DSA)."
@@ -894,7 +991,7 @@
       "id": "live-governance-commission-to-investigate-how-booking-co",
       "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened...",
@@ -904,8 +1001,8 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
       "details": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams. The platform may also have breached the DSA when it comes to transparency because it did not clearly label as ads those listings whose providers paid for a higher ranking in search results shown to users. The investigation will focus on the following areas: Fraudulent and non-compliant listings on Booking.com Phishing scams exploiting Booking.com's reservation and guest data Paid-for boosted listings not clearly identifiable as advertisements Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -914,7 +1011,7 @@
       "id": "live-governance-digital-services-act-study-on-financial-",
       "title": "Digital Services Act study on financial scams on online platforms and ways to counter them",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of onlin...",
@@ -924,8 +1021,8 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
       "details": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of online financial scams, platform features scammers exploit, their impact on users and society and measures platforms can take to stop them. Online financial scams \u2013 fraudulent schemes whose primary aim is to extract money from victims \u2013 have grown into a pervasive crime in the digital age. They are present across all types of online intermediary services, including Very Large Online Platforms (VLOPs) and Very Large Search Engines (VLOSEs). The European Commission has procured this study in 2025 to support its supervisory and enforcement tasks under the Digital Services Act (DSA). It provides a typological mapping of financial scam formats across online platforms and assesses existing and emerging mitigation strategies to curb financial scams online. The study was carried out by Open Evidence and Spark Legal and Policy Consulting. It does not evaluate compliance by providers of VLOPs and VLOSEs. Read the study and the executive summary in (French and English). Key insights A diverse typology of scams The study maps different types of online financial scams and categorises them in six broad categories: investment scams romance scams e-commerce scams employment and collaboration scams unexpected gain scams disaster relief scams The study finds that investment scams and romance scams are the most common and fastest-growing forms of scams in Europe. It also finds that the scam landscape is increasingly being redefined by overlapping methods across different categories. Online platforms features and financial scams The study presents information on relevant features related to scams on online platforms including: advertising systems recommender systems content moderation of organic content monetisation systems app store content and private messaging functions inauthentic identities and account manipulation deceptive commercial content generative AI The study also shows how financial scams operate across different platforms and are facilitated by organised criminal networks that sell tools and services, effectively lowering the barrier to entry. Identifying effective countermeasures The study identifies relevant countermeasures across 4 categories: Access and gatekeeping measures, such as know your business customer and identity requirements are the first line of defence against online financial scams; Detection and removal measures, including automated and human-review based measures, can neutralise scam content; User facing measures \u2013 such as reporting tools and information on redress \u2013 can equip end users with tools and information to identify and report online scams; Platform-level policies and cooperation with third parties can help platforms identify, prevent and address online scams. Find further information about Fighting online scams with the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -934,7 +1031,7 @@
       "id": "live-governance-first-harmonised-standard-supporting-the",
       "title": "First harmonised standard supporting the AI Act published in the Official Journal",
       "category": "governance",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "impact": "CRITICAL",
       "company": "EU Digital Strategy",
       "tldr": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the referen...",
@@ -944,11 +1041,102 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
       "details": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act. Its publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard. EN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS standard with a presumption of conformity. It is mapped to Article 17 of the AI Act, built around the AI system lifecycle \u2013 rather than the organisation \u2013 and designed to be layered on top of the existing international standards \u2013 such as ISO/IEC 42001, ISO 9001 or a sectoral QMS (e.g. ISO 13485) \u2013 rather than replace them.&nbsp; EN 18286 explicitly allows providers in regulated sectors to integrate management systems, rather than run separate ones. Organisations without ISO/IEC 42001 that plan to place or put into service high-risk AI systems in the EU market can use EN 18286 to expand an existing QMS or build one that fulfills the requirements of article 17 requirements. The publication of this standard marks an important milestone in implementing the AI Act, ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow. Find further information about the Standardisation of the AI Act. Related topics Artificial intelligence"
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-300-000-displaced-in",
+      "title": "World News in Brief: 300,000 displaced in Lebanon, T\u00fcrk \u2018deeply concerned\u2019 over Novaya Gazeta closur",
+      "category": "multilateral",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is&nbsp;\u201cfar from over,\u201d according to the UN\u2019s aid coordi...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "details": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is&nbsp;\u201cfar from over,\u201d according to the UN\u2019s aid coordination office (OCHA)."
+    },
+    {
+      "id": "live-multilateral-ukraine-oleshky-ceasefire-offers-hope-fo",
+      "title": "Ukraine: Oleshky ceasefire offers \u2018hope\u2019 for civilians as attacks on aid vehicles continue",
+      "category": "multilateral",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN\u2019s top humanitarian official said, stressing that those wishing to leave must be able to do so s...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "details": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN\u2019s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily."
+    },
+    {
+      "id": "live-multilateral-dr-congo-hunger-deepens-for-millions-ami",
+      "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+      "category": "multilateral",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+      "details": "More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-un-rights-office-warns-of-deepening-disp",
+      "title": "UN rights office warns of deepening displacement \u2018nightmare\u2019 in Gaza",
+      "category": "multilateral",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human right...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+      "details": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-yemen-war-makes-reaching-assistance-too-",
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "category": "multilateral",
+      "date": "2026-10-31",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "details": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday."
     }
   ]
 }
