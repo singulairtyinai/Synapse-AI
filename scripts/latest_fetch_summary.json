@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-01T04:55:56.144188",
-  "fetched_count": 50,
+  "timestamp": "2026-11-01T14:48:58.366546",
+  "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-the-download-glp-1s-and-eating-disorders",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI&#8230;"
@@ -70,10 +70,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#OpenAI",
         "#UnitedNations",
         "#AgenticAI",
+        "#AISecurity",
         "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -188,6 +188,42 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
+      "title": "Agentic AI is myth set in motion",
+      "category": "agentic_ai",
+      "date": "2026-11-01",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
+      "details": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-freegent-free-agentic-ai-for-everyone",
+      "title": "FreeGent: Free Agentic AI for Everyone",
+      "category": "agentic_ai",
+      "date": "2026-11-01",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://freegent.ai Comments URL: https://news.ycombinator.com/item?id=50323876 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://freegent.ai",
+      "details": "Article URL: https://freegent.ai Comments URL: https://news.ycombinator.com/item?id=50323876 Points: 2 # Comments: 0"
+    },
+    {
       "id": "live-agentic_ai-intc-and-orcl-to-collab-around-agentic-a",
       "title": "INTC and ORCL to Collab Around Agentic AI on OCI",
       "category": "agentic_ai",
@@ -241,43 +277,6 @@
       ],
       "sourceUrl": "https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/",
       "details": "Article URL: https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/ Comments URL: https://news.ycombinator.com/item?id=50287073 Points: 3 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-c-and-nats-io-for-agentic-ai-orchestrati",
-      "title": "C# and NATS.io for agentic AI orchestration",
-      "category": "agentic_ai",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://nats.io/blog/nats-native-protocol-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50278414 Points: 2 # Comments: 1",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://nats.io/blog/nats-native-protocol-for-ai-agents/",
-      "details": "Article URL: https://nats.io/blog/nats-native-protocol-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50278414 Points: 2 # Comments: 1"
-    },
-    {
-      "id": "live-agentic_ai-the-rise-of-the-lone-scientist-under-age",
-      "title": "The Rise of the Lone Scientist Under Agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50272870 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/",
-      "details": "Article URL: https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50272870 Points: 1 # Comments: 0"
     },
     {
       "id": "live-models-making-it-easier-for-websites-to-express",
@@ -367,8 +366,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#AgenticAI",
+        "#OpenAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
@@ -505,11 +504,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations",
         "#Governance",
-        "#DefenseAI",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations",
+        "#AISecurity",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "details": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/&lt;=3.4.0, 5.0.0 (CVE-2026-13162, CVE-2026-43284) CoreTec4 vers:CoreTec4/&lt;=3.4.0 (CVE-2026-13162) CVSS Vendor Equipment v3 8.8 Hitachi Energy CoreTec5 2 Vulnerabilities Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'), Write-what-where Condition Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-13162 An OS command vulnerability exists in CoreTec product that allows authenticated users with certain roles to execute arbitrary system commands with full control over the device. The vulnerability exists in the configuration daemon's time synchronization handler, which is responsible for setting the system timezone. When processing timezone configuration updates, the daemon constructs a shell command by concatenating user-supplied input without any sanitization or validation. Read More 2 Affected Products CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 CoreTec4 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpgrade to CoreTec5 version 5.0.0 MitigationFollow general mitigation factors Additional Metrics Relevant CWE: CWE-78 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H 4.0 7.7 HIGH CVSS:4.0/AV:N/AC:H/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details CVE-2026-43284 A vulnerability exists in the IPsec ESP subsystem (esp4) of the Linux kernel used in CoreTec5 that allows a local unprivileged user to escalate privileges to root. The flaw exists in how the kernel handles memory pages when processing ESP encrypted network packets. An attacker can craft a packet that causes the kernel to decrypt data directly into memory pages it does not own, including cached copies of privileged operating system binaries. When one of those binaries is executed, the attacker's injected code runs with root privileges. In CoreTec5, the vulnerable ESP component is compiled in kernel as a built-in and is present at boot time allowing a local user to exploit it. Read More 3 Affected Products CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 CoreTec4 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations CoreTec5 versions 3.4.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to CoreTec5 version 5.0.0 Additional Metrics Relevant CWE: CWE-123 Write-what-where Condition CVSS Version Base Score Base Severity Vector String 3.1 8.8 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H View CVE Details Acknowledgments Ritesh Kumar Kalle, Subhojeet Mukherjee, Hishamudeen of the Cybersecurity Research group, Hitachi India R&amp;D Center reported these vulnerabilities to CISA. Notice The information in this document is subject to change without notice and should not be construed as a commitment by Hitachi Energy. Hitachi Energy provides no warranty, express or implied, including warranties of merchantability and fitness for a particular purpose, for the information contained in this document, and assumes no responsibility for any errors that may appear in this document. In no event shall Hitachi Energy or any of its suppliers be liable for direct, indirect, special, incidental or consequential damages of any nature or kind arising from the use of this document, or from the use of any hardware or software described in this document, even if Hitachi Energy or its suppliers have been advised of the possibility of such damages. This document and parts hereof must not be reproduced or copied without written permission from Hitachi Energy and the contents hereof must not be imparted to a third party nor used for any unauthorized purpose. All rights to registrations and trademarks reside with their respective owners. Support For additional information and support please contact your product provider or Hitachi Energy service organization. For contact information, see https://www.hitachienergy.com/contact-us/ for Hitachi Energy contact-centers. General Mitigation Factors Recommended security practices and firewall configurations can help protect a process control network from attacks that originate from outside the network. Such practices include that process control systems are physically protected from direct access by unauthorized personnel, have no direct connections to the Internet, and are separated from other networks by means of a firewall system that has a minimal number of ports exposed, and others that have to be evaluated case by case. Process control systems should not be used for Internet surfing, instant messaging, or receiving e-mails. Portable computers and removable storage media should be carefully scanned for viruses before they are connected to a control system. Proper password policies and processes should be followed. Additional information on Industrial Control Systems Cybersecurity Best Practices can be found in the Hitachi Energy \u201cIndustrial Control Systems Cybersecurity Best Practices\u201d Cybersecurity Notification. [1] SSVC SSVCv2/E:N/A:N/2026-10-26T15:17:24Z/ Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Hitachi Energy PSIRT 8DBD000258 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Hitachi Energy PSIRT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-27 Date Revision Summary 2026-10-27 1 Initial public release 2026-10-29 2 Initial CISA Republication of Hitachi Energy PSIRT 8DBD000258 advisory Legal Notice and Terms of Use"
@@ -527,8 +526,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#DefenseAI",
+        "#Governance",
         "#AISecurity",
         "#UnitedNations"
       ],
@@ -548,8 +547,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#DefenseAI",
+        "#Governance",
         "#AISecurity",
         "#UnitedNations"
       ],
@@ -662,8 +661,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Meta"
+        "#Meta",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
@@ -948,6 +947,98 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
       "details": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act. Its publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard. EN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS standard with a presumption of conformity. It is mapped to Article 17 of the AI Act, built around the AI system lifecycle \u2013 rather than the organisation \u2013 and designed to be layered on top of the existing international standards \u2013 such as ISO/IEC 42001, ISO 9001 or a sectoral QMS (e.g. ISO 13485) \u2013 rather than replace them.&nbsp; EN 18286 explicitly allows providers in regulated sectors to integrate management systems, rather than run separate ones. Organisations without ISO/IEC 42001 that plan to place or put into service high-risk AI systems in the EU market can use EN 18286 to expand an existing QMS or build one that fulfills the requirements of article 17 requirements. The publication of this standard marks an important milestone in implementing the AI Act, ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow. Find further information about the Standardisation of the AI Act. Related topics Artificial intelligence"
+    },
+    {
+      "id": "live-multilateral-they-deserve-to-know-the-truth-un-rights",
+      "title": "\u2018They deserve to know the truth\u2019: UN rights chief demands probe into staffer\u2019s death in Houthi custo",
+      "category": "multilateral",
+      "date": "2026-11-01",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned o...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+      "details": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
+    },
+    {
+      "id": "live-multilateral-samarkand-a-living-museum-on-the-silk-ro",
+      "title": "Samarkand: A \u2018living museum\u2019 on the Silk Road grapples with a tourism boom",
+      "category": "multilateral",
+      "date": "2026-11-01",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "As the sun sets over Samarkand\u2019s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for c...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168711",
+      "details": "As the sun sets over Samarkand\u2019s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries."
+    },
+    {
+      "id": "live-multilateral-dpr-korea-isolation-deepens-even-as-the-",
+      "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+      "category": "multilateral",
+      "date": "2026-11-01",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The Democratic People\u2019s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+      "details": "The Democratic People\u2019s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But its people are more cut off from the outside world than at any point in the country\u2019s history."
+    },
+    {
+      "id": "live-multilateral-somalia-looks-to-the-future-as-the-un-s-",
+      "title": "Somalia looks to the future as the UN's political mission closes",
+      "category": "multilateral",
+      "date": "2026-11-01",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "\u201cThe story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,\u201d&nbsp;Raisedon Zenenga, the UN Secretary-General's Deputy Special Re...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168714",
+      "details": "\u201cThe story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,\u201d&nbsp;Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end on 31 October."
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-300-000-displaced-in",
+      "title": "World News in Brief: 300,000 displaced in Lebanon, T\u00fcrk \u2018deeply concerned\u2019 over Novaya Gazeta closur",
+      "category": "multilateral",
+      "date": "2026-11-01",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is&nbsp;\u201cfar from over,\u201d according to the UN\u2019s aid coordi...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "details": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is&nbsp;\u201cfar from over,\u201d according to the UN\u2019s aid coordination office (OCHA)."
     }
   ]
 }
