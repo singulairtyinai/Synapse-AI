@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-01T20:19:06.369795",
-  "fetched_count": 55,
+  "timestamp": "2026-11-02T04:56:51.020678",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-glp-1s-and-eating-disorders",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "category": "overall",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "CRITICAL",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the ri...",
@@ -24,7 +24,7 @@
       "id": "live-overall-eating-disorders-are-on-the-rise-glp-1s-",
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
       "category": "overall",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "CRITICAL",
       "company": "MIT Tech Review AI",
       "tldr": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister\u2014a potential ...",
@@ -42,7 +42,7 @@
       "id": "live-overall-the-download-ai-agent-tracking-and-clima",
       "title": "The Download: AI agent tracking and climate feedback loops",
       "category": "overall",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to m...",
@@ -51,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI&#8230;"
@@ -61,7 +61,7 @@
       "id": "live-overall-we-urgently-need-to-monitor-ai-agents-ac",
       "title": "We urgently need to monitor AI agents\u2019 actions in real time",
       "category": "overall",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they belie...",
@@ -70,11 +70,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#OpenAI",
         "#UnitedNations",
-        "#AISecurity",
-        "#Governance",
         "#AgenticAI",
-        "#OpenAI"
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "details": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It\u2019s a problem&#8230;"
@@ -83,7 +83,7 @@
       "id": "live-overall-our-climate-models-have-a-big-dangerous-",
       "title": "Our climate models have a big, dangerous blind spot",
       "category": "overall",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops tha...",
@@ -101,7 +101,7 @@
       "id": "live-agentic_ai-nemotron-halloween",
       "title": "nemotron-halloween",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -119,7 +119,7 @@
       "id": "live-agentic_ai-granite-switch-4-1-1-update-models-like-",
       "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -137,7 +137,7 @@
       "id": "live-agentic_ai-announcing-project-protostar-making-publ",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -155,7 +155,7 @@
       "id": "live-agentic_ai-welcome-le-chonk-mistral-large-4-on-hugg",
       "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -173,7 +173,7 @@
       "id": "live-agentic_ai-introducing-anyspeechrecognizer-and-anyd",
       "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple ",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -189,9 +189,27 @@
     },
     {
       "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
+      "title": "Agentic AI Is Myth Set in Motion",
+      "category": "agentic_ai",
+      "date": "2026-11-02",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50332768 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+      "details": "Article URL: https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50332768 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
       "title": "Agentic AI is myth set in motion",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0",
@@ -209,7 +227,7 @@
       "id": "live-agentic_ai-freegent-free-agentic-ai-for-everyone",
       "title": "FreeGent: Free Agentic AI for Everyone",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://freegent.ai Comments URL: https://news.ycombinator.com/item?id=50323876 Points: 2 # Comments: 0",
@@ -227,7 +245,7 @@
       "id": "live-agentic_ai-intc-and-orcl-to-collab-around-agentic-a",
       "title": "INTC and ORCL to Collab Around Agentic AI on OCI",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html Comments URL: https://news.ycombinator.com/i...",
@@ -246,7 +264,7 @@
       "id": "live-agentic_ai-serving-prefill-and-decode-for-agentic-a",
       "title": "Serving Prefill and Decode for Agentic AI (On Tenstorrent Blackhole)",
       "category": "agentic_ai",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "HackerNews Agentic AI",
       "tldr": "Article URL: https://tenstorrent.com/en/developers/blog/serving-prefill-and-decode-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50291045 Points: 2 # Comments: ...",
@@ -261,28 +279,10 @@
       "details": "Article URL: https://tenstorrent.com/en/developers/blog/serving-prefill-and-decode-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50291045 Points: 2 # Comments: 0"
     },
     {
-      "id": "live-agentic_ai-control-planes-of-agentic-ai-infrastruct",
-      "title": "Control Planes of Agentic AI Infrastructure for Reliable Software Delivery",
-      "category": "agentic_ai",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/ Comments URL: https://news.ycombinator.com/item?id=50287073...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/",
-      "details": "Article URL: https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/ Comments URL: https://news.ycombinator.com/item?id=50287073 Points: 3 # Comments: 0"
-    },
-    {
       "id": "live-models-making-it-easier-for-websites-to-express",
       "title": "Making it easier for websites to express AI training preferences",
       "category": "models",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
@@ -301,7 +301,7 @@
       "id": "live-models-community-safety-report-and-new-protecti",
       "title": "Community safety report and new protections for teens",
       "category": "models",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
@@ -320,7 +320,7 @@
       "id": "live-models-fair-use-benefits-everyone",
       "title": "Fair use benefits everyone",
       "category": "models",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
@@ -338,7 +338,7 @@
       "id": "live-models-an-updated-model-spec-for-more-capable-a",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "category": "models",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
@@ -357,7 +357,7 @@
       "id": "live-models-how-we-detect-frontier-model-misalignmen",
       "title": "How we detect frontier model misalignment",
       "category": "models",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
@@ -377,7 +377,7 @@
       "id": "live-companies-things-that-go-beep-in-the-night-agentic",
       "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
       "category": "companies",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the sear...",
@@ -396,7 +396,7 @@
       "id": "live-companies-slice-into-gfn-thursday-phantom-blade-ze",
       "title": "Slice Into GFN Thursday: \u2018Phantom Blade Zero\u2019 Launches on GeForce NOW",
       "category": "companies",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringi...",
@@ -415,7 +415,7 @@
       "id": "live-companies-nvidia-sets-conference-call-for-third-qu",
       "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
       "category": "companies",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA will host a conference call on Tuesday, November 17, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the third quarter of fiscal year 2027, which ended October...",
@@ -433,7 +433,7 @@
       "id": "live-companies-nvidia-rtx-spark-windows-laptops-gain-ne",
       "title": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
       "category": "companies",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Micros...",
@@ -442,9 +442,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Microsoft",
         "#NVIDIA",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
@@ -454,7 +454,7 @@
       "id": "live-companies-nvidia-and-oracle-expand-nvidia-vera-rub",
       "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Orac",
       "category": "companies",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing c...",
@@ -474,7 +474,7 @@
       "id": "live-security-cisa-adds-two-known-exploited-vulnerabil",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "category": "security",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "CISA Cybersecurity",
       "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing...",
@@ -483,10 +483,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
         "#Governance",
-        "#Fellowship"
+        "#Fellowship",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -495,7 +495,7 @@
       "id": "live-security-hitachi-energy-coretec-product",
       "title": "Hitachi Energy CoreTec Product",
       "category": "security",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitati...",
@@ -505,9 +505,9 @@
       },
       "tags": [
         "#EUAIAct",
-        "#Governance",
         "#UnitedNations",
         "#AISecurity",
+        "#Governance",
         "#DefenseAI"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
@@ -517,7 +517,7 @@
       "id": "live-security-hitachi-energy-tro600-series-products",
       "title": "Hitachi Energy TRO600 series products",
       "category": "security",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited...",
@@ -526,10 +526,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
         "#Governance",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
       "details": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to the Recommended Immediate Actions section for information about the mitigation/remediation. The following versions of Hitachi Energy TRO600 series products are affected: TRO600 vers:TRO600/&lt;=9.2.1.6, vers:TRO600/&lt;=9.1.1.0, 9.2.2.1, 9.1.2.0 (CVE-2026-10756, CVE-2026-106087) CVSS Vendor Equipment v3 7.5 Hitachi Energy TRO600 2 Vulnerabilities Improper Restriction of Communication Channel to Intended Endpoints, Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-10756 TRO600 contains a vulnerability that allows an authenticated attacker to bypass network access restrictions and access services intended to be reachable only from localhost. By leveraging port forwarding, an attacker can interact with locally bound ports and services, resulting in unauthorized access to sensitive functionality and confidential information, and causing availability impact. Read More 1 Affected Product TRO600 version 9.2.1.6 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixUpdate to version 9.2.2.1 Additional Metrics Relevant CWE: CWE-923 Improper Restriction of Communication Channel to Intended Endpoints CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H 4.0 7.7 HIGH CVSS:4.0/AV:N/AC:H/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details CVE-2026-106087 TRO600 contains an arbitrary file read vulnerability. An unauthenticated attacker can exploit this vulnerability to read or download arbitrary files on the affected device, including sensitive configuration files and password data, resulting in the disclosure of sensitive information. Read More 2 Affected Products TRO600 version 9.2.1.6 and prior Product Status: fixed, known_affected, recommended Remediations TRO600 version 9.1.1.0 and prior Product Status: fixed, known_affected, recommended Remediations Vendor fixFixed in version 9.1.2.0. Update to the latest version 9.2.2.1. Additional Metrics Relevant CWE: CWE-306 Missing Authentication for Critical Function CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N 4.0 8.7 HIGH CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N View CVE Details Acknowledgments Hitachi Energy Internal Team reported these vulnerabilities to CISA. Notice The information in this document is subject to change without notice and should not be construed as a commitment by Hitachi Energy. Hitachi Energy provides no warranty, express or implied, including warranties of merchantability and fitness for a particular purpose, for the information contained in this document, and assumes no responsibility for any errors that may appear in this document. In no event shall Hitachi Energy or any of its suppliers be liable for direct, indirect, special, incidental or consequential damages of any nature or kind arising from the use of this document, or from the use of any hardware or software described in this document, even if Hitachi Energy or its suppliers have been advised of the possibility of such damages. This document and parts hereof must not be reproduced or copied without written permission from Hitachi Energy and the contents hereof must not be imparted to a third party nor used for any unauthorized purpose. All rights to registrations and trademarks reside with their respective owners. Support For additional information and support please contact your product provider or Hitachi Energy service organization. For contact information, see https://www.hitachienergy.com/contact-us/ for Hitachi Energy contact-centers. General Mitigation Factors Recommended security practices and firewall configurations can help protect an industrial control system network from attacks that originate from outside the network. Such practices include that process control systems are physically protected from direct access by unauthorized personnel, have no direct connections to the Internet, and are separated from other networks by means of a firewall system that has a minimal number of ports exposed, and others that have to be evaluated case by case. Industrial control systems should not be used for Internet surfing, instant messaging, or receiving e-mails. Portable computers and removable storage media should be carefully scanned for viruses before they are connected to a control system. Additional information on Industrial Control Systems Cybersecurity Best Practices can be found in the Hitachi Energy\u2019s \u201cIndustrial Control Systems Cybersecurity Best Practices\u201d Cybersecurity Notification. [1] SSVC SSVCv2/E:N/A:N/2026-10-26T14:54:19Z/ Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Hitachi Energy PSIRT 8DBD000224 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Hitachi Energy PSIRT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-27 Date Revision Summary 2026-10-27 1 Initial Public release 2026-10-29 2 Initial CISA Republication of Hitachi Energy PSIRT 8DBD000224 advisory Legal Notice and Terms of Use"
@@ -538,7 +538,7 @@
       "id": "live-security-siemens-mendix-saml-module",
       "title": "Siemens Mendix SAML Module",
       "category": "security",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a ...",
@@ -547,10 +547,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
         "#Governance",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
       "details": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix SAML Module are affected: Mendix SAML (Mendix 10 compatible) vers:intdot/&lt;4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 11 compatible) vers:intdot/&lt;4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 9 compatible) vers:intdot/&lt;3.6.29 (CVE-2026-89209) CVSS Vendor Equipment v3 6.8 Siemens Mendix SAML (Mendix 10 compatible) 1 Vulnerability Authentication Bypass by Capture-replay Background Critical Infrastructure Sectors: Critical Manufacturing, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-89209 Affected versions of the module do not properly protect against SAML assertion replay in IdP-initiated authentication flows. This could allow unauthenticated remote attackers to gain unauthorized access to the application by replaying a valid SAML response. Read More 3 Affected Products Mendix SAML (Mendix 10 compatible) &lt; V4.2.4 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V4.2.4 or later version Mendix SAML (Mendix 11 compatible) &lt; V4.2.4 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V4.2.4 or later version Mendix SAML (Mendix 9 compatible) &lt; V3.6.29 Product Status: known_affected Remediations MitigationDisable IdP-initiated SSO Vendor fixUpdate to V3.6.29 or later version Additional Metrics Relevant CWE: CWE-294 Authentication Bypass by Capture-replay CVSS Version Base Score Base Severity Vector String 3.1 6.8 MEDIUM CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:N View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-137528 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-26 Date Revision Summary 2026-10-26 1 Publication Date 2026-10-29 2 Initial CISA Republication of Siemens ProductCERT SSA-137528 advisory Legal Notice and Terms of Use"
@@ -559,7 +559,7 @@
       "id": "live-security-cisa-adds-two-known-exploited-vulnerabil",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "category": "security",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "CISA Cybersecurity",
       "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and E...",
@@ -568,10 +568,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
         "#Governance",
-        "#Fellowship"
+        "#Fellowship",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
@@ -580,7 +580,7 @@
       "id": "live-fellowships-podcast-the-future-of-electronics-goes-b",
       "title": "Podcast: The future of electronics goes beyond circuit boards",
       "category": "fellowships",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Ethan Secor discusses a specialized additive manufacturing technique, the materials involved, and the resulting circuits that can be customized for complex...",
@@ -598,7 +598,7 @@
       "id": "live-fellowships-new-dwarf-planet-candidate-discovered-by",
       "title": "New dwarf planet candidate discovered by NSF\u2013DOE Rubin Observatory",
       "category": "fellowships",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF\u2013DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet. A preliminary data analysis shows that the object is orbiting...",
@@ -616,7 +616,7 @@
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
       "title": "Podcast: Can America's most powerful laser unlock the universe?",
       "category": "fellowships",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser ...",
@@ -634,7 +634,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -652,7 +652,7 @@
       "id": "live-fellowships-nsf-ukri-metascience-statement",
       "title": "NSF\u2013UKRI metascience statement",
       "category": "fellowships",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the ...",
@@ -668,10 +668,28 @@
       "details": "The United States National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have long advanced knowledge through the ingenuity of our researchers and the institutions that enable them. Both UKRI and NSF intend to build on\u2026"
     },
     {
+      "id": "live-military-the-pentagon-s-it-agency-wants-to-bridge",
+      "title": "The Pentagon\u2019s IT agency wants to bridge network gaps in the Pacific",
+      "category": "military",
+      "date": "2026-11-02",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "\u201cThe old ways of connecting with partners are simply no longer sufficient,\u201d says INDOPACOM deputy commander.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/11/pentagons-it-agency-wants-bridge-network-gaps-pacific/416963/",
+      "details": "\u201cThe old ways of connecting with partners are simply no longer sufficient,\u201d says INDOPACOM deputy commander."
+    },
+    {
       "id": "live-military-across-the-line",
       "title": "Across the line",
       "category": "military",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "This month\u2019s Useful Fiction story explores how Army infantry, armor, and robotic systems might fight together.",
@@ -689,7 +707,7 @@
       "id": "live-military-six-military-freezers-went-bad-in-august",
       "title": "Six military freezers went bad in August. Was it a cyber attack?",
       "category": "military",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "After food spoiled at commissaries, Pentagon investigators are looking at similar incidents in France.",
@@ -707,7 +725,7 @@
       "id": "live-military-army-pilots-are-trying-virtual-reality-t",
       "title": "Army pilots are trying virtual reality to stay more alert in flight",
       "category": "military",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "The 101st Combat Aviation Brigade is testing the NeuroTrainer as a possible readiness tool for their aviators.",
@@ -725,7 +743,7 @@
       "id": "live-military-can-inertial-navigation-make-ground-robo",
       "title": "Can inertial navigation make ground-robot swarms real?",
       "category": "military",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Two startups are equipping small wheeled robots with a GPS-free nav package.",
@@ -740,28 +758,10 @@
       "details": "Two startups are equipping small wheeled robots with a GPS-free nav package."
     },
     {
-      "id": "live-military-defense-business-brief-tech-at-the-edge-",
-      "title": "Defense Business Brief: Tech at the edge; PACFLEET talks cyber; and more",
-      "category": "military",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/10/defense-business-brief-tech-edge-pacfleet-talks-cyber-and-more/416906/",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-governance-nist-report-provides-guidelines-for-tran",
       "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing...",
@@ -779,7 +779,7 @@
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -788,8 +788,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -798,7 +798,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -816,7 +816,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -834,7 +834,7 @@
       "id": "live-governance-physicist-jun-ye-wins-wolf-prize-in-phys",
       "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The award cites Ye\u2019s achievement in \u201ctransformative, widely applicable advances in the control of ultracold atomic systems.\u201d",
@@ -852,7 +852,7 @@
       "id": "live-governance-local-digital-twins-citiverse-edic-joins",
       "title": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 &nbsp; 03 November 2026 - 05 November 2026 &nbsp; Fira...",
@@ -862,8 +862,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026",
       "details": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 &nbsp; 03 November 2026 - 05 November 2026 &nbsp; Fira de Barcelona, Hall 3, Stand D71 Explore human-centric AI solutions for smart cities with the LDT CiTiVERSE EDIC at Smart City Expo World Congress 2026. The Local Digital Twin (LDT) CiTiVERSE European Digital Infrastructure Consortium (EDIC) is \u2013 together with city, regional and industrial stakeholders \u2013 showcasing AI solutions for liveable cities and communities in a pavilion at Smart City Expo World Congress 2026. There, visitors can see and experience how digital twins, data and immersive technologies work in practice. Aligned with the Apply AI Strategy, these solutions show how responsible AI can strengthen governance, public services and quality of life. This event is part of the European AI Innovation Month, an initiative promoting a series of events showcasing AI innovation and adoption across Europe. Find more details about the LDT CiTiVERSE EDIC at the Smart City Expo World Congress 2026. The LDT CiTiVERSE EDIC is building an EU ecosystem of advanced AI solutions for cities. It brings cities and communities together to explore AI resources to improve decision-making and address major shared societal challenges.Anchored in a balanced and empowered social fabric, this initiative showcaseshow human-centric AI and Local Digital Twins can be translated into practical, replicable solutions for cities. Find out more about the EU work on AI for liveable cities. Related topics Events Artificial intelligence Europe's Digital Decade European Digital Infrastructure Consortium"
@@ -872,7 +872,7 @@
       "id": "live-governance-commission-accepts-temu-s-action-plan-to",
       "title": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act Anonymous (not verified) Mon, 10/26/2026 - 10:28 The European Commission has accepted Temu's ...",
@@ -882,8 +882,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
       "details": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act Anonymous (not verified) Mon, 10/26/2026 - 10:28 The European Commission has accepted Temu's action plan to comply with the Digital Services Act (DSA) and tackle the availability of illegal products online. Temu's plan focuses on five measures to remedy its breach of the DSA. The company will carry out a platform-specific risk analysis. It will also use reliable metrics to evaluate the effectiveness of the mitigation measures put in place in reducing the risk of dissemination of illegal content. The platform will assess the limitations of its content moderation and analyse whether, and how, its recommender systems may amplify the spread of illegal goods. Additionally, Temu will examine the influence of intentional manipulation and amplification of illegal items, including by sellers exploiting Temu's features to spread potentially illegal listings. The company now has four months to conduct an interim risk assessment that covers a six-month period, until 30 November 2026, to ensure the implementation of the measures of the action plan. The action plan is another example of how the DSA is enhancing consumer protection online and limiting the spread of illegal products in Europe. The action plan was submitted following a non-compliance decision in May 2026, in which the Commission found that Temu had failed to comply with its risk assessment obligations, and issued a \u20ac200 million fine. Read more about Temu's corrective measures to terminate breach of the DSA. Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act Related content News article26 October 2026Commission accepts Temu's corrective measures to terminate breach of the Digital Services ActThe European Commission has accepted Temu\u2019s action plan to remedy its infringements of the Digital Services Act (DSA)."
@@ -892,7 +892,7 @@
       "id": "live-governance-commission-to-investigate-how-booking-co",
       "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened...",
@@ -902,8 +902,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
       "details": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams. The platform may also have breached the DSA when it comes to transparency because it did not clearly label as ads those listings whose providers paid for a higher ranking in search results shown to users. The investigation will focus on the following areas: Fraudulent and non-compliant listings on Booking.com Phishing scams exploiting Booking.com's reservation and guest data Paid-for boosted listings not clearly identifiable as advertisements Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -912,7 +912,7 @@
       "id": "live-governance-digital-services-act-study-on-financial-",
       "title": "Digital Services Act study on financial scams on online platforms and ways to counter them",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of onlin...",
@@ -922,8 +922,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
       "details": "Digital Services Act study on financial scams on online platforms and ways to counter them Anonymous (not verified) Tue, 10/20/2026 - 08:47 A new study maps the main types of online financial scams, platform features scammers exploit, their impact on users and society and measures platforms can take to stop them. Online financial scams \u2013 fraudulent schemes whose primary aim is to extract money from victims \u2013 have grown into a pervasive crime in the digital age. They are present across all types of online intermediary services, including Very Large Online Platforms (VLOPs) and Very Large Search Engines (VLOSEs). The European Commission has procured this study in 2025 to support its supervisory and enforcement tasks under the Digital Services Act (DSA). It provides a typological mapping of financial scam formats across online platforms and assesses existing and emerging mitigation strategies to curb financial scams online. The study was carried out by Open Evidence and Spark Legal and Policy Consulting. It does not evaluate compliance by providers of VLOPs and VLOSEs. Read the study and the executive summary in (French and English). Key insights A diverse typology of scams The study maps different types of online financial scams and categorises them in six broad categories: investment scams romance scams e-commerce scams employment and collaboration scams unexpected gain scams disaster relief scams The study finds that investment scams and romance scams are the most common and fastest-growing forms of scams in Europe. It also finds that the scam landscape is increasingly being redefined by overlapping methods across different categories. Online platforms features and financial scams The study presents information on relevant features related to scams on online platforms including: advertising systems recommender systems content moderation of organic content monetisation systems app store content and private messaging functions inauthentic identities and account manipulation deceptive commercial content generative AI The study also shows how financial scams operate across different platforms and are facilitated by organised criminal networks that sell tools and services, effectively lowering the barrier to entry. Identifying effective countermeasures The study identifies relevant countermeasures across 4 categories: Access and gatekeeping measures, such as know your business customer and identity requirements are the first line of defence against online financial scams; Detection and removal measures, including automated and human-review based measures, can neutralise scam content; User facing measures \u2013 such as reporting tools and information on redress \u2013 can equip end users with tools and information to identify and report online scams; Platform-level policies and cooperation with third parties can help platforms identify, prevent and address online scams. Find further information about Fighting online scams with the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -932,7 +932,7 @@
       "id": "live-governance-first-harmonised-standard-supporting-the",
       "title": "First harmonised standard supporting the AI Act published in the Official Journal",
       "category": "governance",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "impact": "CRITICAL",
       "company": "EU Digital Strategy",
       "tldr": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the referen...",
@@ -942,104 +942,11 @@
       },
       "tags": [
         "#UnitedNations",
-        "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
       "details": "First harmonised standard supporting the AI Act published in the Official Journal Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, provides a clear legal pathway for providers of high-risk AI systems to comply with the quality management system requirements under article 17 of the AI Act. Its publication through Commission Implementing Decision (EU) 2026/2274 means that providers implementing this standard will benefit from a presumption of conformity with the Article 17 requirements covered by the standard. EN 18286 translates these requirements into an operational quality management system (QMS). It is the only AI QMS standard with a presumption of conformity. It is mapped to Article 17 of the AI Act, built around the AI system lifecycle \u2013 rather than the organisation \u2013 and designed to be layered on top of the existing international standards \u2013 such as ISO/IEC 42001, ISO 9001 or a sectoral QMS (e.g. ISO 13485) \u2013 rather than replace them.&nbsp; EN 18286 explicitly allows providers in regulated sectors to integrate management systems, rather than run separate ones. Organisations without ISO/IEC 42001 that plan to place or put into service high-risk AI systems in the EU market can use EN 18286 to expand an existing QMS or build one that fulfills the requirements of article 17 requirements. The publication of this standard marks an important milestone in implementing the AI Act, ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow. Find further information about the Standardisation of the AI Act. Related topics Artificial intelligence"
-    },
-    {
-      "id": "live-multilateral-cop17-nations-chart-yerevan-pathway-to-s",
-      "title": "COP17: Nations chart \u2018Yerevan Pathway\u2019 to speed up action for nature",
-      "category": "multilateral",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodive...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168718",
-      "details": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodiversity targets."
-    },
-    {
-      "id": "live-multilateral-western-sahara-un-stands-ready-to-keep-s",
-      "title": "Western Sahara: UN \u2018stands ready\u2019 to keep supporting peace efforts as MINURSO mission ends",
-      "category": "multilateral",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretar...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168717",
-      "details": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General Ant\u00f3nio Guterres said on Sunday, as the UN peacekeeping mission there began to wind down."
-    },
-    {
-      "id": "live-multilateral-they-deserve-to-know-the-truth-un-rights",
-      "title": "\u2018They deserve to know the truth\u2019: UN rights chief demands probe into staffer\u2019s death in Houthi custo",
-      "category": "multilateral",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned o...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168716",
-      "details": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
-    },
-    {
-      "id": "live-multilateral-samarkand-a-living-museum-on-the-silk-ro",
-      "title": "Samarkand: A \u2018living museum\u2019 on the Silk Road grapples with a tourism boom",
-      "category": "multilateral",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "As the sun sets over Samarkand\u2019s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for c...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168711",
-      "details": "As the sun sets over Samarkand\u2019s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries."
-    },
-    {
-      "id": "live-multilateral-dpr-korea-isolation-deepens-even-as-the-",
-      "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
-      "category": "multilateral",
-      "date": "2026-11-01",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The Democratic People\u2019s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168690",
-      "details": "The Democratic People\u2019s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But its people are more cut off from the outside world than at any point in the country\u2019s history."
     }
   ]
 }
