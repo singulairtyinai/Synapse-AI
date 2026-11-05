@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-04T19:29:17.053352",
-  "fetched_count": 40,
+  "timestamp": "2026-11-05T00:46:08.468436",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-texas-was-the-new-epicenter-of-the-ai-da",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "category": "overall",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize...",
@@ -24,7 +24,7 @@
       "id": "live-overall-roundtables-inside-the-quest-for-cogniti",
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
       "category": "overall",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. ...",
@@ -42,7 +42,7 @@
       "id": "live-overall-what-s-next-for-us-energy-policy-after-t",
       "title": "What\u2019s next for US energy policy after the midterm elections?",
       "category": "overall",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "HIGH",
       "company": "MIT Tech Review AI",
       "tldr": "I\u2019ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn\u2019t take long to see the beginning of the blue wave: Democra...",
@@ -60,7 +60,7 @@
       "id": "live-overall-the-download-blended-meat-restored-sight",
       "title": "The Download: blended meat, restored sight, and the agentic web",
       "category": "overall",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope \u201cblended\u201d ...",
@@ -69,9 +69,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#UnitedNations",
         "#AgenticAI",
-        "#Pentagon",
-        "#UnitedNations"
+        "#Pentagon"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;"
@@ -80,7 +80,7 @@
       "id": "live-overall-securing-the-agentic-enterprise-with-dat",
       "title": "Securing the agentic enterprise with data lineage",
       "category": "overall",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quot...",
@@ -89,8 +89,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "details": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s&#8230;"
@@ -99,7 +99,7 @@
       "id": "live-agentic_ai-dharma-field-extractor-any-document-in-s",
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "category": "agentic_ai",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -117,7 +117,7 @@
       "id": "live-agentic_ai-statebench-testing-how-language-models-t",
       "title": "StateBench: Testing how language models track state changes over long documents",
       "category": "agentic_ai",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -135,7 +135,7 @@
       "id": "live-agentic_ai-palette-teaching-a-small-model-to-build-",
       "title": "Palette: teaching a small model to build decks in your design language",
       "category": "agentic_ai",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -153,7 +153,7 @@
       "id": "live-agentic_ai-cwe-bench-v2-more-coverage-quality-and-t",
       "title": "CWE-bench v2: More coverage, quality, and transparency",
       "category": "agentic_ai",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -171,7 +171,7 @@
       "id": "live-agentic_ai-transformers-model-integration-contracts",
       "title": "Transformers Model Integration Contracts",
       "category": "agentic_ai",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -189,7 +189,7 @@
       "id": "live-models-openai-to-acquire-pierre-computer-compan",
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "category": "models",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
@@ -198,8 +198,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
       "details": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code."
@@ -208,7 +208,7 @@
       "id": "live-models-daybreak-red-is-now-available-in-aws-gov",
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "category": "models",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "CRITICAL",
       "company": "OpenAI Newsroom",
       "tldr": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
@@ -224,13 +224,32 @@
       "details": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
     },
     {
-      "id": "live-models-accelerating-engineering-for-the-physica",
-      "title": "Accelerating engineering for the physical world",
+      "id": "live-models-a-thousand-fewer-paths-to-root",
+      "title": "A thousand fewer paths to root",
       "category": "models",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "tldr": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "details": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+    },
+    {
+      "id": "live-models-introducing-images-2-6",
+      "title": "Introducing Images 2.6",
+      "category": "models",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
@@ -238,53 +257,33 @@
       "tags": [
         "#OpenAI"
       ],
-      "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "details": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6",
+      "details": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
     },
     {
-      "id": "live-models-how-cisco-defends-at-machine-speed-with-",
-      "title": "How Cisco defends at machine speed with OpenAI",
+      "id": "live-models-devrev-delivers-autonomous-self-service-",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
       "category": "models",
-      "date": "2026-11-04",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#OpenAI",
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://openai.com/index/cisco-cyber",
-      "details": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
-    },
-    {
-      "id": "live-models-heimstaden-is-changing-residential-real-",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "category": "models",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "Discover how Heimstaden uses OpenAI\u2019s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "tldr": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#Reasoning",
         "#OpenAI"
       ],
-      "sourceUrl": "https://openai.com/index/heimstaden",
-      "details": "Discover how Heimstaden uses OpenAI\u2019s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+      "sourceUrl": "https://openai.com/index/devrev-enterprise-self-service",
+      "details": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
     },
     {
       "id": "live-companies-ai-is-changing-how-semiconductor-fabs-wo",
       "title": "AI Is Changing How Semiconductor Fabs Work \u2014 and Engineers Are Moving Faster Because of It",
       "category": "companies",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change ...",
@@ -293,9 +292,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
       "details": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor [\u2026]"
@@ -304,7 +303,7 @@
       "id": "live-companies-cities-worldwide-build-and-scale-ai-serv",
       "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
       "category": "companies",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action \u2014 for planning, maintenance and public services \u2014 remains ...",
@@ -313,10 +312,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
       "details": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action \u2014 for planning, maintenance and public services \u2014 remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments [\u2026]"
@@ -325,7 +324,7 @@
       "id": "live-companies-things-that-go-beep-in-the-night-agentic",
       "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
       "category": "companies",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the sear...",
@@ -344,7 +343,7 @@
       "id": "live-companies-slice-into-gfn-thursday-phantom-blade-ze",
       "title": "Slice Into GFN Thursday: \u2018Phantom Blade Zero\u2019 Launches on GeForce NOW",
       "category": "companies",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "HIGH",
       "company": "NVIDIA Newsroom",
       "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringi...",
@@ -353,8 +352,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
       "details": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There\u2019s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, [\u2026]"
@@ -363,7 +362,7 @@
       "id": "live-companies-nvidia-sets-conference-call-for-third-qu",
       "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
       "category": "companies",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA will host a conference call on Tuesday, November 17, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the third quarter of fiscal year 2027, which ended October...",
@@ -381,7 +380,7 @@
       "id": "live-fellowships-podcast-the-laser-that-could-break-the-l",
       "title": "Podcast: The laser that could break the laws of physics",
       "category": "fellowships",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Jonathan Zuegel discusses the future of high-powered laser research in the United States, the ambitious NSF Optical Parametric...",
@@ -399,7 +398,7 @@
       "id": "live-fellowships-podcast-the-future-of-electronics-goes-b",
       "title": "Podcast: The future of electronics goes beyond circuit boards",
       "category": "fellowships",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Ethan Secor discusses a specialized additive manufacturing technique, the materials involved, and the resulting circuits that can be customized for complex...",
@@ -417,7 +416,7 @@
       "id": "live-fellowships-new-dwarf-planet-candidate-discovered-by",
       "title": "New dwarf planet candidate discovered by NSF\u2013DOE Rubin Observatory",
       "category": "fellowships",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF\u2013DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet. A preliminary data analysis shows that the object is orbiting...",
@@ -435,7 +434,7 @@
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
       "title": "Podcast: Can America's most powerful laser unlock the universe?",
       "category": "fellowships",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser ...",
@@ -453,7 +452,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -468,10 +467,47 @@
       "details": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg discusses DNA initiators, using models for analysis, and her experience\u2026"
     },
     {
+      "id": "live-military-dem-lawmakers-vow-inquest-into-cisa-cuts",
+      "title": "Dem lawmakers vow inquest into CISA cuts, intel policy",
+      "category": "military",
+      "date": "2026-11-05",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "House Democrats will investigate the administration's cyberdefense cuts, while Senate Dems will control confirmation hearings for the officials who lead the nation\u2019s security agenc...",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/11/democrats-midterm-sweep-puts-cisa-cuts-intelligence-disputes-under-scrutiny/417058/",
+      "details": "House Democrats will investigate the administration's cyberdefense cuts, while Senate Dems will control confirmation hearings for the officials who lead the nation\u2019s security agencies."
+    },
+    {
+      "id": "live-military-cancellations-investigations-and-even-im",
+      "title": "Cancellations, investigations, and even impeachment could be ahead under Democratic Congress",
+      "category": "military",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Efforts like Autonomous Warfare Command, the Golden Fleet, and more could crumble without funding.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/11/impeachment-investigations-canceled-projects-democratic-congress/417053/",
+      "details": "Efforts like Autonomous Warfare Command, the Golden Fleet, and more could crumble without funding."
+    },
+    {
       "id": "live-military-unraveling-the-pentagon-s-quantum-proble",
       "title": "Unraveling the Pentagon\u2019s quantum problem",
       "category": "military",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Defense agencies have just five years to comply with Executive Order 14412. The work starts with spreading awareness.",
@@ -480,8 +516,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/11/unraveling-pentagons-quantum-problem/417029/",
       "details": "Defense agencies have just five years to comply with Executive Order 14412. The work starts with spreading awareness."
@@ -490,7 +526,7 @@
       "id": "live-military-pentagon-is-beginning-to-follow-ukraine-",
       "title": "Pentagon is beginning to follow Ukraine into wider use of ground robots",
       "category": "military",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "But many U.S. UGVs are more complicated than the attritable ones that Kyiv is buying.",
@@ -508,7 +544,7 @@
       "id": "live-military-industry-groups-want-cyber-threat-sharin",
       "title": "Industry groups want cyber threat-sharing law renewed through defense authorization bill",
       "category": "military",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Banks, utilities, and other industries are asking lawmakers to extend liability protections through 2035.",
@@ -523,46 +559,10 @@
       "details": "Banks, utilities, and other industries are asking lawmakers to extend liability protections through 2035."
     },
     {
-      "id": "live-military-officials-suspect-iran-of-cyberattacks-o",
-      "title": "Officials suspect Iran of cyberattacks on military base freezers",
-      "category": "military",
-      "date": "2026-11-04",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "Tehran is also suspected to have backed recent attacks on U.S. water-treatment equipment.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/11/officials-suspect-iran-series-cyberattacks-military-base-freezers/416992/",
-      "details": "Tehran is also suspected to have backed recent attacks on U.S. water-treatment equipment."
-    },
-    {
-      "id": "live-military-the-pentagon-s-it-agency-wants-to-bridge",
-      "title": "The Pentagon\u2019s IT agency wants to bridge network gaps in the Pacific",
-      "category": "military",
-      "date": "2026-11-04",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "\u201cThe old ways of connecting with partners are simply no longer sufficient,\u201d says INDOPACOM deputy commander.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/11/pentagons-it-agency-wants-bridge-network-gaps-pacific/416963/",
-      "details": "\u201cThe old ways of connecting with partners are simply no longer sufficient,\u201d says INDOPACOM deputy commander."
-    },
-    {
       "id": "live-governance-self-employed-solopreneur-nist-has-a-cyb",
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
@@ -582,7 +582,7 @@
       "id": "live-governance-nist-report-provides-guidelines-for-tran",
       "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing...",
@@ -600,7 +600,7 @@
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -609,8 +609,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -619,7 +619,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -637,7 +637,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -655,7 +655,7 @@
       "id": "live-governance-independent-study-on-the-impact-of-age-a",
       "title": "Independent study on the impact of age assurance on fundamental rights and costs for businesses",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Independent study on the impact of age assurance on fundamental rights and costs for businesses Anonymous (not verified) Wed, 11/04/2026 - 15:04 An independent study analyses the i...",
@@ -665,9 +665,9 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
+        "#UnitedNations",
         "#AISecurity",
-        "#UnitedNations"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
       "details": "Independent study on the impact of age assurance on fundamental rights and costs for businesses Anonymous (not verified) Wed, 11/04/2026 - 15:04 An independent study analyses the impacts of age assurance on fundamental rights and the costs for businesses concerned. Age assurance is key for a safer online environment as it ensures that children only access online services and features that are safe and age appropriate for them. Nowadays, 1 in 3 children, aged 9 to 11 across 6 European countries, reports having a social media profile. Very few services are implementing age assurance in a systematic way. To further strengthen the preparation of the proposed EU KIDS Act and the accompanying Staff Working Document, the European Commission procured a study to: Analyse the impact of age assurance on key fundamental rights, including data protection and privacy, non-discrimination, freedom of expression and access to information; Assess the potential financial impacts of age assurance on businesses, including micro and small enterprises. The study was carried out by an external contractor. It does not assess the proposed EU KIDS Act and the compliance by any specific service provider. The study's key insights are: Fundamental rights \u2013 an age assurance framework can be both proportionate and respectful of fundamental rights. Interferences with those rights can be mitigated through appropriate safeguards. In particular, the framework should ensure: Data protection and privacy \u2013 legislative coherence with the GDPR, high standards of privacy and security, and the development of technical standards; Non-discrimination, freedom of expression and access to information \u2013 minimising friction for users, ensuring transparency, promoting user empowerment where appropriate through greater choice, and ensuring inclusivity and accessibility. EU approach to age verification \u2013 the EU age verification blueprint can make an important contribution to the development of a coherent EU-level approach to age assurance. Specifically, the findings suggest that: the blueprint has the potential to become one of the most affordable ways for service providers of all sizes to comply with age assurance requirements because it is privacy-preserving and open by design and its development costs have been publicly subsidised; the roll-out of the blueprint across all Member States should be accelerated; the provision and resourcing of effective fallback enrollment routes \u2013 including manual enrolment options at national and local level \u2013 should be ensured. Costs for businesses \u2013 online services would inevitably face new costs. However, these costs are likely to remain modest for most services and to decrease over time, due to: competition in the third-party vendor market, the emergence of technical standards, improvements in interoperability, the availability of the EU age verification blueprint. For small and medium-sized enterprises (SMEs), the study suggests that it's unlikely to face excessive costs, thanks to affordable, ready-to-use age verification solutions and competition between providers. They will also benefit from having a common set of EU rules, rather than having to comply with different national requirements. Read the study and its executive summary and the questions &amp; answers on the proposed EU KIDS Act. Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -676,7 +676,7 @@
       "id": "live-governance-call-for-evidence-on-advertising-reposit",
       "title": "Call for evidence on advertising repositories",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is s...",
@@ -686,8 +686,8 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
       "details": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence. The responses collected through the call for evidence will help shape guidelines aimed at ensuring that advertising repositories meet the needs of their users. Amongst other things, the guidelines will advise on: how to make advertising repositories easily searchable how to provide insights on how users are targeted and reached how to make the content of advertisements accessible Once adopted, these guidelines will aim to ensure that the advertising repositories provided by very large online platforms (VLOPs) and very large online search engines (VLOSEs) are effective and fit for purpose. Effective advertising repositories are essential tools for enabling greater public scrutiny of online advertising. Transparency in advertising \u2013 revealing who pays and how citizens are targeted \u2013 helps to protect public health, ensure a high level of consumer protection and safeguard the integrity of elections. Advertising repositories also support effective supervision and enforcement of the DSA. Next steps The call for evidence will be followed by a targeted public consultation in 2027. Researchers, civil society, providers of VLOPs and VLOSEs and representatives from the advertising industry will be invited to share feedback on a draft version of the guidelines. The publication of the guidelines is planned for the second quarter of 2028. Background Under Article 39 of the DSA, providers of VLOPs and VLOSEs are required to maintain publicly accessible repositories of advertisements displayed on their services. These repositories (commonly known as \u2018ad libraries\u2019) provide information on the content of advertisements, who paid for them, the period during which they were displayed, how many users the advertisements reached, and the main criteria used to decide who saw the advertisements. Article 39(3) of the DSA provides the possibility for the Commission to issue guidelines on the design of advertising repositories, following consultation with the European Board for Digital Services, researchers and the public. The guidelines will support the Commission\u2019s supervision and enforcement of VLOPs and VLOSEs\u2019 compliance with Article 39 of the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act Related content Press release04 November 2026Commission seeks feedback on advertising repositories under the Digital Services ActToday, the European Commission is calling for evidence to gather feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA)."
@@ -696,7 +696,7 @@
       "id": "live-governance-call-for-proposals-eu-ai-media-platform-",
       "title": "Call for proposals: EU AI Media Platform \u2013 Modular multilingual public-interest infrastructure for E",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for proposals: EU AI Media Platform \u2013 Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI Anonymous (not verified) Tue,...",
@@ -706,8 +706,8 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-ai-media-platform-modular-multilingual-public-interest-infrastructure-european",
       "details": "Call for proposals: EU AI Media Platform \u2013 Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI Anonymous (not verified) Tue, 11/03/2026 - 11:49 &nbsp; Opening: 20 October 2026 &nbsp; Closing: 16 February 2027 This call will support pilots for AI-enabled media infrastructures, fostering research and innovation in the European media sector. Main link https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportuni\u2026 Related topics Research and innovation Media and democracy Audiovisual &amp; Media Services Audiovisual and media content distribution Multimedia actions Artificial intelligence EU funding for digital"
@@ -716,7 +716,7 @@
       "id": "live-governance-web-summit-2026",
       "title": "Web Summit 2026",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main ...",
@@ -725,8 +725,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
       "details": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main link https://digital-strategy.ec.europa.eu/en/news/digitaleu-web-summit-2026-support\u2026 Related topics Cloud computing Start-ups High-performance computing Data policy Quantum computing Artificial intelligence EU funding for digital"
@@ -735,7 +735,7 @@
       "id": "live-governance-local-digital-twins-citiverse-edic-joins",
       "title": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
       "category": "governance",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 &nbsp; 03 November 2026 - 05 November 2026 &nbsp; Fira...",
@@ -745,11 +745,103 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026",
       "details": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 &nbsp; 03 November 2026 - 05 November 2026 &nbsp; Fira de Barcelona, Hall 3, Stand D71 Explore human-centric AI solutions for smart cities with the LDT CiTiVERSE EDIC at Smart City Expo World Congress 2026. The Local Digital Twin (LDT) CiTiVERSE European Digital Infrastructure Consortium (EDIC) is \u2013 together with city, regional and industrial stakeholders \u2013 showcasing AI solutions for liveable cities and communities in a pavilion at Smart City Expo World Congress 2026. There, visitors can see and experience how digital twins, data and immersive technologies work in practice. Aligned with the Apply AI Strategy, these solutions show how responsible AI can strengthen governance, public services and quality of life. This event is part of the European AI Innovation Month, an initiative promoting a series of events showcasing AI innovation and adoption across Europe. Find more details about the LDT CiTiVERSE EDIC at the Smart City Expo World Congress 2026. The LDT CiTiVERSE EDIC is building an EU ecosystem of advanced AI solutions for cities. It brings cities and communities together to explore AI resources to improve decision-making and address major shared societal challenges.Anchored in a balanced and empowered social fabric, this initiative showcaseshow human-centric AI and Local Digital Twins can be translated into practical, replicable solutions for cities. Find out more about the EU work on AI for liveable cities. Related topics Events Artificial intelligence Europe's Digital Decade European Digital Infrastructure Consortium"
+    },
+    {
+      "id": "live-multilateral-un-peacekeeping-chief-warns-of-security-",
+      "title": "UN peacekeeping chief warns of \u2018security vacuum\u2019 as Blue Helmets leave Lebanon and Western Sahara",
+      "category": "multilateral",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN\u2019s peacekeeping chief warned on Wednesday that the withdrawal of \u201cBlue Helmets\u201d from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+      "details": "The UN\u2019s peacekeeping chief warned on Wednesday that the withdrawal of \u201cBlue Helmets\u201d from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them."
+    },
+    {
+      "id": "live-multilateral-gunfire-damages-tents-at-rafah-displacem",
+      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+      "category": "multilateral",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Gunfire hit and damaged multiple tents at a displacement site in Gaza\u2019s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave th...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+      "details": "Gunfire hit and damaged multiple tents at a displacement site in Gaza\u2019s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has&nbsp;said."
+    },
+    {
+      "id": "live-multilateral-fuel-price-shock-why-developing-economie",
+      "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+      "category": "multilateral",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world\u2019s developing economies are paying the ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+      "details": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world\u2019s developing economies are paying the heaviest price, according to a&nbsp;new report from UNCTAD, the UN trade and development agency."
+    },
+    {
+      "id": "live-multilateral-syria-s-undocumented-children-pay-the-pr",
+      "title": "Syria\u2019s undocumented children \u2018pay the price\u2019 of war and a law that shuts out mothers",
+      "category": "multilateral",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers \u2013 many of whom are dead or missing \u2013 a member of the ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+      "details": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers \u2013 many of whom are dead or missing \u2013 a member of the independent UN commission investigating rights violations in the country said on Wednesday."
+    },
+    {
+      "id": "live-multilateral-15-years-of-almost-no-progress-in-gettin",
+      "title": "15 years of \u2018almost no progress\u2019 in getting young people moving: WHO",
+      "category": "multilateral",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the W...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168736",
+      "details": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.&nbsp;"
     }
   ]
 }
