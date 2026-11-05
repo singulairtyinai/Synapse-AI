@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-11-05T00:46:08.468436",
-  "fetched_count": 45,
+  "timestamp": "2026-11-05T11:57:53.261843",
+  "fetched_count": 55,
   "nodes": [
+    {
+      "id": "live-overall-a-new-bill-could-change-how-the-us-build",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "category": "overall",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterm...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "details": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It\u2019s a plan that could finally&#8230;"
+    },
     {
       "id": "live-overall-texas-was-the-new-epicenter-of-the-ai-da",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -77,23 +95,124 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;"
     },
     {
-      "id": "live-overall-securing-the-agentic-enterprise-with-dat",
-      "title": "Securing the agentic enterprise with data lineage",
+      "id": "live-overall-who-may-overrule-the-agent-evidence-gate",
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
       "category": "overall",
       "date": "2026-11-05",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quot...",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair erro...",
       "specs": {
-        "source": "MIT Tech Review AI",
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2611.05390",
+      "details": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: conditional on the same proposal, task information, model, and review output, when is the reviewer authorized to make its recommendation binding? We compare broad override authority with an evidence gate that permits replacement only after the reviewer produces a mechanically valid record of a binding-constraint violation and a compliant repair. Across two locally run open-weight models, 96 spatial-policy tasks, and a 96-task portfolio-transfer benchmark, the gate sharply reduces corruption of correct proposals while retaining most repairs of violations. The directions of this tradeoff are partly implied by the rule; its magnitude depends on reviewer transitions and upstream proposal states. A prospective validation then gives the reviewer an explicit choice to retain, replace, or escalate. This eliminates correct-proposal corruption for Qwen, but Mistral still replaces all 48 correct proposals; Qwen also declines every welfare-only repair that Mistral frequently attempts. Thus interface design changes reviewer behavior but is not a model-independent safeguard. The result is not that restricted review is universally better. It is that reviewer competence, action interface, and binding jurisdiction jointly determine both the correction domain and the corruption surface."
+    },
+    {
+      "id": "live-overall-agent-harness-awareness-turning-verified",
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "category": "overall",
+      "date": "2026-11-05",
+      "impact": "CRITICAL",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#AgenticAI",
+        "#UnitedNations",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2611.05391",
+      "details": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failures while the model choosing the next action does not. We call this gap operational blindness. We introduce Agent Harness Awareness, a trust-separated design in which the host supplies a small, fresh, verified state snapshot before a consequential action while retaining measurement, enforcement, evaluation, and final dispatch authority. We test its tools-and-network instance with ToolRoute, a controlled isolation benchmark that holds the task and candidate semantics constant and varies the operational information available to the model. In a 216-decision ablation across GPT-5.6 Sol, Claude Sonnet 5, and Gemini 3.7 Flash, verified tool-health state reduced mean observable policy regret by 96.9% against a same-shape neutral control (4,252 ms to 131 ms) and raised single-dispatch completion from 69.4% to 95.8%. In a separate 27-decision end-to-end replication with live local TCP/HTTP execution, OpenTelemetry client spans, and Toxiproxy-injected faults, verified state reduced mean regret from 8,956 ms to 0 ms (zero excess observable operational cost) and completed the live action in 9/9 model-by-fault cases versus 5/9 for the neutral control. These studies establish the tools-and-network instance of Agent Harness Awareness: selected host telemetry materially improves pre-dispatch operational choice. Runtime state, hardware pressure, economics, retry-aware recovery, and heterogeneous selection remain open empirical extensions of the same architecture."
+    },
+    {
+      "id": "live-overall-uncertainty-aware-resource-orchestration",
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "category": "overall",
+      "date": "2026-11-05",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2611.05392",
+      "details": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budget is exhausted. Unlike classical workflows with fixed graphs, the aggregate compute, bandwidth, and end-to-end latency demands of such pipelines are unknown at dispatch time: they emerge at runtime from intermediate observations and stochastic token sampling, yielding heavy-tailed, multi-modal random variables. This unpredictability forces infrastructure orchestrators into a dilemma: under-provisioning risks mid-execution throttling and deadline violations, while over-provisioning wastes scarce edge or cloud capacity. Existing schedulers require a fully known pipeline graph, while edge resource-management methods rely on parametric or stationary demand models, and neither fits the unknown, non-stationary profiles of agentic pipelines. We formalize this setting as the uncertainty-aware agentic orchestration problem, where the goal is to reserve, at dispatch time, compute and bandwidth allocations that cover actual pipeline demands, and to verify that the pipeline can meet its deadline, each with a prescribed probability. We then propose Conformal Reservation for Orchestration (CRO), an online algorithm that translates a sliding window of past execution traces into dispatch-time resource allocations with finite-sample, distribution-free coverage guarantees via conformal prediction. Simulations over heterogeneous task mixes with multi-modal and heavy-tailed profiles show that CRO is the only evaluated method that simultaneously satisfies target probabilistic coverage across all risk levels while, among coverage-feasible methods, attaining the lowest over-reservation, roughly halving the resource waste of the Chebyshev-bound baseline."
+    },
+    {
+      "id": "live-overall-challenge-aware-knowledge-recruitment-wi",
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "category": "overall",
+      "date": "2026-11-05",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often ...",
+      "specs": {
+        "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#UnitedNations",
-        "#AgenticAI"
+        "#Reasoning",
+        "#AgenticAI",
+        "#Governance",
+        "#Meta"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "details": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s&#8230;"
+      "sourceUrl": "https://arxiv.org/abs/2611.05393",
+      "details": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and retrieve knowledge from the question alone, rather than from gaps that emerge during reasoning. We propose challenge-aware adaptive recruitment: an external CHALLENGER inspects the evolving reasoning trace and identifies specific factual or expertise gaps. These signals trigger targeted knowledge retrieval or mid-discussion specialist recruitment. On the MEDAGENTSBENCH hard subset (862 questions across nine biomedical datasets), upfront retrieval provides little benefit, while challenge-aware in-between retrieval performs better; on a multi-specialist backbone it improves accuracy on 8 of 9 datasets and adds 6 percentage points over Challenger Only. Ablations indicate benefits from both retrieval timing and gap-specific query signals, and a live web-search experiment shows that the timing advantage persists across retrieval backends. For specialist recruitment, self-triggered adaptation is unreliable, whereas Challenger-triggered recruitment raises GPT-4.1-mini MedQA accuracy from 46% to 54%, with positive direction on all tested generalization datasets. Naively combining retrieval and specialist recruitment degrades performance, highlighting the need to coordinate adaptive intervention channels. These results show that when and why external resources are recruited is a key design choice in multi-agent medical reasoning."
+    },
+    {
+      "id": "live-overall-a-feasibility-condition-for-confidence-g",
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "category": "overall",
+      "date": "2026-11-05",
+      "impact": "HIGH",
+      "company": "arXiv CS.AI",
+      "tldr": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the...",
+      "specs": {
+        "source": "arXiv CS.AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://arxiv.org/abs/2611.05394",
+      "details": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such systems orchestrate frozen model checkpoints, and most decide what to resolve locally and what to escalate using a confidence signal produced by a forward-deployed model. We give a closed-form condition for when no threshold on that signal makes a tiered cascade worthwhile relative to sending every query to the backstop. Modeling the routing decision as a binary test and separating local from escalation cost through an architecture cost ratio $\\kappa$, we derive a feasibility condition bracketed by a signal-free floor, below which a cascade is feasible at any signal quality, and a perfect-signal ceiling, above which none is. Read along the $\\kappa$ axis the condition inverts: where local compute is billed, cost binds, matching a recent empirical finding; where it is sunk, on decentralized hardware, feasibility becomes unconditional and signal quality instead sets what the cascade achieves. We turn the condition into three design requirements that existing trained-in primitives satisfy only in isolation, and we propose, as future work, a co-designed architecture and a protocol to test it. The condition and the inversion hold independently of that architecture; they are the paper's contribution."
+    },
+    {
+      "id": "live-agentic_ai-a-closer-look-at-phonon-tts-launching-hi",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "category": "agentic_ai",
+      "date": "2026-11-05",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/phonon-tts",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-dharma-field-extractor-any-document-in-s",
@@ -168,22 +287,114 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-transformers-model-integration-contracts",
-      "title": "Transformers Model Integration Contracts",
+      "id": "live-agentic_ai-gpt-synopsys-combines-ic-design-eda-with",
+      "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
       "category": "agentic_ai",
       "date": "2026-11-05",
-      "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50361631 Points: 1 # Comments: 0",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "HackerNews Agentic AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance"
+        "#AgenticAI"
       ],
-      "sourceUrl": "https://huggingface.co/blog/transformers-mic",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
+      "details": "Article URL: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50361631 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-s-real-risk-losing-the-plot",
+      "title": "Agentic AI's real risk: losing the plot",
+      "category": "agentic_ai",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/ Comments URL: https://news.ycombinator.com/item?id=50350478 Points:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/",
+      "details": "Article URL: https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/ Comments URL: https://news.ycombinator.com/item?id=50350478 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
+      "title": "Agentic AI Is Myth Set in Motion",
+      "category": "agentic_ai",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50332768 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+      "details": "Article URL: https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50332768 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
+      "title": "Agentic AI is myth set in motion",
+      "category": "agentic_ai",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
+      "details": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-freegent-free-agentic-ai-for-everyone",
+      "title": "FreeGent: Free Agentic AI for Everyone",
+      "category": "agentic_ai",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://freegent.ai Comments URL: https://news.ycombinator.com/item?id=50323876 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://freegent.ai",
+      "details": "Article URL: https://freegent.ai Comments URL: https://news.ycombinator.com/item?id=50323876 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-models-setting-a-new-standard-for-responsible-a",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "category": "models",
+      "date": "2026-11-05",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "details": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
     },
     {
       "id": "live-models-openai-to-acquire-pierre-computer-compan",
@@ -261,25 +472,6 @@
       "details": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
     },
     {
-      "id": "live-models-devrev-delivers-autonomous-self-service-",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "category": "models",
-      "date": "2026-11-05",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Reasoning",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/devrev-enterprise-self-service",
-      "details": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
-    },
-    {
       "id": "live-companies-ai-is-changing-how-semiconductor-fabs-wo",
       "title": "AI Is Changing How Semiconductor Fabs Work \u2014 and Engineers Are Moving Faster Because of It",
       "category": "companies",
@@ -293,8 +485,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
       "details": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor [\u2026]"
@@ -313,8 +505,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
@@ -352,8 +544,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
       "details": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME\u2019s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There\u2019s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, [\u2026]"
@@ -516,8 +708,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/technology/2026/11/unraveling-pentagons-quantum-problem/417029/",
       "details": "Defense agencies have just five years to comply with Executive Order 14412. The work starts with spreading awareness."
@@ -572,8 +764,8 @@
       },
       "tags": [
         "#Governance",
-        "#EUAIAct",
-        "#AISecurity"
+        "#AISecurity",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
       "details": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses."
@@ -609,8 +801,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -665,8 +857,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
         "#AISecurity",
+        "#UnitedNations",
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
@@ -690,7 +882,7 @@
         "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
-      "details": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence. The responses collected through the call for evidence will help shape guidelines aimed at ensuring that advertising repositories meet the needs of their users. Amongst other things, the guidelines will advise on: how to make advertising repositories easily searchable how to provide insights on how users are targeted and reached how to make the content of advertisements accessible Once adopted, these guidelines will aim to ensure that the advertising repositories provided by very large online platforms (VLOPs) and very large online search engines (VLOSEs) are effective and fit for purpose. Effective advertising repositories are essential tools for enabling greater public scrutiny of online advertising. Transparency in advertising \u2013 revealing who pays and how citizens are targeted \u2013 helps to protect public health, ensure a high level of consumer protection and safeguard the integrity of elections. Advertising repositories also support effective supervision and enforcement of the DSA. Next steps The call for evidence will be followed by a targeted public consultation in 2027. Researchers, civil society, providers of VLOPs and VLOSEs and representatives from the advertising industry will be invited to share feedback on a draft version of the guidelines. The publication of the guidelines is planned for the second quarter of 2028. Background Under Article 39 of the DSA, providers of VLOPs and VLOSEs are required to maintain publicly accessible repositories of advertisements displayed on their services. These repositories (commonly known as \u2018ad libraries\u2019) provide information on the content of advertisements, who paid for them, the period during which they were displayed, how many users the advertisements reached, and the main criteria used to decide who saw the advertisements. Article 39(3) of the DSA provides the possibility for the Commission to issue guidelines on the design of advertising repositories, following consultation with the European Board for Digital Services, researchers and the public. The guidelines will support the Commission\u2019s supervision and enforcement of VLOPs and VLOSEs\u2019 compliance with Article 39 of the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act Related content Press release04 November 2026Commission seeks feedback on advertising repositories under the Digital Services ActToday, the European Commission is calling for evidence to gather feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA)."
+      "details": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence. The responses collected through the call for evidence will help shape guidelines aimed at ensuring that advertising repositories meet the needs of their users. Amongst other things, the guidelines will advise on: how to make advertising repositories easily searchable how to provide insights on how users are targeted and reached how to make the content of advertisements accessible Once adopted, these guidelines will aim to ensure that the advertising repositories provided by very large online platforms (VLOPs) and very large online search engines (VLOSEs) are effective and fit for purpose. Effective advertising repositories are essential tools for enabling greater public scrutiny of online advertising. Transparency in advertising \u2013 revealing who pays and how citizens are targeted \u2013 helps to protect public health, ensure a high level of consumer protection and safeguard the integrity of elections. Advertising repositories also support effective supervision and enforcement of the DSA. Next steps The call for evidence will be followed by a targeted public consultation in 2027. Researchers, civil society, providers of VLOPs and VLOSEs and representatives from the advertising industry will be invited to share feedback on a draft version of the guidelines. The publication of the guidelines is planned for the second quarter of 2028. Background Under Article 39 of the DSA, providers of VLOPs and VLOSEs are required to maintain publicly accessible repositories of advertisements displayed on their services. These repositories (commonly known as \u2018ad libraries\u2019) provide information on the content of advertisements, who paid for them, the period during which they were displayed, how many users the advertisements reached, and the main criteria used to decide who saw the advertisements. Article 39(3) of the DSA provides the possibility for the Commission to issue guidelines on the design of advertising repositories, following consultation with the European Board for Digital Services, researchers and the public. The guidelines will support the Commission\u2019s supervision and enforcement of VLOPs and VLOSEs\u2019 compliance with Article 39 of the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act Related content Press release04 November 2026Commission seeks feedback on advertising repositories under the Digital Services ActThe European Commission is calling for evidence to gather feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA)."
     },
     {
       "id": "live-governance-call-for-proposals-eu-ai-media-platform-",
@@ -752,6 +944,24 @@
       "details": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026 Anonymous (not verified) Thu, 10/29/2026 - 09:12 &nbsp; 03 November 2026 - 05 November 2026 &nbsp; Fira de Barcelona, Hall 3, Stand D71 Explore human-centric AI solutions for smart cities with the LDT CiTiVERSE EDIC at Smart City Expo World Congress 2026. The Local Digital Twin (LDT) CiTiVERSE European Digital Infrastructure Consortium (EDIC) is \u2013 together with city, regional and industrial stakeholders \u2013 showcasing AI solutions for liveable cities and communities in a pavilion at Smart City Expo World Congress 2026. There, visitors can see and experience how digital twins, data and immersive technologies work in practice. Aligned with the Apply AI Strategy, these solutions show how responsible AI can strengthen governance, public services and quality of life. This event is part of the European AI Innovation Month, an initiative promoting a series of events showcasing AI innovation and adoption across Europe. Find more details about the LDT CiTiVERSE EDIC at the Smart City Expo World Congress 2026. The LDT CiTiVERSE EDIC is building an EU ecosystem of advanced AI solutions for cities. It brings cities and communities together to explore AI resources to improve decision-making and address major shared societal challenges.Anchored in a balanced and empowered social fabric, this initiative showcaseshow human-centric AI and Local Digital Twins can be translated into practical, replicable solutions for cities. Find out more about the EU work on AI for liveable cities. Related topics Events Artificial intelligence Europe's Digital Decade European Digital Infrastructure Consortium"
     },
     {
+      "id": "live-multilateral-cop31-explained-what-s-at-stake-at-this-",
+      "title": "COP31 explained: What\u2019s at stake at this year\u2019s UN climate summit?",
+      "category": "multilateral",
+      "date": "2026-11-05",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge f...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168735",
+      "details": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions \u2013 but making sure everyone can afford them."
+    },
+    {
       "id": "live-multilateral-un-peacekeeping-chief-warns-of-security-",
       "title": "UN peacekeeping chief warns of \u2018security vacuum\u2019 as Blue Helmets leave Lebanon and Western Sahara",
       "category": "multilateral",
@@ -764,8 +974,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168741",
       "details": "The UN\u2019s peacekeeping chief warned on Wednesday that the withdrawal of \u201cBlue Helmets\u201d from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them."
@@ -823,25 +1033,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168737",
       "details": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers \u2013 many of whom are dead or missing \u2013 a member of the independent UN commission investigating rights violations in the country said on Wednesday."
-    },
-    {
-      "id": "live-multilateral-15-years-of-almost-no-progress-in-gettin",
-      "title": "15 years of \u2018almost no progress\u2019 in getting young people moving: WHO",
-      "category": "multilateral",
-      "date": "2026-11-05",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the W...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168736",
-      "details": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.&nbsp;"
     }
   ]
 }
