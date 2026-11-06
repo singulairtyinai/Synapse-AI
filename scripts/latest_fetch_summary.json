@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-06T19:01:33.332919",
-  "fetched_count": 55,
+  "timestamp": "2026-11-06T23:59:03.729834",
+  "fetched_count": 60,
   "nodes": [
     {
       "id": "live-overall-the-download-a-humanoid-cleans-house-and",
@@ -125,8 +125,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
         "#Governance",
+        "#Reasoning",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.06972",
@@ -146,8 +146,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.06977",
       "details": "arXiv:2611.06977v1 Announce Type: new Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with fixed-shape decode ({our CoRun-style baseline}) gives up shared prefill compute and pads decode. We present BlockLock, which keeps shared batched prefill and pins only the numerical path of the protected request: it fixes the geometry that the request sees, with {two modes: BlockLock-Rows uses fixed-width rows and retains batched decode of all requests; BlockLock-Pack uses terminal-anchored packing with an isolated dummy segment, then extracts the protected request's KV state for target-only decode. Under a stated per-deployment contract, both modes preserve the target's output bitwise when its companions change.} Across five {dense} models (Qwen3-8B/14B, Llama-3.1-8B-Instruct, and Gemma-3-4B/12B-IT) and three single-GPU deployments (NVIDIA A6000, A100, and H100), we evaluate our approach on both tinyBenchmarks and BFCL{; we also include initial tensor-parallel experiments on two NVIDIA A6000 GPUs. Both modes preserve target sequences and Top20-logit bits in the reported tests.} At equal delivered work, {BlockLock-Rows} reduces latency by 53.5--55.0\\% and improves throughput by 115.2--122.2\\% relative to vLLM Batch-Invariant; compared with batch-invariant kernels, it needs no custom kernel implementations and constrains only the protected requests."
@@ -285,6 +285,96 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-ask-hn-in-the-age-of-agentic-ai-do-you-s",
+      "title": "Ask HN: In the age of agentic AI, do you still pair program?",
+      "category": "agentic_ai",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "What about mob/ensemble programming? I work on a team that used to use mob programming heavily. There would be a driver and a navigator, and then someone taking notes. Other people...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://news.ycombinator.com/item?id=50385171",
+      "details": "What about mob/ensemble programming? I work on a team that used to use mob programming heavily. There would be a driver and a navigator, and then someone taking notes. Other people would be \"muses\" or observers. Always occurring over Zoom. I always felt like this was a very draining way of programming. Pair programming felt a bit better. Of course, we still get together to discuss architecture or how we want to go about a certain set of work or if we're blocked, but with agents, it just doesn't make sense to get everybody in a call to watch someone else's agent work.So, in the age of agentic AI, how do these two concepts evolve (or disappear)? Comments URL: https://news.ycombinator.com/item?id=50385171 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-gpt-synopsys-combines-ic-design-eda-with",
+      "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50361631 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
+      "details": "Article URL: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50361631 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-s-real-risk-losing-the-plot",
+      "title": "Agentic AI's real risk: losing the plot",
+      "category": "agentic_ai",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/ Comments URL: https://news.ycombinator.com/item?id=50350478 Points:...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/",
+      "details": "Article URL: https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/ Comments URL: https://news.ycombinator.com/item?id=50350478 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
+      "title": "Agentic AI Is Myth Set in Motion",
+      "category": "agentic_ai",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50332768 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+      "details": "Article URL: https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50332768 Points: 2 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
+      "title": "Agentic AI is myth set in motion",
+      "category": "agentic_ai",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
+      "details": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0"
+    },
+    {
       "id": "live-models-partnering-with-hacktron-to-find-vulnera",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
       "category": "models",
@@ -304,6 +394,25 @@
       "details": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
     },
     {
+      "id": "live-models-measuring-how-ai-agents-handle-everyday-",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "category": "models",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "details": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
       "id": "live-models-australian-universities-are-creating-ai-",
       "title": "Australian universities are creating AI-native graduates",
       "category": "models",
@@ -316,8 +425,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
       "details": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
@@ -335,8 +444,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/cultfit-builds-with-codex",
       "details": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
@@ -355,29 +464,11 @@
       },
       "tags": [
         "#AISecurity",
-        "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
       "details": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
-    },
-    {
-      "id": "live-models-merge-builds-product-and-business-tools-",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "category": "models",
-      "date": "2026-11-06",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/merge-builds-with-openai",
-      "details": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
     },
     {
       "id": "live-companies-how-nvidia-open-source-tools-are-helping",
@@ -392,8 +483,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
       "details": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other\u2019s work \u2014 connecting simulation and AI training with experiments on real over-the-air wireless [\u2026]"
@@ -411,10 +502,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
         "#Governance",
         "#AgenticAI",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Reasoning"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "details": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those [\u2026]"
@@ -471,31 +562,31 @@
       },
       "tags": [
         "#EUAIAct",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
       "details": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment\u2019s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions [\u2026]"
     },
     {
-      "id": "live-security-post-quantum-questions-to-ask-your-vendo",
-      "title": "Post-Quantum Questions to Ask Your Vendors",
+      "id": "live-security-cisa-adds-one-known-exploited-vulnerabil",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "category": "security",
       "date": "2026-11-06",
-      "impact": "MODERATE",
+      "impact": "HIGH",
       "company": "CISA Cybersecurity",
-      "tldr": "CISA, the Australian Signals Directorate\u2019s Australian Cyber Security Centre (ASD\u2019s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-re...",
+      "tldr": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Us...",
       "specs": {
         "source": "CISA Cybersecurity",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
-        "#UnitedNations"
+        "#Governance",
+        "#Fellowship"
       ],
-      "sourceUrl": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-      "details": "CISA, the Australian Signals Directorate\u2019s Australian Cyber Security Centre (ASD\u2019s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizations must plan for and transition to PQC\u2014which includes algorithms capable of withstanding both classical computing and quantum-enabled threats\u2014before CRQCs become available.&nbsp; Many organizations rely on third-party vendors for managed services, cloud capabilities, and other cryptography-dependent products and services. Cryptography is also embedded in systems and devices that are difficult to update, tied to long asset lifecycles, and require vendor support or replacement\u2014such as industrial control systems and Internet of Things (IoT) devices. Reliance on vendors means that effective PQC transition depends on vendor readiness, and early, structured engagement with these vendors is critical to planning efforts.&nbsp; Organizations can use the vendor-neutral questions outlined in this guidance to determine whether a vendor understands quantum-related risks, maintains transparency over its cryptographic implementations, and supports a secure, cost-effective and timely transition to PQC.&nbsp; Visit CISA\u2019s PQC Initiative page for additional resources."
+      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
     },
     {
       "id": "live-security-us-government-partners-urge-hardening-in",
@@ -518,6 +609,26 @@
       "details": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)\u2014hereafter referred to as \u201cthe authoring organizations\u201d\u2014are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health, Chemical, Food and Agriculture, and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, and energy optimization. The authoring organizations urge owners and operators to defend against this activity by using strong authentication, keeping systems updated, identifying any systems that are accessible from the internet, removing unnecessary remote access, and securing any necessary remote access. Threat The authoring organizations are aware of malicious cyber actors targeting electronic temperature controllers and commercial refrigeration controllers in retail grocery and cold storage facilities. The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards. Specifically, the actors may exploit these flaws through multiple vectors: Authentication bypass; Arbitrary code injection; and Weak configurations. Upon successful exploitation of the flaws, the actors could achieve the following effects: Change of temperature, which could: Affect the service life of the system; Create a fire hazard; Cause loss of inventory; or Indirectly harm consumers if products are consumed after unsafe storage. Loss of visibility into current temperatures (a denial-of-view condition). Mitigations The authoring organizations urge owners and operators to immediately take the following actions. These mitigations align with the Cross-Sector Cybersecurity Performance Goals (CPGs), developed by CISA and the National Institute of Standards and Technology (NIST). The CPGs provide a minimum set of practices and protections that CISA and NIST recommend all organizations implement: Eliminate public internet exposure: Do not expose control system devices and/or systems, particularly controller panels, to the internet [CPG 3.S]. Should remote access be necessary, protect it by using a firewall or edge device and updating it to the latest version to reduce security vulnerabilities. See CISA\u2019s Internet Exposure Reduction Guidance and Defend the Edge: The Critical Importance of Edge Device Security for additional guidance on securing edge devices. Isolate operational technology (OT) devices: Create a dedicated OT virtual local area network (VLAN) to separate OT devices from business networks [CPG 3.I]. Enforce credential security: Change default passwords [CPG 3.A], strengthen passwords, and implement strong password policies [CPG 3.B]. Further, implement phishing-resistant multifactor authentication wherever feasible [CPG 3.F]. Apply patches: Keep device firmware up to date and establish a structured lifecycle management process to identify, retire, and replace legacy devices that are at end of life (EOL) and no longer supported by the manufacturer [CPG 2.A, 2.B]. See CISA\u2019s BOD 26-04: Implementation Guidance for Prioritizing Security Updates Based on Risk and BOD 26-02: Mitigating Risk From End-of-Support Edge Devices for additional guidance. Restrict access: Define and maintain device and IP address allowlisting, limiting access to only those devices and IP addresses authorized to make changes [CPG 3.H]. Have reliable backups: Maintain current backups offsite and offline and test them [CPG 3.O]. Monitor and report: Enable logging [CPG 3.Q] and regularly review logs for unexpected activity. For OT assets where logs are non-standard or not available, collect network traffic and communications between the assets. Review setpoint ranges: Define and maintain reasonable setpoint limits for devices operating downstream of controllers to stay within safe ranges and establish alerting for deviations. Resources The authoring organizations strongly urge industrial refrigeration and cold chain monitoring system owners and operators to secure remote access to their OT systems. To strengthen system security, owners and operators should review the following resources and implement recommended mitigations: CISA: Primary Mitigations to Reduce Cyber Threats to Operational Technology CISA: Defend the Edge: The Critical Importance of Edge Device Security CISA: Internet Exposure Reduction Guidance United Kingdom\u2019s National Cyber Security Centre and Partners:&nbsp;Secure Connectivity Principles for OT Contact Information The authoring organizations recommend U.S. organizations report suspicious or criminal activity related to information provided in this fact sheet: Contact CISA via CISA\u2019s 24/7 Operations Center at contact@cisa.dhs.gov or 1-844-Say-CISA (1-844-729-2472). For more information on reporting a cyber incident, refer to CISA\u2019s Voluntary Cyber Incident Reporting web page. File a claim with FBI\u2019s Internet Crime Complaint Center (IC3) or contact your local FBI field office. When available, please include the following information regarding the incident: Date, time, and location of the incident; Type of activity; Number of people affected; Type of equipment used for the activity; and Name of the submitting company or organization, and a designated point of contact. Contact HHS via&nbsp;HHSCyber@hhs.gov or the HHS 24/7 Operations Center at 202-619-7800 for assistance mitigating potential disruptions to the delivery of healthcare resulting from health and medical supply chain impacts. Disclaimer The information in this report is being provided \u201cas is\u201d for informational purposes only. The authoring organizations do not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this document. Any reference to specific commercial entities, products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply endorsement, recommendation, or favor by the authoring organizations. &nbsp;"
     },
     {
+      "id": "live-security-post-quantum-questions-to-ask-your-vendo",
+      "title": "Post-Quantum Questions to Ask Your Vendors",
+      "category": "security",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "CISA Cybersecurity",
+      "tldr": "CISA, the Australian Signals Directorate\u2019s Australian Cyber Security Centre (ASD\u2019s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-re...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+      "details": "CISA, the Australian Signals Directorate\u2019s Australian Cyber Security Centre (ASD\u2019s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizations must plan for and transition to PQC\u2014which includes algorithms capable of withstanding both classical computing and quantum-enabled threats\u2014before CRQCs become available.&nbsp; Many organizations rely on third-party vendors for managed services, cloud capabilities, and other cryptography-dependent products and services. Cryptography is also embedded in systems and devices that are difficult to update, tied to long asset lifecycles, and require vendor support or replacement\u2014such as industrial control systems and Internet of Things (IoT) devices. Reliance on vendors means that effective PQC transition depends on vendor readiness, and early, structured engagement with these vendors is critical to planning efforts.&nbsp; Organizations can use the vendor-neutral questions outlined in this guidance to determine whether a vendor understands quantum-related risks, maintains transparency over its cryptographic implementations, and supports a secure, cost-effective and timely transition to PQC.&nbsp; Visit CISA\u2019s PQC Initiative page for additional resources."
+    },
+    {
       "id": "live-security-cisa-adds-one-known-exploited-vulnerabil",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "category": "security",
@@ -530,9 +641,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Fellowship",
         "#AISecurity",
-        "#Governance"
+        "#Governance",
+        "#Fellowship"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
       "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -550,34 +661,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Fellowship",
         "#AISecurity",
-        "#Governance"
+        "#Governance",
+        "#Fellowship"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
       "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
-    },
-    {
-      "id": "live-security-subnet-solutions-powersystem-center",
-      "title": "Subnet Solutions PowerSYSTEM Center",
-      "category": "security",
-      "date": "2026-11-06",
-      "impact": "MODERATE",
-      "company": "CISA Cybersecurity",
-      "tldr": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The follo...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#EUAIAct",
-        "#DefenseAI",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
-      "details": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.29.x (CVE-2026-63017) PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x (CVE-2026-63017, CVE-2026-63774) PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x (CVE-2026-63017, CVE-2026-63774) CVSS Vendor Equipment v3 9 Subnet Solutions PowerSYSTEM Center 2 Vulnerabilities Incorrect Authorization, Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') Background Critical Infrastructure Sectors: Critical Manufacturing, Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Canada Vulnerabilities Expand All + CVE-2026-63017 Incorrect authorization in PowerSYSTEM Center allows a low-privileged, authenticated user to access resources normally limited to administrators. Read More 3 Affected Products Subnet Solutions PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x Product Status: known_affected Remediations MitigationFor users who are currently using PowerSYSTEM Center 2024, Subnet Solutions recommends users upgrade to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users monitor user activity records to ensure users are following acceptable usage policies of the application. Subnet Solutions also recommends disabling PowerSYSTEM Center Client Access Server users' ability to access the browser's F12 Developer Tools. Subnet Solutions PowerSYSTEM Center 2020 &lt;=5.29.x Product Status: known_affected Remediations MitigationSubnet Solutions recommends users update to PowerSYSTEM Center 2020 Update 30. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users monitor user activity records to ensure users are following acceptable usage policies of the application. Subnet Solutions also recommends disabling PowerSYSTEM Center Client Access Server users' ability to access the browser's F12 Developer Tools. Subnet Solutions PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x Product Status: known_affected Remediations MitigationSubnet Solutions recommends users update to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users monitor user activity records to ensure users are following acceptable usage policies of the application. Subnet Solutions also recommends disabling PowerSYSTEM Center Client Access Server users' ability to access the browser's F12 Developer Tools. Additional Metrics Relevant CWE: CWE-863 Incorrect Authorization CVSS Version Base Score Base Severity Vector String 3.1 9 CRITICAL CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H 4.0 9.4 CRITICAL CVSS:4.0/AV:A/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H View CVE Details CVE-2026-63774 Insufficient input validation in the PowerSYSTEM Center report designer allows an authenticated user to execute unauthorized SQL commands. Read More 5 Affected Products Subnet Solutions PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x Product Status: known_affected Remediations MitigationFor users who are currently using PowerSYSTEM Center 2024, Subnet Solutions recommends users upgrade to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer. Subnet Solutions PowerSYSTEM Center 2020 &lt;=5.29.x Product Status: known_affected Remediations Subnet Solutions PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x Product Status: known_affected Remediations MitigationSubnet Solutions recommends users update to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer. Subnet Solutions PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x Product Status: known_affected Remediations MitigationFor users who are currently using PowerSYSTEM Center 2024, Subnet Solutions recommends users upgrade to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer. Subnet Solutions PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x Product Status: known_affected Remediations MitigationSubnet Solutions recommends users update to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer. Additional Metrics Relevant CWE: CWE-89 Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') CVSS Version Base Score Base Severity Vector String 3.1 9 CRITICAL CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H 4.0 9.4 CRITICAL CVSS:4.0/AV:A/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H View CVE Details Acknowledgments Chinmay Patel of Digital Boundary Group reported these vulnerabilities to CISA. Subnet Solutions reported these vulnerabilities to CISA. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time. These vulnerabilities are not exploitable remotely. Revision History Initial Release Date: 2026-11-03 Date Revision Summary 2026-11-03 1 Initial Publication Legal Notice and Terms of Use"
     },
     {
       "id": "live-fellowships-podcast-the-laser-that-could-break-the-l",
@@ -670,6 +759,62 @@
       "details": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg discusses DNA initiators, using models for analysis, and her experience\u2026"
     },
     {
+      "id": "live-military-blue-wave-presages-a-defense-spending-sh",
+      "title": "Blue wave presages a defense-spending showdown",
+      "category": "military",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/11/blue-wave-presages-defense-spending-showdown/417111/",
+      "details": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap."
+    },
+    {
+      "id": "live-military-state-department-s-push-to-cancel-hundre",
+      "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog fi",
+      "category": "military",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Several government oversight reports have found costly operational errors as agencies implemented administration directives.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417113/",
+      "details": "Several government oversight reports have found costly operational errors as agencies implemented administration directives."
+    },
+    {
+      "id": "live-military-permanent-serious-dialogue-needed-with-c",
+      "title": "'Permanent, serious' dialogue needed with China on AI: tech-focused lawmaker",
+      "category": "military",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "\u201cThe Chinese Communist Party doesn\u2019t want rogue AI agents hacking their systems and their water authorities any more than we do,\u201d Rep. James Walkinshaw, D-Va., said Thursday.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/11/ai-dialogue-china-congress/417105/",
+      "details": "\u201cThe Chinese Communist Party doesn\u2019t want rogue AI agents hacking their systems and their water authorities any more than we do,\u201d Rep. James Walkinshaw, D-Va., said Thursday."
+    },
+    {
       "id": "live-military-defense-business-brief-the-dib-vs-2027-s",
       "title": "Defense Business Brief: The DIB vs. 2027\u2019s Democrat-led Congress",
       "category": "military",
@@ -706,61 +851,6 @@
       "details": "\u201cIt\u2019s really a big problem. It\u2019s a problem for credibility. It\u2019s a problem for our allies in the Far East,\u201d one expert said."
     },
     {
-      "id": "live-military-hackers-are-targeting-refrigerators-worl",
-      "title": "Hackers are targeting refrigerators worldwide, US agencies warn",
-      "category": "military",
-      "date": "2026-11-06",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "The warning follows Nextgov/FCW reporting that officials suspect Iran-linked hackers were behind freezer failures at military commissaries.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/11/warn-refrigerator-hacks-attacks-military/417076/",
-      "details": "The warning follows Nextgov/FCW reporting that officials suspect Iran-linked hackers were behind freezer failures at military commissaries."
-    },
-    {
-      "id": "live-military-it-s-easier-to-buy-new-amphibious-ships-",
-      "title": "It\u2019s easier to buy new amphibious ships than fix old ones faster, say Navy, Marines",
-      "category": "military",
-      "date": "2026-11-06",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "With the average amphib sidelined more than half the time, the services have drawn up a plan to add 9 more instead.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/11/navy-marines-amphibious-ships-fix/417070/",
-      "details": "With the average amphib sidelined more than half the time, the services have drawn up a plan to add 9 more instead."
-    },
-    {
-      "id": "live-military-dem-lawmakers-vow-inquest-into-cisa-cuts",
-      "title": "Dem lawmakers vow inquest into CISA cuts, intel policy",
-      "category": "military",
-      "date": "2026-11-06",
-      "impact": "HIGH",
-      "company": "Defense One AI",
-      "tldr": "House Democrats will investigate the administration's cyberdefense cuts, while Senate Dems will control confirmation hearings for the officials who lead the nation\u2019s security agenc...",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/11/democrats-midterm-sweep-puts-cisa-cuts-intelligence-disputes-under-scrutiny/417058/",
-      "details": "House Democrats will investigate the administration's cyberdefense cuts, while Senate Dems will control confirmation hearings for the officials who lead the nation\u2019s security agencies."
-    },
-    {
       "id": "live-governance-self-employed-solopreneur-nist-has-a-cyb",
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "category": "governance",
@@ -773,9 +863,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance"
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
       "details": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses."
@@ -866,8 +956,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
@@ -886,9 +976,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
         "#Governance",
+        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
@@ -907,8 +997,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
@@ -927,8 +1017,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-ai-media-platform-modular-multilingual-public-interest-infrastructure-european",
@@ -952,6 +1042,43 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
       "details": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main link https://digital-strategy.ec.europa.eu/en/news/digitaleu-web-summit-2026-support\u2026 Related topics Cloud computing Start-ups High-performance computing Data policy Quantum computing Artificial intelligence EU funding for digital"
+    },
+    {
+      "id": "live-multilateral-afghanistan-faces-deepening-humanitarian",
+      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+      "category": "multilateral",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Afghanistan stands at a \u201cdifficult crossroad\u201d more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are bei...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+      "details": "Afghanistan stands at a \u201cdifficult crossroad\u201d more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need."
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-civilians-killed-in-",
+      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls ou",
+      "category": "multilateral",
+      "date": "2026-11-06",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources&nbsp;cited by the UN aid c...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+      "details": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources&nbsp;cited by the UN aid coordination office (OCHA)."
     },
     {
       "id": "live-multilateral-from-a-ship-frozen-into-arctic-ice-a-war",
@@ -1006,43 +1133,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168752",
       "details": "The climate emergency is an immediate crisis for refugees, with three in four \u2013 nearly 90 million people \u2013 living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-korea-tensions-mount",
-      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in",
-      "category": "multilateral",
-      "date": "2026-11-06",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "UN Secretary-General Ant\u00f3nio Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DM...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168750",
-      "details": "UN Secretary-General Ant\u00f3nio Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DMZ), his Spokesperson said on Thursday."
-    },
-    {
-      "id": "live-multilateral-abyei-deadly-drone-strikes-mark-new-and-",
-      "title": "Abyei: Deadly drone strikes mark \u2018new and concerning\u2019 threat, UN peacekeeping chief warns",
-      "category": "multilateral",
-      "date": "2026-11-06",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Drone strikes that killed at least 30 people in Abyei last month have added \u201ca new and concerning dimension\u201d to security in the disputed area, the UN\u2019s peacekeeping chief told the ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168749",
-      "details": "Drone strikes that killed at least 30 people in Abyei last month have added \u201ca new and concerning dimension\u201d to security in the disputed area, the UN\u2019s peacekeeping chief told the Security Council on Thursday."
     }
   ]
 }
