@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T19:58:15.584240",
+  "timestamp": "2026-11-07T23:35:12.667748",
   "fetched_count": 55,
   "nodes": [
     {
@@ -199,7 +199,7 @@
         "#AgenticAI"
       ],
       "sourceUrl": "https://news.ycombinator.com/item?id=50385171",
-      "details": "What about mob/ensemble programming? I work on a team that used to use mob programming heavily. There would be a driver and a navigator, and then someone taking notes. Other people would be \"muses\" or observers. Always occurring over Zoom. I always felt like this was a very draining way of programming. Pair programming felt a bit better. Of course, we still get together to discuss architecture or how we want to go about a certain set of work or if we're blocked, but with agents, it just doesn't make sense to get everybody in a call to watch someone else's agent work.So, in the age of agentic AI, how do these two concepts evolve (or disappear)? Comments URL: https://news.ycombinator.com/item?id=50385171 Points: 2 # Comments: 0"
+      "details": "What about mob/ensemble programming? I work on a team that used to use mob programming heavily. There would be a driver and a navigator, and then someone taking notes. Other people would be \"muses\" or observers. Always occurring over Zoom. I always felt like this was a very draining way of programming. Pair programming felt a bit better. Of course, we still get together to discuss architecture or how we want to go about a certain set of work or if we're blocked, but with agents, it just doesn't make sense to get everybody in a call to watch someone else's agent work.So, in the age of agentic AI, how do these two concepts evolve (or disappear)? Comments URL: https://news.ycombinator.com/item?id=50385171 Points: 3 # Comments: 1"
     },
     {
       "id": "live-agentic_ai-gpt-synopsys-combines-ic-design-eda-with",
@@ -286,8 +286,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://openai.com/index/partnering-with-hacktron",
       "details": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
@@ -363,8 +363,8 @@
       },
       "tags": [
         "#AgenticAI",
-        "#AISecurity",
-        "#OpenAI"
+        "#OpenAI",
+        "#AISecurity"
       ],
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
       "details": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
@@ -401,10 +401,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Reasoning",
-        "#NVIDIA",
+        "#Governance",
         "#AgenticAI",
-        "#Governance"
+        "#NVIDIA",
+        "#Reasoning"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "details": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those [\u2026]"
@@ -441,8 +441,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
       "details": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise \u2014 a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. [\u2026]"
