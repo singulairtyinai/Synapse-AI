@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-08T14:51:03.449615",
-  "fetched_count": 45,
+  "timestamp": "2026-11-08T20:15:23.809912",
+  "fetched_count": 50,
   "nodes": [
     {
       "id": "live-overall-the-download-a-humanoid-cleans-house-and",
@@ -141,8 +141,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#Governance"
+        "#Governance",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "details": "Live news development fetched from official RSS feed."
@@ -196,8 +196,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/partnering-with-hacktron",
       "details": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
@@ -215,8 +215,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "details": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
@@ -234,8 +234,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
       "details": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
@@ -253,8 +253,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/cultfit-builds-with-codex",
       "details": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
@@ -273,11 +273,30 @@
       },
       "tags": [
         "#AISecurity",
-        "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
       "details": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+    },
+    {
+      "id": "live-companies-statement-from-nvidia-board-of-directors",
+      "title": "Statement from NVIDIA Board of Directors",
+      "category": "companies",
+      "date": "2026-11-08",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A c...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "details": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of ..."
     },
     {
       "id": "live-companies-how-nvidia-open-source-tools-are-helping",
@@ -313,8 +332,8 @@
       "tags": [
         "#Reasoning",
         "#AgenticAI",
-        "#NVIDIA",
-        "#Governance"
+        "#Governance",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "details": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those [\u2026]"
@@ -332,8 +351,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#Governance"
+        "#Governance",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
       "details": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. \u201cWe should be shouting about this technology from the rooftops,\u201d said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. [\u2026]"
@@ -356,26 +375,6 @@
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
       "details": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise \u2014 a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. [\u2026]"
-    },
-    {
-      "id": "live-companies-hogwarts-legacy-gets-a-magical-nvidia-dl",
-      "title": "\u2018Hogwarts Legacy\u2019 Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "category": "companies",
-      "date": "2026-11-08",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard En...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-      "details": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment\u2019s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions [\u2026]"
     },
     {
       "id": "live-security-cisa-adds-one-known-exploited-vulnerabil",
@@ -410,8 +409,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#UnitedNations",
+        "#AISecurity",
         "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
@@ -430,9 +429,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
+        "#UnitedNations",
         "#AISecurity",
-        "#UnitedNations"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "details": "CISA, the Australian Signals Directorate\u2019s Australian Cyber Security Centre (ASD\u2019s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizations must plan for and transition to PQC\u2014which includes algorithms capable of withstanding both classical computing and quantum-enabled threats\u2014before CRQCs become available.&nbsp; Many organizations rely on third-party vendors for managed services, cloud capabilities, and other cryptography-dependent products and services. Cryptography is also embedded in systems and devices that are difficult to update, tied to long asset lifecycles, and require vendor support or replacement\u2014such as industrial control systems and Internet of Things (IoT) devices. Reliance on vendors means that effective PQC transition depends on vendor readiness, and early, structured engagement with these vendors is critical to planning efforts.&nbsp; Organizations can use the vendor-neutral questions outlined in this guidance to determine whether a vendor understands quantum-related risks, maintains transparency over its cryptographic implementations, and supports a secure, cost-effective and timely transition to PQC.&nbsp; Visit CISA\u2019s PQC Initiative page for additional resources."
@@ -580,9 +579,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#DefenseAI",
         "#UnitedNations",
-        "#DefenseAI"
+        "#Governance"
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/11/tough-choices-uncertainty-and-scrutiny-may-lay-ahead-defense-contractors/417116/",
       "details": "With a new Congress in 2027, companies could see more anti-corruption probes."
@@ -674,8 +673,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
+        "#EUAIAct",
         "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
@@ -712,8 +711,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -767,8 +766,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
+        "#EUAIAct",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
@@ -787,9 +786,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#AISecurity",
         "#UnitedNations",
+        "#AISecurity",
+        "#EUAIAct",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
@@ -808,8 +807,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
+        "#EUAIAct",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
@@ -828,8 +827,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#UnitedNations",
+        "#EUAIAct",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-ai-media-platform-modular-multilingual-public-interest-infrastructure-european",
@@ -848,11 +847,103 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
       "details": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main link https://digital-strategy.ec.europa.eu/en/news/digitaleu-web-summit-2026-support\u2026 Related topics Cloud computing Start-ups High-performance computing Data policy Quantum computing Artificial intelligence EU funding for digital"
+    },
+    {
+      "id": "live-multilateral-for-the-first-time-i-have-my-own-chair-g",
+      "title": "\u2018For the first time I have my own chair\u2019: Gaza siblings find new freedom",
+      "category": "multilateral",
+      "date": "2026-11-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities lik...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168759",
+      "details": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities like eating and writing independently.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-afghanistan-faces-deepening-humanitarian",
+      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+      "category": "multilateral",
+      "date": "2026-11-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Afghanistan stands at a \u201cdifficult crossroad\u201d more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are bei...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+      "details": "Afghanistan stands at a \u201cdifficult crossroad\u201d more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need."
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-civilians-killed-in-",
+      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls ou",
+      "category": "multilateral",
+      "date": "2026-11-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources&nbsp;cited by the UN aid c...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+      "details": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources&nbsp;cited by the UN aid coordination office (OCHA)."
+    },
+    {
+      "id": "live-multilateral-from-a-ship-frozen-into-arctic-ice-a-war",
+      "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+      "category": "multilateral",
+      "date": "2026-11-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief re...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+      "details": "Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole."
+    },
+    {
+      "id": "live-multilateral-sudan-s-suffering-is-plain-for-all-to-se",
+      "title": "Sudan\u2019s suffering is plain for all to see say aid teams, as brutal war continues",
+      "category": "multilateral",
+      "date": "2026-11-08",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty wareh...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+      "details": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty warehouses and overwhelming needs.&nbsp;"
     }
   ]
 }
