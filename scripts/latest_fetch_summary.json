@@ -1,7 +1,81 @@
 {
-  "timestamp": "2026-11-09T05:09:31.058018",
+  "timestamp": "2026-11-09T18:27:15.228469",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-nancy-pelosi-s-replacement-is-ready-to-r",
+      "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+      "category": "overall",
+      "date": "2026-11-09",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "details": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;"
+    },
+    {
+      "id": "live-overall-the-download-empty-ai-climate-claims-and",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "category": "overall",
+      "date": "2026-11-09",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made \u2014By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,&#8230;"
+    },
+    {
+      "id": "live-overall-innovating-with-ai-in-the-special-chemic",
+      "title": "Innovating with AI in the special chemicals industry",
+      "category": "overall",
+      "date": "2026-11-09",
+      "impact": "HIGH",
+      "company": "MIT Tech Review AI",
+      "tldr": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable da...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "details": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;"
+    },
+    {
+      "id": "live-overall-the-climate-case-for-ai-has-not-been-mad",
+      "title": "The climate case for AI has not been made",
+      "category": "overall",
+      "date": "2026-11-09",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has al...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "details": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world&#8230;"
+    },
     {
       "id": "live-overall-the-download-a-humanoid-cleans-house-and",
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
@@ -21,76 +95,40 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. \u2014Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;"
     },
     {
-      "id": "live-overall-i-watched-a-humanoid-robot-clean-my-apar",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "category": "overall",
+      "id": "live-agentic_ai-nemotron-personas-finance-japan-a-synthe",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Co",
+      "category": "agentic_ai",
       "date": "2026-11-09",
       "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "I\u2019m not the sort of person who typically pays for a house cleaner. I\u2019m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But whe...",
+      "company": "Hugging Face Blog",
+      "tldr": "",
       "specs": {
-        "source": "MIT Tech Review AI",
+        "source": "Hugging Face Blog",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#AITrend"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "details": "I\u2019m not the sort of person who typically pays for a house cleaner. I\u2019m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;"
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-overall-the-download-texas-s-fragile-ai-boom-and",
-      "title": "The Download: Texas\u2019s fragile AI boom and energy policy shifts",
-      "category": "overall",
-      "date": "2026-11-09",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;"
-    },
-    {
-      "id": "live-overall-a-new-bill-could-change-how-the-us-build",
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "category": "overall",
+      "id": "live-agentic_ai-your-experts-have-partners-there-s-hope-",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "category": "agentic_ai",
       "date": "2026-11-09",
       "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterm...",
+      "company": "Hugging Face Blog",
+      "tldr": "",
       "specs": {
-        "source": "MIT Tech Review AI",
+        "source": "Hugging Face Blog",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance"
+        "#AITrend"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "details": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It\u2019s a plan that could finally&#8230;"
-    },
-    {
-      "id": "live-overall-texas-was-the-new-epicenter-of-the-ai-da",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "category": "overall",
-      "date": "2026-11-09",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "details": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;"
+      "sourceUrl": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-toyblocks-a-controlled-world-for-robot-l",
@@ -129,25 +167,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-new-nvidia-cosmos-3-open-models-for-inte",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "category": "agentic_ai",
-      "date": "2026-11-09",
-      "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-agentic_ai-a-closer-look-at-phonon-tts-launching-hi",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "category": "agentic_ai",
@@ -164,114 +183,6 @@
       ],
       "sourceUrl": "https://huggingface.co/blog/phonon-tts",
       "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-agentic_ai-dharma-field-extractor-any-document-in-s",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "category": "agentic_ai",
-      "date": "2026-11-09",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-agentic_ai-ask-hn-in-the-age-of-agentic-ai-do-you-s",
-      "title": "Ask HN: In the age of agentic AI, do you still pair program?",
-      "category": "agentic_ai",
-      "date": "2026-11-09",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "What about mob/ensemble programming? I work on a team that used to use mob programming heavily. There would be a driver and a navigator, and then someone taking notes. Other people...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://news.ycombinator.com/item?id=50385171",
-      "details": "What about mob/ensemble programming? I work on a team that used to use mob programming heavily. There would be a driver and a navigator, and then someone taking notes. Other people would be \"muses\" or observers. Always occurring over Zoom. I always felt like this was a very draining way of programming. Pair programming felt a bit better. Of course, we still get together to discuss architecture or how we want to go about a certain set of work or if we're blocked, but with agents, it just doesn't make sense to get everybody in a call to watch someone else's agent work.So, in the age of agentic AI, how do these two concepts evolve (or disappear)? Comments URL: https://news.ycombinator.com/item?id=50385171 Points: 3 # Comments: 1"
-    },
-    {
-      "id": "live-agentic_ai-gpt-synopsys-combines-ic-design-eda-with",
-      "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-11-09",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50361631 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
-      "details": "Article URL: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50361631 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-s-real-risk-losing-the-plot",
-      "title": "Agentic AI's real risk: losing the plot",
-      "category": "agentic_ai",
-      "date": "2026-11-09",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/ Comments URL: https://news.ycombinator.com/item?id=50350478 Points:...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/",
-      "details": "Article URL: https://alokda.wordpress.com/2026/11/01/scared-of-falling-behind-on-ai-thats-not-where-the-risk-is/ Comments URL: https://news.ycombinator.com/item?id=50350478 Points: 4 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
-      "title": "Agentic AI Is Myth Set in Motion",
-      "category": "agentic_ai",
-      "date": "2026-11-09",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50332768 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
-      "details": "Article URL: https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai Comments URL: https://news.ycombinator.com/item?id=50332768 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-is-myth-set-in-motion",
-      "title": "Agentic AI is myth set in motion",
-      "category": "agentic_ai",
-      "date": "2026-11-09",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
-      "details": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion Comments URL: https://news.ycombinator.com/item?id=50325547 Points: 2 # Comments: 0"
     },
     {
       "id": "live-models-partnering-with-hacktron-to-find-vulnera",
@@ -305,8 +216,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AgenticAI"
+        "#AgenticAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "details": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
@@ -324,8 +235,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
       "details": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
@@ -343,8 +254,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/cultfit-builds-with-codex",
       "details": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
@@ -362,12 +273,51 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
         "#AgenticAI",
-        "#AISecurity"
+        "#AISecurity",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
       "details": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+    },
+    {
+      "id": "live-companies-practice-makes-precise-at-corl-nvidia-an",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Sim",
+      "category": "companies",
+      "date": "2026-11-09",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gea...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA",
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "details": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week\u2019s Conference on Robot Learning (CoRL) in [\u2026]"
+    },
+    {
+      "id": "live-companies-nvidia-announces-new-planned-investments",
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnershi",
+      "category": "companies",
+      "date": "2026-11-09",
+      "impact": "HIGH",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Korea\u2019s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#NVIDIA",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "details": "Korea\u2019s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with [\u2026]"
     },
     {
       "id": "live-companies-korea-advances-physical-ai-across-indust",
@@ -382,9 +332,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#NVIDIA",
         "#UnitedNations",
-        "#NVIDIA"
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
       "details": "Tapping into the country\u2019s strengths in manufacturing and engineering, NVIDIA is helping advance Korea\u2019s physical AI ecosystem. The country\u2019s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With [\u2026]"
@@ -402,10 +352,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
         "#NVIDIA",
-        "#AISecurity"
+        "#UnitedNations",
+        "#AISecurity",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
       "details": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key [\u2026]"
@@ -423,50 +373,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations",
         "#NVIDIA",
-        "#AISecurity"
+        "#UnitedNations",
+        "#AISecurity",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
       "details": "NVIDIA and Korea\u2019s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country\u2019s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-rebellions-and-sk-telecom-announc",
-      "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With",
-      "category": "companies",
-      "date": "2026-11-09",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Korean-Designed AI Processors and Models to Build on NVIDIA NVLink Fusion and MGX Infrastructure for Rack-Scale InferenceNews Summary: Rebellions plans to adopt NVIDIA NVLink Fusio...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
-      "details": "Korean-Designed AI Processors and Models to Build on NVIDIA NVLink Fusion and MGX Infrastructure for Rack-Scale InferenceNews Summary: Rebellions plans to adopt NVIDIA NVLink Fusion to connect ..."
-    },
-    {
-      "id": "live-companies-nvidia-dynamo-recipes-bring-korea-s-lead",
-      "title": "NVIDIA Dynamo Recipes Bring Korea\u2019s Leading Open Models to Production",
-      "category": "companies",
-      "date": "2026-11-09",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea\u2019s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Mot...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-      "details": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea\u2019s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing [\u2026]"
     },
     {
       "id": "live-security-cisa-adds-one-known-exploited-vulnerabil",
@@ -482,8 +395,8 @@
       },
       "tags": [
         "#Governance",
-        "#Fellowship",
-        "#AISecurity"
+        "#AISecurity",
+        "#Fellowship"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -542,8 +455,8 @@
       },
       "tags": [
         "#Governance",
-        "#Fellowship",
-        "#AISecurity"
+        "#AISecurity",
+        "#Fellowship"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
       "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -562,8 +475,8 @@
       },
       "tags": [
         "#Governance",
-        "#Fellowship",
-        "#AISecurity"
+        "#AISecurity",
+        "#Fellowship"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
       "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -660,7 +573,7 @@
     },
     {
       "id": "live-military-tough-choices-uncertainty-and-scrutiny-m",
-      "title": "Tough choices, uncertainty, and scrutiny may lay ahead for defense contractors",
+      "title": "Tough choices, uncertainty, and scrutiny may lie ahead for defense contractors",
       "category": "military",
       "date": "2026-11-09",
       "impact": "MODERATE",
@@ -672,8 +585,8 @@
       },
       "tags": [
         "#DefenseAI",
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/11/tough-choices-uncertainty-and-scrutiny-may-lay-ahead-defense-contractors/417116/",
       "details": "With a new Congress in 2027, companies could see more anti-corruption probes."
@@ -728,8 +641,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://www.defenseone.com/policy/2026/11/ai-dialogue-china-congress/417105/",
       "details": "\u201cThe Chinese Communist Party doesn\u2019t want rogue AI agents hacking their systems and their water authorities any more than we do,\u201d Rep. James Walkinshaw, D-Va., said Thursday."
@@ -944,6 +857,98 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
       "details": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main link https://digital-strategy.ec.europa.eu/en/news/digitaleu-web-summit-2026-support\u2026 Related topics Cloud computing Start-ups High-performance computing Data policy Quantum computing Artificial intelligence EU funding for digital"
+    },
+    {
+      "id": "live-multilateral-families-who-fled-ethiopia-for-kenya-s-m",
+      "title": "Families who fled Ethiopia for Kenya\u2019s Moyale need food, water and shelter",
+      "category": "multilateral",
+      "date": "2026-11-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The International Organization of Migration (IOM) and partners are calling for urgent funding to support tens of thousands of people who have escaped violent clashes in Ethiopia fo...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168762",
+      "details": "The International Organization of Migration (IOM) and partners are calling for urgent funding to support tens of thousands of people who have escaped violent clashes in Ethiopia for the Moyale region in northern Kenya."
+    },
+    {
+      "id": "live-multilateral-security-council-live-strikes-on-ukraine",
+      "title": "Security Council LIVE: Strikes on Ukraine\u2019s power grid, as peace talks loom",
+      "category": "multilateral",
+      "date": "2026-11-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The Security Council convenes at 10am in New York on Ukraine. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+      "details": "The Security Council convenes at 10am in New York on Ukraine. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply. The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi. Follow our live meeting coverage below."
+    },
+    {
+      "id": "live-multilateral-exceptional-extreme-temperatures-to-cont",
+      "title": "\u2018Exceptional\u2019 extreme temperatures to continue into next year, UN reports",
+      "category": "multilateral",
+      "date": "2026-11-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "In April this year, roughly 146.5 million Indians were exposed to an extreme heatwave with temperatures hitting a sweltering 47\u2103.&nbsp;&nbsp;",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168760",
+      "details": "In April this year, roughly 146.5 million Indians were exposed to an extreme heatwave with temperatures hitting a sweltering 47\u2103.&nbsp;&nbsp;"
+    },
+    {
+      "id": "live-multilateral-beyond-the-broken-glass-the-human-cost-o",
+      "title": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
+      "category": "multilateral",
+      "date": "2026-11-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "On his way to school in Vienna on the morning of 10 November 1938, eight-year-old Arthur Schneier watched his synagogue burn while firefighters and police officers stood by \u201crejoic...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168756",
+      "details": "On his way to school in Vienna on the morning of 10 November 1938, eight-year-old Arthur Schneier watched his synagogue burn while firefighters and police officers stood by \u201crejoicing\u201d."
+    },
+    {
+      "id": "live-multilateral-for-the-first-time-i-have-my-own-chair-g",
+      "title": "\u2018For the first time I have my own chair\u2019: Gaza siblings find new freedom",
+      "category": "multilateral",
+      "date": "2026-11-09",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities lik...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168759",
+      "details": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities like eating and writing independently.&nbsp;"
     }
   ]
 }
