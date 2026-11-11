@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-11-11T05:10:58.031052",
-  "fetched_count": 55,
+  "timestamp": "2026-11-11T15:55:42.027089",
+  "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-the-download-preserving-minds-and-weighi",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "category": "overall",
+      "date": "2026-11-11",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuatin...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we\u2019ve experienced, yet there\u2019s still undeniable continuity: At 30, or 50, or 70, you will still&#8230;"
+    },
     {
       "id": "live-overall-the-download-pelosi-s-successor-targets-",
       "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
@@ -33,8 +51,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#Meta"
+        "#Meta",
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
       "details": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;"
@@ -76,25 +94,6 @@
       "details": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;"
     },
     {
-      "id": "live-overall-the-download-empty-ai-climate-claims-and",
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "category": "overall",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for ...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made \u2014By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,&#8230;"
-    },
-    {
       "id": "live-overall-auditable-human-agent-teams-for-autonomo",
       "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
       "category": "overall",
@@ -108,8 +107,8 @@
       },
       "tags": [
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.12933",
       "details": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, using coding-agent infrastructure grounded in validated scientific methods, we demonstrate autonomous synchrotron X-ray experiments on nanoparticle superlattices under evolving, human-defined objectives. Complete human-agent and agent-agent transcripts enable an audit that reconstructs decision provenance and characterizes the division of cognitive labor. Across three experiments, 61-67% of messages involved interpretation or judgment, while the share of methodological and scientific contributions increased from 46% in the setup-focused first experiment to 56-61% in later experiments. Provenance showed that 59-68% of error corrections involved multiple participants and that about half of all decisions incorporated the input of another participant. These results may guide design principles for multi-agent scientific systems and inform future agent harnesses, model training, and accessible autonomous experimentation."
@@ -128,8 +127,8 @@
       },
       "tags": [
         "#Governance",
-        "#AgenticAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.12934",
       "details": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: they pose questions on curated images or give agents preprocessed inputs, leaving out the raw multi-sensor archives where such analysis begins. We introduce EarthRecord, a benchmark built on the raw record of 56 sites: four decades of Landsat, MODIS, VIIRS, and Sentinel-2 data, with cloud masking and cross-sensor harmonization left to the agent. It poses 238 land-change questions across ten analysis tasks, scored against withheld references from global products, agreement among methods, and visual interpretation. Two controls test what answers rest on: the closed book removes the record, and instrument pairs alter one satellite's data while nothing changes on the ground. Evaluations of twelve multimodal agents reveal that leading agents complete most analyses end to end but falter when an answer requires mapping from imagery. Further analysis shows that the record moves answers from prior knowledge to the pixels but not yet to the real change on the ground: when one satellite's data are altered, half of the right answers follow the alteration. EarthRecord thus provides a principled platform for measuring and advancing agents from pixels to land change."
@@ -211,6 +210,24 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-token-pooling-aware-training-for-multi-v",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "category": "agentic_ai",
+      "date": "2026-11-11",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/token-pooling",
+      "details": "Live news development fetched from official RSS feed."
+    },
+    {
       "id": "live-agentic_ai-pay-for-hugging-face-hub-with-your-googl",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "category": "agentic_ai",
@@ -266,24 +283,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-your-experts-have-partners-there-s-hope-",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "category": "agentic_ai",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-models-gilbert-tobin-rethinks-the-business-of-l",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "category": "models",
@@ -300,6 +299,24 @@
       ],
       "sourceUrl": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "details": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "id": "live-models-chatgpt-plus-for-veterans-and-servicemem",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "category": "models",
+      "date": "2026-11-11",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "details": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     },
     {
       "id": "live-models-helping-caregivers-use-ai-in-everyday-li",
@@ -352,29 +369,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/closing-ai-guidance-gap-education",
       "details": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "id": "live-models-work-at-the-frontier-ai-s-effect-on-free",
-      "title": "Work at the Frontier: AI\u2019s effect on freelance work",
-      "category": "models",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/ai-effect-on-freelance-work",
-      "details": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
     },
     {
       "id": "live-companies-how-ai-helps-recyclers-turn-mixed-waste-",
@@ -389,8 +388,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "details": "Vision AI and robotics pick what\u2019s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills."
@@ -487,12 +486,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#UnitedNations",
-        "#Governance",
-        "#Google",
+        "#Fellowship",
         "#Microsoft",
-        "#Fellowship"
+        "#UnitedNations",
+        "#Google",
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp; CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability&nbsp; CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability&nbsp; CVE-2026-116606 Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability&nbsp; CVE-2026-124194 Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability&nbsp; CVE-2026-125350 Google Chromium Use-After-Free Vulnerability&nbsp; These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
@@ -510,9 +509,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
         "#Fellowship",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -531,9 +530,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
-        "#Fellowship"
+        "#Fellowship",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -551,8 +550,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#EUAIAct",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
@@ -571,8 +570,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
@@ -737,8 +736,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#Governance",
+        "#DefenseAI",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/business/2026/11/tough-choices-uncertainty-and-scrutiny-may-lay-ahead-defense-contractors/417116/",
@@ -775,9 +774,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
       "details": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses."
@@ -868,8 +867,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
@@ -888,9 +887,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
         "#Governance",
         "#EUAIAct",
+        "#AISecurity",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
@@ -909,8 +908,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
@@ -929,8 +928,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-ai-media-platform-modular-multilingual-public-interest-infrastructure-european",
@@ -954,97 +953,6 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
       "details": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main link https://digital-strategy.ec.europa.eu/en/news/digitaleu-web-summit-2026-support\u2026 Related topics Cloud computing Start-ups High-performance computing Data policy Quantum computing Artificial intelligence EU funding for digital"
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-ending-cholera-by-20",
-      "title": "World News in Brief: Ending cholera by 2030 \u2018within reach\u2019, Haiti displacement and hunger, US human ",
-      "category": "multilateral",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Ending cholera as a public health threat by 2030 is within reach, as every cholera death can be prevented with tools that already exist, the World Health Organization (WHO)&nbsp;sa...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168782",
-      "details": "Ending cholera as a public health threat by 2030 is within reach, as every cholera death can be prevented with tools that already exist, the World Health Organization (WHO)&nbsp;said on Tuesday."
-    },
-    {
-      "id": "live-multilateral-ebola-iom-urges-wider-surveillance-beyon",
-      "title": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
-      "category": "multilateral",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Seventy-one confirmed Ebola cases&nbsp;have been detected along transit routes in the Democratic Republic of the Congo (DRC) since the outbreak began almost six months ago, the Int...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168781",
-      "details": "Seventy-one confirmed Ebola cases&nbsp;have been detected along transit routes in the Democratic Republic of the Congo (DRC) since the outbreak began almost six months ago, the International Organization for Migration (IOM) said on Tuesday."
-    },
-    {
-      "id": "live-multilateral-nearly-64-000-flee-nigeria-for-niger-whe",
-      "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
-      "category": "multilateral",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168779",
-      "details": "Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since the start of the year, as host countries struggle to cope, the UN\u2019s refugee agency (UNHCR) said on Tuesday.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-egypt-fact-checking-site-s-entire-newsro",
-      "title": "Egypt: Fact-checking site\u2019s entire newsroom jailed as assault on press freedom widens",
-      "category": "multilateral",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168778",
-      "details": "Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of proliferating assaults on press freedom by the Government."
-    },
-    {
-      "id": "live-multilateral-cop31-energy-transition-takes-centre-sta",
-      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-      "category": "multilateral",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168775",
-      "details": "The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way."
     }
   ]
 }
