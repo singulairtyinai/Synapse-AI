@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-11-11T15:55:42.027089",
+  "timestamp": "2026-11-11T22:31:42.710568",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-what-to-know-about-this-year-s-un-climat",
+      "title": "What to know about this year\u2019s UN climate talks",
+      "category": "overall",
+      "date": "2026-11-11",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 offi...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "details": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;"
+    },
     {
       "id": "live-overall-the-download-preserving-minds-and-weighi",
       "title": "The Download: preserving minds and weighing open AI risks",
@@ -51,8 +69,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
-        "#Governance"
+        "#Governance",
+        "#Meta"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
       "details": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;"
@@ -76,24 +94,6 @@
       "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub. It\u2019s also where&#8230;"
     },
     {
-      "id": "live-overall-nancy-pelosi-s-replacement-is-ready-to-r",
-      "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
-      "category": "overall",
-      "date": "2026-11-11",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the ...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "details": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;"
-    },
-    {
       "id": "live-overall-auditable-human-agent-teams-for-autonomo",
       "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
       "category": "overall",
@@ -106,9 +106,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.12933",
       "details": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, using coding-agent infrastructure grounded in validated scientific methods, we demonstrate autonomous synchrotron X-ray experiments on nanoparticle superlattices under evolving, human-defined objectives. Complete human-agent and agent-agent transcripts enable an audit that reconstructs decision provenance and characterizes the division of cognitive labor. Across three experiments, 61-67% of messages involved interpretation or judgment, while the share of methodological and scientific contributions increased from 46% in the setup-focused first experiment to 56-61% in later experiments. Provenance showed that 59-68% of error corrections involved multiple participants and that about half of all decisions incorporated the input of another participant. These results may guide design principles for multi-agent scientific systems and inform future agent harnesses, model training, and accessible autonomous experimentation."
@@ -126,9 +126,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.12934",
       "details": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: they pose questions on curated images or give agents preprocessed inputs, leaving out the raw multi-sensor archives where such analysis begins. We introduce EarthRecord, a benchmark built on the raw record of 56 sites: four decades of Landsat, MODIS, VIIRS, and Sentinel-2 data, with cloud masking and cross-sensor harmonization left to the agent. It poses 238 land-change questions across ten analysis tasks, scored against withheld references from global products, agreement among methods, and visual interpretation. Two controls test what answers rest on: the closed book removes the record, and instrument pairs alter one satellite's data while nothing changes on the ground. Evaluations of twelve multimodal agents reveal that leading agents complete most analyses end to end but falter when an answer requires mapping from imagery. Further analysis shows that the record moves answers from prior knowledge to the pixels but not yet to the real change on the ground: when one satellite's data are altered, half of the right answers follow the alteration. EarthRecord thus provides a principled platform for measuring and advancing agents from pixels to land change."
@@ -165,8 +165,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#Reasoning",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.12936",
@@ -319,6 +319,24 @@
       "details": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     },
     {
+      "id": "live-models-jiostar-s-chief-architect-on-ai-discover",
+      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+      "category": "models",
+      "date": "2026-11-11",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/jiostar-vijay-seshadri",
+      "details": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
       "id": "live-models-helping-caregivers-use-ai-in-everyday-li",
       "title": "Helping caregivers use AI in everyday life",
       "category": "models",
@@ -357,25 +375,6 @@
       "details": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     },
     {
-      "id": "live-models-closing-the-ai-guidance-gap-in-education",
-      "title": "Closing the AI guidance gap in education",
-      "category": "models",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "details": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
       "id": "live-companies-how-ai-helps-recyclers-turn-mixed-waste-",
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "category": "companies",
@@ -388,8 +387,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "details": "Vision AI and robotics pick what\u2019s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills."
@@ -407,8 +406,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#NVIDIA",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
@@ -427,8 +426,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#NVIDIA",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
@@ -447,8 +446,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#NVIDIA",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
@@ -486,12 +485,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Fellowship",
-        "#Microsoft",
-        "#UnitedNations",
         "#Google",
+        "#Fellowship",
         "#AISecurity",
-        "#Governance"
+        "#Microsoft",
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp; CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability&nbsp; CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability&nbsp; CVE-2026-116606 Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability&nbsp; CVE-2026-124194 Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability&nbsp; CVE-2026-125350 Google Chromium Use-After-Free Vulnerability&nbsp; These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
@@ -509,9 +508,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#Fellowship",
         "#AISecurity",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -530,9 +529,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#Fellowship",
-        "#AISecurity"
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -570,8 +569,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AISecurity",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
@@ -668,6 +667,42 @@
       "details": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg discusses DNA initiators, using models for analysis, and her experience\u2026"
     },
     {
+      "id": "live-military-keep-us-troops-in-nato-s-kfor",
+      "title": "Keep US troops in NATO\u2019s KFOR",
+      "category": "military",
+      "date": "2026-11-11",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Pulling them out would save almost nothing while handing Moscow a cheap strategic win.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/ideas/2026/11/keep-us-troops-natos-kfor/417171/",
+      "details": "Pulling them out would save almost nothing while handing Moscow a cheap strategic win."
+    },
+    {
+      "id": "live-military-cisa-outlines-internal-plan-to-swiftly-a",
+      "title": "CISA outlines internal plan to swiftly address cyber, infrastructure threats",
+      "category": "military",
+      "date": "2026-11-11",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "Guidance to agency staff outlines what senior officials need to know about major risks, national preparedness and CISA\u2019s ability to respond, using terminology familiar in military ...",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/11/cisa-outlines-internal-plan-swiftly-address-cyber-infrastructure-threats/417172/",
+      "details": "Guidance to agency staff outlines what senior officials need to know about major risks, national preparedness and CISA\u2019s ability to respond, using terminology familiar in military and intelligence planning."
+    },
+    {
       "id": "live-military-hegseth-denounces-impeachment-charges-in",
       "title": "Hegseth denounces impeachment charges in rare press briefing",
       "category": "military",
@@ -724,44 +759,6 @@
       "details": "Coming soon: How the United States and NATO are bringing robotics to the front line of combat."
     },
     {
-      "id": "live-military-tough-choices-uncertainty-and-scrutiny-m",
-      "title": "Tough choices, uncertainty, and scrutiny may lie ahead for defense contractors",
-      "category": "military",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "With a new Congress in 2027, companies could see more anti-corruption probes.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#DefenseAI",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/11/tough-choices-uncertainty-and-scrutiny-may-lay-ahead-defense-contractors/417116/",
-      "details": "With a new Congress in 2027, companies could see more anti-corruption probes."
-    },
-    {
-      "id": "live-military-blue-wave-presages-a-defense-spending-sh",
-      "title": "Blue wave presages a defense-spending showdown",
-      "category": "military",
-      "date": "2026-11-11",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/policy/2026/11/blue-wave-presages-defense-spending-showdown/417111/",
-      "details": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap."
-    },
-    {
       "id": "live-governance-self-employed-solopreneur-nist-has-a-cyb",
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "category": "governance",
@@ -774,9 +771,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
-        "#AISecurity"
+        "#AISecurity",
+        "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
       "details": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses."
@@ -887,9 +884,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#EUAIAct",
         "#AISecurity",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
