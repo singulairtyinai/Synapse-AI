@@ -1,12 +1,32 @@
 {
-  "timestamp": "2026-11-12T16:38:39.994630",
+  "timestamp": "2026-11-13T00:56:42.997855",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-nvidia-privately-confirmed-it-could-trac",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questi",
+      "category": "overall",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security ...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#NVIDIA",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "details": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were \u201cpotentially infeasible.\u201d Foster, a Democrat who serves on the Committee on&#8230;"
+    },
     {
       "id": "live-overall-the-download-cop31-s-climate-challenge-a",
       "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
       "category": "overall",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year\u2019s...",
@@ -24,7 +44,7 @@
       "id": "live-overall-what-to-know-about-this-year-s-un-climat",
       "title": "What to know about this year\u2019s UN climate talks",
       "category": "overall",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 offi...",
@@ -42,7 +62,7 @@
       "id": "live-overall-the-download-preserving-minds-and-weighi",
       "title": "The Download: preserving minds and weighing open AI risks",
       "category": "overall",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuatin...",
@@ -60,7 +80,7 @@
       "id": "live-overall-the-download-pelosi-s-successor-targets-",
       "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
       "category": "overall",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi\u2019s replacement is ...",
@@ -75,29 +95,28 @@
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;"
     },
     {
-      "id": "live-overall-evolving-metal-extraction-processes",
-      "title": "Evolving metal extraction processes",
-      "category": "overall",
-      "date": "2026-11-12",
+      "id": "live-agentic_ai-llmon-an-llm-native-markup-language-now-",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "category": "agentic_ai",
+      "date": "2026-11-13",
       "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was...",
+      "company": "Hugging Face Blog",
+      "tldr": "",
       "specs": {
-        "source": "MIT Tech Review AI",
+        "source": "Hugging Face Blog",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#Meta"
+        "#AITrend"
       ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "details": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;"
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-the-definitive-fine-tuning-guide-for-3d-",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "category": "agentic_ai",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -115,7 +134,7 @@
       "id": "live-agentic_ai-botpsy-on-device-personal-assistant-with",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "category": "agentic_ai",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -133,7 +152,7 @@
       "id": "live-agentic_ai-token-pooling-aware-training-for-multi-v",
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "category": "agentic_ai",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -151,7 +170,7 @@
       "id": "live-agentic_ai-pay-for-hugging-face-hub-with-your-googl",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "category": "agentic_ai",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -167,122 +186,48 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-decision-models-in-hugging-face",
-      "title": "Decision Models in Hugging Face",
-      "category": "agentic_ai",
-      "date": "2026-11-12",
+      "id": "live-models-how-amplitude-ships-product-improvements",
+      "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+      "category": "models",
+      "date": "2026-11-13",
       "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
+      "company": "OpenAI Newsroom",
+      "tldr": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "specs": {
-        "source": "Hugging Face Blog",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AITrend"
+        "#Governance",
+        "#AgenticAI",
+        "#OpenAI"
       ],
-      "sourceUrl": "https://huggingface.co/blog/decision",
-      "details": "Live news development fetched from official RSS feed."
+      "sourceUrl": "https://openai.com/business/customer-stories/amplitude",
+      "details": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
     },
     {
-      "id": "live-agentic_ai-bringing-agentic-ai-to-cobol-and-the-mai",
-      "title": "Bringing Agentic AI to COBOL and the Mainframe with Rich Larin",
-      "category": "agentic_ai",
-      "date": "2026-11-12",
+      "id": "live-models-gondola-doubles-revenue-as-its-team-buil",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "category": "models",
+      "date": "2026-11-13",
       "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://redmonk.com/videos/rich-larin/ Comments URL: https://news.ycombinator.com/item?id=50466586 Points: 2 # Comments: 0",
+      "company": "OpenAI Newsroom",
+      "tldr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work.",
       "specs": {
-        "source": "HackerNews Agentic AI",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI"
+        "#OpenAI"
       ],
-      "sourceUrl": "https://redmonk.com/videos/rich-larin/",
-      "details": "Article URL: https://redmonk.com/videos/rich-larin/ Comments URL: https://news.ycombinator.com/item?id=50466586 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-for-military-cyberoperations-",
-      "title": "Agentic AI for Military Cyberoperations (West Point Press) [pdf]",
-      "category": "agentic_ai",
-      "date": "2026-11-12",
-      "impact": "HIGH",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf Comments URL: https://news.ycombinator.com/item?id=50460559 Points: 3...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf",
-      "details": "Article URL: https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf Comments URL: https://news.ycombinator.com/item?id=50460559 Points: 3 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-some-retailers-try-blocking-agentic-ai-s",
-      "title": "Some retailers try blocking agentic AI shoppers",
-      "category": "agentic_ai",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.marketplace.org/story/2026/11/10/some-retailers-try-blocking-agentic-ai-shoppers Comments URL: https://news.ycombinator.com/item?id=50458013 Points: 2 # Co...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.marketplace.org/story/2026/11/10/some-retailers-try-blocking-agentic-ai-shoppers",
-      "details": "Article URL: https://www.marketplace.org/story/2026/11/10/some-retailers-try-blocking-agentic-ai-shoppers Comments URL: https://news.ycombinator.com/item?id=50458013 Points: 2 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-an-open-specification-for-agentic-ai-sec",
-      "title": "An open specification for agentic AI security evaluation and testing, from Cisco",
-      "category": "agentic_ai",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://github.com/CiscoDevNet/foundry-security-spec Comments URL: https://news.ycombinator.com/item?id=50458009 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AISecurity",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://github.com/CiscoDevNet/foundry-security-spec",
-      "details": "Article URL: https://github.com/CiscoDevNet/foundry-security-spec Comments URL: https://news.ycombinator.com/item?id=50458009 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-trust-under-fire-how-agentic-ai-tests-ze",
-      "title": "Trust Under Fire: How Agentic AI Tests Zero-Trust",
-      "category": "agentic_ai",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://spectrum.ieee.org/zero-trust-agentic-ai-architecture Comments URL: https://news.ycombinator.com/item?id=50430079 Points: 3 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
-      "details": "Article URL: https://spectrum.ieee.org/zero-trust-agentic-ai-architecture Comments URL: https://news.ycombinator.com/item?id=50430079 Points: 3 # Comments: 0"
+      "sourceUrl": "https://openai.com/business/customer-stories/gondola",
+      "details": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work."
     },
     {
       "id": "live-models-holiday-extras-is-rethinking-what-it-can",
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "category": "models",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
@@ -300,7 +245,7 @@
       "id": "live-models-supporting-research-on-ai-and-children-s",
       "title": "Supporting research on AI and children\u2019s safety",
       "category": "models",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
@@ -309,8 +254,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#OpenAI"
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://openai.com/index/children-first-declaration",
       "details": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
@@ -319,7 +264,7 @@
       "id": "live-models-gilbert-tobin-rethinks-the-business-of-l",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "category": "models",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -334,46 +279,10 @@
       "details": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
     },
     {
-      "id": "live-models-chatgpt-plus-for-veterans-and-servicemem",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "category": "models",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "details": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    },
-    {
-      "id": "live-models-jiostar-s-chief-architect-on-ai-discover",
-      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
-      "category": "models",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/jiostar-vijay-seshadri",
-      "details": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
-    },
-    {
       "id": "live-companies-a-new-dawn-in-the-cloud-warhammer-40-000",
       "title": "A New Dawn in the Cloud: \u2018Warhammer 40,000: Dawn of War IV\u2019 Is Coming to GeForce NOW",
       "category": "companies",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There\u2019s mor...",
@@ -382,8 +291,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
       "details": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There\u2019s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon\u2019s Dogma 2: Dark Arisen brings new tales [\u2026]"
@@ -392,7 +301,7 @@
       "id": "live-companies-nvidia-announces-ceo-transition",
       "title": "NVIDIA Announces CEO Transition",
       "category": "companies",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
@@ -401,8 +310,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "details": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately."
@@ -411,7 +320,7 @@
       "id": "live-companies-how-ai-helps-recyclers-turn-mixed-waste-",
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "category": "companies",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Vision AI and robotics pick what\u2019s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
@@ -430,7 +339,7 @@
       "id": "live-companies-statement-from-the-independent-members-o",
       "title": "Statement From the Independent Members of the NVIDIA Board",
       "category": "companies",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "The independent members of the NVIDIA Board have retained former acting U.S. Attorney of the Southern District of New York Joon H. Kim and his firm Wachtell, Lipton, Rosen & Katz t...",
@@ -439,9 +348,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
       "details": "The independent members of the NVIDIA Board have retained former acting U.S. Attorney of the Southern District of New York Joon H. Kim and his firm Wachtell, Lipton, Rosen & Katz to conduct a thorough and independent investigation as was announced on Sunday."
@@ -450,7 +359,7 @@
       "id": "live-companies-nvidia-expands-open-source-commitment-wi",
       "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
       "category": "companies",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To ...",
@@ -459,122 +368,127 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
       "details": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA [\u2026]"
     },
     {
-      "id": "live-security-cisa-adds-six-known-exploited-vulnerabil",
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "id": "live-security-siemens-desigo-gridscale",
+      "title": "Siemens Desigo, Gridscale",
       "category": "security",
-      "date": "2026-11-12",
-      "impact": "HIGH",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
       "company": "CISA Cybersecurity",
-      "tldr": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Rest...",
+      "tldr": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referr...",
       "specs": {
         "source": "CISA Cybersecurity",
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Governance",
+        "#DefenseAI",
+        "#UnitedNations",
         "#Google",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+      "details": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Desigo, Gridscale are affected: Desigo CC family V8 vers:all/* (CVE-2026-111497) Desigo CC family V9 vers:all/* (CVE-2026-111497) Gridscale X DSA vers:intdot/&gt;=5.3|&lt;5.4 (CVE-2026-111497) Gridscale X PSS\u00aeE vers:intdot/&lt;36.8.0 (CVE-2026-111497) &nbsp; CVSS Vendor Equipment v3 9.8 Siemens Desigo CC family V8 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-111497 A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1. Read More 4 Affected Products Desigo CC family V8 Product Status: known_affected, known_not_affected Remediations Vendor fixInstall the latest .NET security updates via Windows Update. Desigo CC family V9 Product Status: known_affected, known_not_affected Remediations Vendor fixInstall the latest .NET security updates via Windows Update. Gridscale X DSA &gt;= V5.3 &lt; V5.4 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V5.4 or later version Gridscale X PSS\u00aeE &lt; V36.8.0 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V36.8.0 or later version Additional Metrics Relevant CWE: CWE-787 Out-of-bounds Write CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations Operators of critical power systems (e.g. TSOs or DSOs) worldwide are usually required by regulations to build resilience into the power grids by applying multi-level redundant secondary protection schemes. It is therefore recommended that the operators check whether appropriate resilient protection measures are in place. The risk of cyber incidents impacting the grid's reliability can thus be minimized by virtue of the grid design. Siemens strongly recommends applying the provided security updates using the corresponding tooling and documented procedures made available with the product. If supported by the product, an automated means to apply the security updates across multiple product instances may be used. Siemens strongly recommends prior validation of any security update before being applied, and supervision by trained staff of the update process in the target environment. As a general security measure Siemens strongly recommends to protect network access with appropriate mechanisms (e.g. firewalls, segmentation, VPN). It is advised to configure the environment according to our operational guidelines in order to run the devices in a protected IT environment. Recommended security guidelines can be found at: https://www.siemens.com/gridsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-045512 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-30 Date Revision Summary 2026-10-30 1 Publication Date 2026-11-04 2 Added Desigo CC to the affected products list. 2026-11-06 3 Added Gridscale X DSA and PSSE to the list of affected products 2026-11-12 4 Initial CISA Republication of Siemens ProductCERT SSA-045512 advisory Legal Notice and Terms of Use"
+    },
+    {
+      "id": "live-security-siemens-ruggedcom-ape1808",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "category": "security",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "CISA Cybersecurity",
+      "tldr": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI",
+        "#AISecurity",
         "#Governance",
-        "#Fellowship",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+      "details": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications.&nbsp; The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-109618, CVE-2026-109619) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM APE1808 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-109618 PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE). Read More 1 Affected Product RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS (10.2 All, 11.1 All, 11.2 All, 12.1 All, 12.2 All) Product Status: known_affected Remediations Vendor fixUpgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details CVE-2026-109619 PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE). Read More 2 Affected Products RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS (10.2 All, 11.1 All, 11.2 All, 12.1 All, 12.2 All) Product Status: known_affected Remediations Vendor fixUpgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS (10.2 All, 11.1 All, 11.2 All, 12.1 All, 12.2 All) Product Status: known_affected Remediations Vendor fixUpgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported these vulnerabilities to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-566512 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-23 Date Revision Summary 2026-10-23 1 Publication Date 2026-10-28 2 Updated Remediation to include PAN-OS 2026-11-04 3 Adjusted history entry of V1.1 2026-11-12 4 Initial CISA Republication of Siemens ProductCERT SSA-566512 advisory Legal Notice and Terms of Use"
+    },
+    {
+      "id": "live-security-siemens-ruggedcom-ape1808",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "category": "security",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "CISA Cybersecurity",
+      "tldr": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industr...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#DefenseAI",
         "#UnitedNations",
+        "#Google",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+      "details": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications.&nbsp; The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM APE1808 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-111497 A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1. Read More 1 Affected Product RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS Product Status: known_affected Remediations Vendor fixUpgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-787 Out-of-bounds Write CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends protecting network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends configuring the environment according to Siemens' operational guidelines for Industrial Security (https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-898633 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-30 Date Revision Summary 2026-10-30 1 Publication Date 2026-11-12 2 Initial CISA Republication of Siemens ProductCERT SSA-898633 advisory Legal Notice and Terms of Use"
+    },
+    {
+      "id": "live-security-siemens-building-automation-and-energy-p",
+      "title": "Siemens Building Automation and Energy Products",
+      "category": "security",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "CISA Cybersecurity",
+      "tldr": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP langua...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
         "#Microsoft",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "details": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp; CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability&nbsp; CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability&nbsp; CVE-2026-116606 Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability&nbsp; CVE-2026-124194 Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability&nbsp; CVE-2026-125350 Google Chromium Use-After-Free Vulnerability&nbsp; These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
-    },
-    {
-      "id": "live-security-cisa-adds-four-known-exploited-vulnerabi",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "category": "security",
-      "date": "2026-11-12",
-      "impact": "HIGH",
-      "company": "CISA Cybersecurity",
-      "tldr": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Auth...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Fellowship",
-        "#AISecurity",
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "details": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability&nbsp; CVE-2026-123158 OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability&nbsp; CVE-2026-123218 IBM Aspera Faspex Incorrect Authorization Vulnerability&nbsp; These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
-    },
-    {
-      "id": "live-security-cisa-adds-one-known-exploited-vulnerabil",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "category": "security",
-      "date": "2026-11-12",
-      "impact": "HIGH",
-      "company": "CISA Cybersecurity",
-      "tldr": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Us...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Fellowship",
-        "#AISecurity",
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "details": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of&nbsp;KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the&nbsp;specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s&nbsp;KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
-    },
-    {
-      "id": "live-security-post-quantum-questions-to-ask-your-vendo",
-      "title": "Post-Quantum Questions to Ask Your Vendors",
-      "category": "security",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "CISA Cybersecurity",
-      "tldr": "CISA, the Australian Signals Directorate\u2019s Australian Cyber Security Centre (ASD\u2019s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-re...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#AISecurity",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-      "details": "CISA, the Australian Signals Directorate\u2019s Australian Cyber Security Centre (ASD\u2019s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizations must plan for and transition to PQC\u2014which includes algorithms capable of withstanding both classical computing and quantum-enabled threats\u2014before CRQCs become available.&nbsp; Many organizations rely on third-party vendors for managed services, cloud capabilities, and other cryptography-dependent products and services. Cryptography is also embedded in systems and devices that are difficult to update, tied to long asset lifecycles, and require vendor support or replacement\u2014such as industrial control systems and Internet of Things (IoT) devices. Reliance on vendors means that effective PQC transition depends on vendor readiness, and early, structured engagement with these vendors is critical to planning efforts.&nbsp; Organizations can use the vendor-neutral questions outlined in this guidance to determine whether a vendor understands quantum-related risks, maintains transparency over its cryptographic implementations, and supports a secure, cost-effective and timely transition to PQC.&nbsp; Visit CISA\u2019s PQC Initiative page for additional resources."
-    },
-    {
-      "id": "live-security-us-government-partners-urge-hardening-in",
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "category": "security",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "CISA Cybersecurity",
-      "tldr": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA),...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#DefenseAI",
+        "#UnitedNations",
         "#AISecurity"
       ],
-      "sourceUrl": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "details": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)\u2014hereafter referred to as \u201cthe authoring organizations\u201d\u2014are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health, Chemical, Food and Agriculture, and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, and energy optimization. The authoring organizations urge owners and operators to defend against this activity by using strong authentication, keeping systems updated, identifying any systems that are accessible from the internet, removing unnecessary remote access, and securing any necessary remote access. Threat The authoring organizations are aware of malicious cyber actors targeting electronic temperature controllers and commercial refrigeration controllers in retail grocery and cold storage facilities. The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards. Specifically, the actors may exploit these flaws through multiple vectors: Authentication bypass; Arbitrary code injection; and Weak configurations. Upon successful exploitation of the flaws, the actors could achieve the following effects: Change of temperature, which could: Affect the service life of the system; Create a fire hazard; Cause loss of inventory; or Indirectly harm consumers if products are consumed after unsafe storage. Loss of visibility into current temperatures (a denial-of-view condition). Mitigations The authoring organizations urge owners and operators to immediately take the following actions. These mitigations align with the Cross-Sector Cybersecurity Performance Goals (CPGs), developed by CISA and the National Institute of Standards and Technology (NIST). The CPGs provide a minimum set of practices and protections that CISA and NIST recommend all organizations implement: Eliminate public internet exposure: Do not expose control system devices and/or systems, particularly controller panels, to the internet [CPG 3.S]. Should remote access be necessary, protect it by using a firewall or edge device and updating it to the latest version to reduce security vulnerabilities. See CISA\u2019s Internet Exposure Reduction Guidance and Defend the Edge: The Critical Importance of Edge Device Security for additional guidance on securing edge devices. Isolate operational technology (OT) devices: Create a dedicated OT virtual local area network (VLAN) to separate OT devices from business networks [CPG 3.I]. Enforce credential security: Change default passwords [CPG 3.A], strengthen passwords, and implement strong password policies [CPG 3.B]. Further, implement phishing-resistant multifactor authentication wherever feasible [CPG 3.F]. Apply patches: Keep device firmware up to date and establish a structured lifecycle management process to identify, retire, and replace legacy devices that are at end of life (EOL) and no longer supported by the manufacturer [CPG 2.A, 2.B]. See CISA\u2019s BOD 26-04: Implementation Guidance for Prioritizing Security Updates Based on Risk and BOD 26-02: Mitigating Risk From End-of-Support Edge Devices for additional guidance. Restrict access: Define and maintain device and IP address allowlisting, limiting access to only those devices and IP addresses authorized to make changes [CPG 3.H]. Have reliable backups: Maintain current backups offsite and offline and test them [CPG 3.O]. Monitor and report: Enable logging [CPG 3.Q] and regularly review logs for unexpected activity. For OT assets where logs are non-standard or not available, collect network traffic and communications between the assets. Review setpoint ranges: Define and maintain reasonable setpoint limits for devices operating downstream of controllers to stay within safe ranges and establish alerting for deviations. Resources The authoring organizations strongly urge industrial refrigeration and cold chain monitoring system owners and operators to secure remote access to their OT systems. To strengthen system security, owners and operators should review the following resources and implement recommended mitigations: CISA: Primary Mitigations to Reduce Cyber Threats to Operational Technology CISA: Defend the Edge: The Critical Importance of Edge Device Security CISA: Internet Exposure Reduction Guidance United Kingdom\u2019s National Cyber Security Centre and Partners:&nbsp;Secure Connectivity Principles for OT Contact Information The authoring organizations recommend U.S. organizations report suspicious or criminal activity related to information provided in this fact sheet: Contact CISA via CISA\u2019s 24/7 Operations Center at contact@cisa.dhs.gov or 1-844-Say-CISA (1-844-729-2472). For more information on reporting a cyber incident, refer to CISA\u2019s Voluntary Cyber Incident Reporting web page. File a claim with FBI\u2019s Internet Crime Complaint Center (IC3) or contact your local FBI field office. When available, please include the following information regarding the incident: Date, time, and location of the incident; Type of activity; Number of people affected; Type of equipment used for the activity; and Name of the submitting company or organization, and a designated point of contact. Contact HHS via&nbsp;HHSCyber@hhs.gov or the HHS 24/7 Operations Center at 202-619-7800 for assistance mitigating potential disruptions to the delivery of healthcare resulting from health and medical supply chain impacts. Disclaimer The information in this report is being provided \u201cas is\u201d for informational purposes only. The authoring organizations do not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this document. Any reference to specific commercial entities, products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply endorsement, recommendation, or favor by the authoring organizations. &nbsp;"
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+      "details": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of impact of various Siemens software products. As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines, and to follow the recommendations in the product manuals. Siemens is actively monitoring the situation and assessing the implications of these vulnerabilities on our portfolio. Because this evaluation is ongoing, our findings are subject to change as new technical details and vendor updates emerge. We will publish updated findings, guidance, and remediation recommendations as soon as they become available. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens Building Automation and Energy Products are affected: AMIS TS vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX - S vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V2.0SP9 vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V3.1SP1 vers:all/* (CVE-2026-109618, CVE-2026-109619) Heliox Rapid vers:all/* ()Local Monitoring bt-monitoring-vm vers:intdot/&lt;20261103 (CVE-2026-109618, CVE-2026-109619) Spectrum Power 3 vers:all/* (CVE-2026-109619) Spectrum Power 4 vers:all/*, vers:all/*, vers:all/* (CVE-2026-109618, CVE-2026-109619, CVE-2026-109618, CVE-2026-109619, CVE-2026-109618, CVE-2026-109619) Spectrum Power 7 vers:all/* (CVE-2026-109618, CVE-2026-109619) Spectrum Power TG vers:all/* (CVE-2026-109618, CVE-2026-109619) CVSS Vendor Equipment v3 9.8 Siemens AMIS TS 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-109618 PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE). Read More 11 Affected Products AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details CVE-2026-109619 PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE). Read More 23 Affected Products AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 3 using IHM (NagiosXI) running on Red Hat Enterprise Linux version (RHEL) 7 Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 7 Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported these vulnerabilities to CISA. General Recommendations Operators of critical power systems (e.g. TSOs or DSOs) worldwide are usually required by regulations to build resilience into the power grids by applying multi-level redundant secondary protection schemes. It is therefore recommended that the operators check whether appropriate resilient protection measures are in place. The risk of cyber incidents impacting the grid's reliability can thus be minimized by virtue of the grid design. Siemens strongly recommends applying the provided security updates using the corresponding tooling and documented procedures made available with the product. If supported by the product, an automated means to apply the security updates across multiple product instances may be used. Siemens strongly recommends prior validation of any security update before being applied, and supervision by trained staff of the update process in the target environment. As a general security measure Siemens strongly recommends protecting network access with appropriate mechanisms (e.g. firewalls, segmentation, VPN). It is advised to configure the environment according to our operational guidelines in order to run the devices in a protected IT environment. Recommended security guidelines can be found at: https://www.siemens.com/gridsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-166980 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-26 Date Revision Summary 2026-10-26 1 Publication Date 2026-10-27 2 Updated the Known not affected list 2026-10-29 3 Added AMIS TS, Energy Engage V2.0SP9, Energy Engage V3.1SP1, Spectrum Power 3, Spectrum Power 4, Spectrum Power 7 and Spectrum Power TG to Affected Products and updated the list of known not affected 2026-11-05 4 Updated Known Not Affected and Known Affected Products list 2026-11-12 5 Initial CISA Republication of Siemens ProductCERT SSA-166980 advisory Legal Notice and Terms of Use"
+    },
+    {
+      "id": "live-security-siemens-industrial-edge-management",
+      "title": "Siemens Industrial Edge Management",
+      "category": "security",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "CISA Cybersecurity",
+      "tldr": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Manag...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#DefenseAI",
+        "#UnitedNations",
+        "#Google",
+        "#AISecurity"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+      "details": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM software stack, the affected functionality is not used or exposed. The same applies to IEDK. - Management Applications installed: Follow the specific mitigations until a fix is available. - Device Applications installed: Follow the specific mitigations until a fix is available. For Siemens-managed services, Industrial Edge Hub and Industrial Edge Management Cloud, appropriate Firewall/WAF protection has already been implemented. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Edge Management are affected: Cloud Connector Configurator vers:intdot/&lt;1.24.3 (CVE-2026-111497) Common Configurator&nbsp;(CC on IEM) vers:all/* (CVE-2026-111497) Common Configurator on Device&nbsp;(CC on Edge) vers:all/* (CVE-2026-111497) Data Flow Monitoring vers:intdot/&lt;3.0.18 (CVE-2026-111497) Databus Configurator vers:intdot/&lt;4.0.1 (CVE-2026-111497) DataXess Configurator vers:intdot/&lt;1.5.7 (CVE-2026-111497) Edge OPC UA Server Configurator vers:intdot/&lt;2.3.10 (CVE-2026-111497) Flow Creator Configurator vers:intdot/&lt;1.15.1 (CVE-2026-111497) Industrial Edge Hub vers:all/* (CVE-2026-111497) Industrial Edge Management Cloud vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens Cloud Connector Configurator 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-111497 A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1. Read More 10 Affected Products Cloud Connector Configurator &lt; V1.24.3 Product Status: known_affected Remediations Vendor fixUpdate to V1.24.3 or later version Industrial Edge Management Cloud Product Status: known_affected Remediations Vendor fixVulnerability fixed on central cloud service starting 2026-10-28; no user actions necessary Common Configurator&nbsp;(CC on IEM) Product Status: known_affected Remediations MitigationUninstall all Management Applications and protect your IEM instance with a Firewall/WAF until a fix is available None availableCurrently no fix is available Common Configurator on Device&nbsp;(CC on Edge) Product Status: known_affected Remediations MitigationStop Common Configurator on Device (CC on Edge) until a fix is available None availableCurrently no fix is available Data Flow Monitoring &lt; V3.0.18 Product Status: known_affected Remediations Vendor fixUpdate to V3.0.18 or later version Databus Configurator &lt; V4.0.1 Product Status: known_affected Remediations Vendor fixUpdate to V4.0.1 or later version DataXess Configurator &lt; V1.5.7 Product Status: known_affected Remediations Vendor fixUpdate to V1.5.7 or later version Edge OPC UA Server Configurator &lt; V2.3.10 Product Status: known_affected Remediations Vendor fixUpdate to V2.3.10 or later version Flow Creator Configurator &lt; V1.15.1 Product Status: known_affected Remediations Vendor fixUpdate to V1.15.1 or later version Industrial Edge Hub Product Status: known_affected Remediations Vendor fixVulnerability fixed on central cloud service starting 2026-10-29; no user actions necessary Additional Metrics Relevant CWE: CWE-787 Out-of-bounds Write CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends protecting network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends configuring the environment according to Siemens' operational guidelines for Industrial Security (https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-443410 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-30 Date Revision Summary 2026-10-30 1 Publication Date 2026-11-06 2 Added fix for Cloud Connector Configurator, Data Flow Monitoring, Databus Configurator, Edge OPC UA Server Configurator and Flow Creator Configurator; Added DataXess Configurator as affected product 2026-11-12 3 Initial CISA Republication of Siemens ProductCERT SSA-443410 advisory Legal Notice and Terms of Use"
     },
     {
       "id": "live-fellowships-podcast-the-laser-that-could-break-the-l",
       "title": "Podcast: The laser that could break the laws of physics",
       "category": "fellowships",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Jonathan Zuegel discusses the future of high-powered laser research in the United States, the ambitious NSF Optical Parametric...",
@@ -592,7 +506,7 @@
       "id": "live-fellowships-podcast-the-future-of-electronics-goes-b",
       "title": "Podcast: The future of electronics goes beyond circuit boards",
       "category": "fellowships",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Ethan Secor discusses a specialized additive manufacturing technique, the materials involved, and the resulting circuits that can be customized for complex...",
@@ -610,7 +524,7 @@
       "id": "live-fellowships-new-dwarf-planet-candidate-discovered-by",
       "title": "New dwarf planet candidate discovered by NSF\u2013DOE Rubin Observatory",
       "category": "fellowships",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF\u2013DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet. A preliminary data analysis shows that the object is orbiting...",
@@ -628,7 +542,7 @@
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
       "title": "Podcast: Can America's most powerful laser unlock the universe?",
       "category": "fellowships",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser ...",
@@ -646,7 +560,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -661,10 +575,64 @@
       "details": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg discusses DNA initiators, using models for analysis, and her experience\u2026"
     },
     {
+      "id": "live-military-a-natural-gas-project-off-alaska-may-be-",
+      "title": "A natural-gas project off Alaska may be a Russian ploy",
+      "category": "military",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Surveys for the plant were funded by a UAE company steered by a Russian natural-gas giant under U.S. sanction.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/11/natural-gas-project-alaskas-coast-may-be-russian-ploy-intel-arctic/417193/",
+      "details": "Surveys for the plant were funded by a UAE company steered by a Russian natural-gas giant under U.S. sanction."
+    },
+    {
+      "id": "live-military-gop-tries-to-speed-walk-search-for-gao-s",
+      "title": "GOP tries to speed-walk search for GAO's next chief",
+      "category": "military",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "Given 24 hours to name candidates, Democrats decry efforts to \"ram through another Trump crony.\"",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/11/lame-duck-congress-expedites-search-next-gao-leader/417194/",
+      "details": "Given 24 hours to name candidates, Democrats decry efforts to \"ram through another Trump crony.\""
+    },
+    {
+      "id": "live-military-robot-wars-defense-one-futures-ep-1",
+      "title": "'Robot Wars': Defense One Futures, Ep. 1",
+      "category": "military",
+      "date": "2026-11-13",
+      "impact": "HIGH",
+      "company": "Defense One AI",
+      "tldr": "The U.S. military and its NATO allies are rethinking how they buy, build, and train in the age of autonomy and AI.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/technology/2026/11/defense-one-futures-robot-wars-ep-1/417183/",
+      "details": "The U.S. military and its NATO allies are rethinking how they buy, build, and train in the age of autonomy and AI."
+    },
+    {
       "id": "live-military-keep-us-troops-in-nato-s-kfor",
       "title": "Keep US troops in NATO\u2019s KFOR",
       "category": "military",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Pulling them out would save almost nothing while handing Moscow a cheap strategic win.",
@@ -682,7 +650,7 @@
       "id": "live-military-cisa-outlines-internal-plan-to-swiftly-a",
       "title": "CISA outlines internal plan to swiftly address cyber, infrastructure threats",
       "category": "military",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "Guidance to agency staff outlines what senior officials need to know about major risks, national preparedness and CISA\u2019s ability to respond, using terminology familiar in military ...",
@@ -697,66 +665,10 @@
       "details": "Guidance to agency staff outlines what senior officials need to know about major risks, national preparedness and CISA\u2019s ability to respond, using terminology familiar in military and intelligence planning."
     },
     {
-      "id": "live-military-hegseth-denounces-impeachment-charges-in",
-      "title": "Hegseth denounces impeachment charges in rare press briefing",
-      "category": "military",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The defense secretary called his potential removal an attack on his \u201csuccess.\u201d",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/11/hegseth-returns-pentagon-briefing-room-defend-himself-against-impeachment-charges/417148/",
-      "details": "The defense secretary called his potential removal an attack on his \u201csuccess.\u201d"
-    },
-    {
-      "id": "live-military-trump-nominates-palantir-security-chief-",
-      "title": "Trump nominates Palantir security chief Michael LoSapio to lead CISA",
-      "category": "military",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "If confirmed, the cybersecurity executive would take over an agency rebuilding after workforce cuts and nearly 22 months without a permanent director.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/11/trump-nominates-palantir-security-chief-michael-losapio-lead-cisa/417144/",
-      "details": "If confirmed, the cybersecurity executive would take over an agency rebuilding after workforce cuts and nearly 22 months without a permanent director."
-    },
-    {
-      "id": "live-military-trailer-defense-one-futures-our-new-podc",
-      "title": "Trailer: Defense One Futures, our new podcast",
-      "category": "military",
-      "date": "2026-11-12",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "Coming soon: How the United States and NATO are bringing robotics to the front line of combat.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/11/defense-one-futures-robot-wars/417131/",
-      "details": "Coming soon: How the United States and NATO are bringing robotics to the front line of combat."
-    },
-    {
       "id": "live-governance-self-employed-solopreneur-nist-has-a-cyb",
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
@@ -766,8 +678,8 @@
       },
       "tags": [
         "#Governance",
-        "#AISecurity",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
       "details": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses."
@@ -776,7 +688,7 @@
       "id": "live-governance-nist-report-provides-guidelines-for-tran",
       "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing...",
@@ -794,7 +706,7 @@
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -803,8 +715,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -813,7 +725,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -831,7 +743,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -849,7 +761,7 @@
       "id": "live-governance-commission-preliminarily-finds-tiktok-s-",
       "title": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful \u2018rabbit holes\u2019 effect Anonymous (not verified) Fri, 11/06/2026 - 12:09 The Euro...",
@@ -858,9 +770,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
       "details": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful \u2018rabbit holes\u2019 effect Anonymous (not verified) Fri, 11/06/2026 - 12:09 The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called \u2018rabbit hole effect\u2019 of its recommender system. TikTok's \u2018For You' feed shows users a continuous stream of personalised videos, even when those are related to mental health struggles and body image. The more a user interacts with a certain type of content, the more TikTok's \u2018For You' feed algorithm recommends similar content. This design can be harmful when such endless and repeated exposure involves, for example, content about sadness, isolation or body image. These \u2018rabbit holes' can have a detrimental impact on users' mental health, especially that of vulnerable adults and minors. These preliminary findings focus on both risk assessment and mitigation measures. Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -869,7 +781,7 @@
       "id": "live-governance-independent-study-on-the-impact-of-age-a",
       "title": "Independent study on the impact of age assurance on fundamental rights and costs for businesses",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Independent study on the impact of age assurance on fundamental rights and costs for businesses Anonymous (not verified) Wed, 11/04/2026 - 15:04 An independent study analyses the i...",
@@ -878,10 +790,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
+        "#EUAIAct",
         "#AISecurity",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
       "details": "Independent study on the impact of age assurance on fundamental rights and costs for businesses Anonymous (not verified) Wed, 11/04/2026 - 15:04 An independent study analyses the impacts of age assurance on fundamental rights and the costs for businesses concerned. Age assurance is key for a safer online environment as it ensures that children only access online services and features that are safe and age appropriate for them. Nowadays, 1 in 3 children, aged 9 to 11 across 6 European countries, reports having a social media profile. Very few services are implementing age assurance in a systematic way. To further strengthen the preparation of the proposed EU KIDS Act and the accompanying Staff Working Document, the European Commission procured a study to: Analyse the impact of age assurance on key fundamental rights, including data protection and privacy, non-discrimination, freedom of expression and access to information; Assess the potential financial impacts of age assurance on businesses, including micro and small enterprises. The study was carried out by an external contractor. It does not assess the proposed EU KIDS Act and the compliance by any specific service provider. The study's key insights are: Fundamental rights \u2013 an age assurance framework can be both proportionate and respectful of fundamental rights. Interferences with those rights can be mitigated through appropriate safeguards. In particular, the framework should ensure: Data protection and privacy \u2013 legislative coherence with the GDPR, high standards of privacy and security, and the development of technical standards; Non-discrimination, freedom of expression and access to information \u2013 minimising friction for users, ensuring transparency, promoting user empowerment where appropriate through greater choice, and ensuring inclusivity and accessibility. EU approach to age verification \u2013 the EU age verification blueprint can make an important contribution to the development of a coherent EU-level approach to age assurance. Specifically, the findings suggest that: the blueprint has the potential to become one of the most affordable ways for service providers of all sizes to comply with age assurance requirements because it is privacy-preserving and open by design and its development costs have been publicly subsidised; the roll-out of the blueprint across all Member States should be accelerated; the provision and resourcing of effective fallback enrollment routes \u2013 including manual enrolment options at national and local level \u2013 should be ensured. Costs for businesses \u2013 online services would inevitably face new costs. However, these costs are likely to remain modest for most services and to decrease over time, due to: competition in the third-party vendor market, the emergence of technical standards, improvements in interoperability, the availability of the EU age verification blueprint. For small and medium-sized enterprises (SMEs), the study suggests that it's unlikely to face excessive costs, thanks to affordable, ready-to-use age verification solutions and competition between providers. They will also benefit from having a common set of EU rules, rather than having to comply with different national requirements. Read the study and its executive summary and the questions &amp; answers on the proposed EU KIDS Act. Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -890,7 +802,7 @@
       "id": "live-governance-call-for-evidence-on-advertising-reposit",
       "title": "Call for evidence on advertising repositories",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is s...",
@@ -899,9 +811,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
       "details": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence. The responses collected through the call for evidence will help shape guidelines aimed at ensuring that advertising repositories meet the needs of their users. Amongst other things, the guidelines will advise on: how to make advertising repositories easily searchable how to provide insights on how users are targeted and reached how to make the content of advertisements accessible Once adopted, these guidelines will aim to ensure that the advertising repositories provided by very large online platforms (VLOPs) and very large online search engines (VLOSEs) are effective and fit for purpose. Effective advertising repositories are essential tools for enabling greater public scrutiny of online advertising. Transparency in advertising \u2013 revealing who pays and how citizens are targeted \u2013 helps to protect public health, ensure a high level of consumer protection and safeguard the integrity of elections. Advertising repositories also support effective supervision and enforcement of the DSA. Next steps The call for evidence will be followed by a targeted public consultation in 2027. Researchers, civil society, providers of VLOPs and VLOSEs and representatives from the advertising industry will be invited to share feedback on a draft version of the guidelines. The publication of the guidelines is planned for the second quarter of 2028. Background Under Article 39 of the DSA, providers of VLOPs and VLOSEs are required to maintain publicly accessible repositories of advertisements displayed on their services. These repositories (commonly known as \u2018ad libraries\u2019) provide information on the content of advertisements, who paid for them, the period during which they were displayed, how many users the advertisements reached, and the main criteria used to decide who saw the advertisements. Article 39(3) of the DSA provides the possibility for the Commission to issue guidelines on the design of advertising repositories, following consultation with the European Board for Digital Services, researchers and the public. The guidelines will support the Commission\u2019s supervision and enforcement of VLOPs and VLOSEs\u2019 compliance with Article 39 of the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act Related content Press release04 November 2026Commission seeks feedback on advertising repositories under the Digital Services ActThe European Commission is calling for evidence to gather feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA)."
@@ -910,7 +822,7 @@
       "id": "live-governance-call-for-proposals-eu-ai-media-platform-",
       "title": "Call for proposals: EU AI Media Platform \u2013 Modular multilingual public-interest infrastructure for E",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for proposals: EU AI Media Platform \u2013 Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI Anonymous (not verified) Tue,...",
@@ -919,9 +831,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#Governance",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-ai-media-platform-modular-multilingual-public-interest-infrastructure-european",
       "details": "Call for proposals: EU AI Media Platform \u2013 Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI Anonymous (not verified) Tue, 11/03/2026 - 11:49 &nbsp; Opening: 20 October 2026 &nbsp; Closing: 16 February 2027 This call will support pilots for AI-enabled media infrastructures, fostering research and innovation in the European media sector. \u00a9 Supatman Main link https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportuni\u2026 Related topics Research and innovation Media and democracy Audiovisual &amp; Media Services Audiovisual and media content distribution Multimedia actions Artificial intelligence EU funding for digital"
@@ -930,7 +842,7 @@
       "id": "live-governance-web-summit-2026",
       "title": "Web Summit 2026",
       "category": "governance",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main ...",
@@ -939,11 +851,102 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
+        "#EUAIAct",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
       "details": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main link https://digital-strategy.ec.europa.eu/en/news/digitaleu-web-summit-2026-support\u2026 Related topics Cloud computing Start-ups High-performance computing Data policy Quantum computing Artificial intelligence EU funding for digital"
+    },
+    {
+      "id": "live-multilateral-aid-is-the-only-hope-for-millions-in-sud",
+      "title": "Aid is the \u2018only hope\u2019 for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+      "category": "multilateral",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The World Food Programme\u2019s (WFP) new Executive Director has warned that funding cuts are worsening Sudan\u2019s hunger crisis following his first field mission to the country, where he ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+      "details": "The World Food Programme\u2019s (WFP) new Executive Director has warned that funding cuts are worsening Sudan\u2019s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-new-platform-aims-to-get-money-moving-be",
+      "title": "New platform aims to get money moving before disaster strikes",
+      "category": "multilateral",
+      "date": "2026-11-13",
+      "impact": "HIGH",
+      "company": "UN News AI",
+      "tldr": "UN agencies on Thursday launched a joint platform at COP31 in Antalya, T\u00fcrkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people an...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168794",
+      "details": "UN agencies on Thursday launched a joint platform at COP31 in Antalya, T\u00fcrkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030."
+    },
+    {
+      "id": "live-multilateral-cop31-cities-rise-up-the-climate-agenda-",
+      "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
+      "category": "multilateral",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cit...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168792",
+      "details": "From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more."
+    },
+    {
+      "id": "live-multilateral-kenya-begins-countdown-towards-end-of-eb",
+      "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
+      "category": "multilateral",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from q...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168790",
+      "details": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from quarantine."
+    },
+    {
+      "id": "live-multilateral-haiti-more-than-1-000-killed-between-jul",
+      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+      "category": "multilateral",
+      "date": "2026-11-13",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+      "details": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report."
     }
   ]
 }
