@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-13T19:28:06.199170",
-  "fetched_count": 50,
+  "timestamp": "2026-11-14T00:45:40.833867",
+  "fetched_count": 45,
   "nodes": [
     {
       "id": "live-overall-the-download-silicon-valley-s-blind-spot",
       "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
       "category": "overall",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know ...",
@@ -15,8 +15,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
       "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;"
@@ -25,7 +25,7 @@
       "id": "live-overall-more-autonomy-fewer-ndas-volunteers-have",
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
       "category": "overall",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to ...",
@@ -44,7 +44,7 @@
       "id": "live-overall-silicon-valley-claims-to-know-the-future",
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
       "category": "overall",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vi...",
@@ -53,10 +53,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Meta",
         "#Google",
-        "#UnitedNations",
-        "#OpenAI"
+        "#Meta",
+        "#OpenAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
       "details": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned&#8230;"
@@ -65,7 +65,7 @@
       "id": "live-overall-nvidia-privately-confirmed-it-could-trac",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questi",
       "category": "overall",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security ...",
@@ -74,9 +74,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
+        "#NVIDIA",
         "#AISecurity",
-        "#NVIDIA"
+        "#Governance"
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "details": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were \u201cpotentially infeasible.\u201d Foster, a Democrat who serves on the Committee on&#8230;"
@@ -85,7 +85,7 @@
       "id": "live-overall-the-download-cop31-s-climate-challenge-a",
       "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
       "category": "overall",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "MIT Tech Review AI",
       "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year\u2019s...",
@@ -103,7 +103,7 @@
       "id": "live-agentic_ai-build-a-robot-pick-and-place-simulation-",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "category": "agentic_ai",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -121,7 +121,7 @@
       "id": "live-agentic_ai-xybench-helping-with-the-problem-behind-",
       "title": "XYBench: Helping with the problem behind the question",
       "category": "agentic_ai",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -139,7 +139,7 @@
       "id": "live-agentic_ai-llama-cpp-v1-0-0-a-stronger-foundation-f",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "category": "agentic_ai",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -157,7 +157,7 @@
       "id": "live-agentic_ai-llmon-an-llm-native-markup-language-now-",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "category": "agentic_ai",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -175,7 +175,7 @@
       "id": "live-agentic_ai-the-definitive-fine-tuning-guide-for-3d-",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "category": "agentic_ai",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "HIGH",
       "company": "Hugging Face Blog",
       "tldr": "",
@@ -193,7 +193,7 @@
       "id": "live-models-introducing-chatgpt-wallet",
       "title": "Introducing ChatGPT Wallet",
       "category": "models",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
@@ -202,17 +202,36 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet",
       "details": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
     },
     {
+      "id": "live-models-shield-helps-technicians-hand-off-legacy",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "category": "models",
+      "date": "2026-11-14",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://openai.com/business/customer-stories/shield",
+      "details": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+    },
+    {
       "id": "live-models-how-amplitude-ships-product-improvements",
       "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
       "category": "models",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "HIGH",
       "company": "OpenAI Newsroom",
       "tldr": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
@@ -221,9 +240,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#OpenAI",
         "#Governance",
-        "#AgenticAI",
-        "#OpenAI"
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/business/customer-stories/amplitude",
       "details": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
@@ -232,7 +251,7 @@
       "id": "live-models-gondola-doubles-revenue-as-its-team-buil",
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "category": "models",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work.",
@@ -250,7 +269,7 @@
       "id": "live-models-holiday-extras-is-rethinking-what-it-can",
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "category": "models",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
       "tldr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
@@ -265,29 +284,10 @@
       "details": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
     },
     {
-      "id": "live-models-supporting-research-on-ai-and-children-s",
-      "title": "Supporting research on AI and children\u2019s safety",
-      "category": "models",
-      "date": "2026-11-13",
-      "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "specs": {
-        "source": "OpenAI Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#OpenAI"
-      ],
-      "sourceUrl": "https://openai.com/index/children-first-declaration",
-      "details": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
-    },
-    {
       "id": "live-companies-how-ai-is-helping-care-teams-get-patient",
       "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
       "category": "companies",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to wor...",
@@ -305,7 +305,7 @@
       "id": "live-companies-a-new-dawn-in-the-cloud-warhammer-40-000",
       "title": "A New Dawn in the Cloud: \u2018Warhammer 40,000: Dawn of War IV\u2019 Is Coming to GeForce NOW",
       "category": "companies",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There\u2019s mor...",
@@ -314,8 +314,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
       "details": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There\u2019s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon\u2019s Dogma 2: Dark Arisen brings new tales [\u2026]"
@@ -324,7 +324,7 @@
       "id": "live-companies-nvidia-announces-ceo-transition",
       "title": "NVIDIA Announces CEO Transition",
       "category": "companies",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
@@ -333,8 +333,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "details": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately."
@@ -343,7 +343,7 @@
       "id": "live-companies-how-ai-helps-recyclers-turn-mixed-waste-",
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "category": "companies",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "Vision AI and robotics pick what\u2019s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
@@ -352,8 +352,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "details": "Vision AI and robotics pick what\u2019s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills."
@@ -362,7 +362,7 @@
       "id": "live-companies-statement-from-the-independent-members-o",
       "title": "Statement From the Independent Members of the NVIDIA Board",
       "category": "companies",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NVIDIA Newsroom",
       "tldr": "The independent members of the NVIDIA Board have retained former acting U.S. Attorney of the Southern District of New York Joon H. Kim and his firm Wachtell, Lipton, Rosen & Katz t...",
@@ -371,18 +371,40 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#Governance",
-        "#UnitedNations",
-        "#NVIDIA"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
       "details": "The independent members of the NVIDIA Board have retained former acting U.S. Attorney of the Southern District of New York Joon H. Kim and his firm Wachtell, Lipton, Rosen & Katz to conduct a thorough and independent investigation as was announced on Sunday."
     },
     {
+      "id": "live-security-cisa-adds-two-known-exploited-vulnerabil",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "category": "security",
+      "date": "2026-11-14",
+      "impact": "HIGH",
+      "company": "CISA Cybersecurity",
+      "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutraliz...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#Fellowship",
+        "#AISecurity",
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
+    },
+    {
       "id": "live-security-siemens-desigo-gridscale",
       "title": "Siemens Desigo, Gridscale",
       "category": "security",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referr...",
@@ -391,8 +413,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#Governance",
+        "#DefenseAI",
         "#AISecurity",
         "#UnitedNations",
         "#Google"
@@ -404,7 +426,7 @@
       "id": "live-security-siemens-ruggedcom-ape1808",
       "title": "Siemens RUGGEDCOM APE1808",
       "category": "security",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial...",
@@ -413,9 +435,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#AISecurity",
         "#DefenseAI",
+        "#AISecurity",
+        "#Governance",
         "#UnitedNations"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
@@ -425,7 +447,7 @@
       "id": "live-security-siemens-ruggedcom-ape1808",
       "title": "Siemens RUGGEDCOM APE1808",
       "category": "security",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industr...",
@@ -434,8 +456,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
         "#Governance",
+        "#DefenseAI",
         "#AISecurity",
         "#UnitedNations",
         "#Google"
@@ -447,7 +469,7 @@
       "id": "live-security-siemens-building-automation-and-energy-p",
       "title": "Siemens Building Automation and Energy Products",
       "category": "security",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
       "tldr": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP langua...",
@@ -456,42 +478,20 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
-        "#DefenseAI",
         "#Governance",
+        "#DefenseAI",
         "#AISecurity",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Microsoft"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
       "details": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of impact of various Siemens software products. As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines, and to follow the recommendations in the product manuals. Siemens is actively monitoring the situation and assessing the implications of these vulnerabilities on our portfolio. Because this evaluation is ongoing, our findings are subject to change as new technical details and vendor updates emerge. We will publish updated findings, guidance, and remediation recommendations as soon as they become available. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens Building Automation and Energy Products are affected: AMIS TS vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX - S vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V2.0SP9 vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V3.1SP1 vers:all/* (CVE-2026-109618, CVE-2026-109619) Heliox Rapid vers:all/* ()Local Monitoring bt-monitoring-vm vers:intdot/&lt;20261103 (CVE-2026-109618, CVE-2026-109619) Spectrum Power 3 vers:all/* (CVE-2026-109619) Spectrum Power 4 vers:all/*, vers:all/*, vers:all/* (CVE-2026-109618, CVE-2026-109619, CVE-2026-109618, CVE-2026-109619, CVE-2026-109618, CVE-2026-109619) Spectrum Power 7 vers:all/* (CVE-2026-109618, CVE-2026-109619) Spectrum Power TG vers:all/* (CVE-2026-109618, CVE-2026-109619) CVSS Vendor Equipment v3 9.8 Siemens AMIS TS 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-109618 PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE). Read More 11 Affected Products AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details CVE-2026-109619 PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE). Read More 23 Affected Products AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 3 using IHM (NagiosXI) running on Red Hat Enterprise Linux version (RHEL) 7 Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 7 Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported these vulnerabilities to CISA. General Recommendations Operators of critical power systems (e.g. TSOs or DSOs) worldwide are usually required by regulations to build resilience into the power grids by applying multi-level redundant secondary protection schemes. It is therefore recommended that the operators check whether appropriate resilient protection measures are in place. The risk of cyber incidents impacting the grid's reliability can thus be minimized by virtue of the grid design. Siemens strongly recommends applying the provided security updates using the corresponding tooling and documented procedures made available with the product. If supported by the product, an automated means to apply the security updates across multiple product instances may be used. Siemens strongly recommends prior validation of any security update before being applied, and supervision by trained staff of the update process in the target environment. As a general security measure Siemens strongly recommends protecting network access with appropriate mechanisms (e.g. firewalls, segmentation, VPN). It is advised to configure the environment according to our operational guidelines in order to run the devices in a protected IT environment. Recommended security guidelines can be found at: https://www.siemens.com/gridsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-166980 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-26 Date Revision Summary 2026-10-26 1 Publication Date 2026-10-27 2 Updated the Known not affected list 2026-10-29 3 Added AMIS TS, Energy Engage V2.0SP9, Energy Engage V3.1SP1, Spectrum Power 3, Spectrum Power 4, Spectrum Power 7 and Spectrum Power TG to Affected Products and updated the list of known not affected 2026-11-05 4 Updated Known Not Affected and Known Affected Products list 2026-11-12 5 Initial CISA Republication of Siemens ProductCERT SSA-166980 advisory Legal Notice and Terms of Use"
     },
     {
-      "id": "live-security-siemens-industrial-edge-management",
-      "title": "Siemens Industrial Edge Management",
-      "category": "security",
-      "date": "2026-11-13",
-      "impact": "MODERATE",
-      "company": "CISA Cybersecurity",
-      "tldr": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Manag...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#DefenseAI",
-        "#Governance",
-        "#AISecurity",
-        "#UnitedNations",
-        "#Google"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-      "details": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM software stack, the affected functionality is not used or exposed. The same applies to IEDK. - Management Applications installed: Follow the specific mitigations until a fix is available. - Device Applications installed: Follow the specific mitigations until a fix is available. For Siemens-managed services, Industrial Edge Hub and Industrial Edge Management Cloud, appropriate Firewall/WAF protection has already been implemented. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Edge Management are affected: Cloud Connector Configurator vers:intdot/&lt;1.24.3 (CVE-2026-111497) Common Configurator&nbsp;(CC on IEM) vers:all/* (CVE-2026-111497) Common Configurator on Device&nbsp;(CC on Edge) vers:all/* (CVE-2026-111497) Data Flow Monitoring vers:intdot/&lt;3.0.18 (CVE-2026-111497) Databus Configurator vers:intdot/&lt;4.0.1 (CVE-2026-111497) DataXess Configurator vers:intdot/&lt;1.5.7 (CVE-2026-111497) Edge OPC UA Server Configurator vers:intdot/&lt;2.3.10 (CVE-2026-111497) Flow Creator Configurator vers:intdot/&lt;1.15.1 (CVE-2026-111497) Industrial Edge Hub vers:all/* (CVE-2026-111497) Industrial Edge Management Cloud vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens Cloud Connector Configurator 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-111497 A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1. Read More 10 Affected Products Cloud Connector Configurator &lt; V1.24.3 Product Status: known_affected Remediations Vendor fixUpdate to V1.24.3 or later version Industrial Edge Management Cloud Product Status: known_affected Remediations Vendor fixVulnerability fixed on central cloud service starting 2026-10-28; no user actions necessary Common Configurator&nbsp;(CC on IEM) Product Status: known_affected Remediations MitigationUninstall all Management Applications and protect your IEM instance with a Firewall/WAF until a fix is available None availableCurrently no fix is available Common Configurator on Device&nbsp;(CC on Edge) Product Status: known_affected Remediations MitigationStop Common Configurator on Device (CC on Edge) until a fix is available None availableCurrently no fix is available Data Flow Monitoring &lt; V3.0.18 Product Status: known_affected Remediations Vendor fixUpdate to V3.0.18 or later version Databus Configurator &lt; V4.0.1 Product Status: known_affected Remediations Vendor fixUpdate to V4.0.1 or later version DataXess Configurator &lt; V1.5.7 Product Status: known_affected Remediations Vendor fixUpdate to V1.5.7 or later version Edge OPC UA Server Configurator &lt; V2.3.10 Product Status: known_affected Remediations Vendor fixUpdate to V2.3.10 or later version Flow Creator Configurator &lt; V1.15.1 Product Status: known_affected Remediations Vendor fixUpdate to V1.15.1 or later version Industrial Edge Hub Product Status: known_affected Remediations Vendor fixVulnerability fixed on central cloud service starting 2026-10-29; no user actions necessary Additional Metrics Relevant CWE: CWE-787 Out-of-bounds Write CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends protecting network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends configuring the environment according to Siemens' operational guidelines for Industrial Security (https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-443410 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-30 Date Revision Summary 2026-10-30 1 Publication Date 2026-11-06 2 Added fix for Cloud Connector Configurator, Data Flow Monitoring, Databus Configurator, Edge OPC UA Server Configurator and Flow Creator Configurator; Added DataXess Configurator as affected product 2026-11-12 3 Initial CISA Republication of Siemens ProductCERT SSA-443410 advisory Legal Notice and Terms of Use"
-    },
-    {
       "id": "live-fellowships-podcast-the-laser-that-could-break-the-l",
       "title": "Podcast: The laser that could break the laws of physics",
       "category": "fellowships",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Jonathan Zuegel discusses the future of high-powered laser research in the United States, the ambitious NSF Optical Parametric...",
@@ -509,7 +509,7 @@
       "id": "live-fellowships-podcast-the-future-of-electronics-goes-b",
       "title": "Podcast: The future of electronics goes beyond circuit boards",
       "category": "fellowships",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF-supported researcher Ethan Secor discusses a specialized additive manufacturing technique, the materials involved, and the resulting circuits that can be customized for complex...",
@@ -527,7 +527,7 @@
       "id": "live-fellowships-new-dwarf-planet-candidate-discovered-by",
       "title": "New dwarf planet candidate discovered by NSF\u2013DOE Rubin Observatory",
       "category": "fellowships",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "NSF\u2013DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet. A preliminary data analysis shows that the object is orbiting...",
@@ -545,7 +545,7 @@
       "id": "live-fellowships-podcast-can-america-s-most-powerful-lase",
       "title": "Podcast: Can America's most powerful laser unlock the universe?",
       "category": "fellowships",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NSF News",
       "tldr": "U.S. National Science Foundation-supported researcher Louise Willingale discusses the most powerful laser in the United States, the NSF Zettawatt Equivalent Ultrashort Pulse Laser ...",
@@ -563,7 +563,7 @@
       "id": "live-fellowships-podcast-the-hidden-dna-code-that-control",
       "title": "Podcast: The hidden DNA code that controls your genes",
       "category": "fellowships",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "HIGH",
       "company": "NSF News",
       "tldr": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg dis...",
@@ -581,7 +581,7 @@
       "id": "live-military-defense-business-brief-this-ukraine-foun",
       "title": "Defense Business Brief: This Ukraine-founded drone maker is now worth $6 billion. What now?",
       "category": "military",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "",
@@ -600,7 +600,7 @@
       "id": "live-military-a-natural-gas-project-off-alaska-may-be-",
       "title": "A natural-gas project off Alaska may be a Russian ploy",
       "category": "military",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Surveys for the plant were funded by a UAE company steered by a Russian natural-gas giant under U.S. sanction.",
@@ -618,7 +618,7 @@
       "id": "live-military-gop-tries-to-speed-walk-search-for-gao-s",
       "title": "GOP tries to speed-walk search for GAO's next chief",
       "category": "military",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Given 24 hours to name candidates, Democrats decry efforts to \"ram through another Trump crony.\"",
@@ -636,7 +636,7 @@
       "id": "live-military-robot-wars-defense-one-futures-ep-1",
       "title": "'Robot Wars': Defense One Futures, Ep. 1",
       "category": "military",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "HIGH",
       "company": "Defense One AI",
       "tldr": "The U.S. military and its NATO allies are rethinking how they buy, build, and train in the age of autonomy and AI.",
@@ -654,7 +654,7 @@
       "id": "live-military-keep-us-troops-in-nato-s-kfor",
       "title": "Keep US troops in NATO\u2019s KFOR",
       "category": "military",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "Defense One AI",
       "tldr": "Pulling them out would save almost nothing while handing Moscow a cheap strategic win.",
@@ -672,7 +672,7 @@
       "id": "live-governance-self-employed-solopreneur-nist-has-a-cyb",
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
@@ -681,8 +681,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AISecurity",
+        "#Governance",
         "#EUAIAct"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
@@ -692,7 +692,7 @@
       "id": "live-governance-nist-report-provides-guidelines-for-tran",
       "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing...",
@@ -710,7 +710,7 @@
       "id": "live-governance-new-chip-based-tape-measure-for-light-co",
       "title": "New Chip-Based \u2018Tape Measure\u2019 for Light Could Revolutionize Mobile Timekeeping and Enhance National ",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
@@ -729,7 +729,7 @@
       "id": "live-governance-nist-joins-white-house-effort-to-drive-a",
       "title": "NIST Joins White House Effort to Drive \u2018A New Golden Age of Science\u2019",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "As the nation\u2019s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
@@ -747,7 +747,7 @@
       "id": "live-governance-nist-study-shows-how-the-toxic-substance",
       "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over T",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "NIST News",
       "tldr": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
@@ -765,7 +765,7 @@
       "id": "live-governance-commission-preliminarily-finds-tiktok-s-",
       "title": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful \u2018rabbit holes\u2019 effect Anonymous (not verified) Fri, 11/06/2026 - 12:09 The Euro...",
@@ -785,7 +785,7 @@
       "id": "live-governance-independent-study-on-the-impact-of-age-a",
       "title": "Independent study on the impact of age assurance on fundamental rights and costs for businesses",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Independent study on the impact of age assurance on fundamental rights and costs for businesses Anonymous (not verified) Wed, 11/04/2026 - 15:04 An independent study analyses the i...",
@@ -794,8 +794,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
         "#AISecurity",
+        "#Governance",
         "#EUAIAct",
         "#UnitedNations"
       ],
@@ -806,7 +806,7 @@
       "id": "live-governance-call-for-evidence-on-advertising-reposit",
       "title": "Call for evidence on advertising repositories",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is s...",
@@ -826,7 +826,7 @@
       "id": "live-governance-call-for-proposals-eu-ai-media-platform-",
       "title": "Call for proposals: EU AI Media Platform \u2013 Modular multilingual public-interest infrastructure for E",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "MODERATE",
       "company": "EU Digital Strategy",
       "tldr": "Call for proposals: EU AI Media Platform \u2013 Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI Anonymous (not verified) Tue,...",
@@ -846,7 +846,7 @@
       "id": "live-governance-web-summit-2026",
       "title": "Web Summit 2026",
       "category": "governance",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "impact": "HIGH",
       "company": "EU Digital Strategy",
       "tldr": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main ...",
@@ -860,97 +860,6 @@
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
       "details": "Web Summit 2026 Anonymous (not verified) Tue, 11/03/2026 - 11:13 &nbsp; 10 November 2026 - 12 November 2026 DG Connect will be at Web Summit in Lisbon from 10 to 12 November. Main link https://digital-strategy.ec.europa.eu/en/news/digitaleu-web-summit-2026-support\u2026 Related topics Cloud computing Start-ups High-performance computing Data policy Quantum computing Artificial intelligence EU funding for digital"
-    },
-    {
-      "id": "live-multilateral-lives-are-at-stake-humanitarians-call-fo",
-      "title": "\u2018Lives are at stake\u2019: Humanitarians call for swift entry of winter supplies in Gaza",
-      "category": "multilateral",
-      "date": "2026-11-13",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Winter supplies must enter the Gaza Strip where \u201clives are at stake\u201d, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.&nbsp...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168799",
-      "details": "Winter supplies must enter the Gaza Strip where \u201clives are at stake\u201d, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-cop31-new-initiative-targets-ai-and-reli",
-      "title": "COP31: New initiative targets AI and reliable climate change information",
-      "category": "multilateral",
-      "date": "2026-11-13",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology imp...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168798",
-      "details": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-dr-congo-ebola-outbreak-unrest-fuelled-b",
-      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-      "category": "multilateral",
-      "date": "2026-11-13",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed gro...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168797",
-      "details": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday."
-    },
-    {
-      "id": "live-multilateral-six-killed-in-israeli-airstrike-on-gaza-",
-      "title": "Six killed in Israeli airstrike on Gaza\u2019s Nasser Hospital",
-      "category": "multilateral",
-      "date": "2026-11-13",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "An Israeli airstrike on Gaza\u2019s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168796",
-      "details": "An Israeli airstrike on Gaza\u2019s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-aid-is-the-only-hope-for-millions-in-sud",
-      "title": "Aid is the \u2018only hope\u2019 for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
-      "category": "multilateral",
-      "date": "2026-11-13",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The World Food Programme\u2019s (WFP) new Executive Director has warned that funding cuts are worsening Sudan\u2019s hunger crisis following his first field mission to the country, where he ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168793",
-      "details": "The World Food Programme\u2019s (WFP) new Executive Director has warned that funding cuts are worsening Sudan\u2019s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.&nbsp;"
     }
   ]
 }
