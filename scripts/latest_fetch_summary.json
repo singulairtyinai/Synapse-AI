@@ -1,7 +1,80 @@
 {
-  "timestamp": "2026-11-17T12:51:02.131503",
+  "timestamp": "2026-11-17T23:22:59.475033",
   "fetched_count": 50,
   "nodes": [
+    {
+      "id": "live-overall-roundtables-inside-the-quest-for-cogniti",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "category": "overall",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyo...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "details": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;"
+    },
+    {
+      "id": "live-overall-hydropower-hit-record-lows-in-the-us-sou",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "category": "overall",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administratio...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "details": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an&#8230;"
+    },
+    {
+      "id": "live-overall-research-reports",
+      "title": "Research Reports",
+      "category": "overall",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "To access a report, click on the corresponding image below.",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "details": "To access a report, click on the corresponding image below."
+    },
+    {
+      "id": "live-overall-the-download-jensen-huang-s-open-source-",
+      "title": "The Download: Jensen Huang\u2019s open-source dilemma and cognitive immortality",
+      "category": "overall",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#NVIDIA"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;"
+    },
     {
       "id": "live-overall-the-open-source-movement-wants-jensen-hu",
       "title": "The open-source movement wants Jensen Huang back",
@@ -19,82 +92,6 @@
       ],
       "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
       "details": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;"
-    },
-    {
-      "id": "live-overall-building-trustworthy-ai-by-fencing-it-in",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "category": "overall",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "details": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn\u2019t. No rule had told the agents to do&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-testing-tech-promises-and-s",
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "category": "overall",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technolo...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series \u201cAre&#8230;"
-    },
-    {
-      "id": "live-overall-building-ai-that-can-work-across-the-ent",
-      "title": "Building AI that can work across the enterprise",
-      "category": "overall",
-      "date": "2026-11-17",
-      "impact": "HIGH",
-      "company": "MIT Tech Review AI",
-      "tldr": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to l...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "details": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;"
-    },
-    {
-      "id": "live-overall-the-download-silicon-valley-s-blind-spot",
-      "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
-      "category": "overall",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know ...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;"
     },
     {
       "id": "live-agentic_ai-hugging-face-and-openrouter-join-forces-",
@@ -187,6 +184,26 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-microsoft-announces-next-chapter-of-offi",
+      "title": "Microsoft announces \"next chapter\" of Office with a focus on agentic AI systems",
+      "category": "agentic_ai",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/ Comments URL: https://news.ycombinator.com/item?id=50...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#UnitedNations",
+        "#Microsoft"
+      ],
+      "sourceUrl": "https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/",
+      "details": "Article URL: https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/ Comments URL: https://news.ycombinator.com/item?id=50536363 Points: 4 # Comments: 0"
+    },
+    {
       "id": "live-agentic_ai-agentic-ai-attacks-nobody-s-talking-abou",
       "title": "Agentic AI Attacks Nobody's Talking About (Yet)",
       "category": "agentic_ai",
@@ -259,23 +276,22 @@
       "details": "Article URL: https://redmonk.com/videos/rich-larin/ Comments URL: https://news.ycombinator.com/item?id=50466586 Points: 2 # Comments: 0"
     },
     {
-      "id": "live-agentic_ai-agentic-ai-for-military-cyberoperations-",
-      "title": "Agentic AI for Military Cyberoperations (West Point Press) [pdf]",
-      "category": "agentic_ai",
+      "id": "live-models-introducing-gpt-6-2-astra-and-sol",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "category": "models",
       "date": "2026-11-17",
-      "impact": "HIGH",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf Comments URL: https://news.ycombinator.com/item?id=50460559 Points: 3...",
+      "impact": "MODERATE",
+      "company": "OpenAI Newsroom",
+      "tldr": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "specs": {
-        "source": "HackerNews Agentic AI",
+        "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#AgenticAI"
+        "#OpenAI"
       ],
-      "sourceUrl": "https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf",
-      "details": "Article URL: https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf Comments URL: https://news.ycombinator.com/item?id=50460559 Points: 3 # Comments: 0"
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "details": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
     },
     {
       "id": "live-models-strengthening-nato-and-allied-cyber-defe",
@@ -290,20 +306,20 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#DefenseAI"
+        "#DefenseAI",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "details": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
     },
     {
-      "id": "live-models-broadening-access-to-ai-for-scientists",
-      "title": "Broadening access to AI for scientists",
+      "id": "live-models-introducing-chatgpt-for-sales",
+      "title": "Introducing ChatGPT for Sales",
       "category": "models",
       "date": "2026-11-17",
-      "impact": "HIGH",
+      "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "tldr": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
       "specs": {
         "source": "OpenAI Newsroom",
         "type": "Live RSS Feed"
@@ -311,64 +327,104 @@
       "tags": [
         "#OpenAI"
       ],
-      "sourceUrl": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "details": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "details": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
     },
     {
-      "id": "live-models-strengthening-the-fight-against-online-c",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "id": "live-models-astra-for-law-leads-in-legal-intelligenc",
+      "title": "Astra for Law leads in legal intelligence",
+      "category": "models",
+      "date": "2026-11-17",
+      "impact": "HIGH",
+      "company": "OpenAI Newsroom",
+      "tldr": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "specs": {
+        "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://openai.com/index/astra-law-6-2",
+      "details": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+    },
+    {
+      "id": "live-models-introducing-openai-for-chile",
+      "title": "Introducing OpenAI for Chile",
       "category": "models",
       "date": "2026-11-17",
       "impact": "MODERATE",
       "company": "OpenAI Newsroom",
-      "tldr": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "tldr": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "specs": {
         "source": "OpenAI Newsroom",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#OpenAI"
+      ],
+      "sourceUrl": "https://openai.com/index/introducing-openai-for-chile",
+      "details": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+    },
+    {
+      "id": "live-companies-nvidia-expands-commitments-with-supply-c",
+      "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+      "category": "companies",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "News Summary: New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. NVIDIA's wo...",
+      "specs": {
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#Governance",
-        "#OpenAI"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/strengthening-online-child-safety",
-      "details": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "details": "News Summary: New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. NVIDIA's work with ..."
     },
     {
-      "id": "live-models-science-at-the-frontier-how-scientists-u",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "category": "models",
+      "id": "live-companies-nvidia-announces-financial-results-for-t",
+      "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+      "category": "companies",
       "date": "2026-11-17",
       "impact": "MODERATE",
-      "company": "OpenAI Newsroom",
-      "tldr": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "company": "NVIDIA Newsroom",
+      "tldr": "Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platfo...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/index/science-at-the-frontier",
-      "details": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "details": "Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever ..."
     },
     {
-      "id": "live-models-how-revolut-raises-ambition-without-lowe",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "category": "models",
+      "id": "live-companies-ian-buck-kicks-off-nvidia-s-week-at-sc26",
+      "title": "Ian Buck Kicks Off NVIDIA\u2019s Week at SC26 as Science Enters the Age of Agents",
+      "category": "companies",
       "date": "2026-11-17",
-      "impact": "HIGH",
-      "company": "OpenAI Newsroom",
-      "tldr": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30\u201360%, scale financial crime investigations, and innovate without compromising security.",
+      "impact": "MODERATE",
+      "company": "NVIDIA Newsroom",
+      "tldr": "NVIDIA\u2019s Ian Buck kicked off the company\u2019s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researc...",
       "specs": {
-        "source": "OpenAI Newsroom",
+        "source": "NVIDIA Newsroom",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AISecurity",
-        "#OpenAI"
+        "#AgenticAI",
+        "#UnitedNations",
+        "#NVIDIA"
       ],
-      "sourceUrl": "https://openai.com/business/customer-stories/revolut",
-      "details": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30\u201360%, scale financial crime investigations, and innovate without compromising security."
+      "sourceUrl": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "details": "NVIDIA\u2019s Ian Buck kicked off the company\u2019s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers\u2019 own systems. In NVIDIA\u2019s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance [\u2026]"
     },
     {
       "id": "live-companies-nvidia-board-of-directors-establishes-na",
@@ -384,8 +440,8 @@
       },
       "tags": [
         "#AISecurity",
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
       "details": "NVIDIA (NASDAQ: NVDA) today announced that the Board of Directors has established the National Security and Export Control Oversight Committee, a new standing committee responsible for board-level oversight of the company\u2019s national security policies, export control compliance and global trade risk management."
@@ -409,93 +465,13 @@
       "details": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming [\u2026]"
     },
     {
-      "id": "live-companies-how-the-world-s-most-advanced-ai-infrast",
-      "title": "How the World\u2019s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "category": "companies",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn\u2019t begin to encompass ...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#NVIDIA",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-      "details": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn\u2019t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the [\u2026]"
-    },
-    {
-      "id": "live-companies-lambda-boosts-ai-factory-resiliency-and-",
-      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "category": "companies",
-      "date": "2026-11-17",
-      "impact": "HIGH",
-      "company": "NVIDIA Newsroom",
-      "tldr": "To train an AI model, thousands of GPUs have to work together, requiring a network that\u2019s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVI...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#NVIDIA"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/lambda-photonics/",
-      "details": "To train an AI model, thousands of GPUs have to work together, requiring a network that\u2019s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering [\u2026]"
-    },
-    {
-      "id": "live-companies-nvidia-expands-slurm-to-bring-quantum-co",
-      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-      "category": "companies",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "NVIDIA Newsroom",
-      "tldr": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the proc...",
-      "specs": {
-        "source": "NVIDIA Newsroom",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-      "details": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows [\u2026]"
-    },
-    {
-      "id": "live-security-cisa-adds-two-known-exploited-vulnerabil",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "category": "security",
-      "date": "2026-11-17",
-      "impact": "HIGH",
-      "company": "CISA Cybersecurity",
-      "tldr": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutraliz...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#EUAIAct",
-        "#Fellowship",
-        "#AISecurity",
-        "#Governance",
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "details": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
-    },
-    {
-      "id": "live-security-siemens-desigo-gridscale",
-      "title": "Siemens Desigo, Gridscale",
+      "id": "live-security-siemens-ros",
+      "title": "Siemens ROS#",
       "category": "security",
       "date": "2026-11-17",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
-      "tldr": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referr...",
+      "tldr": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user ...",
       "specs": {
         "source": "CISA Cybersecurity",
         "type": "Live RSS Feed"
@@ -504,76 +480,93 @@
         "#DefenseAI",
         "#AISecurity",
         "#Governance",
-        "#UnitedNations",
-        "#Google"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
-      "details": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Desigo, Gridscale are affected: Desigo CC family V8 vers:all/* (CVE-2026-111497) Desigo CC family V9 vers:all/* (CVE-2026-111497) Gridscale X DSA vers:intdot/&gt;=5.3|&lt;5.4 (CVE-2026-111497) Gridscale X PSS\u00aeE vers:intdot/&lt;36.8.0 (CVE-2026-111497) &nbsp; CVSS Vendor Equipment v3 9.8 Siemens Desigo CC family V8 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-111497 A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1. Read More 4 Affected Products Desigo CC family V8 Product Status: known_affected, known_not_affected Remediations Vendor fixInstall the latest .NET security updates via Windows Update. Desigo CC family V9 Product Status: known_affected, known_not_affected Remediations Vendor fixInstall the latest .NET security updates via Windows Update. Gridscale X DSA &gt;= V5.3 &lt; V5.4 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V5.4 or later version Gridscale X PSS\u00aeE &lt; V36.8.0 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V36.8.0 or later version Additional Metrics Relevant CWE: CWE-787 Out-of-bounds Write CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations Operators of critical power systems (e.g. TSOs or DSOs) worldwide are usually required by regulations to build resilience into the power grids by applying multi-level redundant secondary protection schemes. It is therefore recommended that the operators check whether appropriate resilient protection measures are in place. The risk of cyber incidents impacting the grid's reliability can thus be minimized by virtue of the grid design. Siemens strongly recommends applying the provided security updates using the corresponding tooling and documented procedures made available with the product. If supported by the product, an automated means to apply the security updates across multiple product instances may be used. Siemens strongly recommends prior validation of any security update before being applied, and supervision by trained staff of the update process in the target environment. As a general security measure Siemens strongly recommends to protect network access with appropriate mechanisms (e.g. firewalls, segmentation, VPN). It is advised to configure the environment according to our operational guidelines in order to run the devices in a protected IT environment. Recommended security guidelines can be found at: https://www.siemens.com/gridsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-045512 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-30 Date Revision Summary 2026-10-30 1 Publication Date 2026-11-04 2 Added Desigo CC to the affected products list. 2026-11-06 3 Added Gridscale X DSA and PSSE to the list of affected products 2026-11-12 4 Initial CISA Republication of Siemens ProductCERT SSA-045512 advisory Legal Notice and Terms of Use"
-    },
-    {
-      "id": "live-security-siemens-ruggedcom-ape1808",
-      "title": "Siemens RUGGEDCOM APE1808",
-      "category": "security",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "CISA Cybersecurity",
-      "tldr": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#Governance",
-        "#DefenseAI",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-      "details": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications.&nbsp; The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-109618, CVE-2026-109619) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM APE1808 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-109618 PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE). Read More 1 Affected Product RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS (10.2 All, 11.1 All, 11.2 All, 12.1 All, 12.2 All) Product Status: known_affected Remediations Vendor fixUpgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details CVE-2026-109619 PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE). Read More 2 Affected Products RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS (10.2 All, 11.1 All, 11.2 All, 12.1 All, 12.2 All) Product Status: known_affected Remediations Vendor fixUpgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS (10.2 All, 11.1 All, 11.2 All, 12.1 All, 12.2 All) Product Status: known_affected Remediations Vendor fixUpgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported these vulnerabilities to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-566512 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-23 Date Revision Summary 2026-10-23 1 Publication Date 2026-10-28 2 Updated Remediation to include PAN-OS 2026-11-04 3 Adjusted history entry of V1.1 2026-11-12 4 Initial CISA Republication of Siemens ProductCERT SSA-566512 advisory Legal Notice and Terms of Use"
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "details": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens ROS# are affected: ROS# vers:intdot/&lt;2.3.1 (CVE-2026-109097) CVSS Vendor Equipment v3 8.2 Siemens ROS# 1 Vulnerability Improper Control of Generation of Code ('Code Injection') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-109097 Affected systems do not properly escape text of message definition files. This could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Read More 1 Affected Product ROS# &lt; V2.3.1 Product Status: known_affected Remediations Vendor fixUpdate to V2.3.1 or later version Additional Metrics Relevant CWE: CWE-94 Improper Control of Generation of Code ('Code Injection') CVSS Version Base Score Base Severity Vector String 3.1 8.2 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-435267 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-11-10 Date Revision Summary 2026-11-10 1 Publication Date 2026-11-17 2 Initial CISA Republication of Siemens ProductCERT SSA-435267 advisory Legal Notice and Terms of Use"
     },
     {
-      "id": "live-security-siemens-ruggedcom-ape1808",
-      "title": "Siemens RUGGEDCOM APE1808",
+      "id": "live-security-dorsett-controls-infoscan",
+      "title": "Dorsett Controls InfoScan",
       "category": "security",
       "date": "2026-11-17",
       "impact": "MODERATE",
       "company": "CISA Cybersecurity",
-      "tldr": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industr...",
+      "tldr": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, ...",
       "specs": {
         "source": "CISA Cybersecurity",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#DefenseAI",
-        "#AISecurity",
-        "#Governance",
-        "#UnitedNations",
-        "#Google"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
-      "details": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications.&nbsp; The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM APE1808 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-111497 A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1. Read More 1 Affected Product RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS Product Status: known_affected Remediations Vendor fixUpgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-787 Out-of-bounds Write CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends protecting network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends configuring the environment according to Siemens' operational guidelines for Industrial Security (https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-898633 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-30 Date Revision Summary 2026-10-30 1 Publication Date 2026-11-12 2 Initial CISA Republication of Siemens ProductCERT SSA-898633 advisory Legal Notice and Terms of Use"
-    },
-    {
-      "id": "live-security-siemens-building-automation-and-energy-p",
-      "title": "Siemens Building Automation and Energy Products",
-      "category": "security",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "CISA Cybersecurity",
-      "tldr": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP langua...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Microsoft",
         "#DefenseAI",
         "#AISecurity",
         "#Governance",
         "#UnitedNations"
       ],
-      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-      "details": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of impact of various Siemens software products. As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines, and to follow the recommendations in the product manuals. Siemens is actively monitoring the situation and assessing the implications of these vulnerabilities on our portfolio. Because this evaluation is ongoing, our findings are subject to change as new technical details and vendor updates emerge. We will publish updated findings, guidance, and remediation recommendations as soon as they become available. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens Building Automation and Energy Products are affected: AMIS TS vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX - S vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V2.0SP9 vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V3.1SP1 vers:all/* (CVE-2026-109618, CVE-2026-109619) Heliox Rapid vers:all/* ()Local Monitoring bt-monitoring-vm vers:intdot/&lt;20261103 (CVE-2026-109618, CVE-2026-109619) Spectrum Power 3 vers:all/* (CVE-2026-109619) Spectrum Power 4 vers:all/*, vers:all/*, vers:all/* (CVE-2026-109618, CVE-2026-109619, CVE-2026-109618, CVE-2026-109619, CVE-2026-109618, CVE-2026-109619) Spectrum Power 7 vers:all/* (CVE-2026-109618, CVE-2026-109619) Spectrum Power TG vers:all/* (CVE-2026-109618, CVE-2026-109619) CVSS Vendor Equipment v3 9.8 Siemens AMIS TS 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-109618 PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE). Read More 11 Affected Products AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details CVE-2026-109619 PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE). Read More 23 Affected Products AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 AMIS TS Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available blueplanet 360 NX3 M6 WM OD IISX Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Energy Engage V2.0SP9 Product Status: known_affected, known_not_affected Remediations No fix plannedCurrently no fix is planned Energy Engage V3.1SP1 Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.1.34 release 6 blueplanet 360 NX3 M6 WM OD IISX - S Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Local Monitoring bt-monitoring-vm &lt; V20261103 Product Status: known_affected, known_not_affected Remediations Vendor fixUpdate to V20261103 or later version Spectrum Power 3 using IHM (NagiosXI) running on Red Hat Enterprise Linux version (RHEL) 7 Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 7 Spectrum Power 4 using Nagios or Zabbix Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with Web Office Portal V3.0, V3.1 and V3.2 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 4 with HISViews V1.0 Product Status: known_affected, known_not_affected Remediations None availableCurrently no fix is available Spectrum Power 7 using IHM (NagiosXI) Product Status: known_affected, known_not_affected Remediations Vendor fixRed Hat released a PHP security patch for RHEL 8 and 9 Spectrum Power TG which are based on Microsoft Windows using the WebConsole and WebQuery components Product Status: known_affected, known_not_affected Remediations Vendor fixUpgrade PHP version to V8.5.12 Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported these vulnerabilities to CISA. General Recommendations Operators of critical power systems (e.g. TSOs or DSOs) worldwide are usually required by regulations to build resilience into the power grids by applying multi-level redundant secondary protection schemes. It is therefore recommended that the operators check whether appropriate resilient protection measures are in place. The risk of cyber incidents impacting the grid's reliability can thus be minimized by virtue of the grid design. Siemens strongly recommends applying the provided security updates using the corresponding tooling and documented procedures made available with the product. If supported by the product, an automated means to apply the security updates across multiple product instances may be used. Siemens strongly recommends prior validation of any security update before being applied, and supervision by trained staff of the update process in the target environment. As a general security measure Siemens strongly recommends protecting network access with appropriate mechanisms (e.g. firewalls, segmentation, VPN). It is advised to configure the environment according to our operational guidelines in order to run the devices in a protected IT environment. Recommended security guidelines can be found at: https://www.siemens.com/gridsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-166980 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-26 Date Revision Summary 2026-10-26 1 Publication Date 2026-10-27 2 Updated the Known not affected list 2026-10-29 3 Added AMIS TS, Energy Engage V2.0SP9, Energy Engage V3.1SP1, Spectrum Power 3, Spectrum Power 4, Spectrum Power 7 and Spectrum Power TG to Affected Products and updated the list of known not affected 2026-11-05 4 Updated Known Not Affected and Known Affected Products list 2026-11-12 5 Initial CISA Republication of Siemens ProductCERT SSA-166980 advisory Legal Notice and Terms of Use"
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+      "details": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Controls InfoScan are affected: InfoScan &lt;=1.45.0 (CVE-2026-117659, CVE-2026-120157, CVE-2026-120255, CVE-2026-120260, CVE-2026-120271, CVE-2026-120298) CVSS Vendor Equipment v3 8.1 Dorsett Controls InfoScan 5 Vulnerabilities Improper Certificate Validation, Exposure of Sensitive System Information to an Unauthorized Control Sphere, Use of Hard-coded Cryptographic Key, Missing Authentication for Critical Function, Generation of Error Message Containing Sensitive Information Background Critical Infrastructure Sectors: Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-117659 The InfoScan Electron desktop client improperly handles TLS certificate errors by accepting certificates without validating their trustworthiness. The client also configures Electron with nodeIntegration enabled, contextIsolation disabled, and webSecurity disabled. These settings weaken the client\u2019s security boundaries. An attacker who is able to intercept or manipulate network communications may be able to present an untrusted certificate without the application rejecting the connection. Read More 1 Affected Product Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Additional Metrics Relevant CWE: CWE-295 Improper Certificate Validation CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N 4.0 8.5 HIGH CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N View CVE Details CVE-2026-120157 The publicly distributed InfoScan Electron installer contains configuration files identifying hostnames associated with customer installations and internal development, testing, and database infrastructure. An individual who obtains and inspects the installer can extract these hostnames without authenticating to the affected systems. Read More 2 Affected Products Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Additional Metrics Relevant CWE: CWE-497 Exposure of Sensitive System Information to an Unauthorized Control Sphere CVSS Version Base Score Base Severity Vector String 3.1 5.3 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N 4.0 6.9 MEDIUM CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N View CVE Details CVE-2026-120255 InfoScan uses hard-coded cryptographic keys and initialization-vector values in its database-encryption implementation. The application uses these values to encrypt the MongoDB password before storing it in the Windows registry. Because the cryptographic material is embedded in the distributed application, an individual with access to the encrypted registry value and the application code may be able to recover the database password. Read More 3 Affected Products Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Additional Metrics Relevant CWE: CWE-321 Use of Hard-coded Cryptographic Key CVSS Version Base Score Base Severity Vector String 3.1 4.3 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N 4.0 5.1 MEDIUM CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N View CVE Details CVE-2026-120260 InfoScan does not enforce authentication on an endpoint used to retrieve sales-automation templates. A local attacker can submit an HTTP request to the affected endpoint without a valid session and retrieve the returned template data. Read More 4 Affected Products Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Additional Metrics Relevant CWE: CWE-306 Missing Authentication for Critical Function CVSS Version Base Score Base Severity Vector String 3.1 5.5 MEDIUM CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N 4.0 6.8 MEDIUM CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N View CVE Details CVE-2026-120271 InfoScan contains an unauthenticated information disclosure vulnerability in its mobile-enumeration and version-reporting endpoints. A remote attacker can send HTTP requests without authentication to retrieve system configuration information, including usernames and display names, multifactor authentication configuration status, session settings, application version information, server details, hardware module firmware versions, and the BACnet/IP port used by the installation. Read More 5 Affected Products Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Additional Metrics Relevant CWE: CWE-497 Exposure of Sensitive System Information to an Unauthorized Control Sphere CVSS Version Base Score Base Severity Vector String 3.1 5.3 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N 4.0 6.9 MEDIUM CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N View CVE Details CVE-2026-120298 InfoScan fails to properly handle certain malformed or incomplete requests to its login and password-reset endpoints. These requests can trigger unhandled server exceptions that return detailed Node.js stack traces to the requester. The responses disclose internal filesystem paths, application directory names, source file locations, and line numbers. Read More 6 Affected Products Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Dorsett Controls InfoScan &lt;=1.45.0 Product Status: known_affected Remediations Vendor fixDorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal. Additional Metrics Relevant CWE: CWE-209 Generation of Error Message Containing Sensitive Information CVSS Version Base Score Base Severity Vector String 3.1 5.3 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N 4.0 6.9 MEDIUM CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N View CVE Details Acknowledgments Cyber-Tim reported these vulnerabilities to CISA. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time. Revision History Initial Release Date: 2026-11-17 Date Revision Summary 2026-11-17 1 Initial Publication Legal Notice and Terms of Use"
+    },
+    {
+      "id": "live-security-siemens-mendix-studio-pro",
+      "title": "Siemens Mendix Studio Pro",
+      "category": "security",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "CISA Cybersecurity",
+      "tldr": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or tr...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI",
+        "#AISecurity",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
+      "details": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool execution, or system compromise. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix Studio Pro are affected: Mendix Studio Pro 11 vers:intdot/&gt;=11.15.0|&lt;11.16.0 (CVE-2026-112136, CVE-2026-112137) Mendix Studio Pro 11.12 vers:intdot/&gt;=11.12.6|&lt;11.12.7 (CVE-2026-112136, CVE-2026-112137) CVSS Vendor Equipment v3 8.8 Siemens Mendix Studio Pro 11 2 Vulnerabilities Binding to an Unrestricted IP Address, Cross-Site Request Forgery (CSRF) Background Critical Infrastructure Sectors: Critical Manufacturing, Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-112136 The affected products MCP Server does not properly restrict its HTTP listener to the loopback interface, leaving it potentially exposed to remote systems. This could allow an attacker with network access to interact with the MCP Server remotely. Read More 2 Affected Products Mendix Studio Pro 11 &gt;= V11.15.0 &lt; V11.16.0 Product Status: known_affected Remediations MitigationMaintain strict inbound firewall policies (such as Windows Defender Firewall) blocking external traffic on port 7782. This is already the case by default on standard Windows installations. If remote access is required, restrict traffic via a secure, authenticated channel (e.g., a VPN or SSH tunnel) rather than opening direct inbound firewall rules. Vendor fixUpdate to V11.16.0 or later version Mendix Studio Pro 11.12 &gt;= V11.12.6 &lt; V11.12.7 Product Status: known_affected Remediations MitigationMaintain strict inbound firewall policies (such as Windows Defender Firewall) blocking external traffic on port 7782. This is already the case by default on standard Windows installations. If remote access is required, restrict traffic via a secure, authenticated channel (e.g., a VPN or SSH tunnel) rather than opening direct inbound firewall rules. Vendor fixUpdate to V11.12.7 or later version Additional Metrics Relevant CWE: CWE-1327 Binding to an Unrestricted IP Address CVSS Version Base Score Base Severity Vector String 3.1 8.8 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H View CVE Details CVE-2026-112137 The affected products MCP Server does not properly validate Content-Type and Origin headers on incoming HTTP requests, leaving it vulnerable to Cross-Site Request Forgery (CSRF). This could allow a malicious web page to trick a user's browser into sending unauthorized requests and executing unintended actions on the local MCP Server. Read More 4 Affected Products Mendix Studio Pro 11 &gt;= V11.15.0 &lt; V11.16.0 Product Status: known_affected Remediations MitigationUtilize modern Chromium- or WebKit-based browsers with Private Network Access protections enabled, or use browser extensions (such as uBlock Origin or NoScript) to block external websites from issuing fetch requests to localhost (127.0.0.1). Vendor fixUpdate to V11.16.0 or later version Mendix Studio Pro 11.12 &gt;= V11.12.6 &lt; V11.12.7 Product Status: known_affected Remediations MitigationUtilize modern Chromium- or WebKit-based browsers with Private Network Access protections enabled, or use browser extensions (such as uBlock Origin or NoScript) to block external websites from issuing fetch requests to localhost (127.0.0.1). Vendor fixUpdate to V11.12.7 or later version Mendix Studio Pro 11 &gt;= V11.15.0 &lt; V11.16.0 Product Status: known_affected Remediations MitigationUtilize modern Chromium- or WebKit-based browsers with Private Network Access protections enabled, or use browser extensions (such as uBlock Origin or NoScript) to block external websites from issuing fetch requests to localhost (127.0.0.1). Vendor fixUpdate to V11.16.0 or later version Mendix Studio Pro 11.12 &gt;= V11.12.6 &lt; V11.12.7 Product Status: known_affected Remediations MitigationUtilize modern Chromium- or WebKit-based browsers with Private Network Access protections enabled, or use browser extensions (such as uBlock Origin or NoScript) to block external websites from issuing fetch requests to localhost (127.0.0.1). Vendor fixUpdate to V11.12.7 or later version Additional Metrics Relevant CWE: CWE-352 Cross-Site Request Forgery (CSRF) CVSS Version Base Score Base Severity Vector String 3.1 5.4 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:L View CVE Details Acknowledgments Siemens ProductCERT reported these vulnerabilities to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-710379 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-11-10 Date Revision Summary 2026-11-10 1 Publication Date 2026-11-16 2 Mapped the advisory to Mendix products to be present on the Mendix Atom Feed 2026-11-17 3 Initial CISA Republication of Siemens ProductCERT SSA-710379 advisory Legal Notice and Terms of Use"
+    },
+    {
+      "id": "live-security-siemens-net-client-library-for-simatic-s",
+      "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+      "category": "security",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "CISA Cybersecurity",
+      "tldr": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI",
+        "#AISecurity",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+      "details": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and recommends to update to the latest version. The following versions of Siemens .NET Client Library for SIMATIC S7 Webserver API are affected: .NET Client Library for SIMATIC S7 Webserver API vers:intdot/&lt;3.3.61, vers:intdot/&lt;3.3.62 (CVE-2026-85114, CVE-2026-85115) CVSS Vendor Equipment v3 7.5 Siemens .NET Client Library for SIMATIC S7 Webserver API 2 Vulnerabilities Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'), Generation of Error Message Containing Sensitive Information Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-85114 Affected applications do not properly validate filenames received from remote servers during ticket downloads. This could allow an attacker who can manipulate the ticket response to write arbitrary files outside the intended download directory and, when overwriting is enabled, replace existing files accessible to the application. Read More 1 Affected Product .NET Client Library for SIMATIC S7 Webserver API &lt; V3.3.61 Product Status: known_affected Remediations Vendor fixUpdate to V3.3.61 or later version Additional Metrics Relevant CWE: CWE-22 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N View CVE Details CVE-2026-85115 Affected applications do not properly redact PLC restore passwords from HTTP error exception messages. This could allow an attacker with access to logs or other diagnostic output to obtain the plaintext restore password and potentially perform unauthorized operations on the PLC. Read More 2 Affected Products .NET Client Library for SIMATIC S7 Webserver API &lt; V3.3.61 Product Status: known_affected Remediations .NET Client Library for SIMATIC S7 Webserver API &lt; V3.3.62 Product Status: known_affected Remediations Vendor fixUpdate to V3.3.62 or later version Additional Metrics Relevant CWE: CWE-209 Generation of Error Message Containing Sensitive Information CVSS Version Base Score Base Severity Vector String 3.1 5.5 MEDIUM CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N View CVE Details Acknowledgments Siemens ProductCERT reported these vulnerabilities to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-390352 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-10-13 Date Revision Summary 2026-10-13 1 Publication Date 2026-11-10 2 Added researcher acknowledgement 2026-11-17 3 Initial CISA Republication of Siemens ProductCERT SSA-390352 advisory Legal Notice and Terms of Use"
+    },
+    {
+      "id": "live-security-critical-java-vulnerability-requires-imm",
+      "title": "Critical Java Vulnerability Requires Immediate Patching",
+      "category": "security",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "CISA Cybersecurity",
+      "tldr": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, know...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+      "details": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the Java Development Kit (JDK). Specially crafted Base64 input could crash the JVM and allow for unauthenticated remote code execution. Actions to take CISA urges organizations to take the following actions: Identify affected Java installations. Review your software inventory for JDKs and Java runtimes, including those bundled with third-party applications or included in container images and appliances. Note: JDKs and Java runtimes may not appear as separate entries in software inventories. Apply relevant Java and vendor patches as soon as they are available, prioritizing internet-facing systems. If immediate patching is not feasible, implement temporary compensating controls, such as restricting and validating Base64 input at the application boundary, enforcing input-size limits, and limiting unauthenticated access. Review Oracle\u2019s security advisory for guidance on patching and affected products and versions. &nbsp;Monitor for indicators of suspicious activity, including rogue runtimes, unexpected JVM crashes, and suspicious Java processes. Resources CISA urges network defenders to review the following resource and apply necessary updates: Vendor Guidance Oracle\u2019s Security Advisory: Critical Security Patch Update \u2013 November 2026 Disclaimer The information in this report is being provided \u201cas is\u201d for informational purposes only. CISA does not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this document. Any reference to specific commercial entities, products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply endorsement, recommendation, or favoring by CISA. Acknowledgements&nbsp; The Canadian Centre for Cyber Security (Cyber Centre) contributed to this Alert."
     },
     {
       "id": "live-fellowships-podcast-the-laser-that-could-break-the-l",
@@ -666,6 +659,24 @@
       "details": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg discusses DNA initiators, using models for analysis, and her experience\u2026"
     },
     {
+      "id": "live-military-classified-nsa-communications-network-do",
+      "title": "Classified NSA communications network down, people familiar say",
+      "category": "military",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "There aren\u2019t any immediate signs that the outage on NSANet is related to a cyberattack, and it may be linked to a series of software upgrades on the network.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/threats/2026/11/classified-nsa-communications-network-down-people-familiar-say/417278/",
+      "details": "There aren\u2019t any immediate signs that the outage on NSANet is related to a cyberattack, and it may be linked to a series of software upgrades on the network."
+    },
+    {
       "id": "live-military-air-force-bets-on-hybrid-electric-aircra",
       "title": "Air Force bets on hybrid-electric aircraft for transport",
       "category": "military",
@@ -736,24 +747,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/policy/2026/11/civilian-office-overseeing-special-operations-forces-could-get-45-million-budget-100-staffers/417234/",
       "details": "Hegseth\u2019s proposed changes hinge on getting support from Congress."
-    },
-    {
-      "id": "live-military-destroyer-returns-from-11-month-deployme",
-      "title": "Destroyer returns from 11-month-deployment",
-      "category": "military",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "The Michael Murphy left Hawaii last December. Navy officials say this will be the norm for some time.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.defenseone.com/threats/2026/11/destroyer-returns-11-month-deployment/417231/",
-      "details": "The Michael Murphy left Hawaii last December. Navy officials say this will be the norm for some time."
     },
     {
       "id": "live-governance-self-employed-solopreneur-nist-has-a-cyb",
@@ -849,107 +842,98 @@
       "details": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives."
     },
     {
-      "id": "live-governance-commission-preliminarily-finds-temu-in-b",
-      "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the ",
-      "category": "governance",
+      "id": "live-multilateral-ukraine-civilian-casualties-in-2026-alre",
+      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years\u2019 tolls",
+      "category": "multilateral",
       "date": "2026-11-17",
       "impact": "MODERATE",
-      "company": "EU Digital Strategy",
-      "tldr": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products Anonymous (not verified) Tue, 11/17/2026 - 11:11 The Eu...",
+      "company": "UN News AI",
+      "tldr": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, ...",
       "specs": {
-        "source": "EU Digital Strategy",
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "details": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-world-news-in-brief-ebola-cases-double-i",
+      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, T\u00fcrk con",
+      "category": "multilateral",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#EUAIAct"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+      "details": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO)&nbsp;said on Tuesday."
+    },
+    {
+      "id": "live-multilateral-cop31-the-push-to-protect-warming-oceans",
+      "title": "COP31: The push to protect warming oceans reaches the negotiating table",
+      "category": "multilateral",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168824",
+      "details": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday. Yet turning innovation into action remains a challenge, with funding gaps persisting and ministers struggling to bridge divisions over fossil fuels and climate finance as negotiations enter their final days."
+    },
+    {
+      "id": "live-multilateral-haiti-atrocious-abuses-continue-as-un-wa",
+      "title": "Haiti: \u2018Atrocious abuses\u2019 continue as UN warns anti-gang operations must priortise civilian protecti",
+      "category": "multilateral",
+      "date": "2026-11-17",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing \u201catrocious abuses\u201d committed by gangs and intensified security operations.",
+      "specs": {
+        "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
         "#AISecurity",
-        "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
-      "details": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products Anonymous (not verified) Tue, 11/17/2026 - 11:11 The European Commission preliminarily found Temu in breach of the Digital Services Act (DSA) obligation to put in place reasonable, proportionate and effective measures to mitigate the risk of illegal products being offered on its platform. The Commission preliminarily found that Temu's mitigation measures include ineffective controls to check the compliance of products; a weak content moderation system; and an ineffective sanction system. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, said: Shopping online should not mean risking the purchase of illegal and unsafe products. Under the Digital Services Act, platforms are responsible for protecting users from the risk of illegal content and goods. The preliminary findings against Temu mark another step towards making the online world safer.&nbsp; Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+      "details": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing \u201catrocious abuses\u201d committed by gangs and intensified security operations."
     },
     {
-      "id": "live-governance-commission-hosts-apply-ai-summit-to-boos",
-      "title": "Commission hosts Apply AI Summit to boost Europe\u2019s AI innovation and uptake",
-      "category": "governance",
-      "date": "2026-11-17",
-      "impact": "HIGH",
-      "company": "EU Digital Strategy",
-      "tldr": "Commission hosts Apply AI Summit to boost Europe\u2019s AI innovation and uptake Anonymous (not verified) Mon, 11/16/2026 - 13:43 Nearly 1,000 high-level policymakers, start-ups, indust...",
-      "specs": {
-        "source": "EU Digital Strategy",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
-      "details": "Commission hosts Apply AI Summit to boost Europe\u2019s AI innovation and uptake Anonymous (not verified) Mon, 11/16/2026 - 13:43 Nearly 1,000 high-level policymakers, start-ups, industry leaders and researchers will take part in the Apply AI Summit in Brussels tomorrow. They will discuss how artificial intelligence (AI) can boost Europe\u2019s competitiveness across 10 strategic sectors and the public sector. The summit will also showcase concrete AI applications, European success stories and innovative projects.&nbsp; Henna Virkkunen, Executive Vice-President for Technological Sovereignty, Security and Democracy, will host the summit and present the first Apply AI Startup Award to three European start-ups. The award recognises innovative European startups and scaleups developing AI solutions in the strategic sectors. Alongside the in-person event, an online conference platform will run from 16 to 20 November, allowing additional 2,500 participants to join part of the summit. The Apply AI Summit marks one year since the adoption of the Apply AI Strategy, which sets out how to speed up the use of AI in Europe\u2019s key industries and the public sector. It concludes the first European AI Innovation Month, running from 14 October to 17 November 2026, organised by the European Commission in partnership with the Irish Presidency of the Council of the European Union. More on the Apply AI Summit Related topics Artificial intelligence Related content News article16 November 2026Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI ActThe Commission is collecting feedback on the draft template for a questionnaire to facilitate certain deployers of high-risk AI system in complying with their obligations to prepare a fundamental rights impact assessment under Article 27 AI Act. News article17 November 2026Call for Expression of Interest for European AI providersThe European Commission\u2019s AI Office is launching a call for expression of interest for European AI providers to present AI solutions to the network of European Digital Innovation Hubs (EDIHs)."
-    },
-    {
-      "id": "live-governance-commission-preliminarily-finds-tiktok-s-",
-      "title": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful",
-      "category": "governance",
+      "id": "live-multilateral-hunger-should-not-be-a-concern-wfp-steps",
+      "title": "\u2018Hunger should not be a concern\u2019: WFP steps in for families in Kenya who fled Ethiopia violence",
+      "category": "multilateral",
       "date": "2026-11-17",
       "impact": "MODERATE",
-      "company": "EU Digital Strategy",
-      "tldr": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful \u2018rabbit holes\u2019 effect Anonymous (not verified) Fri, 11/06/2026 - 12:09 The Euro...",
+      "company": "UN News AI",
+      "tldr": "The World Food Programme (WFP) is assisting&nbsp;thousands&nbsp;of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported o...",
       "specs": {
-        "source": "EU Digital Strategy",
+        "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
+        "#UnitedNations"
       ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
-      "details": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful \u2018rabbit holes\u2019 effect Anonymous (not verified) Fri, 11/06/2026 - 12:09 The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called \u2018rabbit hole effect\u2019 of its recommender system. TikTok's \u2018For You' feed shows users a continuous stream of personalised videos, even when those are related to mental health struggles and body image. The more a user interacts with a certain type of content, the more TikTok's \u2018For You' feed algorithm recommends similar content. This design can be harmful when such endless and repeated exposure involves, for example, content about sadness, isolation or body image. These \u2018rabbit holes' can have a detrimental impact on users' mental health, especially that of vulnerable adults and minors. These preliminary findings focus on both risk assessment and mitigation measures. Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
-    },
-    {
-      "id": "live-governance-independent-study-on-the-impact-of-age-a",
-      "title": "Independent study on the impact of age assurance on fundamental rights and costs for businesses",
-      "category": "governance",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "EU Digital Strategy",
-      "tldr": "Independent study on the impact of age assurance on fundamental rights and costs for businesses Anonymous (not verified) Wed, 11/04/2026 - 15:04 An independent study analyses the i...",
-      "specs": {
-        "source": "EU Digital Strategy",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AISecurity",
-        "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
-      "details": "Independent study on the impact of age assurance on fundamental rights and costs for businesses Anonymous (not verified) Wed, 11/04/2026 - 15:04 An independent study analyses the impacts of age assurance on fundamental rights and the costs for businesses concerned. Age assurance is key for a safer online environment as it ensures that children only access online services and features that are safe and age appropriate for them. Nowadays, 1 in 3 children, aged 9 to 11 across 6 European countries, reports having a social media profile. Very few services are implementing age assurance in a systematic way. To further strengthen the preparation of the proposed EU KIDS Act and the accompanying Staff Working Document, the European Commission procured a study to: Analyse the impact of age assurance on key fundamental rights, including data protection and privacy, non-discrimination, freedom of expression and access to information; Assess the potential financial impacts of age assurance on businesses, including micro and small enterprises. The study was carried out by an external contractor. It does not assess the proposed EU KIDS Act and the compliance by any specific service provider. The study's key insights are: Fundamental rights \u2013 an age assurance framework can be both proportionate and respectful of fundamental rights. Interferences with those rights can be mitigated through appropriate safeguards. In particular, the framework should ensure: Data protection and privacy \u2013 legislative coherence with the GDPR, high standards of privacy and security, and the development of technical standards; Non-discrimination, freedom of expression and access to information \u2013 minimising friction for users, ensuring transparency, promoting user empowerment where appropriate through greater choice, and ensuring inclusivity and accessibility. EU approach to age verification \u2013 the EU age verification blueprint can make an important contribution to the development of a coherent EU-level approach to age assurance. Specifically, the findings suggest that: the blueprint has the potential to become one of the most affordable ways for service providers of all sizes to comply with age assurance requirements because it is privacy-preserving and open by design and its development costs have been publicly subsidised; the roll-out of the blueprint across all Member States should be accelerated; the provision and resourcing of effective fallback enrollment routes \u2013 including manual enrolment options at national and local level \u2013 should be ensured. Costs for businesses \u2013 online services would inevitably face new costs. However, these costs are likely to remain modest for most services and to decrease over time, due to: competition in the third-party vendor market, the emergence of technical standards, improvements in interoperability, the availability of the EU age verification blueprint. For small and medium-sized enterprises (SMEs), the study suggests that it's unlikely to face excessive costs, thanks to affordable, ready-to-use age verification solutions and competition between providers. They will also benefit from having a common set of EU rules, rather than having to comply with different national requirements. Read the study and its executive summary and the questions &amp; answers on the proposed EU KIDS Act. Related topics Online platforms and e-commerce DSA - Digital Services Act"
-    },
-    {
-      "id": "live-governance-call-for-evidence-on-advertising-reposit",
-      "title": "Call for evidence on advertising repositories",
-      "category": "governance",
-      "date": "2026-11-17",
-      "impact": "MODERATE",
-      "company": "EU Digital Strategy",
-      "tldr": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is s...",
-      "specs": {
-        "source": "EU Digital Strategy",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#Governance",
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
-      "details": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence. The responses collected through the call for evidence will help shape guidelines aimed at ensuring that advertising repositories meet the needs of their users. Amongst other things, the guidelines will advise on: how to make advertising repositories easily searchable how to provide insights on how users are targeted and reached how to make the content of advertisements accessible Once adopted, these guidelines will aim to ensure that the advertising repositories provided by very large online platforms (VLOPs) and very large online search engines (VLOSEs) are effective and fit for purpose. Effective advertising repositories are essential tools for enabling greater public scrutiny of online advertising. Transparency in advertising \u2013 revealing who pays and how citizens are targeted \u2013 helps to protect public health, ensure a high level of consumer protection and safeguard the integrity of elections. Advertising repositories also support effective supervision and enforcement of the DSA. Next steps The call for evidence will be followed by a targeted public consultation in 2027. Researchers, civil society, providers of VLOPs and VLOSEs and representatives from the advertising industry will be invited to share feedback on a draft version of the guidelines. The publication of the guidelines is planned for the second quarter of 2028. Background Under Article 39 of the DSA, providers of VLOPs and VLOSEs are required to maintain publicly accessible repositories of advertisements displayed on their services. These repositories (commonly known as \u2018ad libraries\u2019) provide information on the content of advertisements, who paid for them, the period during which they were displayed, how many users the advertisements reached, and the main criteria used to decide who saw the advertisements. Article 39(3) of the DSA provides the possibility for the Commission to issue guidelines on the design of advertising repositories, following consultation with the European Board for Digital Services, researchers and the public. The guidelines will support the Commission\u2019s supervision and enforcement of VLOPs and VLOSEs\u2019 compliance with Article 39 of the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act Related content Press release04 November 2026Commission seeks feedback on advertising repositories under the Digital Services ActThe European Commission is calling for evidence to gather feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA)."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+      "details": "The World Food Programme (WFP) is assisting&nbsp;thousands&nbsp;of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.&nbsp;"
     }
   ]
 }
