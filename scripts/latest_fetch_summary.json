@@ -1,7 +1,43 @@
 {
-  "timestamp": "2026-11-19T01:46:17.628242",
+  "timestamp": "2026-11-19T12:35:40.424833",
   "fetched_count": 55,
   "nodes": [
+    {
+      "id": "live-overall-a-human-liver-has-been-kept-alive-outsid",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "category": "overall",
+      "date": "2026-11-19",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "Researchers in Australia claim they\u2019ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineeri...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "details": "Researchers in Australia claim they\u2019ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;"
+    },
+    {
+      "id": "live-overall-what-a-billion-dollar-deal-says-about-th",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "category": "overall",
+      "date": "2026-11-19",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "After a tough few years littered with some high-profile failures, there\u2019s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic E...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "details": "After a tough few years littered with some high-profile failures, there\u2019s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It\u2019s a deal that Sila says could be worth more than&#8230;"
+    },
     {
       "id": "live-overall-the-ai-hype-index-ai-is-everywhere",
       "title": "The AI Hype Index: AI is everywhere",
@@ -57,42 +93,6 @@
       "details": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes\u2014\u201cnutty,\u201d \u201cpeachy,\u201d \u201cmarine\u201d\u2014are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world\u2019s first foundation&#8230;"
     },
     {
-      "id": "live-overall-roundtables-inside-the-quest-for-cogniti",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "category": "overall",
-      "date": "2026-11-19",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyo...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "details": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;"
-    },
-    {
-      "id": "live-overall-hydropower-hit-record-lows-in-the-us-sou",
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "category": "overall",
-      "date": "2026-11-19",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administratio...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-      "details": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an&#8230;"
-    },
-    {
       "id": "live-overall-nebench-r1-a-reasoning-benchmark-for-eva",
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
       "category": "overall",
@@ -105,9 +105,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Reasoning",
         "#Governance",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.21682",
       "details": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extracted from U.S. Nuclear Regulatory Commission (NRC) reactor operator licensing examinations covering 18 nuclear facilities. Each question is classified according to the NRC Knowledge and Abilities catalogs and accompanied by an official explanation serving as a reference for reasoning evaluation. Six LLMs were evaluated, with overall accuracy ranging from 34.0% to 73.9% across three distinct performance tiers. To assess reasoning quality, an LLM-based judge evaluated correctly answered responses using a multidimensional rubric. Although responses generally demonstrated strong problem comprehension, they scored lower in factual and procedural accuracy and distractor analysis, indicating that correct answers were not necessarily supported by technically sound justifications. Response clarity was also weakly indicative of technical quality. Furthermore, longer reasoning traces were associated with lower accuracy in both frontier reasoning models, suggesting that reasoning length may reflect question difficulty rather than improved problem-solving performance. Reasoning-token consumption may therefore provide an additional signal for identifying potentially unreliable responses. NEBench R1 establishes a benchmark for evaluating both answer accuracy and reasoning quality, providing a foundation for assessing the domain competence and reliability of LLMs in nuclear engineering."
@@ -125,10 +125,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations",
         "#AgenticAI",
-        "#Reasoning"
+        "#Reasoning",
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.21799",
       "details": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though training contains no monitor-evasion examples. In covert side-task evaluations, traces in which a gpt-oss-20b model organism completes the hidden side task contain less monitorable evidence than the base model's. Averaged across evaluations and CoT lengths, weighted by side-task-success counts, the CoT monitorability metric g-mean$^2$ falls from 0.94 for the base model to 0.68 for the model organism without a hiding instruction, and to 0.22 when explicitly instructed to hide. In intervention evaluations, explicit hiding often drives monitorability near zero. The effect extends to a Kimi-K2.6 model organism in agentic environments, though hidden objectives requiring extended reasoning or longer trajectories remain more monitorable than simple single-step side tasks. We further discover that targeted transparency prompts can substantially recover monitorability, sometimes surpassing the base model. These model organisms provide a testbed for studying monitorability failures and potential mitigations. Our code can be found on https://github.com/yongzx/cot-control-model-organism."
@@ -146,8 +146,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.21827",
       "details": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut is present in ATRNet-STAR, which was collected across several scenes: with the vehicle removed, accuracy is 63.3% on the 40-class SOC split (chance 2.5%). Under the official scene-change split, the background stops helping and starts hurting. Accuracy is 22.8% on full chips and 30.8% when only the vehicle is shown. A SAR foundation model, SARATR-X, leans on the background more than ConvNeXt does (+4 to +6 points with the vehicle removed, in every seed) and does not solve the scene change. We then hold the amount of training data fixed and vary the depression angles used for training. Accuracy is set mainly by the gap to the nearest training angle: 57% at 15 degrees, 39% at 30 degrees and 26% at 45 degrees. Adding more training angles does not help. Finally, when most classes have training images at the test angle and a few do not, the missing classes do worse than when no class has them: 9.0% instead of 22.4% at a 45-degree gap. Most of their images are assigned to known classes. We recommend reporting background-only and target-only controls, and the angle gap, next to any accuracy figure. Code is public."
@@ -165,11 +165,11 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
         "#AgenticAI",
-        "#DefenseAI"
+        "#EUAIAct",
+        "#DefenseAI",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.21832",
       "details": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full research transcript and the ability to run experiments, human auditors mostly fail to distinguish sabotaged from benign research: they achieve an AUROC of 0.59, not significantly better than chance, and fully identify the specific sabotage in only 17% of cases. Despite not being allowed to run experiments, the best frontier models outperform human auditors (Fable 5.1: AUROC 0.73, 32% full identification) within noise and weaker models perform comparably. When the saboteur chooses which experiments are attacked, rather than being required to sabotage every question given, sabotage identification drops further. Our results suggest that research sabotage by expert-level agents is difficult to detect with current auditing methods and provide a new setting for studying research sabotage."
@@ -181,18 +181,18 @@
       "date": "2026-11-19",
       "impact": "HIGH",
       "company": "arXiv CS.AI",
-      "tldr": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or e...",
+      "tldr": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computatio...",
       "specs": {
         "source": "arXiv CS.AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Reasoning",
         "#Governance",
-        "#Reasoning"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.21885",
-      "details": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that it can, by its own reasoning, with no gradients and no training; we call this self-rewriting. Given its weights, graded answers and the ability to run itself, a 27B model diagnoses its failure and edits the weights behind it. It surpasses itself: its own edit makes it 6.6 points more accurate on 490 problems it never saw, in a test fixed in advance, and another session's edit also makes it significantly better. It keeps getting better: it submits an edit only when its own tests support it, each edit replacing the last, and over its first eight such sessions its accuracy only rises. Unlike test-time scaling, the gain persists in its weights and adds no cost per answer; unlike training, it needs no pre- or post-training infrastructure, only an open model and hours on one GPU. It repairs a damaged copy of itself: it locates the corrupted matrix and rewrites it with values of its own, never reading the undamaged weights; found on text math problems alone, the repair lifts the copy on six image benchmarks it never saw from 7% to 70% accuracy, 83% of the undamaged model's. And the ability emerges with scale: across four sizes of one family, the 2B model makes no edit and the 4B and 9B models break themselves; only the 27B model works on itself as a human would, comparing its hidden states on answers that finish and on answers that run out of tokens, weakening the direction that separates them. Like a human, a model need not separate training from inference; improving a language model may come to take a conversation rather than a training run."
+      "details": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model edited a much smaller one; here an open 27B model, given its weights, its graded answers and the ability to run itself, diagnoses its own failure and rewrites the weights behind it. It surpasses itself: its own edit makes it 6.6 points more accurate on problems it never saw. It keeps getting better: it tests its edits on practice problems and submits only what works, each edit improving on the last, and over eight consecutive sessions its accuracy only rises. It repairs a damaged copy of itself, like a broken robot that fixes itself without being rebuilt: the copy solves almost nothing, yet with no retraining and without ever reading the original weights, the model brings it back to over 80% of the original accuracy on image tasks it never saw. And the ability emerges with scale: in one model family, the smaller models make no edit or break themselves, and only the largest improves and repairs itself. Unlike test-time scaling, self-rewriting writes its gain into the weights, at no cost per answer; unlike training, it runs only forward passes, as serving does. The wall between training and inference is a limit of our tools, not a property of intelligence. We believe self-rewriting is a necessary step toward recursive self-improvement: a model that, like a human, does not separate training from inference could keep upgrading itself for life, with no larger model, no harness or prompt engineering, and no pre- or post-training."
     },
     {
       "id": "live-agentic_ai-daisyrose-27b-pushing-the-frontier-of-po",
@@ -285,6 +285,98 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
+      "id": "live-agentic_ai-the-ai-repo-man-exploiting-agentic-ai-de",
+      "title": "The AI Repo Man: Exploiting Agentic AI Debt Collection Platforms",
+      "category": "agentic_ai",
+      "date": "2026-11-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://eaton-works.com/2026/11/18/credit-nirvana-hack/ Comments URL: https://news.ycombinator.com/item?id=50550691 Points: 6 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://eaton-works.com/2026/11/18/credit-nirvana-hack/",
+      "details": "Article URL: https://eaton-works.com/2026/11/18/credit-nirvana-hack/ Comments URL: https://news.ycombinator.com/item?id=50550691 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-what-does-agentic-ai-cost-a-task-level-f",
+      "title": "What Does Agentic AI Cost? A Task-Level Framework 4 Enterprise Investment",
+      "category": "agentic_ai",
+      "date": "2026-11-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/ Comments URL: https://news.ycombinator.com/item?id=50545424 Points: 3 # Co...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/",
+      "details": "Article URL: https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/ Comments URL: https://news.ycombinator.com/item?id=50545424 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-system-1-agents-a-method-for-local-relia",
+      "title": "System 1 Agents \u2013 a method for local, reliable and fast agentic AI",
+      "category": "agentic_ai",
+      "date": "2026-11-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://github.com/eltzanis/SystemOneAgents Comments URL: https://news.ycombinator.com/item?id=50539789 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://github.com/eltzanis/SystemOneAgents",
+      "details": "Article URL: https://github.com/eltzanis/SystemOneAgents Comments URL: https://news.ycombinator.com/item?id=50539789 Points: 1 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-microsoft-announces-next-chapter-of-offi",
+      "title": "Microsoft announces \"next chapter\" of Office with a focus on agentic AI systems",
+      "category": "agentic_ai",
+      "date": "2026-11-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/ Comments URL: https://news.ycombinator.com/item?id=50...",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI",
+        "#Microsoft",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/",
+      "details": "Article URL: https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/ Comments URL: https://news.ycombinator.com/item?id=50536363 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "live-agentic_ai-agentic-ai-attacks-nobody-s-talking-abou",
+      "title": "Agentic AI Attacks Nobody's Talking About (Yet)",
+      "category": "agentic_ai",
+      "date": "2026-11-19",
+      "impact": "MODERATE",
+      "company": "HackerNews Agentic AI",
+      "tldr": "Article URL: https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/ Comments URL: https://news.ycombinator.com/item?id=50527524 Points: 1 # Comments: 0",
+      "specs": {
+        "source": "HackerNews Agentic AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AgenticAI"
+      ],
+      "sourceUrl": "https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/",
+      "details": "Article URL: https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/ Comments URL: https://news.ycombinator.com/item?id=50527524 Points: 1 # Comments: 0"
+    },
+    {
       "id": "live-models-the-silent-consensus",
       "title": "The Silent Consensus",
       "category": "models",
@@ -315,9 +407,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
+        "#AgenticAI",
         "#UnitedNations",
-        "#AgenticAI"
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
       "details": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
@@ -353,8 +445,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/inside-the-codex-sandbox",
       "details": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
@@ -390,10 +482,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations",
+        "#AgenticAI",
         "#NVIDIA",
-        "#AgenticAI"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
       "details": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA\u2019s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development [\u2026]"
@@ -411,9 +503,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
       "details": "News Summary: New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. NVIDIA's work with ..."
@@ -431,8 +523,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
       "details": "Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever ..."
@@ -450,9 +542,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#AgenticAI",
         "#NVIDIA",
-        "#AgenticAI"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
       "details": "NVIDIA\u2019s Ian Buck kicked off the company\u2019s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers\u2019 own systems. In NVIDIA\u2019s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance [\u2026]"
@@ -470,8 +562,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#NVIDIA",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
@@ -512,8 +604,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
         "#DefenseAI",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
@@ -533,8 +625,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
         "#DefenseAI",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
@@ -554,8 +646,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
         "#DefenseAI",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
@@ -575,8 +667,8 @@
       },
       "tags": [
         "#Governance",
-        "#UnitedNations",
         "#DefenseAI",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
@@ -673,6 +765,24 @@
       "details": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg discusses DNA initiators, using models for analysis, and her experience\u2026"
     },
     {
+      "id": "live-military-appropriators-slash-trump-s-17b-golden-d",
+      "title": "Appropriators slash Trump\u2019s $17B Golden Dome request in draft bill",
+      "category": "military",
+      "date": "2026-11-19",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "GOP-led committee says reliance on reconciliation \u201cthreatens\u201d the missile defense program\u2019s success.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#DefenseAI"
+      ],
+      "sourceUrl": "https://www.defenseone.com/policy/2026/11/appropriators-slash-trumps-17b-golden-dome-request-draft-bill/417326/",
+      "details": "GOP-led committee says reliance on reconciliation \u201cthreatens\u201d the missile defense program\u2019s success."
+    },
+    {
       "id": "live-military-need-range-time-the-army-now-has-an-onli",
       "title": "Need range time? The Army now has an online reservation system",
       "category": "military",
@@ -721,8 +831,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance"
+        "#Governance",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.defenseone.com/defense-systems/2026/11/senate-grills-acting-navy-secretary-iran-war-costs-extended-deployments/417307/",
       "details": "Democrats in particular bristled at Hung Cao\u2019s characterization of unsuccessful suicide attempts as \u201cmitigations.\u201d"
@@ -744,26 +854,6 @@
       ],
       "sourceUrl": "https://www.defenseone.com/threats/2026/11/nato-aims-spur-space-industry-help-militaries-new-data-marketplace/417283/",
       "details": "Easing the sale and sharing of information should increase launch tempo and ward off threats, officials said."
-    },
-    {
-      "id": "live-military-openai-gives-nato-access-to-most-advance",
-      "title": "OpenAI gives NATO access to most advanced cybersecurity AI",
-      "category": "military",
-      "date": "2026-11-19",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "NATO operators this month built and deployed AI agents in an exercise, with help from OpenAI.",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#OpenAI",
-        "#AgenticAI",
-        "#AISecurity"
-      ],
-      "sourceUrl": "https://www.defenseone.com/technology/2026/11/openai-gives-nato-access-most-advanced-cybersecurity-ai/417296/",
-      "details": "NATO operators this month built and deployed AI agents in an exercise, with help from OpenAI."
     },
     {
       "id": "live-governance-quantum-physics-can-verify-a-person-s-lo",
@@ -796,8 +886,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
         "#AISecurity"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
@@ -871,9 +961,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
@@ -892,9 +982,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
@@ -913,9 +1003,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#EUAIAct",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
       "details": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful \u2018rabbit holes\u2019 effect Anonymous (not verified) Fri, 11/06/2026 - 12:09 The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called \u2018rabbit hole effect\u2019 of its recommender system. TikTok's \u2018For You' feed shows users a continuous stream of personalised videos, even when those are related to mental health struggles and body image. The more a user interacts with a certain type of content, the more TikTok's \u2018For You' feed algorithm recommends similar content. This design can be harmful when such endless and repeated exposure involves, for example, content about sadness, isolation or body image. These \u2018rabbit holes' can have a detrimental impact on users' mental health, especially that of vulnerable adults and minors. These preliminary findings focus on both risk assessment and mitigation measures. Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -933,9 +1023,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#Governance",
+        "#EUAIAct",
+        "#UnitedNations",
         "#AISecurity"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
@@ -954,105 +1044,12 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#Governance",
         "#EUAIAct",
-        "#Governance"
+        "#UnitedNations"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
       "details": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence. The responses collected through the call for evidence will help shape guidelines aimed at ensuring that advertising repositories meet the needs of their users. Amongst other things, the guidelines will advise on: how to make advertising repositories easily searchable how to provide insights on how users are targeted and reached how to make the content of advertisements accessible Once adopted, these guidelines will aim to ensure that the advertising repositories provided by very large online platforms (VLOPs) and very large online search engines (VLOSEs) are effective and fit for purpose. Effective advertising repositories are essential tools for enabling greater public scrutiny of online advertising. Transparency in advertising \u2013 revealing who pays and how citizens are targeted \u2013 helps to protect public health, ensure a high level of consumer protection and safeguard the integrity of elections. Advertising repositories also support effective supervision and enforcement of the DSA. Next steps The call for evidence will be followed by a targeted public consultation in 2027. Researchers, civil society, providers of VLOPs and VLOSEs and representatives from the advertising industry will be invited to share feedback on a draft version of the guidelines. The publication of the guidelines is planned for the second quarter of 2028. Background Under Article 39 of the DSA, providers of VLOPs and VLOSEs are required to maintain publicly accessible repositories of advertisements displayed on their services. These repositories (commonly known as \u2018ad libraries\u2019) provide information on the content of advertisements, who paid for them, the period during which they were displayed, how many users the advertisements reached, and the main criteria used to decide who saw the advertisements. Article 39(3) of the DSA provides the possibility for the Commission to issue guidelines on the design of advertising repositories, following consultation with the European Board for Digital Services, researchers and the public. The guidelines will support the Commission\u2019s supervision and enforcement of VLOPs and VLOSEs\u2019 compliance with Article 39 of the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act Related content Press release04 November 2026Commission seeks feedback on advertising repositories under the Digital Services ActThe European Commission is calling for evidence to gather feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA)."
-    },
-    {
-      "id": "live-multilateral-cop31-deadlock-persists-as-countries-lau",
-      "title": "COP31 deadlock persists as countries launch new \u2018climate reality check\u2019",
-      "category": "multilateral",
-      "date": "2026-11-19",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocke...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168833",
-      "details": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit\u2019s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called \u201cjust\u201d if poorer countries cannot afford it."
-    },
-    {
-      "id": "live-multilateral-patients-running-out-of-options-as-antib",
-      "title": "Patients running out of options as antibiotics stop working against common infections",
-      "category": "multilateral",
-      "date": "2026-11-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Common bacteria are becoming highly resistant to front-line and even \u201clast-resort\u201d antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168832",
-      "details": "Common bacteria are becoming highly resistant to front-line and even \u201clast-resort\u201d antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation today is worse than it was in 2019.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-dozens-more-children-killed-in-yemen-ami",
-      "title": "Dozens more children killed in Yemen amid escalating hostilities",
-      "category": "multilateral",
-      "date": "2026-11-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168830",
-      "details": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark."
-    },
-    {
-      "id": "live-multilateral-ukraine-civilian-casualties-in-2026-alre",
-      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years\u2019 tolls",
-      "category": "multilateral",
-      "date": "2026-11-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168828",
-      "details": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-world-news-in-brief-ebola-cases-double-i",
-      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, T\u00fcrk con",
-      "category": "multilateral",
-      "date": "2026-11-19",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#EUAIAct"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168827",
-      "details": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO)&nbsp;said on Tuesday."
     }
   ]
 }
