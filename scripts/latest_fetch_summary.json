@@ -1,7 +1,25 @@
 {
-  "timestamp": "2026-11-20T06:12:45.437938",
-  "fetched_count": 60,
+  "timestamp": "2026-11-20T16:46:53.797219",
+  "fetched_count": 55,
   "nodes": [
+    {
+      "id": "live-overall-the-download-inside-the-quest-to-make-ou",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "category": "overall",
+      "date": "2026-11-20",
+      "impact": "MODERATE",
+      "company": "MIT Tech Review AI",
+      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Round...",
+      "specs": {
+        "source": "MIT Tech Review AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going\u2014even beyond&#8230;"
+    },
     {
       "id": "live-overall-the-download-a-living-liver-a-billion-do",
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
@@ -75,24 +93,6 @@
       "details": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone\u2019s rooms. Go to the supermarket, and&#8230;"
     },
     {
-      "id": "live-overall-the-download-ai-learns-to-smell-and-hydr",
-      "title": "The Download: AI learns to smell and hydropower struggles",
-      "category": "overall",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "MIT Tech Review AI",
-      "tldr": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI...",
-      "specs": {
-        "source": "MIT Tech Review AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "details": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human\u2019s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes\u2014\u201cnutty,\u201d \u201cpeachy,\u201d&#8230;"
-    },
-    {
       "id": "live-overall-human-ai-mutualism-is-unstable-under-cap",
       "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
       "category": "overall",
@@ -143,9 +143,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AgenticAI",
         "#UnitedNations",
-        "#Governance",
-        "#AgenticAI"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.23375",
       "details": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into work and heat. The test suite acts as a software Maxwell's daemon that judges every coding change. We test the theory with an analogue of the experiments in which a single molecule is pulled open and let fold again: an agent makes a change to a repository (coding) and then undoes it (uncoding), many times over, and we count the tokens of every model call. The cycle returns the requested edits to where they began, with each direction started from a stored reference tree, and the spread of its cost over repeated cycles defines a software temperature, which rose with the sampling temperature of the model. About 80 per cent of the tokens of a successful run are generated in model calls that leave the requested change where it was, and we call these tokens heat. The free energy of a change, which we estimate by analogy with the equality of Jarzynski, is 14 to 22 per cent of the mean cost of a successful coding run. Coding costs 1.1 to 1.5 times as much as uncoding. The daemon is imperfect: the verdict of a test suite varies with its environment, and a suite that accepts a broken change has a cost in tokens. The practical implication of the proposed theory could be new tools for analysing and optimising coding agents through the lens of thermodynamics."
@@ -164,8 +164,8 @@
       },
       "tags": [
         "#Google",
-        "#Governance",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.23398",
       "details": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address this, we present Hardware Diagnoser (HardwareDx), an AI-driven hardware diagnosis system that applies a graph foundation model approach to automated datacenter maintenance. It allows a single model to diagnose many platforms and accelerate onboarding of new hardware products. Deployed at production scale at Google, HardwareDx yields substantial efficiency gains across diverse compute architectures. Real-world evaluations demonstrate that it reduces production downtime by 18.3% on GPU platforms and 16.1% on TPUs. Furthermore, it significantly accelerates hardware deployment, cutting quality assurance (QA) time by 28.3% for GPUs and 25.1% for TPUs. These results establish HardwareDx as a field-tested solution for maximizing the reliability and cost efficiency of next generation AI fleets."
@@ -188,6 +188,24 @@
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.23410",
       "details": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap, we introduce RFBench, a simulator-grounded dataset and benchmark for passive RF layout design and understanding. The dataset contains 10,000 two-port planar layouts simulated using ADS Momentum, with each layout represented by editable geometric primitives, a raster image, a 16x16 occupancy grid, complex S-parameters at 201 frequency points, a structural category, and an RF response label. Building on these aligned representations, we define seven tasks spanning specification-conditioned layout generation, representation translation, response prediction, simulator-based validation, design diagnosis and improvement, structural understanding, and response classification. Extensive baselines across seven multimodal language models reveal systematic weaknesses in generating structurally valid layouts and predicting electromagnetically faithful responses. We show that RF-specific fine-tuning increases T1a structural validity from 0.0% to 83.2% and the T3 primitive-input within-2-dB rate from 17.7% to 62.8%, demonstrating the value of domain adaptation while leaving considerable room for further progress. RFBench establishes a common testbed for evaluating multimodal RF capabilities and guiding the development of models that connect design intent and layout representations with physical behavior."
+    },
+    {
+      "id": "live-agentic_ai-introducing-harness-adapters-adapt-your-",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and c",
+      "category": "agentic_ai",
+      "date": "2026-11-20",
+      "impact": "HIGH",
+      "company": "Hugging Face Blog",
+      "tldr": "",
+      "specs": {
+        "source": "Hugging Face Blog",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AITrend"
+      ],
+      "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "details": "Live news development fetched from official RSS feed."
     },
     {
       "id": "live-agentic_ai-daisyrose-27b-pushing-the-frontier-of-po",
@@ -262,116 +280,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-rumble-2-flash-an-open-0-5b-speech-model",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "category": "agentic_ai",
-      "date": "2026-11-20",
-      "impact": "HIGH",
-      "company": "Hugging Face Blog",
-      "tldr": "",
-      "specs": {
-        "source": "Hugging Face Blog",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AITrend"
-      ],
-      "sourceUrl": "https://huggingface.co/blog/rumble-2-flash",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
-      "id": "live-agentic_ai-the-ai-repo-man-exploiting-agentic-ai-de",
-      "title": "The AI Repo Man: Exploiting Agentic AI Debt Collection Platforms",
-      "category": "agentic_ai",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://eaton-works.com/2026/11/18/credit-nirvana-hack/ Comments URL: https://news.ycombinator.com/item?id=50550691 Points: 6 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://eaton-works.com/2026/11/18/credit-nirvana-hack/",
-      "details": "Article URL: https://eaton-works.com/2026/11/18/credit-nirvana-hack/ Comments URL: https://news.ycombinator.com/item?id=50550691 Points: 6 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-what-does-agentic-ai-cost-a-task-level-f",
-      "title": "What Does Agentic AI Cost? A Task-Level Framework 4 Enterprise Investment",
-      "category": "agentic_ai",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/ Comments URL: https://news.ycombinator.com/item?id=50545424 Points: 3 # Co...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/",
-      "details": "Article URL: https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/ Comments URL: https://news.ycombinator.com/item?id=50545424 Points: 3 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-system-1-agents-a-method-for-local-relia",
-      "title": "System 1 Agents \u2013 a method for local, reliable and fast agentic AI",
-      "category": "agentic_ai",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://github.com/eltzanis/SystemOneAgents Comments URL: https://news.ycombinator.com/item?id=50539789 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://github.com/eltzanis/SystemOneAgents",
-      "details": "Article URL: https://github.com/eltzanis/SystemOneAgents Comments URL: https://news.ycombinator.com/item?id=50539789 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-microsoft-announces-next-chapter-of-offi",
-      "title": "Microsoft announces \"next chapter\" of Office with a focus on agentic AI systems",
-      "category": "agentic_ai",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/ Comments URL: https://news.ycombinator.com/item?id=50...",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Microsoft",
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/",
-      "details": "Article URL: https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/ Comments URL: https://news.ycombinator.com/item?id=50536363 Points: 5 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-agentic-ai-attacks-nobody-s-talking-abou",
-      "title": "Agentic AI Attacks Nobody's Talking About (Yet)",
-      "category": "agentic_ai",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/ Comments URL: https://news.ycombinator.com/item?id=50527524 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/",
-      "details": "Article URL: https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/ Comments URL: https://news.ycombinator.com/item?id=50527524 Points: 1 # Comments: 0"
-    },
-    {
       "id": "live-models-how-openai-s-performance-factory-keeps-c",
       "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
       "category": "models",
@@ -403,8 +311,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#AISecurity"
+        "#AISecurity",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/business/learn/deploying-daybreak-red",
       "details": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
@@ -441,9 +349,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#OpenAI",
-        "#Governance",
-        "#AISecurity"
+        "#Governance"
       ],
       "sourceUrl": "https://openai.com/business/learn/codex-security-plugin-demo",
       "details": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
@@ -479,8 +387,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
       "details": "NVIDIA will present at the following event for the financial community"
@@ -498,8 +406,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Microsoft",
-        "#NVIDIA"
+        "#NVIDIA",
+        "#Microsoft"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
       "details": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications \u2014 from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to [\u2026]"
@@ -535,10 +443,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#Governance",
+        "#AgenticAI",
         "#NVIDIA",
-        "#AgenticAI"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
       "details": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA\u2019s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development [\u2026]"
@@ -556,9 +464,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#NVIDIA",
         "#UnitedNations",
-        "#Governance",
-        "#NVIDIA"
+        "#Governance"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
       "details": "News Summary: New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. NVIDIA's work with ..."
@@ -576,10 +484,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#AISecurity",
         "#DefenseAI",
-        "#Governance",
-        "#AISecurity"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
       "details": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of Elecbrakes EB2, VM1, ELBC2000 are affected: EB2 &lt;=3.0.4.2.0 (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805) ELBC2000 vers:all/* (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805) VM1 &lt;1.3.4.2.1 (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805) CVSS Vendor Equipment v3 9.6 Elecbrakes EB2 3 Vulnerabilities Exposed Dangerous Method or Function, Authentication Bypass by Capture-replay, Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation Systems Countries/Areas Deployed: Australia, New Zealand Company Headquarters Location: Australia Vulnerabilities Expand All + CVE-2026-124281 The affected product uses an unprotected firmware-update channel, which may allow for unauthorized firmware modification. Read More 3 Affected Products Elecbrakes EB2 &lt;=3.0.4.2.0 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update. Elecbrakes VM1 &lt;1.3.4.2.1 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update. Elecbrakes ELBC2000 vers:all/* Product Status: known_affected Remediations None availableThis device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller. Additional Metrics Relevant CWE: CWE-749 Exposed Dangerous Method or Function CVSS Version Base Score Base Severity Vector String 3.1 6.1 MEDIUM CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:N/I:L/A:L 4.0 5.3 MEDIUM CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:L/SC:N/SI:L/SA:L View CVE Details CVE-2026-125273 No replay or command-integrity protection. Commands lack sequence numbers, nonces, or session tokens; captured commands can be replayed, and the last command persists across sessions. Read More 6 Affected Products Elecbrakes EB2 &lt;=3.0.4.2.0 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update. Elecbrakes VM1 &lt;1.3.4.2.1 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update. Elecbrakes ELBC2000 vers:all/* Product Status: known_affected Remediations None availableThis device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller. Elecbrakes EB2 &lt;=3.0.4.2.0 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update. Elecbrakes ELBC2000 vers:all/* Product Status: known_affected Remediations None availableThis device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller. Elecbrakes VM1 &lt;1.3.4.2.1 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update. Additional Metrics Relevant CWE: CWE-294 Authentication Bypass by Capture-replay CVSS Version Base Score Base Severity Vector String 3.1 9.6 CRITICAL CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H 4.0 8.5 HIGH CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:H/SC:L/SI:H/SA:H/S:P View CVE Details CVE-2026-96805 The affected product has an unauthenticated command injection, which may allow an in-range BLE device to gain access to write to the control interface and influence braking with no authentication or pairing. Read More 9 Affected Products Elecbrakes EB2 &lt;=3.0.4.2.0 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update. Elecbrakes VM1 &lt;1.3.4.2.1 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update. Elecbrakes ELBC2000 vers:all/* Product Status: known_affected Remediations None availableThis device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller. Elecbrakes EB2 &lt;=3.0.4.2.0 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update. Elecbrakes ELBC2000 vers:all/* Product Status: known_affected Remediations None availableThis device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller. Elecbrakes VM1 &lt;1.3.4.2.1 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update. Elecbrakes ELBC2000 vers:all/* Product Status: known_affected Remediations None availableThis device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller. Elecbrakes EB2 &lt;=3.0.4.2.0 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update. Elecbrakes VM1 &lt;1.3.4.2.1 Product Status: known_affected Remediations Vendor fixElecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update. Additional Metrics Relevant CWE: CWE-306 Missing Authentication for Critical Function CVSS Version Base Score Base Severity Vector String 3.1 9.6 CRITICAL CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H 4.0 8.5 HIGH CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:H/SC:N/SI:H/SA:H/S:P View CVE Details Acknowledgments Patrick Forck and Jeremy McCarthy of Element Digital reported these vulnerabilities to CISA. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time. Revision History Initial Release Date: 2026-11-19 Date Revision Summary 2026-11-19 1 Initial Publication Legal Notice and Terms of Use"
@@ -597,10 +505,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#AISecurity",
         "#DefenseAI",
-        "#Governance",
-        "#AISecurity"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
       "details": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt &lt;=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt 1 Vulnerability Integer Underflow (Wrap or Wraparound) Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology, Transportation Systems, Water and Wastewater Countries/Areas Deployed: Worldwide Company Headquarters Location: China Vulnerabilities CVE-2026-125132 The affected product is vulnerable to an integer underflow which may allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. Read More 1 Affected Product libumqtt libumqtt &lt;=1.1.1 Product Status: known_affected Remediations None availableThe repository owners of libumqtt did not respond to CISA's request for coordination. Users are encouraged to reach out to libumqtt for support. Their GitHub page is located at https://github.com/zhaojh329/libumqtt. Additional Metrics Relevant CWE: CWE-191 Integer Underflow (Wrap or Wraparound) CVSS Version Base Score Base Severity Vector String 3.1 8.6 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H 4.0 8.8 HIGH CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments Joseph Devasia reported this vulnerability to CISA Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. Revision History Initial Release Date: 2026-11-19 Date Revision Summary 2026-11-19 1 Initial Publication Legal Notice and Terms of Use"
@@ -618,10 +526,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#AISecurity",
         "#DefenseAI",
-        "#Governance",
-        "#AISecurity"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
       "details": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime &lt;=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runtime 1 Vulnerability Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Transportation Systems, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-126088 In Autonomy Logic OpenPLC Runtime versions 4.2.4 and prior, a race condition allows multiple concurrent requests to pass the existence check before any user is committed, resulting in several unauthenticated admin accounts being created. Read More 1 Affected Product Autonomy Logic OpenPLC Runtime &lt;=4.2.4 Product Status: known_affected Remediations Vendor fixUpdate to OpenPLC Runtime version 4.3.0 or later. Additional Metrics Relevant CWE: CWE-362 Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H 4.0 9.2 CRITICAL CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments Noureddin Lutfi reported this vulnerability to CISA. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time. Revision History Initial Release Date: 2026-11-19 Date Revision Summary 2026-11-19 1 Initial Publication Legal Notice and Terms of Use"
@@ -639,10 +547,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#Fellowship",
         "#UnitedNations",
-        "#Governance",
-        "#AISecurity"
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotected Alternate Channel Vulnerability CVE-2026-90436 Apache Axis Unsafe Reflection Vulnerability CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp; While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp; Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
@@ -660,10 +568,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#AISecurity",
         "#DefenseAI",
-        "#Governance",
-        "#AISecurity"
+        "#UnitedNations",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
       "details": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version. The following versions of Siemens Simcenter Femap are affected: Simcenter Femap vers:intdot/&lt;2606.0002 (CVE-2026-64629) CVSS Vendor Equipment v3 7.8 Siemens Simcenter Femap 1 Vulnerability Out-of-bounds Read Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-64629 The affected applications contains an out of bounds read vulnerability while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. Read More 1 Affected Product Simcenter Femap &lt; V2606.0002 Product Status: known_affected Remediations Vendor fixUpdate to V2606.0002 or later version Additional Metrics Relevant CWE: CWE-125 Out-of-bounds Read CVSS Version Base Score Base Severity Vector String 3.1 7.8 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity Additional Resources For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories Terms of Use The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. Advisory Conversion Disclaimer This ICSA is a verbatim republication of Siemens ProductCERT SSA-105852 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-11-10 Date Revision Summary 2026-11-10 1 Publication Date 2026-11-17 2 Initial CISA Republication of Siemens ProductCERT SSA-105852 advisory Legal Notice and Terms of Use"
@@ -759,6 +667,24 @@
       "details": "From atoms and molecules to cells, understanding the building blocks of the natural world can lead to transformative technologies. NSF-supported researcher Torrey Rhyne-Carrigg discusses DNA initiators, using models for analysis, and her experience\u2026"
     },
     {
+      "id": "live-military-navy-will-likely-fly-ccas-sooner-than-f-",
+      "title": "Navy will likely fly CCAs sooner than F/A-XX, White House nom says",
+      "category": "military",
+      "date": "2026-11-20",
+      "impact": "MODERATE",
+      "company": "Defense One AI",
+      "tldr": "William Toti, who\u2019s been doing the job since May, is up for permanent appointment as Navy undersecretary.",
+      "specs": {
+        "source": "Defense One AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://www.defenseone.com/defense-systems/2026/11/navy-will-likely-fly-ccas-sooner-f-xx-white-house-nom-says/417365/",
+      "details": "William Toti, who\u2019s been doing the job since May, is up for permanent appointment as Navy undersecretary."
+    },
+    {
       "id": "live-military-white-house-fires-cyber-director-in-wake",
       "title": "White House fires cyber director in wake of outages, sources say",
       "category": "military",
@@ -831,25 +757,6 @@
       "details": "Two senators subsequently said they would place holds on the nominee, who also refused to acknowledge Biden's 2020 electoral victory."
     },
     {
-      "id": "live-military-defense-business-brief-vantor-s-raptor-h",
-      "title": "Defense Business Brief: Vantor\u2019s Raptor; Hadrian\u2019s foundry, and more",
-      "category": "military",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "Defense One AI",
-      "tldr": "",
-      "specs": {
-        "source": "Defense One AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#DefenseAI"
-      ],
-      "sourceUrl": "https://www.defenseone.com/business/2026/11/defense-business-brief-vantors-raptor-hadrians-foundry-and-more/417327/",
-      "details": "Live news development fetched from official RSS feed."
-    },
-    {
       "id": "live-governance-nist-project-aims-to-accelerate-mobile-d",
       "title": "NIST Project Aims to Accelerate Mobile Driver\u2019s License Adoption",
       "category": "governance",
@@ -898,8 +805,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
+        "#EUAIAct",
         "#Governance"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
@@ -936,11 +843,31 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
+    },
+    {
+      "id": "live-governance-european-digital-infrastructure-consorti",
+      "title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in educa",
+      "category": "governance",
+      "date": "2026-11-20",
+      "impact": "HIGH",
+      "company": "EU Digital Strategy",
+      "tldr": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education Anonymous (not verified) Fri, 11/20/2026 - 11:30 Today, the European Commis...",
+      "specs": {
+        "source": "EU Digital Strategy",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#EUAIAct",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
+      "details": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education Anonymous (not verified) Fri, 11/20/2026 - 11:30 Today, the European Commission and eight Member States are launching the European Digital Infrastructure Consortium on Education (EDU-EDIC) to pool resources and develop shared, secure and interoperable digital infrastructure and services for education. GettyImages \u00a9 anyaberkut The new consortium on education brings together Belgium, Croatia, Finland, France, Greece, Slovenia, Spain and the Netherlands, which will be hosting the EDIC. The initiative will strengthen Europe's technological resilience while making high-quality digital tools accessible to schools, teachers and learners. It will also help narrow the digital divide in education by supporting solutions that can be used across national education systems, regardless of their resources or technological capacity. Today's launch marks an important milestone in fostering innovation and excellence in education and contributing to the EU's technological sovereignty ambitions. Executive Vice-Presidents Henna Virkkunen and Roxana M\u00eenzatu, together with Judith Tielen, Minister for Primary and Secondary Education of the Netherlands, will welcome the launch. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, said: \u201cToday's launch of the European Digital Infrastructure Consortium on Education is an important step towards achieving Europe's technological sovereignty in one of our most sensitive and strategic sectors. Education shapes our future, and Europe must be able to rely on trusted, safe and interoperable digital solutions that reflect European values and principles. By working together with the Member States, we can build a resilient European digital education infrastructure that supports learners, educators and schools across the Union.\u201d Roxana M\u00eenzatu, Executive Vice-President for Social Rights and Skills, Quality Jobs and Preparedness, said: \u201cRecently, we officially launched the Education and Skills Package and announced the establishment of the EDU-EDIC consortium. Today, we are reiterating our commitment to reinforce education for Europe's future. Our priority is to ensure that education is ready for the AI era. We will work together with Member States to pool expertise in strategic areas such as cloud infrastructure, AI for education, secure data exchange across educational institutions, and Europe's education technology (EdTech) sector.\u201d You can also read more about other European Digital Infrastructure Consortium (EDIC). Related topics Creating a digital society Digital skills Europe's Digital Decade European Digital Infrastructure Consortium Technological sovereignty Related content News article20 November 2026Member States join forces to develop sovereign digital infrastructure on educationEight EU countries join forces to develop trusted, accessible digital education services and strengthen digital sovereignty."
     },
     {
       "id": "live-governance-commission-preliminarily-finds-temu-in-b",
@@ -955,9 +882,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#AISecurity",
+        "#EUAIAct",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
@@ -976,9 +903,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#AISecurity",
+        "#EUAIAct",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
@@ -997,8 +924,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
         "#EUAIAct",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
@@ -1017,61 +944,78 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#AISecurity",
+        "#EUAIAct",
+        "#UnitedNations",
         "#Governance"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/independent-study-impact-age-assurance-fundamental-rights-and-costs-businesses",
       "details": "Independent study on the impact of age assurance on fundamental rights and costs for businesses Anonymous (not verified) Wed, 11/04/2026 - 15:04 An independent study analyses the impacts of age assurance on fundamental rights and the costs for businesses concerned. Age assurance is key for a safer online environment as it ensures that children only access online services and features that are safe and age appropriate for them. Nowadays, 1 in 3 children, aged 9 to 11 across 6 European countries, reports having a social media profile. Very few services are implementing age assurance in a systematic way. To further strengthen the preparation of the proposed EU KIDS Act and the accompanying Staff Working Document, the European Commission procured a study to: Analyse the impact of age assurance on key fundamental rights, including data protection and privacy, non-discrimination, freedom of expression and access to information; Assess the potential financial impacts of age assurance on businesses, including micro and small enterprises. The study was carried out by an external contractor. It does not assess the proposed EU KIDS Act and the compliance by any specific service provider. The study's key insights are: Fundamental rights \u2013 an age assurance framework can be both proportionate and respectful of fundamental rights. Interferences with those rights can be mitigated through appropriate safeguards. In particular, the framework should ensure: Data protection and privacy \u2013 legislative coherence with the GDPR, high standards of privacy and security, and the development of technical standards; Non-discrimination, freedom of expression and access to information \u2013 minimising friction for users, ensuring transparency, promoting user empowerment where appropriate through greater choice, and ensuring inclusivity and accessibility. EU approach to age verification \u2013 the EU age verification blueprint can make an important contribution to the development of a coherent EU-level approach to age assurance. Specifically, the findings suggest that: the blueprint has the potential to become one of the most affordable ways for service providers of all sizes to comply with age assurance requirements because it is privacy-preserving and open by design and its development costs have been publicly subsidised; the roll-out of the blueprint across all Member States should be accelerated; the provision and resourcing of effective fallback enrollment routes \u2013 including manual enrolment options at national and local level \u2013 should be ensured. Costs for businesses \u2013 online services would inevitably face new costs. However, these costs are likely to remain modest for most services and to decrease over time, due to: competition in the third-party vendor market, the emergence of technical standards, improvements in interoperability, the availability of the EU age verification blueprint. For small and medium-sized enterprises (SMEs), the study suggests that it's unlikely to face excessive costs, thanks to affordable, ready-to-use age verification solutions and competition between providers. They will also benefit from having a common set of EU rules, rather than having to comply with different national requirements. Read the study and its executive summary and the questions &amp; answers on the proposed EU KIDS Act. Related topics Online platforms and e-commerce DSA - Digital Services Act"
     },
     {
-      "id": "live-governance-call-for-evidence-on-advertising-reposit",
-      "title": "Call for evidence on advertising repositories",
-      "category": "governance",
+      "id": "live-multilateral-shattered-playgrounds-and-freezing-class",
+      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine\u2019s deadliest year for children",
+      "category": "multilateral",
       "date": "2026-11-20",
       "impact": "MODERATE",
-      "company": "EU Digital Strategy",
-      "tldr": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is s...",
+      "company": "UN News AI",
+      "tldr": "Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children\u2019s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring anoth...",
       "specs": {
-        "source": "EU Digital Strategy",
+        "source": "UN News AI",
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+      "details": "Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children\u2019s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels."
+    },
+    {
+      "id": "live-multilateral-wfp-plans-to-assist-91-million-in-2027-a",
+      "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+      "category": "multilateral",
+      "date": "2026-11-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "The World Food Programme (WFP) will require $12.1 billion to assist 91 million people next year but warned that millions more will go hungry as funding shortfalls continue and anot...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+      "details": "The World Food Programme (WFP) will require $12.1 billion to assist 91 million people next year but warned that millions more will go hungry as funding shortfalls continue and another global food crisis looms.&nbsp;"
+    },
+    {
+      "id": "live-multilateral-cop31-countries-demand-stronger-climate-",
+      "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+      "category": "multilateral",
+      "date": "2026-11-20",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate ...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
         "#EUAIAct",
-        "#Governance"
-      ],
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
-      "details": "Call for evidence on advertising repositories Anonymous (not verified) Wed, 11/04/2026 - 11:10 &nbsp; Opening: 04 November 2026 &nbsp; Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence. The responses collected through the call for evidence will help shape guidelines aimed at ensuring that advertising repositories meet the needs of their users. Amongst other things, the guidelines will advise on: how to make advertising repositories easily searchable how to provide insights on how users are targeted and reached how to make the content of advertisements accessible Once adopted, these guidelines will aim to ensure that the advertising repositories provided by very large online platforms (VLOPs) and very large online search engines (VLOSEs) are effective and fit for purpose. Effective advertising repositories are essential tools for enabling greater public scrutiny of online advertising. Transparency in advertising \u2013 revealing who pays and how citizens are targeted \u2013 helps to protect public health, ensure a high level of consumer protection and safeguard the integrity of elections. Advertising repositories also support effective supervision and enforcement of the DSA. Next steps The call for evidence will be followed by a targeted public consultation in 2027. Researchers, civil society, providers of VLOPs and VLOSEs and representatives from the advertising industry will be invited to share feedback on a draft version of the guidelines. The publication of the guidelines is planned for the second quarter of 2028. Background Under Article 39 of the DSA, providers of VLOPs and VLOSEs are required to maintain publicly accessible repositories of advertisements displayed on their services. These repositories (commonly known as \u2018ad libraries\u2019) provide information on the content of advertisements, who paid for them, the period during which they were displayed, how many users the advertisements reached, and the main criteria used to decide who saw the advertisements. Article 39(3) of the DSA provides the possibility for the Commission to issue guidelines on the design of advertising repositories, following consultation with the European Board for Digital Services, researchers and the public. The guidelines will support the Commission\u2019s supervision and enforcement of VLOPs and VLOSEs\u2019 compliance with Article 39 of the DSA. Related topics Online platforms and e-commerce DSA - Digital Services Act Related content Press release04 November 2026Commission seeks feedback on advertising repositories under the Digital Services ActThe European Commission is calling for evidence to gather feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA)."
-    },
-    {
-      "id": "live-multilateral-cop31-ambition-goes-missing-as-fossil-fu",
-      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
-      "category": "multilateral",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away ...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
         "#UnitedNations",
         "#Governance"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168839",
-      "details": "A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+      "details": "A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activists warn the talks are headed for failure, and negotiators search for a deal that nearly 200 governments can accept.&nbsp;"
     },
     {
-      "id": "live-multilateral-no-government-approval-needed-to-form-or",
-      "title": "No government approval needed to form or join a group, UN rights committee says",
+      "id": "live-multilateral-afghanistan-restrictions-prevent-pregnan",
+      "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
       "category": "multilateral",
       "date": "2026-11-20",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "People do not need their government\u2019s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around ...",
+      "tldr": "Aid and development agencies in Afghanistan warned on Friday of an escalating \u201cassault\u201d on the rights and freedoms of women and girls that is preventing growing numbers from access...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -1079,17 +1023,17 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168837",
-      "details": "People do not need their government\u2019s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around the world."
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+      "details": "Aid and development agencies in Afghanistan warned on Friday of an escalating \u201cassault\u201d on the rights and freedoms of women and girls that is preventing growing numbers from accessing vital medical care.&nbsp;"
     },
     {
-      "id": "live-multilateral-world-s-top-court-finds-myanmar-guilty-o",
-      "title": "World\u2019s top court finds Myanmar guilty of genocide against Rohingya",
+      "id": "live-multilateral-battle-to-control-gps-and-radio-signals-",
+      "title": "Battle to control GPS and radio signals raises civilian safety concerns",
       "category": "multilateral",
       "date": "2026-11-20",
       "impact": "MODERATE",
       "company": "UN News AI",
-      "tldr": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v. Myanmar on the application of the Genoci...",
+      "tldr": "From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions. But th...",
       "specs": {
         "source": "UN News AI",
         "type": "Live RSS Feed"
@@ -1097,45 +1041,8 @@
       "tags": [
         "#UnitedNations"
       ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168836",
-      "details": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v. Myanmar on the application of the Genocide Convention, finding Myanmar responsible for the crime against the country\u2019s ethnic Rohingya, the first such ruling against a State.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-cop31-deadlock-persists-as-countries-lau",
-      "title": "COP31 deadlock persists as countries launch new \u2018climate reality check\u2019",
-      "category": "multilateral",
-      "date": "2026-11-20",
-      "impact": "HIGH",
-      "company": "UN News AI",
-      "tldr": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocke...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168833",
-      "details": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit\u2019s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called \u201cjust\u201d if poorer countries cannot afford it."
-    },
-    {
-      "id": "live-multilateral-patients-running-out-of-options-as-antib",
-      "title": "Patients running out of options as antibiotics stop working against common infections",
-      "category": "multilateral",
-      "date": "2026-11-20",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "Common bacteria are becoming highly resistant to front-line and even \u201clast-resort\u201d antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#Governance"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168832",
-      "details": "Common bacteria are becoming highly resistant to front-line and even \u201clast-resort\u201d antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation today is worse than it was in 2019.&nbsp;"
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168843",
+      "details": "From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions. But these signals are increasingly being blocked or faked \u2013 and civilians are paying the price."
     }
   ]
 }
