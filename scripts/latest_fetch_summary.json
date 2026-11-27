@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-27T13:33:18.974494",
-  "fetched_count": 60,
+  "timestamp": "2026-11-27T23:56:04.920056",
+  "fetched_count": 55,
   "nodes": [
     {
       "id": "live-overall-the-download-innovators-under-35-nominat",
@@ -146,8 +146,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#AgenticAI",
-        "#Governance"
+        "#Governance",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.33165",
       "details": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that connect a result to a formal library. Existing evaluations often provide isolated theorem statements in settings where much of this supporting theory is already available in Mathlib. We introduce AutoformBench, a benchmark of 341 Lean 4 formalization tasks drawn from 24 advanced mathematical sources. Lean-experienced mathematicians formalized and audited each target statement, leaving the corresponding Lean proof to the evaluated agent. Each problem is embedded in a broader mathematical development: agents receive the informal proof but must translate it into Lean while constructing the missing definitions, intermediate lemmas, and supporting infrastructure. We compare the performance of frontier models on these problems. We find a largely shared difficulty frontier: success depends less on mathematical domain than on models' ability to construct missing formal infrastructure. Data and code at https://github.com/facebookresearch/autoformbench"
@@ -165,9 +165,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#Perplexity",
         "#UnitedNations",
-        "#Governance",
-        "#Perplexity"
+        "#Governance"
       ],
       "sourceUrl": "https://arxiv.org/abs/2611.33190",
       "details": "arXiv:2611.33190v1 Announce Type: new Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost. We investigate whether general-purpose decision models can guide tuning, using Jev as a deployed representative that returns structured choices and numeric scores across diverse tasks. To assess where it helps, we compare its use as an optimizer, performance predictor, and region guider against conventional methods and a large language model (LLM) on eight AI tuning tasks. Conventional optimizers attain rank 1 in six of eight comparisons. Similarly, established predictors outperform Jev in seven. Through region guidance, however, it finds configurations with lower perplexity than those selected by the native tuner, offering a quality gain when additional decision time and API fees are acceptable. These findings yield actionable recommendations on selecting the decision role, retaining conventional predictors, and balancing tuning quality against cost."
@@ -283,96 +283,6 @@
       "details": "Live news development fetched from official RSS feed."
     },
     {
-      "id": "live-agentic_ai-the-state-of-agentic-ai-shit-with-good-f",
-      "title": "The State of Agentic AI: Shit with Good Formatting",
-      "category": "agentic_ai",
-      "date": "2026-11-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://github.com/kbr-/shit-with-good-formatting Comments URL: https://news.ycombinator.com/item?id=50650338 Points: 1 # Comments: 2",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://github.com/kbr-/shit-with-good-formatting",
-      "details": "Article URL: https://github.com/kbr-/shit-with-good-formatting Comments URL: https://news.ycombinator.com/item?id=50650338 Points: 1 # Comments: 2"
-    },
-    {
-      "id": "live-agentic_ai-using-agentic-ai-to-create-the-next-gene",
-      "title": "Using Agentic AI to create the next generation of non-Java Kafka clients",
-      "category": "agentic_ai",
-      "date": "2026-11-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/ Comments URL: https://news.ycombinator.com/item?id=50640178 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/",
-      "details": "Article URL: https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/ Comments URL: https://news.ycombinator.com/item?id=50640178 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-using-agentic-ai-to-create-the-next-gene",
-      "title": "Using Agentic AI to create the next generation of non-Java Kafka clients",
-      "category": "agentic_ai",
-      "date": "2026-11-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/ Comments URL: https://news.ycombinator.com/item?id=50631576 Points: 1 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/",
-      "details": "Article URL: https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/ Comments URL: https://news.ycombinator.com/item?id=50631576 Points: 1 # Comments: 0"
-    },
-    {
-      "id": "live-agentic_ai-gartner-40-of-agentic-ai-projects-will-b",
-      "title": "Gartner: 40% of agentic AI projects will be canceled by the end of 2027",
-      "category": "agentic_ai",
-      "date": "2026-11-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://www.gartner.com/en/articles/ai-agent-reality-check Comments URL: https://news.ycombinator.com/item?id=50608855 Points: 4 # Comments: 2",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://www.gartner.com/en/articles/ai-agent-reality-check",
-      "details": "Article URL: https://www.gartner.com/en/articles/ai-agent-reality-check Comments URL: https://news.ycombinator.com/item?id=50608855 Points: 4 # Comments: 2"
-    },
-    {
-      "id": "live-agentic_ai-the-ai-repo-man-exploiting-agentic-ai-de",
-      "title": "The AI Repo Man: Exploiting Agentic AI Debt Collection Platforms",
-      "category": "agentic_ai",
-      "date": "2026-11-27",
-      "impact": "MODERATE",
-      "company": "HackerNews Agentic AI",
-      "tldr": "Article URL: https://eaton-works.com/2026/11/18/credit-nirvana-hack/ Comments URL: https://news.ycombinator.com/item?id=50550691 Points: 6 # Comments: 0",
-      "specs": {
-        "source": "HackerNews Agentic AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#AgenticAI"
-      ],
-      "sourceUrl": "https://eaton-works.com/2026/11/18/credit-nirvana-hack/",
-      "details": "Article URL: https://eaton-works.com/2026/11/18/credit-nirvana-hack/ Comments URL: https://news.ycombinator.com/item?id=50550691 Points: 6 # Comments: 0"
-    },
-    {
       "id": "live-models-gpt-6-models-demonstrate-intrinsic-prote",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "category": "models",
@@ -386,8 +296,8 @@
       },
       "tags": [
         "#UnitedNations",
-        "#OpenAI",
-        "#Reasoning"
+        "#Reasoning",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "details": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
@@ -405,8 +315,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
-        "#OpenAI"
+        "#OpenAI",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
       "details": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA\u2019s Kepler and TESS space telescopes."
@@ -424,8 +334,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Governance"
+        "#Governance",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/business/customer-stories/intentful-dots",
       "details": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
@@ -443,8 +353,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#AgenticAI",
-        "#OpenAI"
+        "#OpenAI",
+        "#AgenticAI"
       ],
       "sourceUrl": "https://openai.com/business/customer-stories/ifood",
       "details": "Live news development fetched from official RSS feed."
@@ -462,8 +372,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#OpenAI",
-        "#Reasoning"
+        "#Reasoning",
+        "#OpenAI"
       ],
       "sourceUrl": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "details": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
@@ -481,8 +391,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
       "details": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own [\u2026]"
@@ -518,8 +428,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
       "details": "NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board."
@@ -537,8 +447,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#UnitedNations"
+        "#UnitedNations",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
       "details": "NVIDIA will present at the following event for the financial community"
@@ -556,11 +466,32 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#NVIDIA",
-        "#Microsoft"
+        "#Microsoft",
+        "#NVIDIA"
       ],
       "sourceUrl": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
       "details": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications \u2014 from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to [\u2026]"
+    },
+    {
+      "id": "live-security-cisa-adds-three-known-exploited-vulnerab",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "category": "security",
+      "date": "2026-11-27",
+      "impact": "HIGH",
+      "company": "CISA Cybersecurity",
+      "tldr": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injecti...",
+      "specs": {
+        "source": "CISA Cybersecurity",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#AISecurity",
+        "#UnitedNations",
+        "#Fellowship",
+        "#Governance"
+      ],
+      "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "details": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo GeoServer Incorrect Authorization Vulnerability&nbsp; CVE-2026-136716 Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability&nbsp; These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
     },
     {
       "id": "live-security-cisa-adds-10-known-exploited-vulnerabili",
@@ -575,10 +506,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations",
         "#AISecurity",
-        "#Fellowship"
+        "#UnitedNations",
+        "#Fellowship",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability&nbsp; CVE-2025-41450 Danfoss AK-SM 800A Series Improper Authentication Vulnerability&nbsp; CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability&nbsp; CVE-2026-133275 Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability&nbsp; CVE-2026-133303 Mitel MiCollab XML Injection Vulnerability&nbsp; CVE-2026-133311 Mitel MiCollab Weak Authentication Vulnerability&nbsp; CVE-2026-133323 Mitel MiCollab OS Command Injection Vulnerability&nbsp; CVE-2026-133324 Mitel MiCollab Not Failing Securely Vulnerability&nbsp; CVE-2026-133469 Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability&nbsp; These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;"
@@ -596,10 +527,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI",
         "#AISecurity",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
       "details": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming Software are affected: C-More EA9 Programming Software &lt;=V6.80 (CVE-2026-127280) CVSS Vendor Equipment v3 7.8 AutomationDirect C-More EA9 Programming Software 1 Vulnerability Heap-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-127280 C-More EA9 Programming Software V6.80 does not adequately validate data read from a project file before using it in heap memory operations. A crafted file causes a heap buffer overrun during file open, resulting in heap corruption and instability within the application. An attacker can exploit this vulnerability by convincing a user to open a malicious project file delivered through common distribution channels such as email, file sharing, or removable media. Read More 1 Affected Product AutomationDirect C-More EA9 Programming Software &lt;=V6.80 Product Status: known_affected Remediations Vendor fixUpdate C-More EA9 Programming Software to V6.81: https://www.automationdirect.com/support/software-downloads MitigationIf you cannot update to the latest software or firmware version right away, apply the following compensating controls to reduce risk until the update can be performed. These measures are temporary and do not replace the update, which remains the primary and recommended remediation. Apply these controls as appropriate based on the vulnerability, assessed risk, operational requirements, and characteristics of your environment. Implement changes under your established management-of-change process. Before implementing isolation, access-control, or network-configuration changes, evaluate potential impacts to safety, availability, and essential operational functions. \u2022 Isolate affected engineering workstations and OT systems from external and nonessential networks, including the internet and corporate IT networks, where operationally feasible. \u2022 Disable or tightly restrict vendor, contractor, and other remote access to the affected OT environment until the vulnerability can be remediated. Where remote access is operationally required, use a hardened jump host, enforce multi-factor authentication, apply least-privilege access, and limit access to authorized, time-bound sessions. \u2022 Use trusted, dedicated OT networks for device communication. Where practicable and appropriate to the assessed risk, use dedicated or physically separated infrastructure for higher-criticality systems. Where logical segmentation is used, ensure segmentation controls are appropriately configured, secured, and monitored. \u2022 Restrict both physical and logical access to affected systems to authorized personnel only. Apply least-privilege principles to administrative, engineering, maintenance, and service access. \u2022 Configure application allowlisting, where supported, so that only trusted and pre-approved applications are permitted to execute. Block unauthorized software. \u2022 Use appropriate antivirus or endpoint detection and response (EDR) tools where supported and compatible with the affected system. Configure host-based and network firewalls to permit only required communications. \u2022 Disable unnecessary services, ports, protocols, and communication pathways associated with the affected systems. Where a service or protocol cannot be disabled for operational reasons, restrict access to trusted systems and authorized users wherever possible. \u2022 Enable and regularly review available system, security, and network logs to identify suspicious or unauthorized activity. Where appropriate, monitor communications to and from affected systems for unexpected connections or changes in network behavior. \u2022 Maintain secure, tested, and preferably offline backups of PLC programs, device configurations, engineering workstation configurations, and other information necessary to restore operations. Periodically verify that backups can be successfully restored. \u2022 Verify that critical OT functions can continue operating without unnecessary dependencies on external networks, cloud services, remote-access services, corporate IT services, or other nonessential systems. \u2022 If removable media is required to transfer files into an isolated or restricted environment, use controlled and trusted media and scan it for malicious content before use. \u2022 Continuously evaluate the risks associated with operating vulnerable or outdated firmware or software. Adjust compensating controls as the threat environment, operational requirements, or available vulnerability information changes. These compensating controls are intended to reduce exposure while remediation is pending. Organizations should prioritize applying the vendor-provided update as soon as it can be safely tested and deployed within the operational environment. Additional Metrics Relevant CWE: CWE-122 Heap-based Buffer Overflow CVSS Version Base Score Base Severity Vector String 3.1 7.8 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H 4.0 8.4 HIGH CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments rgod of TrendAI Zero Day Initiative reported this vulnerability to CISA. &nbsp; Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time. Revision History Initial Release Date: 2026-11-24 Date Revision Summary 2026-11-24 1 Initial Publication Legal Notice and Terms of Use"
@@ -617,10 +548,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#Governance",
-        "#UnitedNations",
         "#AISecurity",
-        "#Fellowship"
+        "#UnitedNations",
+        "#Fellowship",
+        "#Governance"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "details": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability&nbsp; CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability&nbsp; CVE-2026-132224 Optimizely Web Experimentation External Control of Critical State Data Vulnerability&nbsp; These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA\u2019s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria. Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA\u2019s KEV Nomination Form. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance."
@@ -638,34 +569,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#DefenseAI",
         "#AISecurity",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#DefenseAI"
       ],
       "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
       "details": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure\u2122 Power Build Rapsody product. The EcoStruxure\u2122 Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting components. Failure to apply the remediations provided below may risk memory corruption, heap-based buffer overflow, and/or stack-based buffer overflow, which could result in local attackers being able to exploit these issues to potentially execute arbitrary code. The following versions of Schneider Electric EcoStruxure Power Build Rapsody software are affected: EcoStruxure Power Build Rapsody software vers:generic/&lt;=2.9.1.0_FR, 2.9.12.0101_FR, vers:generic/&lt;=2.8.5.0301_ESP, 2.9.5.0000_ESP, vers:generic/&lt;=2.8.7.0101_PT, 2.9.7.0000_PT, vers:generic/&lt;=2.8.8.0201_BEL(FR), 2.9.8.0000_BELFR, vers:generic/&lt;=2.8.3.0201_BEL(EN), 2.9.3.0000_BELEN, vers:generic/&lt;=2.8.4.0401_INT(EN), 2.9.4.0000_INTEN, vers:generic/&lt;=2.8.6.0000_INT(FR), 2.9.6.0000_INTFR, vers:generic/&lt;=2.8.2.0000_NL, 2.9.6.0000_NL (CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055) CVSS Vendor Equipment v3 5.3 Schneider Electric EcoStruxure Power Build Rapsody software 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Energy, Critical Manufacturing, Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: France Vulnerabilities CVE-2026-119055 A CWE- 416: Use After Free vulnerability exists that could cause arbitrary code execution when a local attacker could trick the end user to open a specially crafted malicious SSD file. Read More 8 Affected Products EcoStruxure Power Build Rapsody software Versions FR 2.9.1.0 and prior Product Status: fixed, known_affected Remediations Vendor fixVersions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure\u2122 Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309 EcoStruxure Power Build Rapsody software Versions ESP 2.8.5.0301 and prior Product Status: fixed, known_affected Remediations Vendor fixVersions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure\u2122 Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309 EcoStruxure Power Build Rapsody software Versions PT 2.8.7.0101 and prior Product Status: fixed, known_affected Remediations Vendor fixVersions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure\u2122 Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309 EcoStruxure Power Build Rapsody software Versions BEL(FR) 2.8.8.0201 and prior Product Status: fixed, known_affected Remediations Vendor fixVersions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure\u2122 Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309 EcoStruxure Power Build Rapsody software Versions BEL(EN) 2.8.3.0201 and prior Product Status: fixed, known_affected Remediations Vendor fixVersions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure\u2122 Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309 EcoStruxure Power Build Rapsody software Versions INT(EN) 2.8.4.0401 and prior Product Status: fixed, known_affected Remediations Vendor fixVersions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure\u2122 Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309 EcoStruxure Power Build Rapsody software Versions INT(FR) 2.8.6.0000 and prior Product Status: fixed, known_affected Remediations Vendor fixVersions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure\u2122 Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309 EcoStruxure Power Build Rapsody software Versions NL 2.8.2.0000 and prior Product Status: fixed, known_affected Remediations Vendor fixVersions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure\u2122 Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309 Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 5.3 MEDIUM CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L View CVE Details Acknowledgments Schneider Electric CPCERT reported this vulnerability to CISA. &nbsp; Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. &nbsp; Advisory Conversion Disclaimer This ICSA is a verbatim republication of Schneider Electric CPCERT SEVD-2026-314-01 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Schneider Electric CPCERT directly for any questions regarding this advisory. Revision History Initial Release Date: 2026-11-10 Date Revision Summary 2026-11-10 1 Original Release 2026-11-24 2 Initial CISA Republication of Schneider Electric CPCERT SEVD-2026-314-01 advisory Legal Notice and Terms of Use"
-    },
-    {
-      "id": "live-security-danfoss-ak-sm-8xxa-series",
-      "title": "Danfoss AK-SM 8xxA Series",
-      "category": "security",
-      "date": "2026-11-27",
-      "impact": "MODERATE",
-      "company": "CISA Cybersecurity",
-      "tldr": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM...",
-      "specs": {
-        "source": "CISA Cybersecurity",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations",
-        "#DefenseAI",
-        "#AISecurity",
-        "#Governance"
-      ],
-      "sourceUrl": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
-      "details": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt;=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Denmark Vulnerabilities CVE-2026-129713 A stack-based buffer overflow in an unauthenticated CGI handler of the Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially crafted HTTP/S POST requests, leading to memory corruption, webserver restart and hypothetically potential arbitrary code execution with webserver privileges. Authentication is not required to exploit this vulnerability. Read More 1 Affected Product Danfoss AK-SM8xxA &lt;=5.4.0 Product Status: known_affected Remediations MitigationThis vulnerability will be addressed in an upcoming Danfoss AK-SM 800A Series software release (version 5.5.x). In addition, Danfoss will remove the ability for users to disable Strict Mode in future software releases. MitigationUntil a software update is available, Danfoss recommends the following mitigations: * Follow the guidance provided in the product documentation and do not expose devices directly to the Internet or assign them public IP addresses. * Restrict remote access to affected devices by using a secure VPN or other protected network architecture. * Configure all affected devices to operate in Strict Mode, which provides enhanced security protections. * Use strong, unique passwords for all user accounts and administrative access. * For additional security recommendations and best practices see the Danfoss AK-SM 800 security guidance page: https://www.danfoss.com/en/service-and-support/downloads/dcs/adap-kool-software/ak-sm-800a/#tab-overview Additional Metrics Relevant CWE: CWE-121 Stack-based Buffer Overflow CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H 4.0 9.3 CRITICAL CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments Carlo Meijer of Midnight Blue reported CVE-2026-129713 to CISA. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time. Revision History Initial Release Date: 2026-11-24 Date Revision Summary 2026-11-24 1 Initial Publication Legal Notice and Terms of Use"
     },
     {
       "id": "live-fellowships-podcast-helping-doctors-save-lives-befor",
@@ -900,9 +810,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance"
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
       "details": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses."
@@ -938,8 +848,8 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#AISecurity"
+        "#AISecurity",
+        "#UnitedNations"
       ],
       "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
       "details": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed."
@@ -957,13 +867,13 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial",
-      "details": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security Anonymous (not verified) Wed, 11/25/2026 - 08:52 The European Commission today proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services, strengthen supply chains and prepare Europe's digital systems for post-quantum cryptography. GettyImages \u00a9 AliseFox The proposal also lays the groundwork for the Sovereign Tech Equity Fund (STEF). The impact of quantum technologies will be profound, from navigation without satellites and faster drug discovery to ultra-advanced batteries and next-generation secure communications. Quantum technologies are moving from laboratories to products and services. The Quantum Act has three main pillars: research excellence, bringing quantum technology into use, and keeping systems and supplies secure. These will be delivered through the Quantum Europe Framework Initiative, which will bring together EU and national programmes around shared priorities for research and industry. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, said: \"Quantum technologies will shape the future of industry, security and innovation, and they will have a profound impact on our societies. Europe needs to accelerate now. With the Quantum Act, we are putting in place the key elements to turn our world-class quantum research into industrial capacity, strengthen critical supply chains and prepare for the cyber risks linked to quantum computing. Europe has already built strong foundations in quantum; now we must turn them into industrial scale, resilient supply chains and secure deployment.\" Read the full details in the press release Find out more information The Quantum Act Legislation - Proposal for a Quantum Act Frequently Asked Questions - The Quantum Act explained Factsheet - Quantum Act Related topics Advanced computing Quantum computing Technological sovereignty Related content Policy and legislation25 November 2026Proposal for a Quantum ActThe Quantum Act proposal, announced in the Quantum Europe Strategy adopted in July 2025, aims to help Europe become a global leader in quantum technologies by 2030 by turning its quantum research into industrial leadership, market uptake and resilient supply chains."
+      "details": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security Anonymous (not verified) Wed, 11/25/2026 - 08:52 The European Commission has proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services, strengthen supply chains and prepare Europe's digital systems for post-quantum cryptography. GettyImages \u00a9 AliseFox The proposal also lays the groundwork for the Sovereign Tech Equity Fund (STEF). The impact of quantum technologies will be profound, from navigation without satellites and faster drug discovery to ultra-advanced batteries and next-generation secure communications. Quantum technologies are moving from laboratories to products and services. The Quantum Act has three main pillars: research excellence, bringing quantum technology into use, and keeping systems and supplies secure. These will be delivered through the Quantum Europe Framework Initiative, which will bring together EU and national programmes around shared priorities for research and industry. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, said: \"Quantum technologies will shape the future of industry, security and innovation, and they will have a profound impact on our societies. Europe needs to accelerate now. With the Quantum Act, we are putting in place the key elements to turn our world-class quantum research into industrial capacity, strengthen critical supply chains and prepare for the cyber risks linked to quantum computing. Europe has already built strong foundations in quantum; now we must turn them into industrial scale, resilient supply chains and secure deployment.\" Read the full details in the press release Find out more information The Quantum Act Legislation - Proposal for a Quantum Act Frequently Asked Questions - The Quantum Act explained Factsheet - Quantum Act Related topics Advanced computing Quantum computing Technological sovereignty Related content Policy and legislation25 November 2026Proposal for a Quantum ActThe Quantum Act proposal, announced in the Quantum Europe Strategy adopted in July 2025, aims to help Europe become a global leader in quantum technologies by 2030 by turning its quantum research into industrial leadership, market uptake and resilient supply chains."
     },
     {
       "id": "live-governance-european-digital-infrastructure-consorti",
@@ -978,9 +888,9 @@
         "type": "Live RSS Feed"
       },
       "tags": [
+        "#AISecurity",
         "#UnitedNations",
-        "#EUAIAct",
-        "#AISecurity"
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
       "details": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education Anonymous (not verified) Fri, 11/20/2026 - 11:30 Today, the European Commission and eight Member States are launching the European Digital Infrastructure Consortium on Education (EDU-EDIC) to pool resources and develop shared, secure and interoperable digital infrastructure and services for education. GettyImages \u00a9 anyaberkut The new consortium on education brings together Belgium, Croatia, Finland, France, Greece, Slovenia, Spain and the Netherlands, which will be hosting the EDIC. The initiative will strengthen Europe's technological resilience while making high-quality digital tools accessible to schools, teachers and learners. It will also help narrow the digital divide in education by supporting solutions that can be used across national education systems, regardless of their resources or technological capacity. Today's launch marks an important milestone in fostering innovation and excellence in education and contributing to the EU's technological sovereignty ambitions. Executive Vice-Presidents Henna Virkkunen and Roxana M\u00eenzatu, together with Judith Tielen, Minister for Primary and Secondary Education of the Netherlands, will welcome the launch. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, said: \u201cToday's launch of the European Digital Infrastructure Consortium on Education is an important step towards achieving Europe's technological sovereignty in one of our most sensitive and strategic sectors. Education shapes our future, and Europe must be able to rely on trusted, safe and interoperable digital solutions that reflect European values and principles. By working together with the Member States, we can build a resilient European digital education infrastructure that supports learners, educators and schools across the Union.\u201d Roxana M\u00eenzatu, Executive Vice-President for Social Rights and Skills, Quality Jobs and Preparedness, said: \u201cRecently, we officially launched the Education and Skills Package and announced the establishment of the EDU-EDIC consortium. Today, we are reiterating our commitment to reinforce education for Europe's future. Our priority is to ensure that education is ready for the AI era. We will work together with Member States to pool expertise in strategic areas such as cloud infrastructure, AI for education, secure data exchange across educational institutions, and Europe's education technology (EdTech) sector.\u201d You can also read more about other European Digital Infrastructure Consortium (EDIC). Related topics Creating a digital society Digital skills Europe's Digital Decade European Digital Infrastructure Consortium Technological sovereignty Related content News article20 November 2026Member States join forces to develop sovereign digital infrastructure on educationEight EU countries join forces to develop trusted, accessible digital education services and strengthen digital sovereignty."
@@ -998,10 +908,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
       "details": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products Anonymous (not verified) Tue, 11/17/2026 - 11:11 The European Commission preliminarily found Temu in breach of the Digital Services Act (DSA) obligation to put in place reasonable, proportionate and effective measures to mitigate the risk of illegal products being offered on its platform. The Commission preliminarily found that Temu's mitigation measures include ineffective controls to check the compliance of products; a weak content moderation system; and an ineffective sanction system. Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy, said: Shopping online should not mean risking the purchase of illegal and unsafe products. Under the Digital Services Act, platforms are responsible for protecting users from the risk of illegal content and goods. The preliminary findings against Temu mark another step towards making the online world safer.&nbsp; Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
@@ -1019,10 +929,10 @@
         "type": "Live RSS Feed"
       },
       "tags": [
-        "#UnitedNations",
-        "#EUAIAct",
         "#AISecurity",
-        "#Governance"
+        "#UnitedNations",
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
       "details": "Commission hosts Apply AI Summit to boost Europe\u2019s AI innovation and uptake Anonymous (not verified) Mon, 11/16/2026 - 13:43 Nearly 1,000 high-level policymakers, start-ups, industry leaders and researchers will take part in the Apply AI Summit in Brussels tomorrow. They will discuss how artificial intelligence (AI) can boost Europe\u2019s competitiveness across 10 strategic sectors and the public sector. The summit will also showcase concrete AI applications, European success stories and innovative projects.&nbsp; Henna Virkkunen, Executive Vice-President for Technological Sovereignty, Security and Democracy, will host the summit and present the first Apply AI Startup Award to three European start-ups. The award recognises innovative European startups and scaleups developing AI solutions in the strategic sectors. Alongside the in-person event, an online conference platform will run from 16 to 20 November, allowing additional 2,500 participants to join part of the summit. The Apply AI Summit marks one year since the adoption of the Apply AI Strategy, which sets out how to speed up the use of AI in Europe\u2019s key industries and the public sector. It concludes the first European AI Innovation Month, running from 14 October to 17 November 2026, organised by the European Commission in partnership with the Irish Presidency of the Council of the European Union. More on the Apply AI Summit Related topics Artificial intelligence Apply AI Summit Related content News article16 November 2026Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI ActThe Commission is collecting feedback on the draft template for a questionnaire to facilitate certain deployers of high-risk AI system in complying with their obligations to prepare a fundamental rights impact assessment under Article 27 AI Act. News article17 November 2026Call for Expression of Interest for European AI providersThe European Commission\u2019s AI Office launched a call for expression of interest for European AI providers to present AI solutions to the network of European Digital Innovation Hubs (EDIHs)."
@@ -1041,11 +951,30 @@
       },
       "tags": [
         "#UnitedNations",
-        "#EUAIAct",
-        "#Governance"
+        "#Governance",
+        "#EUAIAct"
       ],
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
       "details": "Commission preliminarily finds TikTok\u2019s \u2018For You\u2019 feed in breach of Digital Services Act for harmful \u2018rabbit holes\u2019 effect Anonymous (not verified) Fri, 11/06/2026 - 12:09 The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called \u2018rabbit hole effect\u2019 of its recommender system. TikTok's \u2018For You' feed shows users a continuous stream of personalised videos, even when those are related to mental health struggles and body image. The more a user interacts with a certain type of content, the more TikTok's \u2018For You' feed algorithm recommends similar content. This design can be harmful when such endless and repeated exposure involves, for example, content about sadness, isolation or body image. These \u2018rabbit holes' can have a detrimental impact on users' mental health, especially that of vulnerable adults and minors. These preliminary findings focus on both risk assessment and mitigation measures. Read the full details in the press release Find further information about: Supervision of the designated very large online platforms and search engines under DSA Digital Services Act - main aspects of the regulation User rights under the Digital Services Act - an overview Related topics Online platforms and e-commerce DSA - Digital Services Act"
+    },
+    {
+      "id": "live-multilateral-16-days-of-activism-unhcr-warns-over-dee",
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "category": "multilateral",
+      "date": "2026-11-27",
+      "impact": "MODERATE",
+      "company": "UN News AI",
+      "tldr": "Serious funding cuts are severely weakening protection for refugee and stateless women and girls and others at risk of gender-based violence (GBV), like Mariam, who survived a deca...",
+      "specs": {
+        "source": "UN News AI",
+        "type": "Live RSS Feed"
+      },
+      "tags": [
+        "#UnitedNations",
+        "#Governance"
+      ],
+      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "details": "Serious funding cuts are severely weakening protection for refugee and stateless women and girls and others at risk of gender-based violence (GBV), like Mariam, who survived a decade of captivity and rape at the hands of Boko Haram militia.&nbsp;"
     },
     {
       "id": "live-multilateral-putting-survivors-at-the-centre-of-gende",
@@ -1119,24 +1048,6 @@
       ],
       "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168883",
       "details": "United Nations peacekeepers in the Democratic Republic of the Congo (DRC) have stepped up efforts to protect civilians in&nbsp;Ebola-hit&nbsp;Ituri province following renewed armed clashes in Djugu territory.&nbsp;"
-    },
-    {
-      "id": "live-multilateral-t-rk-warns-of-widening-risk-of-atrocity-",
-      "title": "T\u00fcrk warns of widening risk of atrocity crimes against Palestinians",
-      "category": "multilateral",
-      "date": "2026-11-27",
-      "impact": "MODERATE",
-      "company": "UN News AI",
-      "tldr": "UN human rights chief Volker T\u00fcrk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in rec...",
-      "specs": {
-        "source": "UN News AI",
-        "type": "Live RSS Feed"
-      },
-      "tags": [
-        "#UnitedNations"
-      ],
-      "sourceUrl": "https://news.un.org/feed/view/en/story/2026/11/1168879",
-      "details": "UN human rights chief Volker T\u00fcrk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears."
     }
   ]
 }
